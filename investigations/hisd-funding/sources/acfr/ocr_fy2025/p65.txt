@@ -1,0 +1,47 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+For the current fiscal year, the Board of Education set a tax rate of $0.8683 per $100 of assessed
+valuation. The maintenance and debt service portions of such rate are $0.7016 and $0.1667
+respectively. The 2024 tax year assessed valuation was $233,190,075,832 which resulted in a
+gross tax levy of $2,024,789,682 for the current fiscal year. After deductions of all exemptions
+and reductions provided by law and those granted by the District, the 2024 tax year levy was
+$1,959,305,399 as of June 30, 2025.
+Property taxes which are measurable (quantifiable) and available (collectible within the current
+period or soon enough thereafter to finance expenditures of the current period, which the District
+has estimated to be collected in the two months after the fiscal year end) are recognized as
+revenue in the year of levy in the governmental fund financial statements. Property taxes, which are
+measurable but not available, are recorded net of estimated uncollectible amounts, as unavailable
+revenues in the year of the levy in the governmental financial statements. Such unavailable
+revenues are recognized in the fund financial statements as revenue in the fiscal year in which they
+become available. In the government-wide financial statements, property taxes are recognized
+as revenues in the year for which the taxes are levied. Uncollectible property taxes in the current
+period increased the allowance for uncollectible property taxes in the government-wide and fund
+financial statements by $5,299,956.
+Delinquent taxes receivable and the related allowance for uncollectible taxes in the governmental
+fund financial statements as of June 30, 2025 are as follows:
+Delinquent Taxes              Allowance for            Delinquent Taxes
+Receivables, Gross       Uncollectible Taxes       Receivable, Net
+General Fund         $            129,099,483 §$            66,307,326 $           62,792,157
+Debt Service Fund ~~ 26915605 15754605 11,161,000
+Total                  $            156,015,088 $            82,061,931 $           73,953,157
+STATE AID REVENUE
+The Texas Education Agency, through its application of state law, allocates state revenues to
+school districts by formula allocation. The District receives two allocations: a per capita allocation
+and a foundation program allocation. The District also recognizes revenues for the state’s share
+of the contributions to the Teacher Retirement System of Texas (TRS). See Note 12 for additional
+information on the employees’ retirement plan. Other state revenues are received through other
+state miscellaneous programs on an allocated basis. The components of state aid as shown in the
+governmental fund financial statements are as follows:
+Special          Debt
+General          Revenue       Service
+Revenues                    Fund             Fund           Fund            Total
+Per Capita Revenues              $ 101,406,956 $      -       $       -        $ 101,406,956
+Foundation Fund Revenues                56,544,571              -                 -                 56,544,571
+Other State                                          515,565          56,441,338        16,441,842            73,398,745
+TRS On-Behalf                                113,672,854                -                    -                  113,672,854
+Total State Revenues      $ 272,139,946    $ 56,441,338 $ 16,441,842 $    345,023,126
+- 55 -
+Back to Top

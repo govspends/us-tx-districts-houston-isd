@@ -1,0 +1,584 @@
+    HOUSTON INDEPENDENT
+      SCHOOL DISTRICT
+
+      An Internal Audit of:
+
+  ELEMENTARY AND SECONDARY
+SCHOOL EMERGENCY RELIEF (ESSER)
+        II AND III FUNDS
+
+
+          May 7, 2024
+                                                                                                       Houston Office
+                                                                                                       3737 Buffalo Speedway
+                                                                                                       Suite 1600
+                                                                                                       Houston, Texas 77098
+                                                                                                       713.621.1515 Main
+
+                                                                                                       whitleypenn.com
+
+
+
+
+May 7, 2024
+
+Ms. Teresa Corrigan, Sr. Executive Director/
+   Ethics and Compliance
+Houston Independent School District
+4400 West 18th Street
+Houston, TX 77092
+
+We have completed the Elementary and Secondary School Emergency Relief (ESSER) II and III Funds audit for
+Houston Independent School District (the “District”) for expenditures for the year ended June 30, 2022. We assessed
+whether the District has internal controls to ensure compliance with applicable laws, policies and procedures . We
+have identified opportunities for improvement and recommendations to address internal control issues noted or
+enhance existing processes. These are identified in this audit report.
+
+The procedures were performed based on guidelines provided by management and in accordance with standards
+for consulting services issued by the American Institute of Certified Public Accountants. We were not engaged to,
+and did not perform an audit, in which the objective would be the expression of an opinion. Accordingly, we do not
+express such an opinion.
+
+This report is intended solely for the use of management and should not be used by those who have not agreed to
+the procedures and taken responsibility for the sufficiency of the procedures for their purposes. The following report
+summarizes the procedures performed, observations and findings. Please contact Celina Cereceres at 713-386-1175
+should you have any questions about this audit report.
+
+Sincerely,
+
+
+
+
+Whitley Penn, LLP
+Houston, TX
+                                                                     TABLE OF CONTENTS
+
+
+EXECUTIVE SUMMARY .....................................................................................................................................1
+
+   BACKGROUND ...............................................................................................................................................1
+
+   AUDIT OBJECTIVES ........................................................................................................................................3
+
+   AUDIT SCOPE AND APPROACH......................................................................................................................3
+
+   OVERALL CONCLUSION ................................................................................................................................10
+
+   OBSERVATIONS AND RECOMMENDATIONS ................................................................................................10
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT
+
+
+                                           EXECUTIVE SUMMARY
+BACKGROUND
+
+The Elementary and Secondary School Emergency Relief (ESSER) II grant program was authorized through
+Section 313 of Coronavirus Response and Relief Supplemental Appropriations (CRRSA) Act on December 27,
+2020. Subsequently, a third tranche of ESSER funds (ESSER III) grant program was authorized through Section
+313 of American Rescue Plan (ARP) Act on March 11, 2021. The purposes of each tranche, the allocation
+amount, and program end date are shown below:
+
+ Program     Statutory Intent                                           Allocation      Per End Date
+ ESSER II    To add additional stimulus funding to be available to      $358,195,503    September 30, 2023
+             Local Educational Agencies (LEAs) to prevent, prepare
+             for, and respond to the coronavirus.
+ ESSER III   To provide wrap-around services in light of the            $804,716,108    September 30, 2024
+             challenges of COVID-19; and assistance needed to
+             enable homeless children and youth to attend school
+             and participate fully in school activities.
+
+
+Unlike ESSER I, ESSER III funds are considered supplemental in that none of the funds were used by the State
+of Texas to supplant (i.e. replace) State Aid funding. However, the Texas Education Agency (TEA) supplanted
+$65,873,097 of the District’s State Aid to hold it harmless for low average daily attendance.
+
+The allowable activities under each of the two programs are as follows:
+
+ ESSER II                                                   ESSER III
+ LEA discretion for any activity authorized under the       LEA discretion for any activity authorized under the
+ following federal laws:                                    following federal laws:
+  Elementary and Secondary Education Act (ESEA)             Elementary and Secondary Education Act (ESEA)
+  Individuals with Disabilities Education Act (IDEA)        Individuals with Disabilities Education Act (IDEA)
+  Adult Education and Family Literacy Act (AEFLA)           Adult Education and Family Literacy Act (AEFLA)
+  Carl D. Perkins Career and Technical Education Act        Carl D. Perkins Career and Technical Education Act
+  McKinney-Vento Homeless Education Act                     McKinney-Vento Homeless Education Act
+
+ Coordination of preparedness and response efforts          Coordination of preparedness and response efforts of
+ of LEA with State and local public health                  LEA with State and local public health departments,
+ departments, and other relevant agencies, to               and other relevant agencies, to improve coordinated
+ improve coordinated responses among such entities          responses among such entities to prevent, prepare
+ to prevent, prepare for, and respond to coronavirus        for, and respond to coronavirus
+ Activities to address the unique needs of low-income       Activities to address the unique needs of low-income
+ students, students with disabilities (SWD), English        students, students with disabilities (SWD), English
+ learners, racial and ethnic minorities, students           learners, racial and ethnic minorities, students
+ experiencing homelessness, and foster care youth,          experiencing homelessness, and foster care youth,
+ including how outreach and service delivery will           including how outreach and service delivery will meet
+ meet the needs of each population                          the needs of each population
+
+
+
+
+                                                        1
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT (continued)
+
+
+BACKGROUND (continued)
+
+ ESSER II                                                       ESSER III
+ Developing and implementing procedures and                     Developing and implementing procedures and
+ systems to improve the preparedness and response               systems to improve the preparedness and response
+ efforts of LEA                                                 efforts of LEA
+ Training and professional development for staff of the         Training and professional development for staff of the
+ LEA on sanitation and minimizing the spread of                 LEA on sanitation and minimizing the spread of
+ infectious diseases                                            infectious diseases
+ Purchasing supplies to sanitize and clean the facilities       Purchasing supplies to sanitize and clean the facilities
+ of the LEA, including buildings operated by the LEA            of the LEA, including buildings operated by the LEA
+ Not Applicable                                                 Planning for, coordinating, and implementing
+                                                                activities during long-term closures, including
+                                                                providing meals to eligible students
+ Not Applicable                                                 Planning for, coordinating, and implementing
+                                                                activities during long-term closures, including
+                                                                providing technology for online learning to all
+                                                                students
+ Not Applicable                                                 Planning for, coordinating, and implementing
+                                                                activities during long-term closures—how to provide
+                                                                guidance for carrying out requirements under IDEA
+ Not Applicable                                                 Planning for, coordinating, and implementing
+                                                                activities during long-term closures, … how to ensure
+                                                                other educational services can continue to be
+                                                                provided consistent with all Federal, State, and local
+                                                                requirements
+ Not Applicable                                                 Purchasing educational technology (hardware,
+                                                                software, and connectivity) for students … that aids in
+                                                                regular/substantive educational interaction between
+                                                                students and instructors, including low-income
+                                                                students and SWD, which may include assistive
+                                                                technology or adaptive equipment
+ Not Applicable                                                 Providing mental health services and supports,
+                                                                including through implementation of evidence based
+                                                                full-service community schools
+ Not Applicable                                                 Planning and implementing activities related to
+                                                                summer learning -- providing classroom instruction or
+                                                                online learning during summer months and
+                                                                addressing the needs of low-income students, SWD,
+                                                                English learners, migrant students, students
+                                                                experiencing homelessness, & children in foster care
+ Not Applicable                                                 Planning and implementing activities related to
+                                                                supplemental afterschool programs -- providing
+                                                                classroom instruction or online learning … addressing
+                                                                the needs of low-income students, SWD, English
+                                                                learners, migrant students, students experiencing
+                                                                homelessness, & children in foster care
+
+
+
+
+                                                            2
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT (continued)
+
+
+AUDIT OBJECTIVES
+
+The objectives for this audit were to determine if:
+
+         ESSER funds were allocated in accordance with ESSER requirements
+         ESSER funds were spent as intended
+         ESSER fund expenditures achieved the District’s stated goals and expected outcomes, if applicable
+
+AUDIT SCOPE AND APPROACH
+
+To accomplish the audit objectives, we completed the following steps:
+
+         Reviewed the District’s State and Federal Grants Management Manual for 2021-2022
+         Reviewed the District’s 2022 Compensation Manual and 2022 Compensation Tables
+         Documented the internal controls over the ESSER II and III expenditures.
+         Reviewed the ESSER Office of Management and Budget’s (OMB) 2022 Compliance Supplement, the ESSER
+          Application, and TEA Frequently Asked Questions
+         Reviewed the general ledger detail for fiscal year 2022 (July 1, 2021 through June 30, 2022)
+         Used TeamMate Analytics (TMA) to assist us in identifying riskier transactions
+         Selected a sample of payroll and non-payroll expenditures and recalculated the pay amounts, evaluated
+          allowability, and tested internal controls
+
+Below is a summary of ESSER II and III allocations received by the District and expenditures incurred.
+
+                                                            ESSER II                         ESSER III
+ Allocation Amount                                       $358,195,503                     $804,716,108
+ Expenditures in Fiscal Year 2022                        (199,972,867)                    (172,669,837)
+ Remaining Allocation as of June 30, 2022                $158,222,636                     $787,449,271
+
+The District had until September 30, 2023 for ESSER II and September 30, 2024 for ESSER III to spend any
+remaining funds. The remaining allocation for ESSER II and the ESSSER III totaled $158,222,636 and
+$787,449,271, respectively. Although fiscal year 2023 was not in the scope of this audit, the fiscal year 2023
+audited financial statements completed in November 2023 show that $154.6 million and $284.5 million was
+spent on ESSER II and III, respectively. As a reminder, we agreed with the District that we would only audit
+expenditures after the fiscal year was closed and the accounting records were finalized. School districts across
+the State of Texas are continuously brainstorming on the use of their ESSER funds prior to the deadlines
+provided by the Texas Education Agency. As such, the fiscal year 2023 expenditures would be audited in the
+Spring of 2024.
+
+
+
+
+                                                          3
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT (continued)
+
+
+AUDIT SCOPE AND APPROACH (continued)
+
+Our next step was to determine which of the 12 compliance requirements per Appendix IX of 2 CFR 200 were
+subject to audit and direct and material as shown below.
+
+ Compliance Requirement                                            Applicable and Direct and Material
+ Allowable Activities                                              Yes
+ Allowable Costs/Cost Principles                                   Yes
+ Cash Management                                                   Yes
+ Eligibility                                                       Not Applicable
+ Equipment and Property Management                                 Yes
+ Matching, Level of Effort and Earmarking                          Yes
+ Period of Performance                                             Yes
+ Procurement and Suspension and Debarment                          Yes
+ Program Income                                                    Not Applicable
+ Reporting                                                         Yes
+ Subrecipient Monitoring                                           Not Applicable
+ Special Tests and Provisions                                      Yes
+
+It important to note that auditors engaged to audit the financial statements and perform a federal single audit
+are only required to test six (6) of the 12 compliance requirements per the 2023 OMB Compliance Supplement
+for Assistance Listing 84.425 (see page 226 of 275 of Part 4). The instructions for auditors indicate that when a
+compliance requirement is marked with an “N”, auditors are not expected to test those requirements. The
+illustration below comes directly from the 2023 OMB Compliance Supplement.
+
+
+
+
+All revenue and expenditures transactions were sampled from fiscal year 2022. The population of nonpayroll
+transactions for ESSER II totaled $58,784,236, while ESSER III totaled $71,692,874. The payroll populations for
+ESSER II and III were $117,736,546 and $82,889,718, respectively. The District also recouped $23.5 million and
+$18.1 million in indirect costs for ESSER II and III, respectively. The period of performance for ESSER II is from
+March 13, 2020 through September 30, 2023. The ESSER III period of performance is from March 13, 2020
+through September 30, 2024. We also followed the guidelines for obligating a grant provided by the U.S.
+Department of Education Cross Cutting Section of the 2023 Compliance Supplement.
+
+
+
+
+                                                         4
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT (continued)
+
+
+AUDIT SCOPE AND APPROACH (continued)
+
+ Compliance Required Satisfied         Transactions Tested
+ Allowable Activities; Allowable       Transactions Tested: We tested a total of 75 nonpayroll transactions, where 60 transactions were based on random sampling and
+ Costs/Cost Principles and Period      15 items were based on risky transactions identified by TeamMate Analytics (TMA).
+ of Availability- Nonpayroll
+                                       Summary of Procedures: We verified that each expenditure was for an allowable activity and followed the cost principles under 2
+                                       CFR 200. We also ensured that the expenditure represented an obligation during the period of performance. We tested that the
+ The District’s expenditures are
+                                       expenditure was reviewed by the appropriate personnel. We reviewed the reviewed the invoice support, approved purchase order,
+ spent in accordance with the
+                                       copy of canceled check, receiving documents and any other supporting documentation.
+ ESSER II and III application.
+                                       Results: Of the 75 transactions tested, there were three (3) ESSER II transactions that did not reflect the proper approval by the
+                                       appropriate personnel. The District indicated that the accounting system may not have been updated at the time to list “external
+                                       funding” as an approver. The three transactions were dated October 27, 2021, and October 8, 2021 and were related to
+                                       Miscellaneous Contract Services. See Observations and Recommendations.
+ Allowable Activities; Allowable       Transactions Tested: We tested a total of 75 payroll transactions, where 60 transactions were based on random sampling and 15
+ Costs/Cost Principles and Period      items were based on risky transactions identified by TMA.
+ of Availability – Payroll
+                                       Summary of Procedures: We first selected a single check for the employee but then recalculated the employee’s annual pay based
+ The District’s payroll expenditures
+                                       on years of service, compensation table and other personnel file items. We ensured each employee was approved by the
+ are allowable costs under 2 CFR
+                                       appropriate personnel and assigned position in position control; we verified that the expenditure was allowable and complied with
+ 200 Subpart E and were charged
+                                       the cost principles under 2 CFR 200. We also verified that the expenditure represented in an obligation during the period of
+ during the period of performance
+                                       performance.
+ for both ESSER II and III.
+                                       Results: No exceptions.
+ Cash Management and Reporting         Transactions Tested: We selected a total of six (6) reimbursement requests totaling $307.5 million. Three (3) of those
+ – The District must have actual       reimbursement requests were related to ESSER III and totaled $144.5 million. The remaining $163.0 million were related to ESSER
+ expenditures to support the           II.
+ drawdown requests that are
+                                       Summary of Procedures: We ensure that the reimbursement requested submitted through TEA’s Expenditure Reporting system
+ submitted through the TEA’s
+                                       was certified and that there was evidence of review and approval. We ensured that the general ledger detail supported each of the
+ Expenditure Reporting System.
+                                       six (6) reimbursement requests. We also ensured that the indirect costs included in the reimbursement requests were recouped
+ The District must have controls
+                                       using the TEA issued indirect cost rate and that the direct expenditure base was appropriate.
+ over the reimbursement draw
+ downs, must certify that the          Results: No findings to report.
+ drawdown is true and correct.
+
+
+
+
+                                                                                     5
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT (continued)
+
+
+AUDIT SCOPE AND APPROACH (continued)
+
+ Compliance Requirement Satisfied            Transactions Tested
+ Equipment and Property Management           Transactions Tested: We reviewed the General Ledger detail for object codes beginning with a 66xx as provided by the
+ 1. The District must receive pre-approval   Cross-Functional Team Member, Special Revenue Accounting. We also obtained the budget per the ESSER II and III
+ for capital outlay from TEA through the     applications. The fiscal year 2022 Inventory Audit Memo as prepared by the Fixed Asset Audit Department detailing the
+ application process.                        physical inventory.
+ 2. For construction, the pass-through       The general ledger detail for ESSER II and ESSER III showed a total of $7.1 million and $8.8 million, respectively.
+ entity must have considered applicable
+ US Department of Education (ED)             Summary of Procedures: We ensured that the budgeted amounts in the applications were appropriate, and the types of
+ construction requirements as part of the    capital assets purchased were in line with the items described in the application.
+ pass-through entity’s prior approval
+ process for construction. For example, if   We also tested $1.3 million or five (5) transaction as part of our nonpayroll control and compliance test. We ensured that
+ an LEA proposed renovating a school         the items charged to the 66xx object code were properly accounted for and followed the District’s internal controls.
+ building to increase the filters or
+ ventilation to its HVAC system, the pass-   We verified that the required physical inventory of equipment was performed. We ensured that ESSER-purchased capital
+ through entity must ensure compliance       assets were considered part of the physical inventory. We also ensured that the property records contained the required
+ with applicable construction regulations    information such as Serial/Purchase Order/Tag/Asset Number and room location.
+ (such as 34 CFR 75.609 (Safety and Health
+ standards)      and    75.616     (Energy   Results: The budgeted amounts reflected in the ESSER II and III applications were $33.1 million and $218.7 million,
+ Conservation))?                             respectively. We also compared the detailed items included in the application to the actual capital outlay purchased and
+ 3. The District’s records must identify     found no exceptions.
+ equipment acquired with ESSER II and III
+ funds and must contain the required         One asset from the ESSER III capital outlay was included as part of the physical inventory. All other ESSER capital assets were
+ information.                                purchased in June 2022, which is shortly after the date of the physical inventory. The assets purchased in late fiscal year
+ 4. The District must perform a physical     2022 will be included in the fiscal year 2024 physical inventory.
+ inventory of its capital assets involving
+ federal grants every two years. Any         We verified that property records contained the required information such as Serial/Purchase Order/Tag/Asset Number and
+ differences between the property records    room location. Pictures were also included and reviewed by the District as part of the physical inventory inspection to
+ and the physical inventory count must be    confirm that equipment is properly safeguarded.
+ resolved. The equipment acquired under
+ federal awards from the property records    ESSER II items coded to 66xx were library books and were excluded from the list of inventory for 2022. Per the Texas
+ must be safeguarded and maintained.         Education Agency Financial Accountability System Resource Guide, library books are to be coded to 66xx, but these items
+                                             fall under the per unit capitalization value of $5,000 and as such are not included in the physical inventory count for capital
+                                             assets. No exceptions or findings to report.
+
+
+
+                                                                                     6
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT (continued)
+
+
+AUDIT SCOPE AND APPROACH (continued)
+
+ Compliance Required Satisfied                  Transactions Tested
+ Matching, Level of Effort and Earmarking       Transactions Tested: We reviewed the District’s ESSER III tools to track learning loss. The District provided us with its
+                                                Learning Loss Tracker as of November 16, 2023 as well as budget workshops documentation and the participants that
+ Matching - None                                attended the Texas Education Agency training covering learning loss. The total amount of ESSER III funding allocated towards
+ Level of Effort - None                         learning loss was $801.5 million out of the total award amount of $804.7 million. We selected four (4) learning loss initiatives
+ Earmarking - 20 percent of the ESSER III       totaling $73.8 million that were identified as learning loss for testing. ESSER II does not have a learning loss expenditure
+ allocation must be set aside for initiatives   requirement.
+ to address the learning loss caused by
+ COVID-19. The requirement must be met          Summary of Procedures: We verified that the District has a mechanism to monitor its learning loss expenditures and that it
+ at the end of the grant (i.e. September 30,    is on track to spend at least 20% of its ESSER III funds at by the end of the grant period or September 30, 2024.
+ 2024).
+                                                 We reviewed the support for the four (4) initiatives totaling $73.8 million and requested supporting documentation for
+                                                those expenditures. We also compared the minimum expenditures requirement for learning of $160.3 million against the
+                                                monitoring documentation.
+
+                                                Results: Of the $73.8 million in learning loss expenditures selected for testing, we were only able to trace $34.7 million in
+                                                supporting documentation. Upon discussion with the CTM ESSER employee, the variance was caused because the program
+                                                packets were created at the beginning of the ESSER III planning phase. These funds could have been shifted to other
+                                                initiatives. Please note that the District is required to spend $160.3 million in learning loss by the end of September 30, 2024.
+                                                See Observations and Recommendations.
+ Procurement and Suspension and                 Transactions Tested: We identified vendors the District incurred expenditures with totaling $50,000 or more during fiscal
+ Debarment                                      year 2022. For ESSER II there was a total of 71 vendors or commodity types totaling $37.4 million. We tested a sample of 10
+                                                vendors totaling $8.3 million in expenditures. For ESSER III, there were a total of 78 vendors or commodity types that totaled
+                                                $40.7 million. We tested 10 vendors totaling $3.5 million.
+
+                                                Summary of Procedures: For vendors with less than $250,000, we tested compliance with state procurement requirements
+                                                under Texas Education Code 44.031. For expenditures by vendor totaling $250,000 or more, we tested compliance with TEC
+                                                44.031 and 2 CFR 200.320(b). We also tested that the District had an internal control to verify the vendors were not
+                                                suspended or debarred. We also looked up all 20 vendors to determine where they were an excluded party under
+                                                www.sam.gov
+
+                                                Results:
+                                                No exceptions.
+
+
+
+                                                                                        7
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT (continued)
+
+
+AUDIT SCOPE AND APPROACH (continued)
+
+ Compliance Required Satisfied        Transactions Tested
+ Special Tests and Provisions         Transactions Tested: We reviewed the District’s maintenance of equity calculation, uses of funds plan and the return to in-person
+    1. Maintenance of Equity          instruction and continuity plans.
+    2. Uses of Funds Plan
+    3. Return to In-Person            Summary of Procedures:
+         Instruction and Continuity      1. Maintenance of Equity - The American Rescue Plan Act of 2021 mandates an additional federal fiscal requirement to
+                                            ensure that local education agencies and campuses that serve a large share of students from low-income backgrounds do
+                                            not experience a disproportionate reduction in funding in fiscal years 2022 and 2023.
+                                         2. Uses of Funds Plan - Is only a requirement for ESSER III. The District was required to submit the plan by July 27, 2021 and
+                                            must make it publicly available on the District’s website. The plans must include:
+                                                 a. The extent to which and how the funds will be used to implement prevention and mitigation strategies that are, to the
+                                                    greatest extent practicable, consistent with the most recent Centers for Disease Control and Prevention (CDC) guidance
+                                                    on reopening schools, in order to continuously and safely open and operate schools for in-person learning.
+                                                 b. How the LEA will use the funds it reserves under section 2001(e)(1) of the ARP Act to address the academic impact of
+                                                    lost instructional time through the implementation of evidence-based interventions, such as summer learning or
+                                                    summer enrichment, extended day, comprehensive afterschool programs, or extended school year.
+                                                 c. How the LEA will spend its remaining ARP ESSER funds consistent with section 2001(e)(2) of the ARP Act.
+                                                 d. How the LEA will ensure that the interventions it implements, including but not limited to the interventions implemented
+                                                    under section 2001(e)(1) of the ARP Act to address the academic impact of lost instructional time, will respond to the
+                                                    academic, social, emotional, and mental health needs of all students, and particularly those students disproportionately
+                                                    impacted by the COVID–19 pandemic, including students from low-income families, students of color, English learners,
+                                                    children with disabilities, students experiencing homelessness, children in foster care, and migratory students
+                                                 e. LEA must engage in meaningful consultation with stakeholders and give the public an opportunity to provide input in
+                                                    the development of its plan.
+                                                 f. Must be posted on the District’s website 30 days of receiving the grant
+                                                 g. Report in ESSER III Application Fund Funding
+
+
+
+
+                                                                                     8
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT (continued)
+
+
+AUDIT SCOPE AND APPROACH (continued)
+
+ Compliance Required Satisfied      Transactions Tested
+ Special Tests and Provisions       Summary of Procedures: (continued)
+  (continued)                          3. Return to In-Person Instruction and Continuity - The District plan for safe return to in-person instruction and continuity
+    1. Maintenance of Equity              of services is required for all local education agencies including those that have already returned to in-person instruction.
+    2. Uses of Funds Plan                 The plan must address:
+          Return to In-Person                  a. To the extent to which it has adopted policies include a description of any such policies, on each of CDC’s safety
+          Instruction and                          recommendations.
+          Continuity                           b. The District will ensure continuity of services, including but not limited to services to address students’ academic
+                                                   needs and students’ and staff social, emotional, mental health and other needs, which may include student
+                                                   health and food services.
+                                               c. The District must review its plan every six (6) months, and as appropriate revise it, through the end of ESSER III
+                                                   grant period
+
+                                    Results:
+                                       1. Maintenance of Equity - The District methodology included using the 2021 and 2022 Public Education Information
+                                             Management System (PEIMS) Fall Submission Budget data. The District then compared the state and local per pupil amount
+                                             in fiscal year 2021 to 2022. The District concluded it was in compliance.
+                                       2. Use of Funds Plan - No exceptions.
+                                       3. Safe Return to In-Person Instruction and Continuity Plan - No exceptions.
+
+
+
+
+                                                                                  9
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT (continued)
+
+
+OVERALL CONCLUSION
+
+The District is in compliance with the requirements of ESSER II and ESSER III for the fiscal year ended June 30,
+2022. There are two (2) observations related to review and approval of nonpayroll transactions as well as the
+tool used to track the District’s learning loss initiatives.
+
+OBSERVATIONS AND RECOMMENDATIONS
+
+Observation: Allowable Activities and Allowable Costs/Cost Principles - Of the 75 transactions tested, there
+were three (3) ESSER II transactions that did not reflect the proper approval by the appropriate personnel. The
+District indicated that the accounting system may not have been updated at the time to list “external funding”
+as an approver. The three transactions were dated October 27, 2021, and October 8, 2021 and were related to
+Miscellaneous Contract Services. We noted there were other transactions during the same period that were
+properly approved.
+
+Recommendation: We recommend that all transactions coded to a federal program be subject to the internal
+controls in place within the District. It is unknown why these transactions did not follow the same control
+procedures as the other expenditures during the same time period.
+
+Management’s Action Plan:
+
+ 1. Implement as proposed      ☐                                           Responsible Party:
+                                                                           Ryan Bramlett, CTM, External Funding
+ 2. Implement alternative plan (add a comment) ☐
+                                                                           Planned Completion Date:
+ 3. Take no action (add a comment) ☒
+                                                                           N/A
+
+Management’s Comment:
+The District has a workflow approval process in place for expenditures funded from grants for existing funds that
+ensures expenditures flow to the appropriate individuals for approval. ARP Act ESSER III was a new fund and new
+grant - 2820000000 that was new to the district. Due to being new to the District, the District had to build into its
+workflow approval process for ARP Act ESSER III expenditures to be reviewed and approved by External Funding in
+the workflow. At the beginning of the ARP Act ESSER III, the District was in the process of implementing an internal
+controls system to include External Funding in the approval workflow for ARP Act ESSER III concurrently when ARP
+Act ESSER III was first being implemented within the District. These transactions did not follow the same control
+procedures due to these occurred at the beginning of the ARP Act ESSER III period for the District and the controls
+were in the process of being implemented. Since these transactions have occurred, the District has completed the
+process update to ensure External Funding is included in all workflow approvals for expenditures funded from ARP
+Act ESSER III.
+
+
+
+
+                                                          10
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+ELEMENTARY AND SECONDARY SCHOOL
+  EMERGENCY RELIEF II and III AUDIT (continued)
+
+
+OBSERVATIONS AND RECOMMENDATIONS (continued)
+
+Observation: Earmarking - Learning Loss for ESSER III - We were provided with a learning loss expenditure
+monitoring worksheet that included $801.5 million in expenditures allocated to address learning loss. The four
+(4) initiatives selected for testing totaled $73.8 million per the District’s monitoring tool, but the District was
+only able to provide $34.7 million in supporting documentation. The District had pivoted from its initial plan
+for ESSER III. The monitoring tool was provided in November of 2023 and then updated again in March 2024.
+
+Recommendation: We recommend the District update its initiatives and corresponding expenditures included
+in its monitoring tool with the actual learning loss initiatives and expenditures. We also recommend that it
+perform an analysis by comparing the actual learning loss expenditures to the required $160 million (20% of
+the $804 million allocation) set aside per federal regulation. There is no indication that the District is at risk of
+not meeting this requirement. However, the monitoring tool should always reflect the actual expenditures by
+fiscal year and with a cumulative total so that the District knows its progress at all times. Dollar amounts should
+also be assigned to the Uses of Funds Plan that addresses learning loss.
+
+Management’s Action Plan:
+
+ 1. Implement as proposed       ☐                                            Responsible Party:
+                                                                             Ann Nguyen, CTM, Special Revenue
+ 2. Implement alternative plan (add a comment) ☐                             Accounting
+                                                                             Pamela Evans, RTSBA, Senior Executive
+ 3. Take no action (add a comment) ☒
+                                                                             Director – ESSER, External Funding (Titles
+                                                                             I, II & IV) and Grant Development
+                                                                             Departments
+
+                                                                             Planned Completion Date:
+                                                                             N/A
+
+Management’s Comment:
+The learning loss expenditure monitoring worksheet was a monitoring tool that provided the total funds allocated
+that may not have been fully expended yet in ARP Act ESSER III for all three years: 2021-2022, 2022-2023, and 2023-
+2024. The supporting documentation provided was for expenditures that occurred from the four (4) initiatives
+selected for the 2021-2022 and 2022-2023 school years due to the 2023-2024 school year was not a part of this
+review. The monitoring tool is a live document that is updated regularly as the district continues to utilize and close
+out ARP Act ESSER III in the final year 2023-2024. The Use of Funds Plan is a live document as well. As the District
+moves into finalizing ARP Act ESSER III, the Use of Funds Plan will be updated to reflect the most up current reflection
+of how the District utilized ARP Act ESSER III funds to address learning loss.
+
+
+
+
+                                                            11
+

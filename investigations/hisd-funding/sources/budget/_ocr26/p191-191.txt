@@ -1,0 +1,61 @@
+Districtwide Services
+2026 General Fund Budget by Detailed Object
+Category Districtwide Schools Districtwide Utilities Districtwide Operationg
+6100 Payroll Items
+6112010000 Subst. Teachers-LT $730,289 $0 $0
+6119000000 Salaries-Teachers $2,812,307 $0 $31,016,403
+6119010000 Salaries-Other Prof $842,628 $0 $989,767
+6119020000 Stipends-Teachers $9,525,115 $0 $0
+6119030000 Stipends-Other Prof $16,376 $0 $0
+6119040000 Xtra Pay-Teachers $500,000 $0 $0
+6129000000 Salary-Support $0 $0 $8,858
+6129010000 Hourly Pay $100,000 $0 $0
+6141000000 Medicare $93,889 $0 $0
+6141010000 Social Security $197,326 $0 $0
+6142000000 Grp HealthiLife Inst $366,149 $0 $0
+6143000000 Workers’ Comp $7,181 $0 $0
+6144000000 TRS/Care-On-Behf Pay $0 $0 $103,000,000
+6145000000 Unemployment Comp $7,059 $0 $0
+6146000000 TRS/TRS Care $436,662 $0 $0
+6146000100 TRS Care-RE's 0.75% $6,000 $0 $0
+6146000200 TRS Surcharges $0 $0 $300,000
+6146000300 TRS - Stat. Min. $28,000 $0 $0
+6146000400 TRS-Pub Ed Emp-OASDI $4,000 $0 $0
+6149000000 Other Empl Benefits $0 $0 $4,254,006
+Payroll Items Total $15,672,981 $0 $139,569,034
+6200 Purchased/Contracted Services
+6211190000 Legal-Insurance $0 $0 $1,200,000
+6212000000 Audit Services $0 $0 $550,000
+6213000000 Tax Apprs/Collect $0 $0 $19,913,644
+6249000000 Contracted Maint. $0 $174,660 $0
+6259010000 Electricity $0 $37,843,552 $0
+6259020000 Water $0 $15,703,919 $0
+6259030000 Gas-Natural $0 $1,073,659 $0
+6259040000 Telephones $0 $1,541,919 $0
+6259050000 Internet $0 $233,421 $0
+6299000000 Misc Contract Srves $1,029,735 $0 $2,061,515
+6299030000 UIL Buybacks $394,854 $0
+Purchased/Contracted Services Total $1,424,589 $56,571,130 $23,725,159
+6300 Supplies / Materials
+6311000000 Gasoline (Vehicles) $0 $0 $2,000
+6399020000 TSS Reimbursement $25,000 $0 $0
+Supplies / Materials Total $25,000 $0 $2,000
+6400 Supplies / Materials
+6411000000 Travel-Employees $0 $0 $34,900
+6429000000 Insurance & Bonding $0 $0 $154,005
+6429010000 Auto Insurance $0 $0 $1,882,719
+6429020000 Property Insurance $0 $0 $29,007,152
+6429030000 Liability Insurance $0 $0 $1,110,814
+6439000000 Election Costs $0 $0 $1,000,000
+6491000000 Public Notices-Rad $0 $0 $95,000
+6495000000 Dues $0 $0 $83,000
+6499000000 Misc Operating Costs $0 $0 $53,509,290
+6499010000 Fees(no travel/dues) $0 $0 $200,700
+6499030000 Refreshments/Food $0 $0 $11,570
+Supplies / Materials Total $0 $0 $87,089,150
+8900 Transfers In/ Out
+8911000000 Transfers Out-Oper $0 $0 $19,823,927
+Transfers In / Out Total $0 $0 $19,823,927
+Total Districtwide Budget $17,122,570 $56,571,130 $270,209,270
+Note: Represents a summary of all district-wide funds, with some funds budgeted down to the campus level and reflected on their budget pages.
+2025-2026 Adopted Budget Informational Section 182

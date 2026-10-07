@@ -1,0 +1,209 @@
+                                                               2023 - 2024 Actual Financial Data
+                                                               Totals for HOUSTON ISD (101912)
+                                                              Total Enrolled Membership: 183,603
+
+                                                                                                District                                                        State
+
+                                                                                            Per                                           Per                                      Per
+                                                           General Fund          %        Student          All Funds            %       Student    All Funds             %       Student
+
+Revenues
+Operating Revenue
+Local Property Tax from M&O (excluding recapture)          $1,506,848,009       80.45%      $8,207     $1,506,848,009          56.79%    $8,207   $25,115,673,157       34.92%    $4,553
+State Operating Funds                                       $210,041,512        11.21%      $1,144         $256,782,994         9.68%    $1,399   $30,587,705,535       42.53%    $5,545
+Federal Funds                                                 $78,105,612        4.17%        $425         $779,835,009        29.39%    $4,247   $11,797,301,551       16.40%    $2,138
+Other Local                                                   $78,122,882        4.17%        $425         $110,022,241         4.15%      $599    $4,418,441,068        6.14%      $801
+                                Total Operating Revenue    $1,873,118,015     100.00%      $10,202     $2,653,488,253         100.00%   $14,452   $71,919,121,311   100.00%      $13,037
+Other Revenue
+Local Property Tax from I&S                                              $0      0.00%           $0        $357,262,478        73.11%    $1,946   $10,895,016,475       80.59%    $1,975
+State Assistance for Debt Service                                        $0      0.00%           $0         $17,973,535         3.68%       $98    $1,105,366,975        8.18%      $200
+Misc Rev Debt Service Fund (F599)                                        $0      0.00%           $0          $8,948,824         1.83%       $49     $389,717,405         2.88%       $71
+Other Receipts (excluding debt service financing)           $103,129,357      100.00%         $562         $104,458,700        21.38%      $569    $1,129,524,892        8.35%      $205
+                                     Total Other Revenue    $103,129,357      100.00%         $562         $488,643,537       100.00%    $2,661   $13,519,625,747   100.00%       $2,451
+                Subtotal: Operating and Other Revenue      $1,976,247,372     100.00%      $10,764     $3,142,131,790         100.00%   $17,114   $85,438,747,058   100.00%      $15,487
+Recapture Revenue
+Local Property Tax Recaptured                                            $0      0.00%           $0                    $0       0.00%        $0    $2,693,303,580   100.00%         $488
+                               Total Recaptured Revenue                  $0      0.00%           $0                    $0       0.00%        $0    $2,693,303,580   100.00%         $488
+ Subtotal: Operating, Other and Recaptured Revenue         $1,976,247,372     100.00%      $10,764     $3,142,131,790         100.00%   $17,114   $88,132,050,638   100.00%      $15,975
+Debt Service Financing and TRS Estimate Revenue
+Debt Service Financing Related Revenue                                   $0      0.00%           $0         $22,256,775        16.89%      $121    $3,466,427,330       53.10%      $628
+Estimated State TRS Contributions                           $109,490,737      100.00%         $596         $109,490,737        83.11%      $596    $3,062,147,998       46.90%      $555
+  Subtotal: Debt Service Financing and TRS Estimate
+                                                            $109,490,737      100.00%         $596         $131,747,512       100.00%      $718    $6,528,575,328   100.00%       $1,183
+                                             Revenue
+           Grand Total: Operating, Other, Debt Service
+                                          Financing, and   $2,085,738,109     100.00%      $11,360     $3,273,879,302         100.00%   $17,831   $91,967,322,386   100.00%      $16,671
+           TRS Estimate Revenue excluding recapture
+
+
+
+Expenditures
+Operating Expenditures by Object (61xx-64xx only)
+
+
+
+                                                             TEA | Office of School Finance | Forecasting & Fiscal Analysis                                                  Page 1 of 5
+                                                              2023 - 2024 Actual Financial Data
+                                                              Totals for HOUSTON ISD (101912)
+                                                             Total Enrolled Membership: 183,603
+
+                                                                                               District                                                        State
+
+                                                                                           Per                                           Per                                      Per
+                                                          General Fund          %        Student          All Funds            %       Student    All Funds             %       Student
+Payroll Expenditures (Object 61xx)                        $1,664,525,413       85.29%      $9,066     $2,022,315,659          76.82%   $11,015   $55,579,370,977       77.80%   $10,075
+Professional & Contracted Services (Object 62xx)           $199,816,900        10.24%      $1,088         $365,850,595        13.90%    $1,993    $7,412,529,453       10.38%    $1,344
+Supplies & Materials (Object 63xx)                           $49,282,739        2.53%        $268         $190,916,958         7.25%    $1,040    $6,022,343,036        8.43%    $1,092
+Other Operating Expenditures (Object 64xx)                   $37,905,068        1.94%        $206          $53,316,705         2.03%      $290    $2,426,950,644        3.40%      $440
+                Total Operating Expenditures by Object    $1,951,530,120     100.00%      $10,629     $2,632,399,917         100.00%   $14,337   $71,441,194,110   100.00%      $12,950
+Non-Operating Expenditures by Object
+Capital Outlay (Object 61xx-64xx)                             $1,027,405        0.97%           $6          $3,723,569         0.53%       $20       $38,266,042        0.13%        $7
+Debt Services (Object 65xx)                                  $18,998,182       17.97%        $103         $429,012,031        61.29%    $2,337   $12,475,005,940       43.70%    $2,261
+Capital Outlay (Object 66xx)                                 $85,676,049       81.05%        $467         $267,209,705        38.18%    $1,455   $16,033,551,537       56.17%    $2,906
+           Total Non-Operating Expenditures by Object      $105,701,636      100.00%         $576         $699,945,305       100.00%    $3,812   $28,546,823,519   100.00%       $5,175
+             Grand Total: Operating and Non-Operating
+                                                          $2,057,231,756     100.00%      $11,205     $3,332,345,222         100.00%   $18,150   $99,988,017,629   100.00%      $18,125
+                                 Expenditures by Object
+
+
+
+Operating Expenditures by Function (61xx-64xx only)
+Instruction (Function 11,95)                              $1,104,486,999       56.60%      $6,016     $1,480,716,426          56.25%    $8,065   $39,176,659,787       54.84%    $7,101
+Instructional Resources & Media Services (Function 12)       $13,797,284        0.71%          $75         $14,977,840         0.57%       $82     $657,456,589         0.92%      $119
+Curriculum & Staff Development (Function 13)                 $25,655,151        1.31%        $140          $61,712,624         2.34%      $336    $1,768,032,392        2.47%      $320
+Instructional Leadership (Function 21)                       $62,775,331        3.22%        $342          $84,882,342         3.22%      $462    $1,299,882,283        1.82%      $236
+School Leadership (Function 23)                            $214,592,944        11.00%      $1,169         $219,716,574         8.35%    $1,197    $4,090,184,319        5.73%      $741
+Guidance Counseling Services (Function 31)                   $64,548,094        3.31%        $352          $82,998,876         3.15%      $452    $2,896,985,750        4.06%      $525
+Social Work Services (Function 32)                            $4,712,674        0.24%          $26         $25,364,413         0.96%      $138     $248,791,333         0.35%       $45
+Health Services (Function 33)                                $24,194,077        1.24%        $132          $27,838,907         1.06%      $152     $730,487,490         1.02%      $132
+Transportation (Function 34)                                 $52,186,623        2.67%        $284          $56,103,368         2.13%      $306    $2,180,244,579        3.05%      $395
+Food Services (Function 35)                                      $71,239        0.00%           $0        $146,367,460         5.56%      $797    $3,765,975,564        5.27%      $683
+Extracurricular (Function 36)                                $24,986,019        1.28%        $136          $39,024,557         1.48%      $213    $2,209,273,631        3.09%      $400
+General Administration (Function 41,92)                      $52,173,309        2.67%        $284          $61,607,637         2.34%      $336    $2,353,926,229        3.29%      $427
+Facilities Maintenance & Operations (Function 51)          $218,890,395        11.22%      $1,192         $226,188,915         8.59%    $1,232    $7,189,345,570       10.06%    $1,303
+Security & Monitoring Services (Function 52)                 $31,148,720        1.60%        $170          $32,649,639         1.24%      $178    $1,152,159,150        1.61%      $209
+Data Processing Services (Function 53)                       $50,300,253        2.58%        $274          $56,704,704         2.15%      $309    $1,330,101,476        1.86%      $241
+Community Services (Function 61)                              $7,011,008        0.36%          $38         $15,545,635         0.59%       $85     $367,631,791         0.51%       $67
+
+
+                                                            TEA | Office of School Finance | Forecasting & Fiscal Analysis                                                  Page 2 of 5
+                                                              2023 - 2024 Actual Financial Data
+                                                              Totals for HOUSTON ISD (101912)
+                                                             Total Enrolled Membership: 183,603
+
+                                                                                               District                                                        State
+
+                                                                                           Per                                           Per                                      Per
+                                                          General Fund          %        Student          All Funds            %       Student    All Funds             %       Student
+Fund Raising CHARTER SCHOOLS ONLY (Function 81)                         $0      0.00%           $0                    $0       0.00%        $0       $24,056,177        0.03%        $4
+              Total Operating Expenditures by Function    $1,951,530,120     100.00%      $10,629     $2,632,399,917         100.00%   $14,337   $71,441,194,110   100.00%      $12,950
+Non-Operating Expenditures by Function
+Non-Operating Expenditures by Function (81) (61xx-64xx)       $1,027,405        0.97%           $6          $3,723,569         0.53%       $20       $38,266,042        0.13%        $7
+Non-Operating Expenditures by Function (1x-9x) (65xx)        $18,998,182       17.97%        $103         $429,012,031        61.29%    $2,337   $12,475,005,940       43.70%    $2,261
+Non-Operating Expenditures by Function (1x-9x) (66xx)        $85,676,049       81.05%        $467         $267,209,705        38.18%    $1,455   $16,033,551,537       56.17%    $2,906
+        Total Non-Operating Expenditures by Function       $105,701,636      100.00%         $576         $699,945,305       100.00%    $3,812   $28,546,823,519   100.00%       $5,175
+             Grand Total: Operating and Non-Operating
+                                                          $2,057,231,756     100.00%      $11,205     $3,332,345,222         100.00%   $18,150   $99,988,017,629   100.00%      $18,125
+                              Expenditures by Function
+
+
+
+Operating Expenditures by Program Intent Code (PIC) (61xx-64xx only)
+Basic Educational Services (PIC 11)                       $1,048,553,322       53.73%      $5,711     $1,158,402,254          44.01%    $6,309   $28,879,935,685       40.42%    $5,235
+Gifted and Talented (PIC 21)                                  $7,993,012        0.41%          $44          $8,246,591         0.31%       $45     $387,893,289         0.54%       $70
+Career and Technical (PIC 22)                                $50,367,610        2.58%        $274          $54,975,323         2.09%      $299    $2,465,499,880        3.45%      $447
+Students with Disabilities (PICs 23,33,43)                 $229,166,494        11.74%      $1,248         $295,357,162        11.22%    $1,609    $9,477,470,234       13.27%    $1,718
+State Compensatory Education (PICs 24,26,28,29,30,34)        $91,035,969        4.66%        $496         $315,904,153        12.00%    $1,721    $6,534,482,938        9.15%    $1,184
+Bilingual (PICs 25,35)                                       $20,991,759        1.08%        $114          $45,158,715         1.72%      $246     $830,420,586         1.16%      $151
+Early Education Allotment (PIC 36)                           $42,379,098        2.17%        $231          $56,550,986         2.15%      $308    $1,353,176,371        1.89%      $245
+Dyslexia or Related Disorder Services (PIC 37)                $5,108,705        0.26%          $28          $5,113,066         0.19%       $28     $417,573,465         0.58%       $76
+College, Career, and Military Readiness (CCMR) (PIC 38)      $24,251,088        1.24%        $132          $28,330,783         1.08%      $154     $394,493,831         0.55%       $72
+Athletics/Related Activities (PIC 91)                        $20,879,009        1.07%        $114          $20,930,946         0.80%      $114    $1,419,449,950        1.99%      $257
+Un-Allocated (PIC 99)                                      $410,804,054        21.05%      $2,237         $643,429,938        24.44%    $3,504   $19,280,797,881       26.99%    $3,495
+Total Operating Expenditures by Program Intent Code
+                                                          $1,951,530,120     100.00%      $10,629     $2,632,399,917         100.00%   $14,337   $71,441,194,110   100.00%      $12,950
+                                                  (PIC)
+Non-Operating Expenditures by PIC
+Non-Operating Expenditures by PIC (81) Capital Outlay
+                                                              $1,027,405        0.97%           $6          $3,723,569         0.53%       $20       $38,266,042        0.13%        $7
+(61xx-64xx)
+Non-Operating Expenditures by PIC (1x-9x) (65xx)             $18,998,182       17.97%        $103         $429,012,031        61.29%    $2,337   $12,475,005,940       43.70%    $2,261
+Non-Operating Expenditures by PIC (1x-9x) (66xx)             $85,676,049       81.05%        $467         $267,209,705        38.18%    $1,455   $16,033,551,537       56.17%    $2,906
+
+
+
+
+                                                            TEA | Office of School Finance | Forecasting & Fiscal Analysis                                                  Page 3 of 5
+                                                               2023 - 2024 Actual Financial Data
+                                                               Totals for HOUSTON ISD (101912)
+                                                              Total Enrolled Membership: 183,603
+
+                                                                                                District                                                         State
+
+                                                                                            Per                                           Per                                       Per
+                                                           General Fund          %        Student          All Funds            %       Student      All Funds            %       Student
+                   Total Non-Operating Expenditures by
+                                                            $105,701,636      100.00%         $576         $699,945,305       100.00%    $3,812    $28,546,823,519   100.00%       $5,175
+                              Program Intent Code (PIC)
+             Grand Total: Operating and Non-Operating
+                                        Expenditures by    $2,057,231,756     100.00%      $11,205     $3,332,345,222         100.00%   $18,150    $99,988,017,629   100.00%      $18,125
+                              Program Intent Code (PIC)
+
+
+Disbursements
+Total Disbursements
+Operating Expenditures                                     $1,951,530,120       90.11%     $10,629     $2,632,399,917          76.41%   $14,337    $71,441,194,110       68.44%   $12,950
+Recapture                                                                $0      0.00%           $0                    $0       0.00%        $0     $2,693,303,580        2.58%      $488
+Total Other Uses                                              $16,395,650        0.76%          $89         $16,395,650         0.48%       $89       $915,610,042        0.88%      $166
+Intergovernmental Charge                                      $91,997,750        4.25%        $501          $96,474,218         2.80%      $525       $782,603,994        0.75%      $142
+Capital Outlay (Object 61xx-64xx)                              $1,027,405        0.05%           $6          $3,723,569         0.11%       $20        $38,266,042        0.04%        $7
+Debt Service (Object 65xx)                                    $18,998,182        0.88%        $103         $429,012,031        12.45%    $2,337    $12,475,005,940       11.95%    $2,261
+Capital Projects (Object 66xx)                                $85,676,049        3.96%        $467         $267,209,705         7.76%    $1,455    $16,033,551,537       15.36%    $2,906
+                                    Total Disbursements    $2,165,625,156     100.00%      $11,795     $3,445,215,090         100.00%   $18,764   $104,379,535,245   100.00%      $18,921
+
+
+Tax Rates
+2023 - 2024 (current tax year) Tax Rates
+Maintenance & Operations Tax Rate                                                                                0.7016                                     0.7333
+Interest & Sinking Tax Rate                                                                                      0.1667                                     0.2408
+                                          Total Tax Rate                                                         0.8683                                     0.9741
+Tax Detail
+Maximum Compressed Tax Rate (MCR)                                                                                0.6516                                     0.6379
+Tier I Tax Rate                                                                                                  0.6516                                     0.6375
+Tier II Tax Rate (Enrichment Pennies)                                                                            0.0500                                     0.0958
+
+
+Fund Balance**
+Fund Balance
+Nonspendable Fund Balance                                     $24,549,497                     $134          $24,549,497                    $134       $448,350,489                    $88
+
+
+
+                                                             TEA | Office of School Finance | Forecasting & Fiscal Analysis                                                   Page 4 of 5
+                                                              2023 - 2024 Actual Financial Data
+                                                              Totals for HOUSTON ISD (101912)
+                                                             Total Enrolled Membership: 183,603
+
+                                                                                               District                                                    State
+
+                                                                                           Per                                     Per                                     Per
+                                                          General Fund          %        Student          All Funds          %   Student      All Funds            %     Student
+Restricted Fund Balance                                      $70,000,000                     $381         $375,651,697            $2,046    $42,873,980,540                $8,417
+Committed Fund Balance                                       $99,874,040                     $544          $99,874,040              $544     $4,159,077,592                  $816
+Assigned Fund Balance                                      $262,705,301                    $1,431         $266,695,600            $1,453     $4,058,981,212                  $797
+Unassigned Fund Balance                                    $590,067,862                    $3,214         $590,067,862            $3,214    $17,734,264,080                $3,481
+                                   Total Fund Balance**   $1,047,196,700                   $5,704     $1,356,838,696              $7,390    $69,274,653,913               $13,600
+Fund Balance Reconciliation
+2022-2023 Total Fund Balance (Previous Year)              $1,127,068,920                   $5,954     $1,578,140,427              $8,337    $61,508,592,008               $12,062
+2023-2024 Excess (Deficiency) Operating Expenditures       $-166,605,927                     $-907     $-255,760,431              $-1,393   $-12,858,865,614               $-2,524
+2023-2024 Excess (Deficiency) Non-Operating
+                                                             $86,733,707                     $472          $34,458,700              $188    $20,418,148,729                $4,008
+Expenditures
+2023-2024 Uncommon Items                                                $0                      $0                    $0               $0      $206,778,790                    $41
+                          2023-2024 Total Fund Balance    $1,047,196,700                   $5,704     $1,356,838,696              $7,390    $69,274,653,913               $13,600
+
+
+
+
+                                                            TEA | Office of School Finance | Forecasting & Fiscal Analysis                                             Page 5 of 5
+

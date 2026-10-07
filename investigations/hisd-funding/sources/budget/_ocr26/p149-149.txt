@@ -1,0 +1,56 @@
+School Pages
+N 3 YH YN
+S PEIMS Org Descr PEIMS Org [Campus Type [Grade Level Projected | 6100 - Payroll 6200 - 6300 -Supplies | 6400 - Other | 6600 - Capital] Grand Total
+or Enrollment Cost Professional and | and Materials | Operating Outlay
+nN Contracted Costs
+>
+Z [Reagan€dctrks [382 [Nes «8 [SOUTH [Wadsonds | 609s 5a1846500]s 62345200] 196873.00]s 450000[s  - [5 654320000] 24376442]
+8 Redts {a4 [NonNES [ememay [SOUTH |Medsonris | 4s2|s 13072500] s  148.15500] 5 264.362.00 [s 5.750.00 |S 6507000] s 047,082.00 | s 129.97. ]
+= [Reverems foo [NES [Middle School [WEST  |WestsideHS |  1076[S 802262800]5  653658.00]6 370780.00]S 300000[s ~~ - [|S 935006600] s 38162176]
+2 [ReynoldsEs [226 [Nes [Elementary [SOUTH [Worthinghs | ~~ 204[s 208586100] 26159200] 10140000]s 200000[s  - |S 335085300]s 107.478.05]
+w [RicoSchooPk-8 oso [NonNES «8 [CENTRAL Jlemarhs | ~~ 999s 683774800]  32641300]5 9141500]5 1000000 1043000]5 727800600] s 231,916.08]
+5 [RiverOakses 228 INonNes [Elementary [CENTRAL Jlamaris | ~~ 708]s 446588000]s 27974100] s 2421740015 17.00000[s 2798000] Sosa7rsoo[s ~~ |
+=} [Robertses [229 [Non-NES [Elementary [CENTRAL Jlemarhs | ~~ 715[s 416803500]5  21184400]5 160641.00]5 11.00000[s 9650.00]5 4561170005  - |
+[oS [Robinsons 186 [NES [elementary [CENTRAL JFurds | ~~ 349[s 320096500]  235191.00]5 12090000]s 200000[s ~~ - [|S 3568.05600]s 156,096.79]
+5 [Roderick R Page 88 [113 [Nes [elementary [NORTH |rasnmereFis | oss |s ass47r.00]s 28774800] s 12480000 [s 2.000.00s |S 800,025.00] s 147.670]
+c
+3 [Roosevelt es [281 [Non-NES [Elementary [CENTRAL [NorthsideS | ~~ 379[s 266526800]  16514500]5 037951.00]5 236000 1019000]5 277063400] 12036067 |
+[5] [Rosses  fas2 INES [Elementary [CENTRAL [Northsidens | ~~ 262[s 207867900]  133058.00]5 96620.00]s 200000[s ~~ |s 3210367.00]s 97.3501]
+5 [RuckerEs [283 INES [elementay [SOUTH [ChaveeHs | ~~ 421s 375042000]  201391.00]6 146100.00]5 200000[s ~~ - [S 4099911.00]s 156,915.81]
+g [SanchezES [281 [NES [Elementary [SOUTH wibyHs | 327s 32067600]  17594000]5 113700.00]s 200000[s  - |S 3615516.00]s 139,266.92]
+=
+@ [Scarborough is Joza INES HignSchool [NORTH [ScarboroughHS | 64715 804943800]5  498.113.00]5 2692550015 15500005 7500.00] 8839806005 268,304.95]
+oF
+IS [Scroggins Es [26s [NES [Elementary [CENTRAL |WheatleyHs | ~~ 274[s 300709200]  141911.00]5 10830000]s 200000[s ~~ - [5 325930300]s 11032239]
+E Sequns fain JNes [ememay [SOUTH JstenngHs | oo5|s 0.106590] s 20966500] s 136,500.00 [s 2.000.005 | 405476700 s t4se21d]
+Shadydale€S [47s [NES [Elementary [NORTH NorthForestHS | 550s 415488000]5 26624900] 5 186600.00]5 200000[s  - [5 4509720.00]s 214,927.08]
+[Sharpstowntis _ fo23 [NES [HighSchool [WEST  [ShapstownHs |  1646[s 1353192200]5 60923500] 5 651390.00]5 20.30000[s 6000.00] 14818:847.00]s 62536874]
+[Sharpstown intern Jost TNonNES igh School [WEST _ [Shapstowntis |  1343]s 76708550015  641.737.00]s 497.557.0015 66,600.00 [5 219605.00] 5 89935400 [5 461,636.67 |
+[oheam ES [289 [Non-NES [Elementary [WEST _ [Belaireis | 451s 277458000]  9277600]5 67.67.00] 96000[s  - [|S 2935493.00]s 172760.11]
+[shermanES ~~ [240 [NonNES [Elementary [CENTRAL [Notthsides | ~~ 419[s 203650700] 19661100] 53448.00]5 550000[s 4190.00]5 319626600] 17586504]
+[Snares {a JNonNes [emenay [NORTH [wars | 7i6]s 408099000] s  1a607900]s s2.750.00[s 7.000.005 2160.00] s 49rrgst0fs |
+[orth KES [42 INES [Elementary [NORTH [Scarboroughhs | ~~ 724[S 564697300] 26433500] 6 24600000]5 200000[s ~~ - [5 617930800]s 27347370]
+[sOARCenter foes [SpecialEducation [EE-f2 [NORTH [WaltipHighSchool | ~~ dofs ~~ [s ~~ - Js  - Js - [s - Js Js  - |
+[souhecHs [ass [NonNES ~~ [HighSchool [SOUTH [worthinghs | 478s 276395400]5  8904200]5 9916900] 5 20,501.00 4350500]5 3016.261.00]s 137,047.03]
+[Soutmaydes  Je44  INes ~~ Elementay [SOUTH wibyns | ~~ 315]s 35303540015  15639400]s 110.10000]5 200000[s - [s 0708848005 119,389.15]
+Stedingis ~~ fo1t4 [NES [HignSchool [SOUTH [SteringHs |  1012[s 1084503500] 66141500] 47343500]5 21.00000[s 434500] 11895230.00]s 412,823.68]
+StevensEs [245 [NES [Elementay [NORTH walipns | ~~ 562[s 486003900]  19592900]5 24023500]s 200000[s  - [s 531820300]s 19251877]
+[Stevenson 6 {oss [NonNES [iad School [SOUTH _[ChavezFs | Tore|s 916.7140] s2765400] 5s 215,616.00 [s 10,800.00 |S 10790.00] S 6c78576.00 |S rasma.ic]
+[Sugar Grove Academy [163 [NES [Middle School [WEST _ [ShapstownHS | ~~ 716[S 615085400]5  462857.00]6 246820.00]5 450000[s  - [5 6867.031.00]s 29872607]
+[suton€s [248 [NonNES [Elementary [WEST  [Shampstownds | ~~ 802[s 462164300] 30642400] 96023.00]5 7.66000[s 1120000]5 504294000] s 310.332.25]
+[LH.RogersSchool 03s JNonNEs Js [West [wisdom ML HS |  1065[s 683834200]5  637530.00]5 17423500] 113.00000[s 20650.00]s 7783757.00]s  - |
+[Tanglewood MS [068 [NonNES [Middle School [WEST [Wisdom ML.HS | ~~ 832[S 468134200] 30554300] 6 215141.00]S 800000[S 832000]5 5218346.00]s 196,660.94]
+car [too ohaer [Chater [West  |WestsideHighSchool |  8e3t[s  - [s sies0e200]s  - |s  - [s ~~ - [s 56182806200] 1440.16.98]
+[fhomasms _ forz [NES [Middle School [SOUTH [SteringHs | 316s 426014100]s  a4571500]5 11642000]s 350000[s ~~ - [s 473477600]s 148.481.66]
+[Thompsons Teas INes  elementay [SOUTH [vatesHs | ~~ 361]s 3069891.00]5  29319000]s 1233000015 200000[s _ - [s os488.061.00[s 134,349.31]
+[linsleyes ~~ [o74 ~~ [NEs [elementary [WEST  [Westuyds | ~~ 56[s 440443900] 26145200] 191.10000]s 200000[s  - [5 4968991.00]s 22547763]
+aves Jats [NonNES [elementary [CENTRAL JrewmsHs | ros|s 472013800] s 25085000] 5 sn.756.00[s 5600.00] 5 7690.00] s 0ss00r00]s |
+[wanes [261 [NonNES [Elementary [CENTRAL Jlemarhs | ~~ 909[S 5030405600] 20735100] 6 189356.00]5 7300000[S 9090.00]5 590285500]s  - |
+Valley Westés [286 [NES [Elementary [WEST  [ShapstowndS | ~~ 447s 417311400]  260241.00]5 16590000]s 200000[s ~~ - [5 462126500]s 175415.36]
+[Wainwright €s [262 [NES [Elementary [NORTH [Scarboroughhis | ~~ 367[s 40v800000]s  14293300]5 137.180.00]s 200000[s ~~ - [s 4380.11300]s 14505077]
+[WainutBendes 263 INES Elementay [WEST  [Westsidens | ~~ 547]s 443879800]5 26120100] 18510000]5 200000[s [5 4877.189.00[s 20321426]
+[waipHs ots [Non-NES  [HighSchool [NORTH [walipS | 1596S 949843800]5  690689.00]5 220492.00]5 29,800.00 15960.00]5 10455379.00]s 480.215.26 |
+[Welchms Jose [NES [Middle School [WEST  [WestouydS | 548s 50776500]  602237.00]5 19206000]s 400000[s ~~ - [s 577595300]s 21245675]
+[WesieyES Jaa [Nes [ememtary NORTH [Booker Washingionts | sos | 291295000] s 122610005 111,000.00 [s 2.000.005 | srsase00]s irre]
+rN
+o

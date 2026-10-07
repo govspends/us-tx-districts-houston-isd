@@ -1,0 +1,57 @@
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+RECOMMENDED BUDGET
+SCHEDULE OF REVENUES, APPROPRIATIONS, AND CHANGES IN FUND BALANCE - GENERAL FUND, DEBT SERVICE, AND NUTRITION SERVICES
+FOR THE FISCAL YEAR ENDED JUNE 30, 2026
+
+
+     REVENUES                                                             General Fund           Debt Service          Nutrition Services
+     Property taxes                                                   $     1,563,545,630 $         374,083,733 $
+     Earnings on investments                                                   43,500,000                                          2,100,103
+     Miscellaneous local sources                                               38,827,572                                          7,866,270
+     State sources                                                            414,500,000            15,665,576                     491,957
+     Federal sources                                                           21,660,000                                     136,992,532
+            Total revenues                                            $     2,082,033,202 $         389,749,309 $             147,450,862
+
+     APPROPRIATIONS
+
+
+11       Instruction                                                  $     1,244,558,642 $           -            $           -
+12       Instructional resources and media services                             6,452,762             -                        -
+13       Curriculum development and instructional staff development            14,082,957             -                        -
+21       Instructional leadership                                              71,949,719             -                        -
+23       School leadership                                                    225,426,329             -                        -
+31       Guidance, counseling, and evaluation services                         58,115,936             -                        -
+32       Social work services                                                   2,905,997             -                        -
+33       Health services                                                       26,134,103             -                        -
+34       Student (pupil) transportation                                        38,336,368             -                        -
+35       Food services                                                              23,441            -                       134,844,512
+36       Co-curricular/extracurricular activities                              23,734,834             -                        -
+41       General administration                                                59,990,522             -                             427,672
+51       Facilities maintenance and operations                                190,550,216             -                         10,147,005
+52       Security and monitoring services                                      33,393,427             -                        -
+53       Data processing services                                              44,798,974             -                        -
+61       Community services                                                     7,088,134             -                        -
+91       Contracted instructional services between public schools                            -        -                        -
+95       Juvenile justice alternative education program                            792,000            -                        -
+97       Payments to tax increment fund                                        53,509,290             -                        -
+99       Tax appraisal and collection                                          19,913,644             -                        -
+     Debt service
+71       Principal                                                                 120,000          397,003,334                -
+71       Interest and fiscal charges                                           -                                               -
+81 Capital outlay                                                                   15,819                                     -
+            Total expenditures                                              2,121,893,114           397,003,334               145,419,189
+     Excess (deficiency) of revenues over (under) expenditures                (39,859,912)           (7,254,025)                   2,031,673
+
+
+     OTHER FINANCING SOURCES (USES)
+     Transfers in                                                              25,000,000            20,643,677                -
+     Sale of Property                                                          20,000,000
+     Transfers out                                                            (19,823,927)            -                        -
+            Total other financing sources (uses)                               25,176,073            20,643,677                -
+
+                 Net change in fund balances                                  (14,683,839)           13,389,652                    2,031,673
+                                           (1)
+     Estimated fund balances–beginning                                        799,864,486           168,399,312                 52,436,308
+
+     Estimated Fund balances–ending                                   $       785,180,647 $         181,788,964 $               54,467,981
+

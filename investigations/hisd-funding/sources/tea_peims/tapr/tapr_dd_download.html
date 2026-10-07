@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head id="Head1">
+    <!-- ENTER PAGE NAME FOR EACH PAGE -->
+    <title id="text1"></title>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- CSS -->
+<link href="/templates/css/bootstrap.min-2024.css" rel="stylesheet" media="screen" /> 
+<link href="/templates/css/tea-2024.css" rel="stylesheet" media="screen" />
+<link href="/templates/css/print.css" rel="stylesheet" media="print" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<!-- JAVASCRIPT -->
+<script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
+<script src="/public/templates/js/jquery-accessibleMegaMenu.js"></script>
+<script src="/public/templates/js/jquery.sidr.js"></script>
+<script src="/public/templates/js/bootstrap.min.js"></script>
+<script src="/public/templates/js/tea.js"></script>
+
+<SCRIPT LANGUAGE="JavaScript">
+    function validate() {
+        if (document.joe.form.value == "0") {
+            window.alert("You must select a data format.");
+            document.joe.form.focus();
+            return false;
+        }
+        if (document.joe.level.value == "0") {
+            window.alert("You must select an aggregate level.");
+            document.joe.level.focus();
+            return false;
+        }
+        if (document.joe.type.value == "0") {
+            window.alert("You must select test type.");
+            document.joe.type.focus();
+            return false;
+        }
+        if (document.joe.grade.value == "0") {
+            window.alert("You must select a grade level.");
+            document.joe.grade.focus();
+            return false;
+        }
+        if (document.joe.file.value == "0") {
+            window.alert("You must select year.");
+            document.joe.file.focus();
+            return false;
+        }
+        if (document.joe.type.value == "s") {
+            var yr = document.joe.file.value
+            yr = yr.replace('fy', '20')
+            yr = parseInt(yr)
+            //window.alert(yr);
+
+            if ((yr > 2009) && (document.joe.grade.value > 5)) {
+                window.alert("For year 2010 and after, Spanish files are only available for grades 3 through 5.");
+                return false;
+            }
+            else if (document.joe.grade.value > 6) {
+                window.alert("For year 2009 and earlier, Spanish files are only available for grades 3 through 6.");
+                return false;
+            }
+            else {
+                return true;
+            }
+        }//end check spanish files
+    }
+</SCRIPT>
+<script type="text/javascript">
+    function Search() {
+        $("#searchForm").submit();
+    }
+</script>
+</head>
+<body class="template_grid">
+
+    <!-- SKIP TO CONTENT LINK FOR SCREEN READERS -->
+    <a href="#main-content" class="skip">Skip to content</a>
+    <!-- BRAND BAR and HEADER -->
+    <!-- BRAND BAR -->
+    <nav id="brand-bar">
+        <div class="brand-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                        <p style="font-weight:bold; float:left; font-size:10pt;">
+                            Popular Applications
+                            <a href="https://tealprod.tea.state.tx.us/tea.askted.web/Forms/Home.aspx">AskTED</a>
+                            <a href="https://tea.texas.gov/educators/certification/educator-certification-online-system">Educator Certification Online System</a>
+                            <a href="https://tealprod.tea.state.tx.us/GrantOpportunities/forms/GrantProgramSearch.aspx">Grant Opportunities</a>
+                            <a href="https://tea.texas.gov/families-and-students/secure-applications/tea-secure-applications-information">Secure Applications</a>
+                            <a href="https://tealprod.tea.state.tx.us/">TEAL Login</a>
+                            <a href="https://www.texasstudentdatasystem.org/">TSDS</a>
+                        </p>
+                        <a href="https://helpdesk.tea.texas.gov/" style="float:right; padding-top:5px;" title="Help Desk"><img src="/templates/img/helpdeskwhite.png" alt="Help Desk logo" /></a>
+                    </div>
+                </div>
+                <!--</div>-->
+            </div>
+    </nav>
+
+
+    <!-- TABLET BAR -->
+    <!--    <div class="mobile-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                        <p><a href="" title="A-Z Index">A-Z Index</a> <a href="" title="Applications">Applications</a> <a href="" title="Contact">Contact</a></p>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+    <!-- TABLET BAR -->
+    <!--    <div class="tablet-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                        <a id="right-menu" href="#sidr-right">Applications <i class="fa fa-bars fa-lg"></i></a>
+                        <a id="left-menu" href="#sidr-left"><i class="fa fa-bars fa-lg"></i> Menu</a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+    <!-- PAGE HEADER -->
+    <header id="header" style="box-shadow: 0 15px 15px -15px #444;">
+        <div class="header">
+            <div class="container">
+                <div class="row">
+                    <div class="span12 header-wrapper">
+
+                        <!--                        <div class="mobile-menu-toggle">
+                                <i class="fa fa-bars fa-3x"></i>
+                            </div>
+    -->
+                        <div style="float:left; margin-top:5px;"> 
+                            <a href="http://tea.texas.gov/" title="Texas Education Agency logo">
+                                <img src="/templates/img/tea-logo-header-2_0.png" alt="Texas Education Agency logo" /> 
+                            </a>
+                        </div>
+                        <div class="search-form hide-mobile">
+                            <div class="input-append">
+                                <form action="https://tea.texas.gov/search" method="get" id="views-exposed-form-acquia-search-page" accept-charset="UTF-8">
+                                    <div class="form--inline form-inline clearfix" style="float:right; width: 100%;">
+                                        <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-s js-form-item-s form-group" style="float:right;">
+                                            <label for="edit-s">Search</label>
+                                            <p style="float: left; height: 24px; font-weight:bold; padding-top: 4px;">Search&nbsp;</p>
+                                            <input placeholder="Enter Keywords" data-drupal-selector="edit-s" class="form-text form-control" type="text" id="edit-s" name="s" value="" size="30" maxlength="128"
+                                                   style="height:24px; padding-left: 10px; padding-top: 3px; border-color: lightgray; border-width:1px;">
+                                            <button class="btn btn-search" type="submit" onclick="Search();"><i class="fa fa-search fa-lg"></i></button>
+                                        </div>
+                                    </div>
+                                    <div style="float:right;">
+                                        <ul style="list-style-type: none; padding-top: 0 ; margin-top: 0; ">
+                                            <li>
+                                                <a class="menu-two" href="https://tea.texas.gov/a-z-index">A-Z Index</a>
+                                                <a class="menu-two" href="https://tea.texas.gov/about-tea/contact-us/contact-us">Contact Us</a>
+                                                <a class="menu-two" href="https://tea.texas.gov/about-tea/careers-tea">Careers at TEA</a>
+                                                <a class="menu-two" href="https://sboe.texas.gov">State Board of Education</a>
+                                                <a class="menu-two" href="https://public.govdelivery.com/accounts/TXTEA/subscriber/new">Sign Up for Updates</a>
+                                                <a class="menu-two" href="https://tea.texas.gov/taa-letters">TAA Correspondence</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    </header>
+
+
+  <div class="page_body">
+    <div class="container">
+      <div class="row-fluid">
+                
+                <div class="span12">
+                       <nav id="breadcrumbs">
+                       <!-- ADD BREADCRUMB LINKS-->
+                           <p class="breadcrumb">
+                               <a href="https://tea.texas.gov/">Home</a>
+                               <span class="divider">&gt;</span>
+                               <a href="https://tea.texas.gov/school-and-district-leaders/accountability/academic-accountability/performance-reporting/performance-reporting">Performance Reporting Division</a>
+                               <span class="divider">&gt;</span>
+                               <a href="https://tea.texas.gov/school-and-district-leaders/accountability/academic-accountability/performance-reporting/texas-academic-performance-reports">Texas Academic Performance Reports</a>
+                               <span class="divider">&gt;</span>
+                               <a href="#" id="url1"><span id="text2"></span> Texas Academic Performance Reports</a> 
+                               <span class="divider">&gt;</span>
+                               <span class="active"> <span id="text4"></span> TAPR Data Download</span>
+                           </p>
+                    </nav>
+                    <main id="main-content">
+                        <div class="main-content">
+                            <!--ADD PAGE TITLE -->
+                            <h2><span id="text5"></span> TAPR Data Download</h2>
+                            <!-- ADD MAIN CONTENT -->
+                            <form method="get" target="SASoutput" action="/cgi/sas/broker" name="camp" id="ddReports">
+                                <input type="hidden" name="_service" value="marykay">
+                                <input type="hidden" name="_program" value="perfrept.perfmast.sas">
+                                <input type="hidden" name="_debug" value="0">
+                            </form>
+                            <p>
+                                <div style="float: left; width: 20%; height: 350px; padding-top: 5px;">
+                                    <strong><span class="bullet">&#10148</span> Step 1: Select a School Year</strong><br>
+                                    <select name="ccyy" id="ccyy" form="ddReports" style="width: 100px; padding: 4px;" title="Select a school year." onchange="resetTapr();">
+                                        <option value="2025" selected>2024-25</option>
+                                        <option value="2024">2023-24</option>
+                                    </select>
+                                    <br /><br />
+                                    <strong><span class="bullet">&#10148 </span>Step 2: <span id="download-text">Download Type</span></strong><br />
+                                    <select name="tapr" id="tapr" form="ddReports" style="width: 80%;" onchange="downloadText();  submitForm();">
+                                        <option value="" disabled selected>Select a Type</option>
+                                        <optgroup label="Campuses by" style="background-color: lightblue;">
+                                            <option class="header1" value="c_d">District</option>
+                                            <option class="header1" value="c_r">Region</option>
+                                            <option class="header1" value="c_co">County</option>
+                                        </optgroup>
+                                        <optgroup label="Districts by">
+                                            <option class="header1" value="d_r">Region</option>
+                                            <option class="header1" value="d_co">County</option>
+                                        </optgroup>
+                                        <optgroup label="All">
+                                            <option class="header1" value="all_c">Campuses</option>
+                                            <option class="header1" value="all_d"> Districts</option>
+                                            <option class="header1" value="all_r">Regions</option>
+                                            <option class="header1" value="all_s">State</option>
+                                        </optgroup>
+                                    </select>
+
+                                    <div style="padding-top: 20px ; padding-left: 20px;">
+                                        <input type="reset" id="reset" value="Reset" onClick="resetTapr();" title="Click to reset search page.">
+                                    </div>
+                                    <br />
+                                    <strong>Resources</strong>
+                                    <ul class="ul-resources">
+                                        <li class="li-resources"><a href="#" id="url2" target="_blank">TAPR Glossary</a></li>
+                                        <li class="li-resources"><a href="#" id="url3" target="_blank">TAPR Glosario</a></li>
+                                        <li class="li-resources"><a href="#" id="url4" target="_blank" title="Public notitication requirements">TAPR Guidelines</a></li>
+                                        <li class="li-resources"><a href="#" id="url5" target="_blank">Explanation of Masking</a></li>
+                                        <li class="li-resources"><a href="https://rptsvr1.tea.texas.gov/perfreport/aeis/index.html" target="_blank">AEIS Archives</a></li>
+                                        <li class="li-resources"> <a href="https://tea.texas.gov/about-tea/state-funding/state-funding-reports-and-data/peims-financial-data-downloads">PEIMS Financial Data Downloads</a></li>
+                                    </ul>
+                                </div>
+
+                                <input type="hidden" name="prgopt" value="reports/tapr/dd/dd_tapr.sas" form="ddReports">
+
+                                <div style="float: left; width: 80%; ">
+                                    <iframe id="SASoutput" name="SASoutput" style="width:100%; padding: 0; margin: 0;" frameborder="0" scrolling="no"> </iframe>
+                                </div>
+                                <hr>
+                                <hr>
+
+                                <link rel="stylesheet" href="/perfreport/account/css/acct_srch.css">
+                                <style>
+                                    optgroup {
+                                        font-weight: bold;
+                                        background-color: lightblue;
+                                    }
+
+                                    .header1 {
+                                        background-color: white;
+                                    }
+
+                                    ul, li {
+                                        font-family: Arial;
+                                        font-size: 14px;
+                                    }
+
+                                    .ul-resources {
+                                        margin-top: 0;
+                                    }
+
+                                    .li-resources {
+                                        padding-bottom: 5px;
+                                        list-style: none ;
+                                        margin-left: -32% ;
+                                        padding-left: 0px ;
+                                    }
+                                </style>
+
+                                <script>
+                                    function getYearValue() {
+                                        // Get the dropdown element
+                                        const dropdown = document.getElementById("ccyy");
+                                        // Get the selected value
+                                        const selectedValue = dropdown.value;
+                                        // Get the display text for the selected option
+                                        const yypy_cy = dropdown.options[dropdown.selectedIndex].text;
+                                        const ccyy        = dropdown.options[dropdown.selectedIndex].value;
+
+                                        // Change school year values
+                                        document.getElementById('text1').innerHTML = yypy_cy + ' TAPR Data Download';
+                                        document.getElementById('text2').innerHTML = yypy_cy ;
+                                        document.getElementById('text4').innerHTML = yypy_cy ;
+                                        document.getElementById('text5').innerHTML = yypy_cy;
+
+                                        document.getElementById('url1').href = "../tapr/" + ccyy + "/index.html";
+                                        document.getElementById('url2').href = "../tapr/" + ccyy + "/glossary.pdf";
+                                        document.getElementById('url3').href = "../tapr/2024-25-comprehensive-tapr-glossary-sp.pdf";
+                                        document.getElementById('url4').href = "../tapr/" + ccyy + "/tapr-guidelines-" + ccyy + ".pdf";
+                                        document.getElementById('url5').href = "../tapr/" + ccyy + "/masking.html";
+
+                                        // Pass the year value to the iframe.
+                                        document.getElementById('SASoutput').src = "tapr_dd_blank_iframe.html?year=" + ccyy;
+                                        adjustIframeHeight();
+                                    }
+
+                                    function resetTapr() {
+                                        // Reset the download-text span to its default label
+                                        const downloadTextSpan = document.getElementById('download-text');
+                                        downloadTextSpan.textContent = 'Download Type';
+
+                                        // Reset the tapr dropdown to its default
+                                        const taprSelect = document.getElementById('tapr');
+                                        taprSelect.selectedIndex = 0;
+
+                                        // Reset the iframe to its original state (e.g., blank or default page)
+                                        const iframe = document.getElementById('SASoutput');
+                                        // Get the dropdown element
+                                        const dropdown = document.getElementById("ccyy");
+                                        // Get the selected value
+                                        const selectedValue = dropdown.value;
+                                        // Get the display text for the selected option
+                                        const ccyy = dropdown.options[dropdown.selectedIndex].value;
+                                        iframe.src = "tapr_dd_blank_iframe.html?year=" + ccyy;    // or set to a default URL like 'default.html' if needed
+
+                                        getYearValue(); 
+                                    }
+
+                                    function downloadText() {
+                                        var dl_type = document.getElementById('tapr').value;
+                                        if (dl_type == 'c_r' || dl_type == 'c_co' || dl_type == "c_d_co" || dl_type == "c_d") {
+                                            document.getElementById('download-text').innerHTML = 'Campus(es) by';
+                                        }
+                                        else if (dl_type == 'd_r' || dl_type == 'd_co') {
+                                            document.getElementById('download-text').innerHTML = 'District(s) by';
+                                        }
+                                        else {
+                                            document.getElementById('download-text').innerHTML = 'Download All';
+                                        }
+                                    }
+
+                                    function submitForm() {
+                                        document.getElementById("ddReports").submit();
+                                    }
+
+                                    function adjustIframeHeight() {
+                                        const iframe = document.getElementById('SASoutput');
+                                        if (iframe && iframe.contentWindow && iframe.contentWindow.document && iframe.contentWindow.document.body) {
+                                            iframe.style.height = '5px';  // Reset height first
+                                            const contentHeight = iframe.contentWindow.document.body.scrollHeight - 20;
+                                            const maxHeight = 680;
+                                            iframe.style.height = Math.min(contentHeight, maxHeight) + 'px';
+
+                                            if (Math.min(contentHeight, maxHeight) == maxHeight) {
+                                                document.getElementById('SASoutput').setAttribute("scrolling", "auto");
+                                            }
+                                            else {
+                                                document.getElementById('SASoutput').setAttribute("scrolling", "no");
+                                            }
+                                        }
+                                    }
+
+                                    // Set Year if passed in url. 
+                                    function set_year() {
+
+                                        // Parse URL parameters
+                                        const params = new URLSearchParams(window.location.search);
+                                        const year = params.get("year");
+                                        const lev = params.get("lev");
+
+                                        // Set the value for the "year" select if it exists
+                                        if (year) {
+                                            const yearSelect = document.getElementById("ccyy");
+                                            if (yearSelect) yearSelect.value = year;
+                                        }
+
+                                        // Set the value for the "lev" select if it exists
+                                        if (lev) {
+                                            const levSelect = document.getElementById("lev");
+                                            if (levSelect) levSelect.value = lev;
+                                        }
+                                    }
+
+                                    // Attach the function to the iframe's onload event
+                                    document.getElementById('SASoutput').onload = function () {
+                                        adjustIframeHeight('SASoutput');
+                                    } ;
+                                </script>
+                                <script>
+                                    window.onload = function () {
+                                        set_year();
+                                        getYearValue();
+                                    }
+                                </script>
+
+                                <!-- END OF YOUR CONTENT -->
+                                <!-- PAGE FOOTER and MOBILE BRAND BAR -->
+                                                   </div>
+                    </main>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<footer id="footer">
+    <div class="footer" style="-webkit-border-radius: 0 0 10px 10px; -moz-border-radius: 0 0 10px 10px; border-radius: 0 0 10px 10px;">
+        <div class="container">
+            <div class="social-icons">
+                <a class="icon" href="http://www.facebook.com/pages/Texas-Education-Agency/136486219721300" title="Facebook" target="_blank" rel="nofollow"><img class="img-social" src="/templates/img/363386" alt="Facebook Icon" /></a>
+                <a class="icon" href="https://x.com/teainfo" title="X" target="_blank" rel="nofollow"><img class="img-social" src="/templates/img/363401" alt="X Icon" /></a>
+                <a class="icon" href="http://www.youtube.com/user/TxEdAgency" title="YouTube" target="_blank" rel="nofollow"><img class="img-social" src="/templates/img/363406" alt="YouTube Icon" /></a>
+                <a class="icon" href="https://instagram.com/texaseducationagency/" title="Instagram" target="_blank" rel="nofollow"><img class="img-social" src="/templates/img/363391" alt="Instagram Icon" /></a>
+                <a class="icon" href="https://www.threads.net/texaseducationagency" title="Threads" target="_blank" rel="nofollow"><img class="img-social" src="/templates/img/363396" alt="Threads Icon" /></a>
+            </div>
+
+            <div class="span12">
+                <div class="nav-contact-main" style="float:left;">
+                    <nav class="nav-contact" style="text-align:center;">
+                        <a title="Texas State Seal" href="https://tea.texas.gov/"><img src="/templates/img/tea-seal.png" alt="Texas State Seal" /></a>
+                    </nav>
+
+                    <!-- TEA Contact Info -->
+                    <nav class="nav-contact">
+                        <ul>
+                            <li><a title="Texas Education Agency" href="https://tea.texas.gov/">Texas Education Agency</a></li>
+                            <li>1701 N. Congress Avenue</li>
+                            <li>Austin, Texas, 78701</li>
+                            <li>(512) 463-9734</li>
+                            <li><a href="https://www.google.com/maps/place/Texas+Education+Agency/@30.2791716,-97.740167,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b59f00e74c6f:0x888e03ba197a06c3!8m2!3d30.279167!4d-97.7379783" title="Map" target="_blank">Map <span class="fa fa-external-link" data-extlink-placement="append"></span></a> | <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d6a6ad84-23b1-41e7-9a7c-bfddb75913ca" href="https://tea.texas.gov/about-tea/welcome-and-overview/site-policies" title="Site Policies">Site Policies</a> | <a href="https://tea.texas.gov/sitemap" title="Sitemap">Sitemap</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                
+                <!-- menuFooter -->
+                <nav class="nav-ul">
+                    <ul>
+                        <li><a href="http://tea.texas.gov/interiorpage.aspx?id=8060">Compact with Texans</a></li>
+                        <li><a href="http://tea.texas.gov/interiorpage.aspx?id=25769817700">Complaints</a></li>
+                        <li><a href="http://tea.texas.gov/interiorpage.aspx?id=2147503292">ESC's</a></li>
+                        <li><a href="http://tea.texas.gov/interiorpage.aspx?id=25769815941">Equal Educational Opportunity</a></li>
+                    </ul>
+                </nav>
+
+                <nav class="nav-ul">
+                    <ul>
+                        <li><a href="http://tea.texas.gov/interiorpage.aspx?id=4857">Fraud Hotline</a></li>
+                        <li><a href="http://tea.texas.gov/interiorpage.aspx?id=25769805784">Frequently Asked Questions</a></li>
+                        <li><a href="https://gov.texas.gov/organization/disabilities">Governor&#39;s Committee on<br />People with Disabilities</a></li>
+                        <li><a href="https://gov.texas.gov/organization/hsgd">Homeland Security</a></li>
+                        <li><a href="http://tea.texas.gov/interiorpage.aspx?id=7995">Military Families</a></li>
+                    </ul>
+                </nav>
+
+                <nav class="nav-ul">
+                    <ul>
+                        <li><a href="http://tea.texas.gov/interiorpage.aspx?id=25769805784">Public Information Requests</a></li>
+                        <li><a href="http://www.texas.gov/">State of Texas</a></li>
+                        <li><a href="https://www.tsl.texas.gov/trail/index.html">TRAIL</a></li>
+                        <li><a href="http://www.capitol.state.tx.us/">Texas Legislature</a></li>
+                        <li><a href="https://veterans.portal.texas.gov/">Texas Veterans Portal</a></li>
+                        <li><a href="http://www.texastransparency.org/">Where Our Money Goes</a></li>
+                    </ul><br /><br />
+                </nav>
+            </div>
+        </div>
+        <p class="copyright">&copy; Copyright 2007-<span id="cr_year"></span> Texas Education Agency (TEA). All Rights Reserved.</p>
+    </div>
+</footer>
+
+<!-- MOBILE NAVIGATION -->
+<div id="sidr-left" class="sidr left">
+    <ul>
+        <li><a href="http://tea.texas.gov" title="TEA Home Page">TEA Website</a> </li>
+        <li><a href="http://tea.texas.gov/About_TEA/Contact/" title="Contact TEA">Contact TEA</a> </li>
+        <li><a href="https://public.govdelivery.com/accounts/TXTEA/subscriber/new">Sign Up For Updates</a> </li>
+    </ul>
+</div>
+<!-- MOBILE BRAND BAR -->
+<!--<div id="sidr-right" class="sidr right">
+    <ul>
+        <li><a href="http://tea.texas.gov" title="TEA Home Page">TEA Website</a> </li>
+        <li><a href="http://tea.texas.gov/About_TEA/Contact/" title="Contact TEA">Contact TEA</a> </li>
+        <li><a href="" title="https://public.govdelivery.com/accounts/TXTEA/subscriber/new" title="Sign Up For Updates">Sign Up For Updates</a> </li>
+    </ul>
+</div> -->
+
+    <script type="text/javascript">
+        // Updates the copyright year.  
+        function copyright_year() {
+            document.getElementById('cr_year').innerHTML = new Date().getFullYear();
+        }
+
+        copyright_year();
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-43890902-2']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+        /*<![CDATA[*/
+        (function () {
+            var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+            sz.src = '//us2.siteimprove.com/js/siteanalyze_77443.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+            /*]]>*/
+    </script>
+
+    <style>
+        .social-icons {
+            margin-top: 1em;
+            margin-bottom: 1em;
+            width: 100%;
+            height: 30px;
+            text-align: right;
+        }
+
+        .icon {
+            margin-right: 30px;
+        }
+
+        .img-social {
+            height: 28px;
+        }
+
+        li {
+            line-height: 20px;
+        }
+
+        .nav-contact-main {
+            width: 450px;
+            height: 150px;
+            float: left;
+        }
+
+        .nav-contact {
+            margin-left: 5px;
+            width: 220px;
+            height: 150px;
+            float: left;
+        }
+
+        .nav-ul {
+            margin-left: 5px;
+            width: 220px;
+            height: 150px;
+            float: left;
+        }
+
+        .copyright-li {
+            font-size: 14pt;
+        }
+
+        @media (400px <= width <= 700px) {
+            .nav-contact-main {
+                margin-left: 5px;
+                width: 100%;
+                height: fit-content;
+                float: left;
+            }
+
+            .nav-contact {
+                margin-left: 5px;
+                width: 48%;
+                float: left;
+            }
+
+            .nav-ul {
+                margin-left: 5px;
+                width: 90%;
+                float: left;
+                height: fit-content;
+            }
+        }
+    </style>
+    </body>
+</html>
+

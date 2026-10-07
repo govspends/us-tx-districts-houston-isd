@@ -1,0 +1,48 @@
+# Audit summary: how this investigation was produced
+
+**Status: not independently reviewed.** Unlike some other govspends investigations, this report has not yet had a separate independent review pass. Treat it as a careful first-pass investigation with known open items (listed below and in each page), not a finished, cross-checked audit.
+
+## Origin and method
+
+The investigation began from a direct question: was it true that Houston ISD's per-student reimbursement from the state of Texas had fallen? It was prepared with an AI assistant (Claude) working from public records under a person's direction, between 2026-10-06 and 2026-10-07.
+
+1. **State formula data.** The person holding HISD's TEA account retrieved three "Summary of Finances" reports directly from TEA's own report portal (a JavaScript application with no automated data export) and supplied the PDFs. These are the only primary-source figures in this investigation that could not be independently re-fetched by the assistant; they are reproduced in full in `sources/`.
+2. **Four parallel research tracks**, each run as a separate research pass and cross-checked against the others afterward:
+   - HISD's audited financial statements (ACFR), FY2022-FY2025.
+   - HISD's adopted budgets, FY2025-FY2027, and in-year amendments.
+   - TEA/Comptroller data: PEIMS actuals (district and by campus), TAPR staffing data, School FIRST ratings, and peer-district comparisons.
+   - Federal funds (single audits), bonds and debt, and other policy-driven money flows (TIRZ, recapture history, NES funding, vouchers, charters).
+3. **Spot-checks against source PDFs.** Headline figures from each research pass were independently re-verified by searching the extracted PDF text (or, for image-only pages, OCR output) and confirming the exact figure, before being written up. Several figures were corrected this way; see below.
+4. **A reproducible extraction script** (`scripts/sof_extract.py`) parses the three TEA Summary of Finances PDFs into `data/sof_key_figures.csv` and checks that the totals reconcile internally (state aid equals the sum of its components, in each of the three reports) before writing the output. It exits non-zero if a check fails.
+5. **Browser automation**, added partway through the investigation (Playwright, restricted by configuration to TEA's own report domain, using the system browser), was used to pull one additional school year's recapture figure directly from TEA's live dashboard, as a primary-source cross-check against the audited figures.
+
+## Corrections made during the investigation
+
+1. **The explanation for HISD's rising state aid was wrong in an early draft, and was corrected.** The first explanation offered was that falling enrollment had reduced HISD's local tax revenue below the threshold for recapture. That is backwards: a falling entitlement from fewer students should, if anything, increase recapture risk, not reduce it. The actual cause, confirmed directly from TEA's own compression worksheet, is the 2023 property tax relief law (Senate Bill 2, 88th Legislature, 2nd Called Session): TEA's own calculation shows HISD would have owed $156.3 million in recapture for SY2026-27 without the additional 10.7-cent tax-rate compression that law enacted. The correction, with the worksheet citation, is in `data/hisd_sof_trend.md`.
+2. **An earlier assumption that HISD does not pay recapture was wrong.** HISD paid $49.1 million (TEA's figure) or $56.9 million (the audited figure; see the discrepancy below) in recapture for SY2024-25/FY2025, before the 2023 compression law brought it close to zero for the following two years.
+3. **The ACFR's own "cost per pupil" statistical series was found to be computed inconsistently** across years: for FY2020-2022, HISD's reported operating expenditures included bond-refunding escrow payments that should have been excluded, inflating those years' figures by the exact amount of the escrow payment. Recomputed, consistent figures are given in `notes/acfr.md` alongside the as-published ones.
+4. **Twenty campus names in the TEA campus-actuals data were found to be mislabeled** (the campus ID numbers are correct; the names attached to them are not — for example, campus 101912310 is labeled "Horn El" but is actually Houston MSTC). This was caught and documented, but not corrected campus-by-campus in the underlying data file; anyone using `data/hisd_campus_actuals.csv` by name rather than by ID should check against `sources/tea_peims/campus/allcamp_actual_2025_101912.txt`.
+
+## Known unreconciled inconsistencies (not corrected; flagged for a future pass)
+
+These appear across the report pages with full citations; they are collected here for visibility.
+
+- **HISD's FY2025 recapture payment is reported as five different figures** in five different documents: $49.1M (TEA's Summary of Finances, Final), $56.9M (the audited ACFR and PEIMS), $44.5M (HISD's own final amended budget), approximately $65M (a bond official statement), and $55.5M (a Texas Tribune news report). The likely explanation is a mix of accrual-versus-cash timing and TEA's multi-year settle-up adjustments, but no document reconciles them.
+- **HISD's tax year 2025 M&O tax rate is reported as both $0.8783 (with "disaster pennies" added in October 2025) and $0.8489** (a May 2026 bond official statement), a roughly $68 million difference in annual levy depending on which figure is right.
+- **The ACFR's own statistical tables disagree with its own notes** on the FY2025 tax rate (one table shows 0.7116/0.8783; the notes and levy table show 0.7016/0.8683) — the table row appears to have been mistakenly populated with the following year's rate.
+- **A subsequent-event note in the FY2025 ACFR describes a $20.555 million tax-note issuance**, which conflicts with the $114.39 million par value in that issuance's own official statement; the ACFR note appears to have been copied from an earlier, smaller issuance.
+
+## How to re-verify
+
+- `scripts/sof_extract.py` rebuilds `data/sof_key_figures.csv` from the three TEA PDFs' extracted text and checks that the totals reconcile; it prints `OK` or `MISMATCH` for each check and exits non-zero on failure.
+- `scripts/parse_campus_actuals.py` and `scripts/analyze_campus_nes.py` rebuild the campus-level and NES-versus-non-NES spending tables from TEA's own campus actuals reports.
+- `scripts/build_peer_comparison.py` and `scripts/build_tapr_peers.py` rebuild the peer-district comparison tables from TEA's statewide PEIMS and TAPR data downloads.
+- Every dollar figure in the report pages is cited to a specific document and, where applicable, page number; the document is in `sources/` and its SHA-256 checksum is in `MANIFEST_SHA256.txt`.
+- The full per-track research notes, including every figure's exact citation, are in `notes/acfr.md`, `notes/budget.md`, `notes/tea_peims.md` and `notes/federal_debt.md`.
+
+## What this investigation does not cover
+
+- FY2026 audited actuals (not yet published by HISD as of this writing) and 2025-26/2026-27 PEIMS actuals (not yet published by TEA).
+- The FY2027 adopted budget book's object-level and school-by-school detail (HISD had not yet published it; only the function-level schedule and board workshop decks were available).
+- Independent verification of HISD's own-reported attendance (ADA/WADA) data against a source outside TEA.
+- A reconciliation of the recapture and tax-rate discrepancies listed above.

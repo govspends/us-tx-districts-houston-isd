@@ -1,0 +1,38 @@
+name: checks and hub rebuild
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Hub tools
+        uses: actions/checkout@v7
+        with: { repository: govspends/govspends, path: .hub }
+      - uses: actions/setup-python@v7
+        with: { python-version: "3.12" }
+      - name: System libraries for WeasyPrint
+        run: sudo apt-get update -q && sudo apt-get install -y -q libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz0b fonts-liberation
+      - run: pip install -r .hub/requirements.txt
+      - name: Generated tables, synced pages and the profile page are current
+        run: |
+          python3 .hub/tools/sync_docs.py --check
+          python3 .hub/tools/build_site.py --check
+
+  rebuild-hub:
+    needs: checks
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ask the hub to rebuild the website
+        env:
+          TOKEN: ${{ secrets.HUB_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then echo "::warning::HUB_DISPATCH_TOKEN is not set; the hub will pick this change up on its daily schedule"; exit 0; fi
+          curl -sS -f -X POST -H "Authorization: Bearer $TOKEN" -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/govspends/govspends/dispatches \
+            -d "{\"event_type\":\"government-updated\",\"client_payload\":{\"repository\":\"${{ github.repository }}\",\"sha\":\"${{ github.sha }}\"}}"

@@ -1,0 +1,48 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+At June 30, 2025, the District's exposure to interest rate risk as measured by segmented time
+distribution by investment type, including fiduciary funds is summarized as follows:
+Issurer                Investment Maturities in Years
+6/30/2025          Concentration         Less than 1 year          1-5 Years
+Agency Securities            S    206,121,842 S$         15.56% S$             -    S    206,121,842
+Municipal Bonds                         55,479,268                4.19%                   -            55,479,268
+g—22328 Ale - _ 231/3208
+Total Securities                             261,601,110                 19.75%                      -             261,601,110
+Lone Star Investment Pool               405,036,232                 30.58%           405,036,232                     -
+Texas Class                                    2,171,958                  0.16%              2,171,958                     -
+Texas FIT                                    591,721,940                44.68%           591,721,940                     -
+Texas Range                               50,025,391                 3.78%            50,025,391                   -
+Tex Pool                                      13,835,932                  1.04%             13,835,932                     -
+Total Investment Pools                1,062,791,453               80.25%        1,061,874,637                   -
+Total Investments                S$  1,324,392,563 $          100.00% $     1,061,874,637 S      261,601,110
+As of June 30, 2025, the weighted average maturity of the total portfolio, assuming investments are
+held to final maturity date and not call dates, was 264 days.
+Credit Risk
+The District's Cash Management and Investment Policy allows for investments in commercial paper
+provided it meets the following criteria:
+1. the maximum maturity does not exceed 365 days from the date of issuance;
+2. itis rated at least A1 or P1 by two nationally recognized credit rating agencies;
+3. be issued for a specific face amount;
+4. be issued either through a direct placement or through broker dealers; and
+5. the District will diversify its investment in commercial paper by issuer and by length of maturity.
+As of June 30, 2025, the District did not have any direct investments in commercial paper. The
+District's exposure to credit risk at June 30, 2025 is presented below by investment category as rated
+by Standard & Poor’s along with the District's level of input hierarchy utilized to measure fair values:
+Fair Value
+6/30/2025             Measurement
+Value                   Input Level                   Rating
+Agency Securities                 S           206,121,842              Level 2                    Aaa, AA+
+Municipal Bonds                              55,479,268             Level 2                Aa3, AA, AA
+Total Securities                              261,601,110
+Lone Star Investment Pool                 405,036,232               N/A               AAAmM, AAAF/S1+
+Texas Class                                           2,171,958                 N/A                         AAAM
+Texas FIT                                        591,721,940                N/A                        AAAf
+Texas Range                                     50,025,391                N/A                      AAAMf
+Tex Pool                                     13,835,932              N/A                    AAAM
+Total Investment Pools                 1,062,791,453
+Total Investments             S       1,324,392,563
+- 53 -
+Back to Top

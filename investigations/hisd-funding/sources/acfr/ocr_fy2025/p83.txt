@@ -1,0 +1,44 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+the pension plan’s fiduciary net position was projected to be available to make all future benefit
+payments of current plan members. Therefore, the long-term expected rate of return on pension
+plan investments was applied to all periods of projected benefit payments to determine the total
+pension liability. The long-term expected rate of return on pension plan investments was determined
+using a building-block method in which best estimates ranges of expected future real rates of return
+(expected returns, net of pension plan investment expense and inflation) are developed for each
+major asset class. These ranges are combined to produce the long-term expected rate of return
+by weighting the expected future real rates of return by the target asset allocation percentage and
+by adding expected inflation. Best estimates of geometric real rates of return for each major asset
+class included in TRS’s target asset allocation as of August 31, 2024 are summarized below:
+Target         Long-Term Expected      Contribution to Long-
+Allocation**      Geometic Real Rate        Term Portfolio
+Asset Class                             %               of Return***                Returns
+Global Equity
+USA                                   18.0 %             4.4 %              1.0 %
+Non-U.S. Developed                       13.0 %            4.2 %              0.8 %
+Emerging Markets                         9.0 %            52 %              0.7 %
+Private Equity                            14.0 %            6.7 %              1.2 %
+Stable Value
+Government Bonds                        16.0 %             1.9 %              0.4 %
+Stable Value Hedge Funds                      5.0 %               3.0 %                 0.2 %
+Absolute Return *                          0.0 %             4.0 %              0.0 %
+Real Return
+Real Estate                              15.0 %             6.6 %              1.2 %
+Energy, Natural Resources & Infrastructure        6.0 %                5.6 %                  0.4 %
+Commodities                              0.0 %             2.5 %              0.0 %
+Risk Parity                               8.0 %            4.0 %              04 %
+Asset Allocation Leverage
+Cash                                   2.0 %            1.0 %              0.0 %
+Asset Allocation Leverage                 (6.0) %            1.3 %            (0.1) %
+Inflation Expectation                                                                          2.4 %
+Volatility Drag****                                                                       (0.7) %
+Expected Return                         100.0 %                                79 %
+* Absolute Return includes Credit Sensitive Investments.
+** Target allocations are based on the FY 2024 policy model
+*** Capital Market Assumptions (CMA) come from 2024 SAA Study CMA Survey (as of 12/31/2023)
+**** The volatility drag results fromthe conversion betw een arithmetic and geometric mean returns.
+- 73 -
+Back to Top

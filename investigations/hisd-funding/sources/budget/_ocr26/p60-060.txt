@@ -1,0 +1,22 @@
+ao Ps
+S| W| Non NES Campuses
+S a 2 Cl
+:g) \ OA Houston Independent School District
+Non-NES (PUA) campuses have defined autonomy based upon their accountability rating
+or designation as a separate and unique (SUS) magnet campus. Resource allocation is
+calculated on enrollment, average daily attendance percentage, and a per unit allocation.
+HISD DEFINED AUTONOMY
+LEVEL 4 p> Separate and Unique Magnets (SUS)
+LEVEL 3 P| A & B-rated Schools
+LEVEL 2 pp | C and D-rated Schools (non-NES)
+LEVEL 1 P| NES Schools
+SPECIAL CATEGORY Special Programs
+AUTONOMY LEVEL TYPE NUMBER OF SCHOOLS
+LEVEL 4 | Separate and Unique Magnet Schools | 21
+LEVEL 3 A and B-rated schools 57
+LEVEL 2 C and D-rated schools that are not NES | 41
+L LEVEL 1 | NES Schools | 130 J
+. Alternative; Special Education Placement Schools;
+Special Category Early Childhood Centers 18
+i TOTAL | 267
+2025-2026 Adopted Budget Organizational Section 53

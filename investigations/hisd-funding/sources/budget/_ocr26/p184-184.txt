@@ -1,0 +1,34 @@
+Chief of Staff
+Department Description
+The Chief of Staff department is a key part of the superintendent cabinet, working to align district
+strategy, operations, and communications, supporting the superintendent's vision, and bridging
+leadership with school-level execution.
+Key Action 1 - Improve Districtwide systems and efficiency - Data Goverance
+Indicators of Success
+o By January 2026, the 400 queries have clear systems-people-processes yielding valid and actionable
+data.
+o By January 2026, the 400 queries have codified business rules, allowing any employee with
+security/permissions to replicate data for their own team/department analysis.
+o By 1 January 2026, the District will have access to a real-time PowerBI report that reports on the
+'400 questions’.
+® By December 1, 2025, the District Data Lake supports the comprehensive 400 queries.
+o By 1 September 2025, the District will be able to acquire accurate, updated data or answers to 200
+recurring or important queries within an hour of a request from a Cabinet member
+o By 1 January 2026, the District will be able to acquire accurate, updated data or answers to 400
+recurring or important queries within an hour of a request from a Cabinet member
+Specific Actions
+1 Develop plan to align and integrate data systems
+2 Identify and align on first 200 recurring or important queries
+3 Complete data audit to identify owners for 200 queries, and codify systems and processes
+4 Identify and align on 400 recurring or important queries
+5 Complete data audit to identify owners for remaining 200 queries, and codify systems and processes
+6 Ensure projects are broken into manageable phases, with clear milestones and progress tracking
+7 Establish quarterly progress monitoring cadence with Cabinet
+8 Build out SY 25-26 HISD Action Plan Dashboard to pull data from central data lake.
+9 Support with centralized project management oversight and alignment
+Key Action 2 - Improve Districtwide systems and efficiency - Improve Data Accountibility and Continuous
+Indicators of Success
+o Complete integreated Power Bl dashboard for all District Action Plan Indicators of Success with
+quartely measures
+e facilitating quarterly step-backs
+2025-2026 Adopted Budget Informational Section 175

@@ -1,0 +1,63 @@
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+RECOMMENDED BUDGET
+SCHEDULE OF REVENUES, APPROPRIATIONS, AND CHANGES IN FUND BALANCE - GENERAL FUND, DEBT SERVICE, AND NUTRITION SERVICES
+FOR THE FISCAL YEAR ENDED JUNE 30, 2027
+
+
+     REVENUES                                                                                     General Fund             Debt Service          Nutrition Services
+     Local sources                                                                                   1,604,861,362            383,039,437                    6,626,717
+     State sources                                                                                     364,725,695             16,484,589                     491,957
+     Federal sources                                                                                     20,860,000                                      123,951,771
+            Total revenues                                                                 $         1,990,447,057 $          399,524,026 $              131,070,445
+
+     APPROPRIATIONS
+
+
+11       Instruction                                                                       $         1,148,040,067 $            -            $           -
+12       Instructional resources and media services                                                          5,059,621          -                        -
+13       Curriculum development and instructional staff development                                      10,669,615             -                        -
+21       Instructional leadership                                                                        79,557,300             -                        -
+23       School leadership                                                                             215,400,326              -                        -
+31       Guidance, counseling, and evaluation services                                                   56,597,969             -                        -
+32       Social work services                                                                                2,546,968          -                        -
+33       Health services                                                                                 24,494,267             -                        -
+34       Student (pupil) transportation                                                                  50,424,755             -                        -
+35       Food services                                                                                         68,900           -                        125,860,656
+36       Co-curricular/extracurricular activities                                                        22,567,751             -                        -
+41       General administration                                                                          52,226,155             -                             710,500
+51       Facilities maintenance and operations                                                         196,948,263              -                            3,994,557
+52       Security and monitoring services                                                                35,579,566             -                        -
+53       Data processing services                                                                        42,549,020             -                        -
+61       Community services                                                                                  6,839,219          -                        -
+95       Juvenile justice alternative education program                                                       792,000           -                        -
+97       Payments to tax increment fund                                                                  44,698,594             -                        -
+99       Tax appraisal and collection                                                                    19,913,644             -                        -
+     Debt service
+71       Principal                                                                                       -                    384,380,000                -
+71       Interest and fiscal charges                                                                     -                     59,976,039                -
+81 Capital outlay                                                                                              33,011                                    -
+            Total expenditures                                                                       2,015,007,011            444,356,039                130,565,713
+     Excess (deficiency) of revenues over (under) expenditures                                          (24,559,954)          (44,832,013)                    504,732
+
+
+     OTHER FINANCING SOURCES (USES)
+     Transfers in                                                                                        11,000,000            26,068,025                -
+     Sale of Property                                                                                    35,000,000             -                        -
+     Premium on the sale of refunding debt                                                               -                      4,767,364                -
+     Transfers out                                                                                      (22,230,927)            -                        -
+            Total other financing sources (uses)                                                         23,769,073            30,835,389                -
+
+                    Net change in fund balances                                                               (790,881)       (13,996,624)                    504,732
+                                          (1)
+     Estimated fund balances–beginning                                                                 730,042,378            187,231,351                 44,842,340
+
+     Estimated Fund balances–ending                                                        $           729,251,497 $          173,234,727 $               45,347,072
+
+
+
+
+     (1) Fund balances will be updated once the 2025-2026 Annual Comprehensive Financial Report (ACFR) is complete.
+     (2) Budgetary entry only - records legal spending authority; does not post to the balance sheet or income statement
+      Estimated Revenues - TEA 1882 Allotment (Fund 420/194)            $25,232,983
+        Appropriations - Transfer to 1882 Partner (Fund 420/194)           $25,232,983
+

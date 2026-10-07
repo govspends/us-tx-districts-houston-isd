@@ -1,0 +1,457 @@
+# HISD: federal funds, debt/bonds/facilities, and policy-driven money flows
+
+Track: federal funding, debt, pension/OPEB headlines, and policy flows. Research pass 2026-10-06. All files cited are in `/git/Texas/HISD/sources/federal_debt/` (catalog: `SOURCES.md`).
+
+**Abbreviations used in citations** (page numbers are **PDF pages**; for ACFR25, printed page = PDF page - 10):
+- **ACFR25**: `fac_report_2025-06-GSAFAC-0000402495.pdf`, the FY2025 ACFR with single audit (PRIMARY). Use `.raw.paged.txt` to search it.
+- **ACFR24**: `fac_report_2024-06-GSAFAC-0000068366.pdf` (PRIMARY).
+- **OS26**: `emma_HISD_LTRB_Series2026_OS.pdf`, the Official Statement dated May 4, 2026 (PRIMARY). Its Appendix A reproduces the FY2025 ACFR.
+- **OS25A**: `emma_HISD_VR_MTN_Series2025A_OS.pdf` (PRIMARY).
+- **FAC**: Federal Audit Clearinghouse JSON (`fac_awards_*.json`), summarized in `fac_sefa_summary_FY2020-2025.txt` (PRIMARY).
+- **WS24**: `hisd_FY2024-25_board_workshop_2024-05-23.pdf`, HISD budget workshop (PRIMARY).
+- **SOF**: TEA Summary of Finances text in `/git/Texas/HISD/data/sof_text/`, already held by the project (PRIMARY).
+
+HISD identifiers: EIN 74-6001255; UEI NC2GGLMFYC66; E-Rate BEN 141223; EMMA issuer key 87D078E72B8C12C883BEB290416AFEE1.
+
+HISD's fiscal year runs July 1 to June 30. "FY2025" means the year ending June 30, 2025.
+
+**Overlap with `notes/acfr.md`:** the ACFR agent covers the government-wide figures below. They agree with this file where both report them:
+- bonds and notes outstanding: $2.123B (FY23), $1.814B (FY24), $1.514B (FY25)
+- net pension and OPEB liabilities
+- the SEFA ESSER totals ($441.4M, $316.9M, $40.9M)
+- GF deficits and fund balance
+
+Cite `acfr.md` for those. This file adds the program-level SEFA detail, the EMMA official statements (Series 2025A and Series 2026), ratings, the 2024 bond, TIRZ, and the policy flows.
+
+---
+
+## 1. Federal funds
+
+### 1a. Federal expenditures by program (single-audit SEFA, FY2020-FY2025), PRIMARY
+Source: FAC `federal_awards`, one report per year (report IDs are in `fac_general_hisd.json`). The FY2025 figures match the ACFR25 SEFA total of **$389,630,012** (ACFR25 p.197). The auditor was Weaver and Tidwell. All six years have unmodified opinions, no material weaknesses, and no going-concern flag. HISD was a "low-risk auditee" in FY2024 and FY2025.
+
+| Program | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+|---|---:|---:|---:|---:|---:|---:|
+| **Total federal expenditures (SEFA)** | 347,690,150 | 332,944,436 | 699,424,988 | 836,623,445 | 736,678,395 | **389,630,012** |
+| ESSER, all (84.425) | 76,418,652 | 21,502,484 | 374,241,276 | 441,377,491 | 316,917,900 | 40,914,590 |
+| Title I-A (84.010) | 81,772,372 | 92,171,996 | 102,751,979 | 127,821,881 | 167,242,527 | 126,638,071 |
+| IDEA-B + Preschool (84.027/84.173) | 41,344,438 | 39,079,982 | 37,355,690 | 43,932,956 | 59,617,558 | 42,534,385 |
+| Title II-A (84.367) | 10,154,362 | 7,854,844 | 8,319,011 | 11,876,532 | 14,609,645 | 15,271,941 |
+| Title III-A (84.365) | 5,531,694 | 6,160,979 | 5,344,918 | 8,938,572 | 13,644,320 | 9,470,287 |
+| Title IV-A (84.424) | 4,091,218 | 7,270,094 | 6,529,011 | 12,137,392 | 12,924,349 | 8,955,588 |
+| Perkins CTE (84.048) | 2,853,384 | 2,995,494 | 2,068,569 | 2,493,470 | 3,127,255 | 3,622,546 |
+| 21st CCLC (84.287) | 3,080,697 | 3,151,439 | 3,203,636 | 3,379,388 | 3,247,401 | 3,825,382 |
+| Child nutrition cluster + CACFP (10.553/.555/.558/.559/.582) | 96,734,322 | 102,327,712 | 143,568,023 | 142,928,752 | 135,170,853 | 129,820,908 |
+| Coronavirus Relief Fund (21.019) | - | 32,208,753 | - | - | - | - |
+| Emergency Connectivity Fund (32.009) | - | - | 5,130,330 | 12,444,955 | - | - |
+| FEMA Public Assistance (97.036) | 552,158 | 581,012 | - | 31,103,741 | -141,600 | 251,013 |
+
+- **FY2025 nutrition detail** (ACFR25 p.194):
+
+  | Line | Amount |
+  |---|---:|
+  | School Breakfast, cash (10.553) | $32,364,405 |
+  | NSLP, cash | $80,239,149 |
+  | NSLP commodities | $7,250,177 |
+  | Supply Chain Assistance | $363,000 |
+  | Fresh Fruit and Vegetable Program | $2,350,068 |
+  | Summer Food Service Program | $1,728,574 |
+  | **Child Nutrition Cluster total** | **$124,295,373** |
+  | CACFP (outside the cluster) | $5,525,535 |
+
+  CEP participation is implied by a USAC FCDL comment ("CEP Base Year ... modified from 2022 to 2023") but was not verified.
+- **FY2025 major programs** were Title I, III, II, and IV-A, plus ESSER (84.425U/W) (ACFR25 p.189).
+- **FY2025 single-audit findings** (`fac_findings_text_2025-*.json`). There were two, both on ARP ESSER III (84.425U/W):
+  1. Equipment: a significant deficiency.
+  2. Allowable costs: **$54,626 questioned** (subscription services).
+
+  FY2024 had no findings. `notes/acfr.md` also reports a third FY2025 finding, a financial-reporting significant deficiency on SHARS revenue. That finding is outside the federal-program findings in FAC.
+- **State awards (SESA) FY2025**: total only **$974,148** (ACFR25 p.198). TEA formula and state grant funding flows through the FSP, not through this schedule.
+
+### 1b. ESSER I/II/III: allocations, spending, and the cliff
+**Allocations** (HISD ESSER page, `hisd_esser_page.html`, PRIMARY):
+
+| Fund | Total allocation | Kept by HISD | Period end |
+|---|---:|---:|---|
+| CARES ESSER I | $81,977,178 | $79,717,039 (private non-profits got $2,260,139) | Sept 30, 2022 |
+| CRRSA ESSER II | $358,195,503 | same | Sept 30, 2023 |
+| ARP ESSER III | $804,812,905 (original $804,716,108 + $96,797 reallocated Sept 2024) | same | Sept 30, 2024 |
+| **Total** | **$1,244,985,586** | | |
+
+- The 20% learning-loss set-aside was $160,891,243.
+- ESSER I "funds are not additional to Houston ISD." TEA used them to offset FSP state aid (same page).
+- For ESSER III, the internal audit says TEA "supplanted $65,873,097 of the District's State Aid to hold it harmless for low average daily attendance" (`hisd_internal_audit_esser_2024.pdf` p.4).
+
+**Spending by HISD fiscal year** (SEFA, all 84.425): FY2020 $76.4M; FY2021 $21.5M; FY2022 $374.2M; **FY2023 $441.4M (peak)**; FY2024 $316.9M; FY2025 $40.9M (final liquidation). The FY2020-25 total is **$1,271,372,393**. By sub-listing:
+
+| Sub-listing | FY2020-25 spending | Compare to allocation |
+|---|---:|---|
+| 84.425D (ESSER I/II), incl. unlabeled FY2020 line | $457,529,754 | ESSER I+II total allocation $440,172,681 |
+| 84.425U (ARP ESSER III) | $808,113,785 | ESSER III allocation $804,812,905 |
+| 84.425W (ARP homeless) | $5,728,854 | |
+
+- **FLAG:** expenditures under D and U exceed HISD's ESSER allocations by about $17M and $3M. These are probably other 84.425 state-reserve subgrants (for example TCLAS) passed through under the same listing. Not verified.
+
+**Cliff**: HISD's budget workshop (WS24 p.24) shows the drop between 2023-24 and 2024-25:
+
+| Line | 2023-24 | 2024-25 |
+|---|---:|---:|
+| ESSER | **$323,895,475** | **$0** |
+| ESSA grants | $284.5M | $190.4M |
+| Total grant funds | $608.4M | $190.4M |
+| Total all funds | $2.834B | $2.307B |
+
+The total falls by **$528,193,566**. WS24 p.27 notes "ESSER funding will end."
+
+OS26 Table 11 (p.33) shows federal revenues across all governmental funds:
+
+| FY | Federal revenues |
+|---|---:|
+| FY2022 | $699.1M |
+| FY2023 | $816.3M |
+| FY2024 | $779.8M |
+| FY2025 | $401.4M |
+| FY2026, 9 months to Mar 31, 2026 | $217.1M |
+
+**ESSER internal audit (Whitley Penn, May 7, 2024)**: learning-loss compliance was weak. Of $73.8M in learning-loss spending tested, only **$34.7M** could be traced to support (pp.10, 14). HISD's monitoring worksheet allocated $801.5M of the $804.7M ESSER III award to learning loss.
+
+### 1c. Other federal flows
+- **E-Rate** (USAC open data, `usac_erate_hisd_ben141223_by_year.json`, PRIMARY; funding year runs July-June):
+
+  | Funding year | Committed | Disbursed |
+  |---|---:|---:|
+  | 2017 | $6,494,270 | $5,720,295 |
+  | 2018 | $4,707,663 | $4,305,434 |
+  | 2019 | $19,453,299 | $17,935,562 |
+  | 2020 | $7,863,765 | $5,722,973 |
+  | 2021 | $2,997,726 | $2,967,190 |
+  | 2022 | $7,508,908 | $7,492,712 |
+  | 2023 | $7,323,877 | $7,187,034 |
+  | 2024 | $11,626,494 | $2,051,475 |
+  | 2025 | $1,953,013 | $676,006 |
+  | 2026 | $8,251,223 | $0 |
+
+  Disbursed amounts for FY2024 onward are still accruing. Query filter: `ben='141223' AND form_version='Current'`.
+- **Build America Bonds subsidy**: HISD still receives the 35% federal interest subsidy on Series 2009A-2 and 2009A-3. Since Oct 2020 it has been cut 5.7% by sequestration (OS26 p.31). The dollar amount was not extracted.
+- **Title I-IV and IDEA-B allocations for 2025-26 and 2026-27**: NOT FOUND. TEA's entitlement pages require a login (403), and ED's Title I LEA tables returned 403. The SEFA expenditures above are the best primary proxy.
+
+---
+
+## 2. Debt, bonds, and facilities money
+
+### 2a. Outstanding debt
+- **At June 30, 2025** (ACFR25 pp.72-75; `hisd_debt_obligations_page.html`):
+  - Debt payable: **$1,513,635,000**. This is bonds of $1,378,515,000 plus "notes" of $135,120,000.
+  - It consists of tax-supported debt of $1,486,130,000 plus Public Facility Corporation lease-revenue bonds of $27,505,000.
+  - Unamortized premium is $45,003,038, giving bonds plus premium of $1,558,638,038.
+  - "No authorized but unissued debt capacity": the 2012 authorization is fully used (ACFR25 p.72; OS26 Table 9 p.31).
+  - Debt per capita is $1,021.24 (website).
+  - Interest rates run 1.00-6.17%. Final maturity is Feb 15, 2043 for bonds and July 15, 2045 for the 2025A notes.
+- **Bonds outstanding by series at 6/30/2025** (ACFR25 p.75, decoded; matches the website):
+
+  | Series | Outstanding | Notes |
+  |---|---:|---|
+  | 2009A-2 BABs | $148.85M | |
+  | 2009A-3 BABs | $62.30M | |
+  | 2016A | $374.395M | original $757.195M |
+  | 2017 | $315.545M | original $848.74M; 2016A and 2017 are the 2012-program bonds |
+  | 2018 | $8.49M | |
+  | 2023A | $26.81M | |
+  | 2025A refunding | $149.685M | |
+  | 2025B refunding | $264.935M | |
+  | Maintenance Tax Notes 2018 | $114.565M | |
+  | Maintenance Tax Notes 2025 | $20.555M | |
+  | PFC 2017 | $10.77M | |
+  | PFC 2019 | $16.735M | |
+
+- **Trend in tax-supported debt** (OS26 Table 4 p.27):
+
+  | FY end | Tax-supported debt | Share of taxable value |
+  |---|---:|---:|
+  | FY2022 | $2.343B | |
+  | FY2023 | $2.084B | |
+  | FY2024 | $1.781B | |
+  | FY2025 | $1.486B | |
+  | FY2026, after Series 2026 | **$1.282B** | 0.55% |
+
+  ACFR25 p.146 gives **net bonded debt per student: $14,262 (FY2016) falling to $6,942 (FY2025)**. Net bonded debt was $1,276,072,323 in FY2025.
+- **OS26 Table 1** (p.7/25): gross debt after the Series 2026 refunding is **$1,282,135,000**. That is $1,040,270,000 payable from I&S taxes plus **$241,865,000 payable from M&O (maintenance) taxes**, excluding $22,045,000 of PFC lease obligations. Net of the debt service fund ($156,388,194) it is $1,125,746,806.
+
+### 2b. Paydown and refunding actions, FY2025-FY2026 (ACFR25 pp.72-73, p.83 in OS26 App. A)
+- **May 28, 2025**: defeased **$115.42M** with available debt-service cash. This was $52.705M of Series 2017 and $62.715M of Series 2018.
+- **Mar 6, 2025**: tender offer refunded $183.78M through Series 2025A ($149.685M) and 2025 MT Refunding Notes ($20.555M). Debt service savings were $14,764,530; economic gain $10,927,064.
+- **May 1, 2025**: all variable-rate debt redeemed (2014A-2, 2023C, and 2014B) through Series 2025B ($264.935M). $268,655,000 was refunded. Debt service savings were $57,389,278; economic gain $17,500,810. **Variable-rate debt outstanding at June 30, 2025: $0.**
+- **Series 2026 Limited Tax Refunding Bonds, $342,790,000** (OS26 pp.1-2, 11, 46). Priced May 4, 2026 and delivered May 27, 2026. Board order Nov 13, 2025.
+  - PSF-guaranteed; rated Aaa/AAA.
+  - Refunds **$343,800,000 of Series 2016A** maturities from 2027 to 2041 (4-5% coupons, called 6/29/2026).
+  - The new bonds mature 8/15/2026-2/15/2030 at 5% (yields 2.69-2.76%), with $222.33M due 2/15/2027 and $84.46M due 2/15/2028.
+  - Premium was $7,161,126.20; escrow deposit $348,286,954.14; cost of issuance $1,664,172.06.
+  - **Effect: about 12 years of repayment are compressed into about 4.** Total debt service jumps to **$438.5M in FY2027** (OS26 Table 8 p.30). No NPV savings figure is stated in the OS.
+
+### 2c. Debt service schedule
+Pre-Series 2026, from ACFR25 p.74 (tables decoded from a font-scrambled PDF; totals check exactly):
+
+| FY | Principal | Interest | Total |
+|---|---:|---:|---:|
+| 2026 | 322,835,000 | 70,890,803 | 393,725,803 |
+| 2027 | 159,675,000 | 57,910,331 | 217,585,331 |
+| 2028 | 109,415,000 | 49,674,643 | 159,089,643 |
+| 2029 | 76,360,000 | 43,954,393 | 120,314,393 |
+| 2030 | 89,915,000 | 39,879,127 | 129,794,127 |
+| 2031-35 | 401,345,000 | 130,759,486 | 532,104,486 |
+| 2036-40 | 279,150,000 | 49,322,150 | 328,472,150 |
+| 2041-45 | 74,940,000 | 4,153,000 | 79,093,000 |
+| **Total** | **1,513,635,000** | **446,543,933** | **1,960,178,933** |
+
+Post-Series 2026, from OS26 Table 8 (p.30), I&S plus M&O debt service:
+
+| FY | Total debt service |
+|---|---:|
+| 2026 | $389.6M |
+| 2027 | **$438.5M** |
+| 2028 | $200.9M |
+| 2029 | $92.5M |
+| 2030 | $104.4M |
+
+From FY2031 to FY2038 it runs $50-106M a year, then about $33M a year through 2042 and about $9.9M a year (M&O notes only) through 2046. **Grand total: $2,019,157,153**, of which **$370,958,390 is M&O-fund debt service** on maintenance tax notes.
+
+Compare I&S collections: debt-service property taxes were $363.1M in FY2025 (ACFR25 p.127) and about $365.4M projected for SY26-27 (SOF, per caller). FY2027 debt service of $438.5M therefore requires drawing the debt service fund balance, which was $174.2M at March 31, 2026 (OS26 p.34).
+
+### 2d. Debt issued without voter approval after the failed 2024 bond
+- **$114,390,000 Variable Rate Maintenance Tax Notes, Series 2025A** (OS25A cover; board resolution May 8, 2025; priced July 10, 2025).
+  - Authority: TEC §45.108. Repaid from M&O taxes, no vote needed.
+  - Rate: 5% fixed until the 7/15/2028 mandatory tender. If not remarketed, a 7% stepped rate applies. Final maturity 7/15/2045.
+  - Purpose: "repair, renovation, improvement, and equipment of existing school facilities ... building systems." The ACFR25 transmittal (OS26 p.59) describes "approximately $120 million in Maintenance Tax Notes ... HVAC, roofing, technology, and transportation upgrades, and to fund development of the new [CTE] Center at the Grimes Facility."
+  - Rated Moody's Aaa / S&P AA+ (no PSF guarantee).
+  - **FLAG:** the ACFR25 subsequent-event note (p.91) describes "Series 2025 Variance Rate Maintenance Tax Notes issued on 7/31/2025 with Par value of $20,555,000." That conflicts with the OS25A par of $114.39M; the note text appears to be copied from the March 2025 refunding notes.
+- **Up to $182.5M lease-revenue bonds for a new CTE center**, authorized by the Board of Managers at its Nov 13, 2025 meeting (Chronicle via Yahoo, `yahoo_hisd_cte_lease_bonds.html`, SECONDARY). No voter approval is needed. The 2024 bond had budgeted $125M per CTE center. **No issuance was found on EMMA** as of 2026-10-06; the EMMA issuer search lists no PFC issue after 2019.
+
+### 2e. Credit ratings and PSF guarantee
+- **Underlying (unenhanced) tax-supported debt: Moody's "Aaa", S&P "AA+"** (ACFR25 p.27; OS26 pp.5, 41; OS25A cover).
+- PSF-guaranteed issues are rated Aaa/AAA. The Series 2026, 2025A, and 2023A refunding bonds carry the PSF guarantee. The 2025 MT refunding notes and the 2025A VR notes do not.
+- **No rating downgrade or outlook change since the June 2023 takeover was found**, and no Fitch rating was found.
+- **FLAG:** the Moody's rating on PFC lease-revenue bonds is "Aaa" in ACFR24 (p.24, reviewed March 2024) but "Aa1" in ACFR25 (p.27, reviewed Feb 2025). This is a possible downgrade or a correction; not confirmed with a Moody's release.
+- Payment record: "never defaulted" (OS26 p.6).
+
+### 2f. The failed November 2024 bond
+- **Prop A**: $3,960,000,000 for new, renovated, and expanded schools and safety infrastructure. Yes 187,634 (42.07%), No **258,373 (57.93%)**.
+- **Prop B**: $440,000,000 for technology. Yes 184,787 (41.80%), No **257,262 (58.20%)**.
+- Results are certified per Ballotpedia, which reproduces the Harris County canvass (SECONDARY). The ballot text carried "THIS IS A PROPERTY TAX INCREASE."
+- **Cost per HISD's Voter Information Document**, as transcribed by TPPF (`tppf_hisd_vid_chart_2024.jpg`, SECONDARY):
+
+  | | Principal | Interest | Total |
+  |---|---:|---:|---:|
+  | Prop A | $3.96B | $4,429,342,063 | $8,389,342,063 |
+  | Prop B | $440M | $89,401,276 | $529,401,276 |
+  | **Total** | **$4.4B** | **$4,518,743,339** | **$8,918,743,339** |
+
+  Press citing the same VID: existing debt of $1.77B principal plus $664M interest, for about $10.9B total if both passed. Planned issuance spanned 2025-2028 over 30 years. HISD said the I&S rate would not rise.
+- **Planned uses (press, SECONDARY)**:
+  - $2.3B to rebuild or renovate schools
+  - about $1B for lead remediation, security, and HVAC
+  - $1.1B for pre-K expansion, 3 CTE centers ($375M, $125M each), and technology
+  - consolidation of 15 schools into 7 campuses (HPM 2026-02-12)
+
+  WS24 p.5 states "the need is over $10 billion."
+- **Bond campaign**: KPRC reports a "$2 million initiative" in the adopted budget for bond planning and consultants, and questions its legality (SECONDARY).
+- **New bond plans for 2025/2026**: none found. HISD's response has been the M&O notes and lease-revenue route (§2d), closures (§4e), and property sales.
+- **2012 bond program ($1.89B)**: fully issued; there is no remaining authorization (ACFR25 p.72). At FY2025 the Capital Projects Fund held $25.5M: restricted bond funds $40.69M and unassigned $(16.37)M (ACFR25 p.34).
+  - FY2024 included a **$70M transfer of TIRZ funds** from the Capital Projects Fund to the General Fund "for restricted TIRZ funded capital projects" (ACFR24 pp.31, 69).
+  - A 2019 HISD statement that the program was 85% complete and the 2015 $212M overrun come from press only (not fetched).
+
+---
+
+## 3. Pension and OPEB (TRS headlines)
+Sources: ACFR25 pp.84, 89, 96-99; OS26 pp.31-32.
+
+| Item | FY2025 | FY2024 |
+|---|---:|---:|
+| HISD net pension liability (TRS) | **$767,987,153** | $985,320,732 |
+| HISD share of NPL (proportion) | 0.012572604 | 0.014344383 |
+| State's share of NPL associated with HISD | $938,780,815 | $835,422,834 |
+| HISD contractually required TRS pension contribution | **$72,193,127** | $72,224,501 |
+| HISD net OPEB liability (TRS-Care) | **$502,451,392** | $382,621,558 |
+| HISD OPEB contribution | $13,601,350 | $15,243,481 |
+
+- Pension expense was $216,691,371, including $112,200,013 of state on-behalf support (ACFR25 p.84).
+- For FY2025, OS26 p.31 states that **the State contributed $81,617,665 on behalf of HISD to TRS**, employees paid $128,535,260, and HISD paid $72,193,127. For OPEB, the State paid $17,803,890 and employees $10,127,347.
+- **NOTE:** the on-behalf figures differ between the expense measure ($112.2M) and the contribution measure ($81.6M). These are two different measures; the ACFR agent may reconcile.
+
+---
+
+## 4. Policy-driven money flows
+
+### 4a. NES (New Education System)
+**No state NES allotment exists.** NES is an internal reallocation. Miles: "intervention districts should get a little extra money, but we haven't" (Tribune 2026-09-21, SECONDARY). SOF line items contain no NES line.
+
+**Campus budget blocks** (WS24 pp.31-32, PRIMARY):
+
+| Campus group | FY2024 (2023-24) | FY2025 (2024-25) |
+|---|---:|---:|
+| NES schools | **$513.4M** (85 schools) | **$732.2M** (130 schools) = $478.9M for the original 85 + $253.3M for 45 new |
+| Non-NES schools | $923.2M (189 schools, incl. the 45 to convert) | $686.6M (144 schools) |
+| Central office | $790.2M + $323.9M ESSER + $62.4M one-time ESSA | $697.9M (WS24 p.30) |
+
+**Incremental cost estimates** (Tribune, SECONDARY, citing WS24 and later budget files):
+- The 45-school expansion needed **$31.7M** extra in its first year, about **$704,000 per campus**. This figure is not in WS24's text layer; it is probably in a slide image. Unverified.
+- About $2,200 more per student per year after that.
+- In 2026: about $8,500 per pupil for about 63,000 NES students versus $6,300 at other campuses.
+- **$96M** was budgeted for technology, furniture, and equipment in year 1, mostly for 85 NES schools.
+- NES teachers receive an extra $3,000 or $9,000.
+
+**Funding source: reserves.**
+- General fund balance (OS26 Table 11 p.33):
+
+  | Date | General fund balance |
+  |---|---:|
+  | End FY2023 | $1,127.1M |
+  | End FY2024 | $1,047.2M |
+  | End FY2025 | **$748.1M** |
+
+- The FY2025 general fund decrease was **$299.11M** (ACFR25 p.27).
+- The Tribune says about $450M was drawn in the first two years. WS24 p.27 set a floor of "did not go below $800 million fund balance" for the FY2025 budget, and the actual FY2025 ending balance ($748.1M) went below it.
+
+### 4b. Teacher Incentive Allotment (TIA) and Teacher Retention Allotment (TRA)
+SOF, PRIMARY:
+
+| School year | TIA | TRA |
+|---|---:|---:|
+| 2024-25 (final) | $510,864 | n/a |
+| 2025-26 (near-final) | **$11,255,032** | **$29,500,000** |
+| 2026-27 (preliminary) | **$15,043,486** | $29,500,000 |
+
+The Tribune says HISD's pay overhaul "brought in just under $30 million" from "a state-funded incentive system." That figure matches the TRA ($29.5M) better than the TIA. **FLAG: ambiguous.**
+
+### 4c. TIRZ (tax increment reinvestment zones)
+HISD participates in **12 City of Houston TIRZs**. Interlocal agreements remit a portion of the increment back for school facilities (OS26 p.23). There are two directions of flow.
+
+**HISD taxes paid into TIRZs** (ACFR25 p.140 and ACFR24 p.131, line 9000; matches SOF):
+
+| Period | Total | M&O | I&S |
+|---|---:|---:|---:|
+| FY2024 | $48,441,742 | $39,286,256 | $9,155,486 |
+| FY2025 | $37,922,743 | $30,649,756 | $7,272,987 |
+| SY2025-26 (SOF NF) | $29,664,195 | | |
+| SY2026-27 (SOF prelim) | $29,664,195 | | |
+
+**TIRZ revenue recognized by HISD** (government-wide general revenue, ACFR25 p.127):
+
+| FY | Amount |
+|---|---:|
+| 2016 | $28.26M |
+| 2017 | $29.37M |
+| 2018 | $30.25M |
+| 2019 | $29.61M |
+| 2020 | $28.62M |
+| 2021 | $30.60M |
+| 2022 | $31.17M |
+| 2023 | $36.73M |
+| 2024 | $33.39M |
+| 2025 | **$54.53M** |
+
+- **A third, different measure:** `notes/acfr.md` lists a General Fund **expenditure** line "TIRZ payments" of $72,368,633 (FY23), $75,544,048 (FY24), and $56,066,884 (FY25). These are larger than the line-9000 tax amounts above. The GF expenditure probably includes the increment HISD remits on its full levy, plus timing effects, but this was not reconciled.
+- **FLAG:** OS26 p.23 says "In fiscal year 2025, the District recognized approximately $38 million in net revenue from TIRZs." That conflicts with the $54.53M above (and resembles the $37.9M paid in). Unresolved.
+- FY2025 transfer: $4,762,500 from the Capital Projects Fund to the Debt Service Fund for "TIRZ High School and Elementary School debt payments." The FY2024 figure was $5,861,125 (ACFR25 p.71).
+
+### 4d. Chapter 313 / JETI
+**None.** Houston ISD does not appear on the Comptroller's Chapter 313 agreement list (`comptroller_ch313_agreements.html`). OS26 p.23 says "The District does not offer tax abatements." ACFR25 contains no GASB 77 abatement disclosure.
+
+### 4e. School closures and property sales
+- On **Feb 26, 2026** the board unanimously voted to close **12 schools in 11 facilities** (HPM; OS26 p.10).
+- **FLAG on timing:** OS26 says "at the end of the 2025-2026 school year." HPM's Feb 12 article says the closures are "for the 2026-27 school year," and a photo caption says "at the end of the 2026-27 academic year." Most likely the schools close for 2026-27.
+- **Projected savings were not disclosed.** The HISD press office did not answer; HPM reports savings were not discussed at the meeting.
+- District cost figures: about $75M to rebuild an elementary school, about $40M to renovate one. 23% of schools are below 50% capacity (HPM 2026-02-12).
+- About 30 district buildings or land parcels have been listed for sale since 2025 (Tribune); 16 properties covering 300+ acres were in bidding (Chronicle). Proceeds were not found.
+
+### 4f. Outside contracts and procurement
+- **About $870M in cooperative purchase agreements** were greenlit Sept 2023-Dec 2024 without the required board approval, then ratified 7-1 on **Jan 16, 2025** (Houston Landing, SECONDARY).
+  - About $200M had been spent at that point.
+  - The potential spend averaged about $55M a month, against about $30M a month before.
+  - A $1M Kitamba MGT consulting contract (Feb 2024) was the only one brought to the board in that window.
+  - An audit firm reviewed the agreements of $1M or more and "found no issues."
+- Miles' outside consulting (search snippets only, UNVERIFIED): $190K or more in fees from his charter network; he helped arrange a $950K contract between ILTexas and Education Partners. His 2024-25 bonus was $173,660.
+
+### 4g. Charters, vouchers (TEFA/ESA), and enrollment
+- **Enrollment** (OS26 pp.9-10, PRIMARY):
+
+  | Date | Enrollment |
+  |---|---:|
+  | 2020-21 | 196,943 |
+  | 2025-26 | 168,812 (-14.3%) |
+  | Mar 24, 2026 | 166,608 |
+
+  2025-26 fell **7,915** against the budgeted 6,700. The OS attributes the decline partly to "increasing competition with charter schools and private education."
+- **Charters**: OSOD (advocacy, SECONDARY) estimates **53,954 HISD-resident students attended charters in 2024-25** (30.5% of 176,727) and puts the revenue loss at **$470,317,724**. Method: transfers times average revenue; not a TEA figure. TEA PEIMS transfer data is in another agent's lane.
+- **Vouchers / Texas Education Freedom Accounts** (SB 2, 2025): **1,207 HISD students were awarded and funded** as of Aug 10, 2026. This is the largest count of any district, per OSOD and Every Texan from Comptroller PIR records (SECONDARY). At their roughly $8,000 per student, that is about **$9.7M** (my arithmetic). Statewide, about $227M is estimated for 184 districts and about $294M in total.
+  - The program is capped at $1B for 2025-27, and funds flow from 2026-27 (OS26 p.15).
+
+### 4h. Governance context relevant to money (OS26 p.10)
+- The Board of Managers has been in place since June 1, 2023. TEA extended the intervention to **June 1, 2027**.
+- Miles' contract was extended 5 years in June 2025. A TEA conservator was named in Feb 2025.
+- The TEA financial rating ("FIRST") was "A - Superior" for 2023-24 through 2025-26 and "C" for 2022-23.
+- Accountability rating: B (2025-26), C (2023-24 and 2024-25).
+
+---
+
+## 5. Property tax: rates and taxable values
+
+Sources: ACFR25 pp.135, 137, 140 (from HCAD), OS26 Table 4/5, and the HISD tax page. Rates are per $100 of value.
+
+| FY (tax yr) | M&O | I&S | Total | Taxable assessed value |
+|---|---:|---:|---:|---:|
+| 2016 (TY2015) | 1.0267 | 0.1700 | 1.1967 | $152,860,482,797 |
+| 2017 | 1.0267 | 0.1800 | 1.2067 | $165,861,644,665 |
+| 2018 | 1.0400 | 0.1667 | 1.2067 | $171,610,628,471 |
+| 2019 | 1.0400 | 0.1667 | 1.2067 | $173,923,630,109 |
+| 2020 | 0.9700 | 0.1667 | 1.1367 | $185,535,534,086 |
+| 2021 | 0.9664 | 0.1667 | 1.1331 | $196,631,674,148 |
+| 2022 | 0.9277 | 0.1667 | 1.0944 | $200,674,561,625 |
+| 2023 | 0.8705 | 0.1667 | 1.0372 | $218,175,138,362 |
+| 2024 | 0.7016 | 0.1667 | 0.8683 | $229,523,362,674 |
+| 2025 (TY2024) | 0.7016 | 0.1667 | 0.8683 | $233,190,075,832 (ACFR) / $238,619,804,243 (OS26) |
+| 2026 (TY2025) | 0.7116 (adopted Oct 15, 2025; see flag) | 0.1667 | 0.8783 | $232,601,493,050 (OS26, after the $140k homestead exemption) |
+| 2027 (TY2026) | 0.6754 proposed (press); not confirmed | 0.1667 | 0.8421 proposed | n/a |
+
+- The I&S rate has been flat at **$0.1667 since FY2018**.
+- The M&O rate fell 39 cents from 2018 to 2025, through state compression and HB3 in 2019 and 2023.
+- Market ("actual") value was $326.9B in FY2025 (ACFR25 p.135).
+- **Tax year 2025 timeline:**
+  - Sept 11, 2025: board adopted **$0.8489** (M&O $0.6822 = MCR $0.6322 + 5 golden pennies).
+  - Oct 15, 2025: board added **$0.0294 "disaster pennies"** for Hurricane Beryl and May 2024 storm costs, making **$0.8783** (M&O $0.7116). Storm costs were cited as $9.87M (Beryl) and $15.8M total (KPRC/Chronicle; HISD tax page).
+- **FLAG:** OS26 (May 2026) Tables 1 and 5 still show TY2025 at **$0.8489** (levy $1,937,629,363). The same Table 5 lists FY2025 at $0.8783, which contradicts the ACFR's $0.8683 for FY2025. Whether the disaster pennies were actually levied is unresolved; the levy is roughly $68M a year apart.
+- **FLAG:** the FY2027 M&O rate is $0.6754 in budget press and $0.7048 in the SOF preliminary. The TY2026 rate was not yet confirmed adopted as of this pass.
+- **Recapture history** (ACFR25 p.141):
+
+  | FY | Recapture |
+  |---|---:|
+  | 2017 | $91.5M |
+  | 2018 | $168.3M |
+  | 2019 | $185.1M |
+  | 2020 | $74.9M |
+  | 2021 | $198.1M |
+  | 2022 | $186.5M |
+  | 2023 | $275.3M |
+  | 2024 | $0 |
+  | 2025 | $56.9M |
+
+  WS24 p.18 says HISD paid over $1.1B from 2016-17 onward.
+  - **FLAG, four different FY2025 figures:**
+    - SOF Final: $49.1M (project README)
+    - ACFR25 statistical section: $56,900,029
+    - OS26 p.19: "approximately $65 million"
+    - Texas Tribune: $55.5M
+
+    Accrual versus cash timing and TEA's 5-year adjustments probably explain it. The ACFR/TEA agents should reconcile.
+
+---
+
+## 6. Could not find / open items
+1. TEA Title I-IV and IDEA-B **planning allocations** for 2025-26 and 2026-27 (TEA login wall). Federal **FY2026 SEFA** (single audit due about Dec 2026, not yet filed).
+2. Rating-agency press releases. No rating action was found; the PFC Aaa-to-Aa1 change is unconfirmed.
+3. HISD's own **Voter Information Document** (only TPPF's transcription); Harris County canvass PDF (Ballotpedia used).
+4. Whether the **$182.5M CTE lease-revenue bonds** have been issued (not on EMMA as of 2026-10-06).
+5. **School-closure savings** (HISD has not disclosed them); proceeds from property sales.
+6. NES total all-in cost after FY2025, and the source document for the $31.7M figure (Tribune; not in WS24's text layer).
+7. Whether TY2025 **disaster pennies** were levied ($0.8783 versus $0.8489).
+8. Reconciling the FY2025 **recapture** and **TIRZ revenue** figures above.
+9. Any TEA intervention-specific grants to HISD. None appear in the SESA ($974K total) or as SOF line items.

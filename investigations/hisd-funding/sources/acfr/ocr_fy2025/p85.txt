@@ -1,0 +1,58 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+On June 30, 2025, the District reported its deferred outflows of resources for contributions made
+subsequent to the measurement date and its proportionate share of the TRS’s deferred outflows
+of resources and deferred inflows of resources related to pensions from the following sources:
+Deferred Outflows | Deferred Inflows
+of Resources          of Resources
+
+Difference between expected and actual actuarial | $     42,330,405    $      5,996,070
+experience
+
+Changes in assumptions                                           39,652,821               5,316,088
+Difference between projected and actual investment                 4,668,325
+
+earnings
+
+Changes in proportion and differences between           105,248,970            89,104,653
+the employer's contributions and the proportionate
+
+share of contributions
+
+Contributions paid to TRS subsequent                             58,825,610                          -
+to the measurement date
+Contributions of $58,825,610 will be recognized as a reduction of the net pension liability in the
+year ending June 30, 2026. Other net amounts of the District's balances of deferred outflows and
+(inflows) of resources related to pensions will be recognized in pension expense as follows:
+
+Year ended June 30:        Pension Expense Amount
+
+2026                         $                    8,876,107
+
+2027                                   94,182,433
+
+2028                                                          19,601,945
+
+2029                                            (23,200,455)
+
+2030                                              (7,976,320)
+Thereafter | |
+Changes since the Prior Measurement Date
+The actuarial assumptions and methods are the same as used in the determination of prior year’s
+net pension liability.
+The 2023 Texas Legislature passed Senate Bill 10 (SB10), which provided a stipend payment to
+certain retirees and variable ad hoc cos-of-living adjustments (COLA) to certain retirees in early
+fiscal year 2024. Due to its timing, the legislation and payments were not reflected in the August
+31, 2023 actuarial valuation. Under the roll forward method, an adjustment was made to reflect
+the legislation in the rolled forward liabilities for the current measurement year, August 31, 2024.
+SB10 and House Joint Resolution 2 (HJR 2) of the 88th Regular Legislative Session appropriated
+payments of $1.645 billion for one-time stipends and $3.355 billion for COLAs. This appropriation
+is treated as a supplemental contribution and included in other additions. Since the Legislature
+appropriated funds for this one-time stipend and COLA, there was no impact on the net pension
+liability of TRS.
+
+- 75 -
+Back to Top

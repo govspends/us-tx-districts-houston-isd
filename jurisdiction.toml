@@ -1,0 +1,31 @@
+# This government's entry in govspends. The hub (github.com/govspends/govspends) reads this file when it builds the
+# website; the same fields drive the profile page (docs/index.md) and the navigation.
+path = "us/tx/districts/houston-isd"               # position in the hierarchy: country / state / level / government
+repo = "https://github.com/govspends/us-tx-districts-houston-isd"
+ref = "main"
+hub = "https://govspends.github.io/govspends"
+name = "Houston Independent School District"
+type = "school district"
+country = "United States"
+state = "Texas"
+seat = "Houston"
+fiscal_year = "July 1 to June 30"
+governing_body = "Board of Managers (state-appointed by the Texas Education Agency since June 1, 2023, with the intervention extended through June 2027); normally an elected nine-member Board of Education"
+websites = ["https://www.houstonisd.org/", "https://www.houstonisd.org/our-district/budget-financial-planning"]
+
+[[investigation]]
+path = "hisd-funding"                               # docs/hisd-funding (pages) and investigations/hisd-funding (evidence)
+title = "Houston ISD: funding and spending, FY2023-FY2027"
+short_title = "Funding and spending"
+status = "First edition, 2026-10-07; not independently reviewed"
+headline = "General Fund deficits grew to $310.6 million in FY2025 and reserves fell $379 million in two years, even as combined state-and-local per-student funding rose modestly; the state's larger share is mostly 2023 tax-compression legislation eliminating HISD's recapture payment, not new money."
+tables_from = "scripts/sof_extract.py"
+checks = ["scripts/sof_extract.py", "scripts/parse_campus_actuals.py", "scripts/analyze_campus_nes.py"]
+[investigation.nav_titles]
+"references.md" = "References"
+"sources.md" = "Sources and files"
+"audit-summary.md" = "Audit summary (how it was made)"
+"notes/acfr.md" = "Audited financial statements (ACFR)"
+"notes/budget.md" = "Adopted budgets"
+"notes/tea_peims.md" = "TEA data: spending, staffing, peers"
+"notes/federal_debt.md" = "Federal funds, debt and policy flows"

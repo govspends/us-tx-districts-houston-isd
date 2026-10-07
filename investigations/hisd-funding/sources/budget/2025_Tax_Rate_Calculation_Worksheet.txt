@@ -1,0 +1,531 @@
+2025 Tax Rate Calculation Worksheet                                                                                                                                                                                                   Form 50-859
+
+School Districts without Chapter 313 and JETI Agreements
+____________________________________________________________________________
+Houston ISD                                                                                                                                                                                   _________________________________
+                                                                                                                                                                                               713-556-5500
+School District’s Name                                                                                                                                                                        Phone (area code and number)
+
+
+____________________________________________________________________________
+4400 West 18th St. Houston, TX 77092-8501                                    _________________________________
+                                                                              www.houstonisd.org
+School District’s Address, City, State, ZIP Code                                                                                                                                              School District’s Website Address
+
+
+GENERAL INFORMATION: Tax Code Section 26.04(c) requires an officer or employee designated by the governing body to calculate the no-new-revenue tax rate and voter-
+approval tax rate for the taxing unit. These tax rates are expressed in dollars per $100 of taxable value calculated. The calculation process starts after the chief appraiser delivers to
+the taxing unit the certified appraisal roll or certified estimate of value and the estimated values of properties under protest.The designated officer or employee shall submit the
+rates to the governing body by August 7 or as soon thereafter as practicable. Tax Code Section 26.04(e-1) does not require school districts to certify tax rate calculations or comply
+with certain Tax Code notice requirements. School districts are required to provide notice regarding tax rate calculations pursuant to Education Code Chapter 44.
+This worksheet is for school districts without Tax Code Chapter 313 or Government Code Chapter 403, Subchapter T, Texas Jobs, Energy, Technology, and Innovation
+Act (JETI) agreements only. School districts that have a Chapter 313 or JETI agreement should use Comptroller Form 50-884 Tax Rate Calculation Worksheet, School Districts with
+Chapter 313 and JETI Agreements.
+Water districts as defined under Water Code Section 49.001(1) do not use this form. Use Comptroller Form 50-858 Water District Voter-Approval Tax Rate Worksheet for Low Tax Rate
+and Developing Districts or Comptroller Form 50-860 Developed Water District Voter-Approval Tax Rate Worksheet.
+All other taxing units should use Comptroller Form 50-856 Tax Rate Calculation, Taxing Units Other Than School Districts or Water Districts.
+The Comptroller’s office provides this worksheet to assist taxing units in determining tax rates. The Texas Education Agency (TEA) provides detailed information on and guidance to
+school districts in calculating their tax rates. Please review and rely on information provided by TEA when completing this worksheet. Additionally, the information provided in this
+worksheet is offered as technical assistance and not legal advice. Taxing units should consult legal counsel for interpretations of law regarding tax rate preparation and adoption.
+
+    SECTION 1: No-New-Revenue Tax Rate
+The no-new-revenue (NNR) tax rate enables the public to evaluate the relationship between taxes for the prior year and for the current year based on a tax rate that would produce
+the same amount of revenue if applied to the same properties that are taxed in both years (no new taxes). When appraisal values increase, the NNR tax rate should decrease.
+    Line                                                                                 No-New-Revenue Tax Rate Worksheet                                                                                                              Amount/Rate
+
+     1.    Prior year total taxable value. Enter the amount of the prior year taxable value on the prior year tax roll today. Include any adjustments since
+           last year’s certification; exclude one-fourth and one-third over-appraisal corrections made under Tax Code Section 25.25(d) from these adjust-
+           ments. Exclude any property value subject to an appeal under Chapter 42 as of July 25 (will add undisputed value in Line 6). This total includes
+           the taxable value of homesteads with tax ceilings (will deduct in Line 2). 1                                                                                                                                               $ ____________
+                                                                                                                                                                                                                                        187,399,392,140
+
+
+     2.    Prior year tax ceilings. Enter the prior year total taxable value of homesteads with tax ceilings. These include the
+           homesteads of homeowners age 65 or older or disabled. 2                                                                                                                                                                    $ ____________
+                                                                                                                                                                                                                                        21,963,187,109
+
+
+     3.    Preliminary prior year adjusted taxable value. Subtract Line 2 from Line 1.                                                                                                                                                $ ____________
+                                                                                                                                                                                                                                        165,436,205,031
+
+
+     4.    Prior year total adopted tax rate.                                                                                                                                                                                         $ _________
+                                                                                                                                                                                                                                        0.868300  /$100
+
+     5.    Prior year taxable value lost because court appeals of ARB decisions reduced prior year appraised value.
+                                                                                                                                                                                                                ____________
+                 A. Original prior year ARB values:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 42,344,511,142
+
+                 B. Prior year values resulting from final court decisions:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  – $ ____________
+                                                                                                                                                                                          38,221,710,547
+
+
+                 C. Prior year value loss. Subtract B from A. 3                                                                                                                                                                        ____________
+                                                                                                                                                                                                                                      $ 4,122,800,595
+
+     6.    Prior year taxable value subject to an appeal under Chapter 42, as of July 25.
+                 A. Prior year ARB certified value:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ ____________
+                                                                                                                                                                                                                 45,029,397,875
+
+
+                 B. Prior year disputed value:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  – $ ____________
+                                                                                                                                                                                                                     11,466,793,931
+
+
+                 C. Prior year undisputed value. Subtract B from A. 4                                                                                                                                                                  ____________
+                                                                                                                                                                                                                                      $ 33,562,603,944
+
+     7.    Prior year Chapter 42-related adjusted values. Add Line 5 and 6.                                                                                                                                                            ____________
+                                                                                                                                                                                                                                      $ 37,685,404,539
+
+     8.    Prior year taxable value, adjusted for actual and potential court-ordered adjustments. Add Line 3 and Line 7.                                                                                                               ____________
+                                                                                                                                                                                                                                      $ 203,121,609,570
+
+
+
+
+1
+     Tex. Tax Code §26.012(14)
+2
+     Tex. Tax Code §26.012(14)
+3
+     Tex. Tax Code §26.012(13)
+4
+     Tex. Tax Code §26.012(13)
+
+Form developed by: Texas Comptroller of Public Accounts, Property Tax Assistance Division                                                                  For additional copies, visit: comptroller.texas.gov/taxes/property-tax
+                                                                                                                                                                                                                                            50-859 • 7-25/13
+    2025 Tax Rate Calculation Worksheet – School Districts                                                                                                                                                                                             Form 50-859
+
+    Line                                                                                    No-New-Revenue Tax Rate Worksheet                                                                                                                     Amount/Rate
+
+     9.    Prior year taxable value of property in territory the school deannexed after Jan. 1, of the prior year. Enter the prior year value of
+           property in deannexed territory. 5                                                                                                                                                                                                   $ ____________
+                                                                                                                                                                                                                                                  0
+
+
+    10. Prior year taxable value lost because property first qualified for an exemption in the current year. If the school district increased an
+        original exemption, use the difference between the original exempted amount and the increased exempted amount. Do not include value lost
+        due to freeport goods-in-transit, or temporary disaster exemptions. Note that lowering the amount or percentage of an existing exemption in
+        the current year does not create a new exemption or reduce taxable value.
+                                                                                                                                                                                             ____________
+                A. Absolute exemptions. Use prior year market value:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 382,236,688
+
+                B. Partial exemptions. Current year exemption amount or current year percentage exemption times prior year value: .  + $ ____________
+                                                                                                                                         11,753,128,197
+
+
+                C. Value loss. Add A and B. 6                                                                                                                                                                                                   $ ____________
+                                                                                                                                                                                                                                                  12,135,364,885
+
+
+    11. Prior year taxable value lost because property first qualified for agricultural appraisal (1-d or 1-d-1), timber appraisal, recreational/
+        scenic appraisal or public access airport special appraisal in the current year. Use only properties that qualified in the current year for the
+        first time; do not use properties that qualified in the prior year.
+                A. Prior year market value. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ ____________
+                                                                                                                                                                                                                    4,885,933
+
+                                                                                                                                                                                      ____________
+                B. Current year productivity or special appraised value: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - $ 19,170
+
+                C. Value loss. Subtract B from A. 7                                                                                                                                                                                             $ ____________
+                                                                                                                                                                                                                                                  4,866,763
+
+
+    12. Total adjustments for lost value. Add Lines 9, 10C and 11C.                                                                                                                                                                             $ ____________
+                                                                                                                                                                                                                                                  12,140,231,648
+
+
+    13. Adjusted prior year taxable value. Subtract Line 12 from Line 8.                                                                                                                                                                         ____________
+                                                                                                                                                                                                                                                $ 190,981,377,922
+
+    14. Adjusted prior year total levy. Multiply Line 4 by Line 13 and divide by $100.                                                                                                                                                          $ ____________
+                                                                                                                                                                                                                                                  1,658,291,304
+
+
+    15. Taxes refunded for years preceding prior year. Enter the amount of taxes refunded by the district for tax years preceding the prior year.
+        Types of refunds include court decisions, Tax Code Section 25.25(b) and (c) corrections and Tax Code Section 31.11 payment errors. Do not
+        include refunds for the prior tax year. This line applies only to tax years preceding the prior tax year. 8                                                                                                                             $ ____________
+                                                                                                                                                                                                                                                  76,043,828
+
+
+    16. Adjusted prior year levy with refunds. Add Line 14 and Line 15. 9
+           Note: If the governing body of the school district governs a junior college district in a county with a population of more than two million, subtract the amount of
+           taxes the governing body dedicated to the junior college district in the prior year from the result.
+                                                                                                                                                                                                                                                  ____________
+                                                                                                                                                                                                                                                $ 1,734,335,132
+
+    17. Total current year taxable value on the current year certified appraisal roll today. This value includes only certified values and includes the
+        total taxable value of homesteads with tax ceilings (will deduct in line 19). These homesteads include homeowners age 65 or older or disabled. 10
+                                                                                                                                                                                                                             ____________
+                A. Certified values.11  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 217,800,442,664
+                B. Pollution control and energy storage system exemption: Deduct the value of property exempted for
+                                                                                                                                                             ____________
+                   the current tax year for the first time as pollution control or energy storage system property:  . . . . . . . . . . . . . . . . . . . - $ 0
+                C. Total current year value. Subtract B from A.                                                                                                                                                                                 $ ____________
+                                                                                                                                                                                                                                                  217,800,442,664
+
+
+    18. Total value of properties under protest or not included on certified appraisal roll. 12
+              A.      Current year taxable value of properties under protest. The chief appraiser certifies a list of properties still under
+                      ARB protest. The list shows the appraisal district’s value and the taxpayer’s claimed value, if any, or an estimate
+                      of the value if the taxpayer wins. For each of the properties under protest, use the lowest of these values.
+                      Enter the total value under protest. 13  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ ____________
+                                                                                                                                                                                                                   11,397,118,508
+
+              B.      Current year value of properties not under protest or included on certified appraisal roll. The chief appraiser gives
+                      school districts a list of those taxable properties that the chief appraiser knows about but are not included in the
+                      appraisal roll certification. These properties are also not on the list of properties that are still under protest. On this
+                      list of properties, the chief appraiser includes the market value, appraised value and exemptions for the preceding
+                      year and a reasonable estimate of the market value, appraised value and exemptions for the current year. Use
+                                                                                                                                                         ____________
+                      the lower market, appraised or taxable value (as appropriate). Enter the total value not on the roll. 14  . . . . . . . . . . . + $ 5,917,642,379
+
+              C.      Total value under protest or not certified. Add A and B.                                                                                                                                                                  $ ____________
+                                                                                                                                                                                                                                                  17,314,760,887
+
+
+5
+   Tex. Tax Code §26.012(15)
+6
+   Tex. Tax Code §26.012(15)
+7
+   Tex. Tax Code §26.012(15)
+8
+   Tex. Tax Code §26.012(13)
+9
+   Tex. Tax Code §26.012(13)
+10
+   Tex. Tax Code §§26.012 and 26.04(c-2)
+11
+   Tex. Tax Code §26.012(6)
+12
+   Tex. Tax Code §26.01(c) and (d)
+13
+   Tex. Tax Code §26.01(c)
+14
+   Tex. Tax Code §26.01(d)
+
+                                                                                For additional copies, visit: comptroller.texas.gov/taxes/property-tax                                                                                                       Page 2
+     2025 Tax Rate Calculation Worksheet – School Districts                                                                                                                      Form 50-859
+
+ Line                                                           No-New-Revenue Tax Rate Worksheet                                                                          Amount/Rate
+
+     19. Current year tax ceilings. Enter current year total taxable value of homesteads with tax ceilings. These include the homesteads of homeowners
+         age 65 or older or disabled.15
+                                                                                                                                                                        ____________
+                                                                                                                                                                       $ 17,463,250,527
+
+     20. Anticipated contested value. Affected taxing units enter the contested taxable value for all property that is subject to anticipated substantial
+         litigation.16 An affected taxing unit is wholly or partly located in a county that has a population of less than 500,000 and is located on the Gulf
+         of Mexico.17 If completing this section, the taxing unit must include supporting documentation in Section 6.18 Taxing units that are not affected,
+         enter 0.                                                                                                                                                      $ ____________
+                                                                                                                                                                         0
+
+
+     21. Current year total taxable value. Add Lines 17C and 18C. Subtract Lines 19 and 20.19                                                                          $ ____________
+                                                                                                                                                                         217,651,953,024
+
+
+     22. Total current year taxable value of properties in territory annexed after Jan. 1, of the prior year. Include both real and personal property.
+         Enter the current year value of property in territory annexed by the school district.                                                                          ____________
+                                                                                                                                                                       $ 54,692,928
+
+     23. Total current year taxable value of new improvements and new personal property located in new improvements. New means the
+         item was not on the appraisal roll in the prior year. An improvement is a building, structure, fixture or fence erected on or affixed to land. New
+         additions to existing improvements may be included if the appraised value can be determined. New personal property in a new improvement
+         must have been brought into the school district after Jan. 1, of the prior year, and be located in a new improvement.                                         $ ____________
+                                                                                                                                                                         3,948,168,662
+
+
+     24. Total adjustments to the current year taxable value. Add lines 22 and 23.                                                                                      ____________
+                                                                                                                                                                       $ 4,002,861,590
+
+     25. Adjusted current year taxable value. Subtract line 24 from line 21.                                                                                           $ ____________
+                                                                                                                                                                         213,649,091,434
+
+
+     26. Current year NNR tax rate. Divide line 16 by line 25 and multiply by $100.                                                                                    $ _________
+                                                                                                                                                                         0.811768  /$100
+
+
+     SECTION 2: Voter-Approval Tax Rate
+The voter-approval tax rate is the highest tax rate that a taxing unit may adopt without holding an election to seek voter approval of the rate. Most school districts calculate a
+voter-approval tax rate that is split into three separate rates. 20
+1. Maximum Compressed Tax Rate (MCR): A district’s maximum compressed tax rate is defined as the tax rate for the current tax year per $100 of valuation of taxable property
+   at which the district must levy a maintenance and operations tax to receive the full amount of the tier one allotment. 21
+2. Enrichment Tax Rate: 22 A district’s enrichment tax rate is defined as any tax effort in excess of the district’s MCR and less than $0.17. The enrichment tax rate is divided into
+   golden pennies and copper pennies. School districts can claim up to 8 golden pennies, not subject to compression, and 9 copper pennies which are subject to compression
+   with any increases in the guaranteed yield. 23
+3. Debt Rate: The debt rate includes the debt service necessary to pay the school district’s debt payments in the coming year. This rate accounts for principal and interest on
+   bonds and other debt secured by property tax revenue.
+The MCR and Enrichment Tax Rate added together make up the school district’s maintenance and operations (M&O) tax rate. Districts cannot increase the district’s M&O tax rate to
+create a surplus in M&O tax revenue for the purpose of paying the district’s debt service. 24
+If a school district adopted a tax rate that exceeded its voter-approval tax rate without holding an election to respond to a disaster in the prior year, as allowed by Tax Code Section
+26.042(e), the school district may not consider the amount by which it exceeded its voter-approval tax rate (disaster pennies) in the calculation this year. This adjustment will be
+made in Section 4 of this worksheet.
+A district must complete an efficiency audit before seeking voter approval to adopt a M&O tax rate higher than the calculated M&O tax rate, hold an open meeting to discuss the
+results of the audit, and post the results of the audit on the district’s website 30 days prior to the election. 25 Additionally, a school district located in an area declared a disaster by the
+governor may adopt a M&O tax rate higher than the calculated M&O tax rate during the two-year period following the date of the declaration without conducting an efficiency audit. 26
+Districts should review information from TEA when calculating their voter-approval tax rate.
+
+ Line                                                            Voter-Approval Tax Rate Worksheet                                                                         Amount/Rate
+
+     27. Current year maximum compressed tax rate (MCR). TEA will publish compression rates based on district and statewide property value
+         growth. Enter the school districts’ maximum compressed rate based on guidance from TEA. 27                                                                    $ _________
+                                                                                                                                                                         0.632200  /$100
+
+
+
+
+15
+   Tex. Tax Code §26.012(6)(B)
+16
+   Tex Tax Code §§26.012(6)(C) and 26.012(1-b)
+17
+   Tex Tax Code §26.012(1-a)
+18
+   Tex Tax Code §26.04(d-3)
+19
+   Tex Tax Code §26.012(6)
+20
+   Tex. Tax Code §26.08(n)
+21
+   Tex. Edu. Code §48.2551(a)(3)
+22
+   Tex. Tax Code §26.08(i) and Tex. Edu. Code §45.0032
+23
+   Tex. Edu. Code §§48.202(a-1)(2) and 48.202(f)
+24
+   Tex. Edu. Code §45.0021(a)
+25
+   Tex. Edu. Code §11.184(b)
+26
+   Tex. Edu. Code §11.184(b-1)
+27
+   Tex. Edu. Code §§48.255, 48.2551(b)(1) and (b)(2)
+
+
+                                                         For additional copies, visit: comptroller.texas.gov/taxes/property-tax                                                          Page 3
+     2025 Tax Rate Calculation Worksheet – School Districts                                                                                                                                                                                              Form 50-859
+
+ Line                                                                                         Voter-Approval Tax Rate Worksheet                                                                                                                     Amount/Rate
+
+     28. Current year enrichment tax rate. Enter the greater of A and B. 28
+                                                                                                                                                                                                                                                  $ _________
+                                                                                                                                                                                                                                                    0.050000  /$100
+                A. Enter the district’s prior year enrichment tax rate, minus any required reduction under Education Code
+                   Section 48.202(f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ _________
+                                                                                                                                                                                                                                 0.000000 /$100
+
+                                                                                                                                                                                                                  _________/$100
+                B. $0.05 per $100 of taxable value . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 0.050000
+
+
+     29. Current year maintenance and operations (M&O) tax rate. Add Lines 27 and 28.                                                                                                                                                             $ _________
+                                                                                                                                                                                                                                                    0.682200  /$100
+                                                                                                                                                  29
+           Note: M&O tax rate may not exceed the sum of $0.17 and the district’s maximum compressed rate.
+
+
+     30. Total current year debt to be paid with property tax revenue.
+         Debt means the interest and principal that will be paid on debts that:
+             (1) Are paid by property taxes;
+             (2) Are secured by property taxes;
+             (3) Are scheduled for payment over a period longer than one year; and
+             (4) Are not classified in the school district’s budget as M&O expenses.
+
+                A. Debt includes contractual payments to other school districts that have incurred debt on behalf of this school district, if those debts
+                   meet the four conditions above. Include only amounts that will be paid from property tax revenue. Do not include appraisal district
+                   budget payments. If the governing body of a taxing unit authorized or agreed to authorize a bond, warrant, certificate of obligation, or
+                   other evidence of indebtedness on or after Sept. 1, 2021, verify if it meets the amended definition of debt before including it here. 30
+                                                                                                                                                                                                                                ____________
+                       Enter debt amount:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . $ 397,003,334
+
+                B. Subtract unencumbered fund amount used to reduce total debt.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . – $ ____________
+                                                                                                                                                                         5,282,242
+
+
+                C. Subtract state aid received for paying principal and interest on debt for facilities through
+                                                                                                                                                             ____________
+                   the existing debt allotment program and/or instructional facilities allotment program. . . . . . . . . . . . . . . . . . . . . . . . . – $ 25,859,187
+
+                D. Adjust debt: Subtract B and C from A.                                                                                                                                                                                           ____________
+                                                                                                                                                                                                                                                  $ 365,861,905
+
+     31. Certified prior year excess debt collections. Enter the amount certified by the collector. 31                                                                                                                                             ____________
+                                                                                                                                                                                                                                                  $ 15,952,698
+
+     32. Adjusted current year debt. Subtract line 31 from line 30D.                                                                                                                                                                               ____________
+                                                                                                                                                                                                                                                  $ 349,909,207
+
+     33. Current year anticipated collection rate. If the anticipated rate in A is lower than actual rates in B, C and D, enter the lowest rate from B, C
+         and D. If the anticipated rate in A is higher than at least one of the rates in the prior three years, enter the rate from A. Note that the rate can be
+         greater than 100%. 32
+
+                A. Enter the current year anticipated collection rate certified by the collector. 33 ____________
+                                                                                                     96.44        %
+                B. Enter the 2024 actual collection rate ____________
+                                                         96.44        %
+
+                C. Enter the 2023 actual collection rate ____________
+                                                         96.22        %
+
+                D. Enter the 2022 actual collection rate ____________
+                                                         97.32        %                                                                                                                                                                            __________
+                                                                                                                                                                                                                                                   96.44      %
+
+     34. Current year debt adjusted for collections. Divide Line 32 by Line 33.
+           Note: If the governing body of the school district governs a junior college district in a county with a population of more than two million, add the amount of taxes
+           the governing body proposes to dedicate to the junior college district in the current year to the result.
+                                                                                                                                                                                                                                                   ____________
+                                                                                                                                                                                                                                                  $ 362,825,805
+
+     35. Current year total taxable value. Enter the amount on Line 21 of the No-New-Revenue Tax Rate Worksheet.                                                                                                                                   ____________
+                                                                                                                                                                                                                                                  $ 217,651,953,024
+
+     36. Current year debt rate. Divide Line 34 by Line 35 and multiply by $100.                                                                                                                                                                   _________/$100
+                                                                                                                                                                                                                                                  $ 0.166700
+
+     37. Current year voter-approval tax rate. Add Lines 29 and 36.                                                                                                                                                                                _________/$100
+                                                                                                                                                                                                                                                  $ 0.848900
+
+           If the school district received distributions from an equalization tax imposed under former Chapter 18, Education Code, add the NNR tax rate as
+           of the date of the county unit system’s abolition to the sum of Lines 29 and 36. 34
+
+
+
+
+28
+   Tex. Tax Code §26.08(n)(2)
+29
+   Tex. Edu. Code §45.003(d)
+30
+   Tex. Tax Code §26.012(7)
+31
+   Tex. Tax Code §§26.012(10) and 26.04(b)
+32
+   Tex. Tax Code §§26.04(h), (h-1) and (h-2)
+33
+   Tex. Tax Code §26.04(b)
+34
+   Tex. Tax Code §26.08(g)
+
+
+                                                                                 For additional copies, visit: comptroller.texas.gov/taxes/property-tax                                                                                                        Page 4
+     2025 Tax Rate Calculation Worksheet – School Districts                                                                                                                                                                                                                     Form 50-859
+
+     SECTION 3: Voter-Approval Tax Rate Adjustment for Pollution Control
+A school district may raise its rate for M&O funds used to pay for a facility, device or method for the control of air, water or land pollution. This includes any land, structure, building,
+installation, excavation, machinery, equipment or device that is used, constructed, acquired or installed wholly or partly to meet or exceed pollution control requirements. The
+school district’s expenses are those necessary to meet the requirements of a permit issued by the Texas Commission on Environmental Quality (TCEQ). The school district must
+provide the tax assessor with a copy of the TCEQ letter of determination that states the portion of the cost of the installation for pollution control.
+This section should only be completed by a school district that uses M&O funds to pay for a facility, device or method for the control of air, water or land pollution.
+
+ Line                                                          Voter-Approval Rate Adjustment for Pollution Control Requirements Worksheet                                                                                                                            Amount/Rate
+
+     38. Certified expenses from the Texas Commission on Environmental Quality (TCEQ). Enter the amount certified in the determination letter
+         from TCEQ. 35 The school district shall provide its tax assessor with a copy of the letter. 36                                                                                                                                                           ____________
+                                                                                                                                                                                                                                                                 $ 0
+
+     39. Current year total taxable value. Enter the amount on Line 21 of the No-New-Revenue Tax Rate Worksheet.                                                                                                                                                 $ ____________
+                                                                                                                                                                                                                                                                   217,651,953,024
+
+
+     40. Additional rate for pollution control. Divide line 38 by line 39 and multiply by $100.                                                                                                                                                                 $ _________
+                                                                                                                                                                                                                                                                  0.000000  /$100
+
+     41. Current year voter-approval tax rate, adjusted for pollution control. Add line 37 and line 40.                                                                                                                                                         $ _________
+                                                                                                                                                                                                                                                                  0.848900  /$100
+
+
+     SECTION 4: Voter-Approval Tax Rate Adjustment in Year Following Disaster
+If a school district adopted a tax rate that exceeded its voter-approval tax rate without holding an election to respond to a disaster in the prior year, as allowed by Tax Code Section
+26.042(e), the school district may not consider the amount by which it exceeded its voter-approval tax rate in the calculation this year. 37 As such, it must reduce its voter-approval
+tax rate for the current tax year.
+This section applies to a school district in a disaster area that adopts a tax rate greater than its voter-approval tax rate without holding an election in the prior year, as provided for
+by Tax Code Section 26.042(e).
+
+
+ Line                                                                                          Prior Year Disaster Adjustment Worksheet                                                                                                                               Amount/Rate
+
+     42. Prior year adopted tax rate. Enter the rate in Line 4 of the No-New-Revenue Tax Rate Worksheet.                                                                                                                                                        $ _________
+                                                                                                                                                                                                                                                                  0.868300  /$100
+
+     43. Prior voter-approval tax rate. If the school district adopted a tax rate above the prior year voter-approval tax rate without holding an election
+         due to a disaster, enter the voter-approval tax rate from the prior year’s worksheet.                                                                                                                                                                   _________/$100
+                                                                                                                                                                                                                                                                $ 0.000000
+
+     44. Increase in the prior year tax rate due to disaster (disaster pennies). Subtract Line 43 from Line 42.                                                                                                                                                  _________/$100
+                                                                                                                                                                                                                                                                $ 0.000000
+
+     45. Current year voter-approval tax rate, adjusted for prior year disaster. Subtract Line 44 from one of the following lines (as applicable):
+         Line 37 or Line 41 (school districts with pollution control).                                                                                                                                                                                          $ _________
+                                                                                                                                                                                                                                                                  0.848900  /$100
+
+
+     SECTION 5: Total Tax Rate
+Indicate the applicable total tax rates as calculated above.
+
+         No-New-Revenue Tax Rate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  $ _________
+                                                                                                                                                                                                                                                                                  0.811768  /$100
+         Enter the current year NNR tax rate from Line 26.
+
+         Voter-Approval Tax Rate  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  $ _________
+                                                                                                                                                                                                                                                                                       0.848900  /$100
+
+                                                                                                                                         37
+         As applicable, enter the current year voter-approval tax rate from Line 37, Line 41 or Line 45. Indicate the line number used: ________
+
+
+
+
+35
+     Tex. Tax Code §26.045(d)
+36
+     Tex. Tax Code §26.045(i)
+37
+     Tex. Tax Code §26.042(f) and Tex. Edu. Code §45.0032(d)
+
+
+                                                                                      For additional copies, visit: comptroller.texas.gov/taxes/property-tax                                                                                                                                Page 5
+     2025 Tax Rate Calculation Worksheet – School Districts                                                                                                           Form 50-859
+
+     SECTION 6: Addendum
+An affected taxing unit that enters an amount described by Tax Code Section 26.012(6)(C) in Line 20 must include the following as an addendum:
+
+1. Documentation that supports the exclusion of value under Tax Code Section 26.012(6)(C); and
+2. Each statement submitted to the designated officer or employee by the property owner or entity as required by Tax Code Section 41.48(c)(2) for that tax year.
+
+Insert hyperlinks to supporting documentation:
+
+
+
+
+     SECTION 7: School District Representative Name and Signature
+Enter the name of the person preparing the tax rate as authorized by the governing body of the school district. By signing below, you certify that you are the designated officer or
+employee of the school district and have calculated the tax rates in accordance with requirements in Tax Code and Education Code. 38
+
+
+
+                 __Annette
+                    ___________________________________________________________
+                           Ramirez Harris County Tax Assessor-Collector
+                   Printed Name of School District Representative
+
+
+
+                 _____________________________________________________________
+                                                                                                                         09-10-2025
+                                                                                                                        ________________________________________
+                   School District Representative                                                                       Date
+
+
+
+
+38
+     Tex. Tax Code §26.04(c)
+
+
+                                                               For additional copies, visit: comptroller.texas.gov/taxes/property-tax                                        Page 6
+

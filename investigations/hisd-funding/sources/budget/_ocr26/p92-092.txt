@@ -1,0 +1,48 @@
+nN
+[=3
+> HOUSTON INDEPENDENT SCHOOL DISTRICT
+q SCHEDULE OF REVENUES, EXPENDITURES, AND CHANGES IN FUND BALANCE - GENERAL FUND
+8 FOR THE FISCAL YEAR ENDED JUNE 30, 2026 WITH COMPARATIVE DATA FOR PRIOR YEARS AND FORECAST
+nN
+[2
+> 2021-2022 2022-2023 2023-2024 2024-2026 2025-2026 2026-2027 2027-2028 2028-2029
+g Actual Actual Actual Actual Adopted Forecast Forecast Forecast
+°
+T 97 -TIRZ
+Q 6400 - Other Operating Costs. 65,956,710 72,368,633 75,544,048 56,066,884 53,509,290 48,158,361 48,482,456 49,304,501
+o Total for 97 - TIRZ 65,956,710 72,368,633 75,544,048 56,066,884 53,509,290 48,158,361 48,482,456 49,304,501
+a
+Qe 99 - Inter-Governmental Charges
+- 6100 - Payroll Costs (30,641) - - - R i
+hy 6200 - Professional and Contracted Services 15,584,092 15,767,806 16,453,702 14,172,784 19,913,644 17,922,280 17,150,577 18,265,364
+I) Total for 99 - Inter-Governmental Charges 15,553,451 15,767,806 16,453,702 14,172,784 19,913,644 17,922,280 17,150,577 18,265,364
+1] PEL IRIE ite Iii i IRR ONT Ree
+IS) FE  —
+o Total Expenditures 1,992,857,366_ _ 2,176,000,800  _ 2,149,214,679 _ 2,248,699,640 2,121,893,114 _ 1,902,438,543  _ 1,901,990,936  _ 1,903,927,767
+? Excess (deficiency) of revenues over (under) expenditures 114634897 __ (20249016) _ (166,605,927) _ (308,313,484) (39,869,912) ___ 2,007,121 __ 63,327,668 __ 61,390,836
+o Paes) B20.209.010) I{100,005,37) IRIS05313434) TiR0.850.010) A007 1217 TTUS3S7008) TTUSI0008%00
+23
+S OTHER FINANCING SOURCES (USES)
+Transfers in 20,192,691 30,000,000 84,000,000 24,398,408 25,000,000 5,000,000 5,000,000 5,000,000
+Transfers out (25,700,532) (16,210,700) (16,395,650) (16,215,400) (19,823,927) (22,358,275) (22,325,775) (26,027,400)
+Capital leases - - - - - - - -
+Issuance of bonds and other debt - - - - - - - -
+Premium on the sale of bonds - - - - - - - -
+Insurance proceeds 21,156,000 - 18,165,781 - - - - -
+Sale of Property - - - 30,000 20,000,000 - - -
+Issuance of leases and SBITAs - 6,620,068 963,576 3,257,037 - - - -
+Total other financing sources (uses) 16,648,169 20,409,368 86,733,707 11,470,045 26,176,073 (17,358,275) (17,325,775) (21,027,400)
+Net change in fund balances 130,282,866 160,352 (79,872,220) (296,843,439) (14,683,839) (15,361,154) 36,001,893 30,363,436
+Fund balances, beginning 996,625,712 1,126,908,568 1,127,068,920 1,047,196,700 750,353,261 735,669,422 720,318,268 756,320,161
+Fund balances, ending 1,126,908,568 1,127,068,920 1,047,196,700 750,353,261 735,669,422 720,318,268 756,320,161 786,683,598
+[Budget Forecast Assumptions
+(1) Fund balances wil be updated once the 2024-2025 Annual Comprehensive
+Financial Report (ACFR) is complete.
+(2) FY27-28 Property Value growth 4%
+(3) FY27-29 Appropriation changes are only recapture & TIRZ (No other changes)
+(4) FY27-29 Revenue changes are only State AID (Property & Enrollment related)
+& Local (Property Taxes).
+(5) Assumes a loss of students of 1,166 in 26-27 and enrollment to remain flat for
+27.28 and 28-20
+©
+ES

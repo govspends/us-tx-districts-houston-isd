@@ -1,0 +1,42 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+NOTE 7: INTERFUND RECEIVABLES, PAYABLES, AND TRANSFERS
+The composition of interfund balances in the fund financial statements as of June 30, 2025
+was as follows.
+GENERAL FUND                            Capital Project Fund            $    19,074,736
+Debt Service Fund                      497,400
+Medicaid Fund                            110,846
+Marketplace Fund                           4,495
+Insurance Fund                            307,876
+Worker's Comp Fund                     30,131
+Other Internal Service Fund              207,533
+DUE FROM OTHER FUNDS         $ 20,233,017
+GENERAL FUND                             Special Revenue Fund          $ (19,931,167)
+Print Shop Fund                       (1,958,260)
+DUE TO OTHER FUNDS          $ (21,889,427)
+CAPITAL PROJECT FUND                    General Fund                          (19,074,736)
+DUE TO OTHER FUNDS          $ (19,074,736)
+DEBT SERVICE FUND                        General Fund                              (497,400)
+DUE TO OTHER FUNDS          $       (497,400)
+SPECIAL REVENUE FUND                   General Fund                           19,931,167
+DUE FROM OTHER FUNDS    $ 19,931,167
+MEDICAID FUND                             General Fund                            (110,846)
+DUE TO OTHER FUNDS          $       (110,846)
+MARKETPLACE FUND                       General Fund                               (4,495)
+DUE TO OTHER FUNDS          $          (4,495)
+PRINT SHOP FUND                           General Fund                             1,958,260
+DUE FROM OTHER FUNDS         $ 1,958,260
+INSURANCE FUND                          General Fund                            (307,876)
+DUE TO OTHER FUNDS          $       (307,876)
+WORKERS' COMPENSATION FUND       General Fund                           (30,131)
+DUE TO OTHER FUNDS          $         (30,131)
+OTHER INTERNAL SERVICE FUNDS       General Fund                              (207,533)
+DUE TO OTHER FUNDS          $       (207,533)
+These balances result from the time lag between the dates that (1) interfund goods and services
+are provided or reimbursable expenditures occur, (2) transactions are recorded in the accounting
+system, and (3) payments from funding agencies are received.
+- 60 -
+Back to Top

@@ -1,0 +1,38 @@
+Chief of Information Technology
+2 Phase 1 project planning and Blueprinting workbooks
+3 Phase 1 - Develop and configure all core standard functionalities:
+HR Payroll
+Time and Attendence
+Human Capital Management
+Candidate tracking/communication
+Reference Checking
+Employee PD, Benefits
+Document and data storage
+Cash Management Treasury
+Analytics (Reporting) and Budgeting
+Security and Governance
+Integration Suite
+4 Phase 1 - Conduct UAT, training and Go-live
+5 Phase 2 project planning and and Blueprinting workbooks
+Indicators of Success
+® By 12/1/2025, complete SIS cloud migration with zero data loss and minimal disruption
+® By 07/22/2025, implement new IEP system with 100% compliance with state and federal requirements
+By 12/1/2025, Scaling up a Student Information Systems (SIS) department to support a growing school
+e district requires a strategic approach that enhances infrastructure, staffing, processes, and technology
+to meet increasing demands.
+o Sucessfully deploy PowerSchool 25.1 release by 2025-2026 start of school.
+® Sucessful close of summer school and migrate student data over to PROD of EOY.
+Specific Actions
+1 Finalize cloud architecture design and copy back ups for intergation testing
+2 Conduct comprehensive staff training of PowerSchool 7/1/2025
+3 100% Homeless Discipline Customization implementation by start of school rollout.
+a Complete system configuration and testing - Target: 6/1/2025 - Lead: IEP System Administrator plus full
+special program state data conversion.
+5 Successfully implement LPAC customzation for start of school 2025-2025 school year
+6 Sucessfully implement new DEAP customzation within PowerSchool for Disipline Department for start of
+school 2025-2026 school year.
+7 Implement data integration with SIS for cloud by 2025-2026 start of school.
+Indicators of Success
+Select, Fund, Procure SIEM, NDR and Vulnerability Management solutions for 80% of the core systems
+within data center.
+2025-2026 Adopted Budget Informational Section 160

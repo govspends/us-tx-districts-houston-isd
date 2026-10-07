@@ -1,0 +1,43 @@
+nN
+I HOUSTON INDEPENDENT SCHOOL DISTRICT
+@ SCHEDULE OF REVENUES, EXPENDITURES, AND CHANGES IN FUND BALANCE - DEBT SERVICE
+8 FOR THE FISCAL YEAR ENDED JUNE 30, 2026 WITH COMPARATIVE DATA FOR PRIOR YEARS AND FORECAST
+nN
+Ed 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027 2027-2028 2028-2029
+a Actual Actual Actual Actual Adopted Forecast Forecast Forecast
+ES] REVENUES
+[5 Property taxes 319,798,020 347,958,840 357,262,478 361,751,796 374,083,733 375,109,995 378,861,095 382,649,706
+Q Earnings on investments 303,291 5,144,515 8,048,824 7,990,870 - 4,800,000 4,000,000 4,000,000
+3 Miscellaneous local sources - - - - - - - -
+g State sources 2,158,825 5,864,587 17,973,535 16,441,842 15,665,576 17,000,000 17,000,000 17,000,000
+I} Federal sources - - - - - - - -
+jas Total revenues 322,260,136 _ 358,967,942 _ 384,184,837 386,184,508 389,749,309 396,909,995 399,861,095 403,649,706
+8 EXPENDITURES
+0. Function and Major Object
+LQ 71 - Debt Service
+[7] 6500 - Debt Service 460,688,301 452,707,629 409,281,911 383,955,272 397,003,334 223,842,331 165,321,643 126,521,393
+2 Total for 71 - Debt Service 460,688,301 452,707,629 409,281,911 383,955,272 397,003,334 223,842,331 165,321,643 126,521,393
+j=} — ee ee
+S Excess (deficiency) of revenues over (under) expenditures (138,428,165) (93,739,687) (25,097,074) 2,229,237 (7,254,025) 173,067,664 234,539,452 277,128,313
+OTHER FINANCING SOURCES (USES)
+Transfers in 26,743,589 21,979,575 22,256,775 20,977,900 20,643,677 26,068,025 26,123,275 25,673,525
+Issuance of bonds and other debt - - - - - - - -
+Issuance of refunding debt 109,650,000 185,040,000 - 435,175,000 - - - -
+Premium on the sale of bonds - - - - - - - -
+Premium on the sale of refunding bonds 1,246,720 7,782,644 - 26,483,255 - - - -
+Payments to escrow agents - advance refunding - (109,953,369; - 452,294,020 - - - -
+Total other financing sources (uses) 137,640,309 104,348,850 22,256,775 30,342,134 20,643,677 26,068,025 26,123,275 25,673,525
+Net change in fund balances (787,856) 11,109,163 (2,840,299) 32,571,371 13,389,652 199,135,689 260,662,727 302,801,838
+Fund balances, beginning 116,335,814 _ 115,547,958 126,657,122 123,816,823 156,388,194 191,629,520 390,765,209 651,427,936
+Fund balances, ending 115,547,958 126,657,122 123,816,823 156,388,194 191,629,520 390,765,209 651,427,936 954,229,774
+[Assumptions are estimates only and are contingent upon actual
+results. For example the required tax rate is largely contingent
+upon the realization of estimated roll value increases.
+Roll value increases 1 percent in each fiscal year.
+Debt tax rate does not change from the current $0.1667 in
+subsequent years.
+No new bonds are sold through 2025-2026. Variable rate principal
+payments scheduled each year would be available for new debt
+service if necessary.
+©
+N

@@ -1,0 +1,46 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+Changes since the Prior Measurement Date
+The following were changes to the actuarial assumptions or other inputs that affected measurement
+of the Total OPEB liability since the prior measurement period:
+
++ The single discount rate was changed from 4.13 percent as of August 31, 2023 to 3.87 percent
+as of August 31, 2024, accompanied by revised demographic and economic assumptions
+based on the TRS experience study.
+
++ The tables used to model the impact of aging on the underlying claims were revised.
+
+For the measurement period August 31, 2024, the District recognized total OPEB revenue of
+$132,181,488 due to recognition of deferred inflows in excess of deferred outflows and current
+year expense. OPEB revenue of $81,831,802 was recognized for support provided by the State.
+On June 30, 2025, the District reported its proportionate share of the TRS’s deferred outflows of
+resources and deferred inflows of resources related to other post-employment benefits from the
+following sources:
+Deferred Outflows | Deferred Inflows
+of Resources          of Resources
+Difference between expected and actual actuarial      $ 96,303,063     $ 250,750,484
+experience
+Changes in assumptions                                           64,307,843            163,944,076
+Difference between projected and actual investment                                               1,407,026
+earnings
+Changes in proportion and difference between the          160,133,005           89,212,134
+employer's contributions and proportionate share of
+contributions
+Contributions paid to TRS subsequent                             10,987,858
+to the measurement date
+     § 331731769] $ 505313720
+Contributions paid subsequent to the measurement date will be recognized as a reduction of the
+net OPEB liability in the year ending June 30, 2026.
+Other amounts of the District's balances of deferred outflows and (inflows) of resources related
+to OPEB will be recognized in OPEB expense as follows
+Year ended June 30:        OPEB Expense Amount
+2026                    $            (63,398,164)
+2027                                             (40,638,689)
+2028                                             (53,293,863)
+2029                                                       (38,561,482)
+2030                                 (12,677,174)
+- 80 -
+Back to Top

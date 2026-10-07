@@ -1,0 +1,42 @@
+nN HOUSTON INDEPENDENT SCHOOL DISTRICT
+S SCHEDULE OF REVENUES, EXPENDITURES, AND CHANGES IN FUND BALANCE - CAPITAL RENOVATION FUND
+Qo FOR THE FISCAL YEAR ENDED JUNE 30, 2026 WITH COMPARATIVE DATA FOR PRIOR YEARS AND FORECAST
+NY
+S 2020-2021 2021-2022 2022.2023 2023-2024 2024-2025 2025-2026 2026-2027 2027-2028 2028-2029
+[=] Actual Actual Actual Actual Actual Adopted Forecast Forecast Forecast
+> REVENUES
+oy Property taxes - - - - - - - - -
+b=! Earnings on investments 324,413 579,920 8,995,189 3,932,385 2.282630 1,080,188 1,500,000 500,000 350,000
+8 Miscellaneous local sources. 31,424,519 31,224,723 36,818.400 34,083,215 3,057,804 - - - .
+pe Federal sources - - - - 853,753 - - - -
+c Total revenues 31,748,932 31,804,643 45,914,598 38,015,600 6.194.187 1,080,188 1,500,000 500,000 350,000
+& EXPENDITURES
+@ Instruction - - - 26,049,727 - - - - -
+m Extracurricular activities k k 2 10,892 - - - . .
+FS Transportation - - - - 672,750 - - - -
+ao General Administration 3,376,045 3,510,866 6,913,082 3,036,861 3,016,708 1,163,172 1277.782 1,152,287 925,783
+< Facilties Maintenance and Operations 3,587,783 730,862 111.472 6.244594 19,050,879 - - - -
+© Security and monitoring services - - 41,001 185,985 50,682 - - - -
+® Data processing services 2,389,112 1,033,551 537.215 744,491 407,605 - - - -
+3 Debt Service - - - . 2210354 - - . -
+3 Capital outlay - - - - - - . .
+5) Facilties acquisition and construction 65,369,636 49,879,092 32,636,315 66,687.882 12.427,841 80,950,506 30,000,000 10,000,000 5,000,000
+< Total expenditures 74.722.576 55,163,371 41,238,985 103,860,432 38,736,820 82,122,678 31.277.782 11,152,287 5.925.783
+Excess (deficiency) of revenues over (under) expenditures (42.973.644) (23,358,728) 4675613 (65.844.632) (32,542,633) (81.042.490 (29.777.782) (10652.287) (5.575.783
+OTHER FINANCING SOURCES (USES)
+Transfers in - 9,328,032 - - - - - - -
+Transfers out (7,967,630) (6.119,892) (5.768.875) (75,861,125) (15,762,500) (#619.750) (3.684.750) (3.772.500) (3,345,625)
+Issuance of bonds and other debt - - - - - 114,390,000 - - -
+Premium on the sale of bonds - - - - - 6,455,028 - - -
+Proceeds from sale of capital assets 472372 k - - - - - .
+Issuance of leases and SBITAS - - - - 2.248.482 - - - -
+Insurance proceeds - - - - - - - - -
+Total other financing sources (uses) (7.495.258) 1.208.140 (5.768.875 (75,861,125) (13514,018) 116,225,278 (3.684.750) (3.772.500) (3.345625)
+Net change in fund balances (50,468,902) (22,150,588) (1,093,262) (141,705,957) (46,056,651) 35,182,788 (33,462,532) (14,424,787) (8,921,408)
+Fund balances, beginning 287,015,378 236,546,476 214,395,888 213,302,626 71,596 669 25,540,018 60,722,806 27260274 12,835,487
+Fund balances, ending 236,546,476 214,395,888 213,302,626 71,596,669 25,540,018 60,722,806 27.260274 12,835.487 3.914.079
+maintenance and repairs.
+- TIRZ Revenue will tay in General Fund starting in 2024-2025
++ Maintenance Tax Notes forecasted to be spent through FY2027
++ Assumptions are estimates only and are contingent upon actual results.
+Ee

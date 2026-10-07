@@ -1,0 +1,77 @@
+ALN       Program                                                               2020          2021          2022          2023          2024          2025
+10.553    SCHOOL BREAKFAST PROGRAM - CASH ASSISTANCE                      27,749,809             -    34,144,766    34,953,927    32,718,890    32,364,405
+10.555    NATIONAL SCHOOL LUNCH PROGRAM - CASH ASSISTANCE                 60,398,740    16,764,100    97,378,769    96,425,666    93,728,243    87,852,326
+10.558    CHILD AND ADULT CARE FOOD PROGRAM - CASH ASSISTANCE              5,590,810     8,362,050     4,021,668     5,360,254     4,783,735     5,525,535
+10.559    SUMMER FOOD SERVICE PROGRAM FOR CHILDREN - CASH ASSISTANCE       1,511,332    74,963,976     4,947,018     2,831,327     1,073,459     1,728,574
+10.575    FARM TO SCHOOL GRANT PROGRAM                                        15,690         9,950             -             -             -        29,355
+10.582    FRESH FRUIT AND VEGETABLE PROGRAM - CASH ASSISTANCE              1,483,631     2,237,586     3,075,802     3,357,578     2,866,526     2,350,068
+10.649    COVID-19  STATE PANDEMIC ELECTRONIC BENEFIT TRANSFER ADMINIS             -             -         5,814         5,950             -             -
+10.912    Environmental Quality Incentives Program                                 -             -             -             -       192,693         2,890
+12.000    JROTC CAREER ACADEMY                                             1,909,354     1,795,870     1,609,970     1,796,907     1,893,405     1,984,435
+14.251    Economic Development Initiative, Community Project Funding,              -             -             -             -       469,678       138,409
+16.607    BULLETPROOF VEST PARTNERSHIP PROGRAM                                19,186             -        11,791             -             -         2,602
+16.835    BODY WORN CAMERA POLICY AND IMPLEMENTATION                               -             -             -       122,464        70,794        78,729
+16.839    STOP SCHOOL VIOLENCE                                                     -        89,164       252,427       244,791        27,553             -
+17.258    WORKFORCE INNOVATION AND OPPORTUNITY ACT, ADULT PROGRAMS                 -             -        74,658        67,690        14,198        86,568
+17.278    Workforce Innovation and Opportunity Act, Dislocated Worker              -             -             -             -             -        88,235
+20.205    HIGHWAY PLANNING AND CONSTRUCTION                                        -             -       600,660             -             -             -
+21.019    COVID-19  CORONAVIRUS RELIEF FUND FOR LOCAL EDUCATION AGENCI             -    32,208,753             -             -             -             -
+32.009    COVID-19  EMERGENCY CONNECTIVITY FUND                                    -             -     5,130,330    12,444,955             -             -
+42.010    TEACHING WITH PRIMARY SOURCES                                            -             -         4,311        63,007        40,415        70,651
+43.009    Mission Support                                                          -             -             -             -       552,369       212,100
+45.024    PROMOTION OF THE ARTS_GRANTS TO ORGANIZATIONS AND INDIVIDUAL             -             -             -        23,159        26,807        35,319
+66.000    DIESEL EMISSION REDUCTION ACT SCHOOL BUS REBATE PROGRAM                  -       180,000             -             -             -             -
+66.U09    Clean School Bus Rebates                                                 -             -             -             -       600,000             -
+84.010    TITLE I GRANTS TO LOCAL EDUCATIONAL AGENCIES                    81,772,372    92,171,996   102,751,979   127,821,881   167,242,527             -
+84.010A   Title I Grants to Local Educational Agencies                             -             -             -             -             -   126,638,071
+84.011    MIGRANT EDUCATION-STATE GRANT PROGRAM                              375,396       208,408       235,304       188,587       395,554             -
+84.011A   Migrant Education-State Grant Program                                    -             -             -             -             -       228,311
+84.027    SPECIAL EDUCATION-GRANTS TO STATES                              40,879,489    38,515,049    36,847,782    43,452,213    59,150,171             -
+84.027A   Special Education-Grants to States                                       -             -             -             -             -    41,784,400
+84.048    CAREER AND TECHNICAL EDUCATION BASIC GRANTS TO STATE             2,853,384     2,995,494     2,068,569     2,493,470     3,127,255             -
+84.048A   Career and Technical Education Basic Grants to State                     -             -             -             -             -     3,622,546
+84.165    MAGNET SCHOOLS ASSISTANCE                                        4,286,475     2,263,556     2,152,667       885,751        32,918             -
+84.165A   Magnet Schools Assistance                                                -             -             -             -             -     1,182,931
+84.173    SPECIAL EDUCATION-PRESCHOOL GRANTS                                 464,949       564,933       507,908       480,743       467,387             -
+84.173A   Special Education-Preschool Grants                                       -             -             -             -             -       749,985
+84.181    SPECIAL EDUCATION-GRANTS FOR INFANTS AND FAMILIES                        -           146           321             -             -             -
+84.181A   Special Education-Grants for Infants and Families                        -             -             -             -             -         2,070
+84.196    EDUCATION FOR HOMELESS CHILDREN AND YOUTH                          303,762       293,222       436,478       378,820       291,826             -
+84.196A   Education for Homeless Children and Youth                                -             -             -             -             -       499,940
+84.215    FULL-SERVICE COMMUNITY SCHOOLS                                     403,652       397,348       249,078     1,311,466     1,536,044             -
+84.215J   Full-Service Community Schools                                           -             -             -             -             -       133,517
+84.215K   Promise Neighborhoods                                                    -             -             -             -             -       757,360
+84.287    TWENTY-FIRST CENTURY COMMUNITY LEARNING CENTERS                  3,080,697     3,151,439     3,203,636     3,379,388     3,247,401             -
+84.287C   Twenty-First Century Community Learning Centers                          -             -             -             -             -     3,825,382
+84.336    Teacher Quality Partnership Grants                                       -             -             -             -       427,500             -
+84.336S   Teacher Quality Partnership Grants                                       -             -             -             -             -       300,362
+84.351    ARTS IN EDUCATION                                                  399,634       334,364       196,680        45,220             -             -
+84.365    ENGLISH LANGUAGE ACQUISITION STATE GRANTS                        5,531,694     6,160,979     5,344,918     8,938,572    13,644,320             -
+84.365A   English Language Acquisition State Grants                                -             -             -             -             -     9,470,287
+84.367    SUPPORTING EFFECTIVE INSTRUCTION STATE GRANTS                   10,154,362     7,854,844     8,319,011    11,876,532    14,609,645             -
+84.367A   Supporting Effective Instruction State Grants                            -             -             -             -             -    15,271,941
+84.369    GRANTS FOR STATE ASSESSMENTS AND RELATED ACTIVITIES                 52,817       107,297       186,273       -93,447        47,023             -
+84.369A   Grants for State Assessments                                             -             -             -             -             -        40,905
+84.371    COMPREHENSIVE LITERACY STATE DEVELOPMENT                                 -             -         4,606        26,123             -             -
+84.374    TEACHER AND SCHOOL LEADER INCENTIVE GRANTS                      10,845,419     8,750,857     1,634,670             -             -             -
+84.377    SCHOOL IMPROVEMENT GRANTS                                        4,253,887     1,010,586        88,234             -             -             -
+84.411    EDUCATION INNOVATION AND RESEARCH                                        -       198,825       279,211       300,404           190             -
+84.424    STUDENT SUPPORT AND ACADEMIC ENRICHMENT PROGRAM                  4,091,218     7,270,094     6,529,011    12,137,392    12,924,349             -
+84.424A   Student Support and Academic Enrichment Program                          -             -             -             -             -     8,955,588
+84.425    COVID-19  ELEMENTARY AND SECONDARY SCHOOL EMERGENCY RELIEF F    76,418,652    21,502,484   374,241,276   441,377,491   316,917,900             -
+84.425U   COVID-19 – Elementary and Secondary School Emergency Relief              -             -             -             -             -    38,559,662
+84.425W   COVID-19 – Elementary and Secondary School Emergency Relief              -             -             -             -             -     2,354,928
+84.938    DISASTER RECOVERY ASSISTANCE FOR EDUCATION                         712,829       598,010       775,410   -10,726,532             -             -
+93.079    COOPERATIVE AGREEMENTS TO PROMOTE ADOLESCENT HEALTH THROUGH        285,133       380,789       402,818       428,190       603,641       248,839
+93.110    MATERNAL AND CHILD HEALTH FEDERAL CONSOLIDATED PROGRAMS             44,996        23,419        24,793             -             -             -
+93.323    EPIDEMIOLOGY AND LABORATORY CAPACITY FOR INFECTIOUS DISEASES             -             -             -        18,780             -             -
+93.354    COVID-19 – Public Health Workforce                                       -             -             -             -       155,400             -
+93.566    REFUGEE AND ENTRANT ASSISTANCE_STATE ADMINISTERED PROGRAMS               -             -             -       306,966       675,748       274,489
+93.575    CHILD CARE AND DEVELOPMENT BLOCK GRANT                             165,513       160,937       178,179       195,427           903             -
+93.596    CHILD CARE MANDATORY & MATCHING FUNDS OF THE CHILD CARE AND        201,552       132,992       227,453       237,562       196,822        70,351
+93.778    MEDICAL ASSISTANCE PROGRAM  - MAC                                  843,452       662,798     1,239,377     1,613,817       929,859       798,186
+93.870    MATERNAL, INFANT AND EARLY CHILDHOOD HOME VISITING GRANT                 -             -             -       747,213     1,136,847     1,058,747
+93.994    MATERNAL AND CHILD HEALTH SERVICES BLOCK GRANT TO THE STATES         7,371             -             -             -             -             -
+94.006    AMERICORPS                                                          30,735        41,109        41,362             -             -             -
+97.036    DISASTER GRANTS - PUBLIC ASSISTANCE                                552,158       581,012             -    31,103,741      -141,600       251,013
+TOTAL                                                                    347,690,150   332,944,436   699,424,988   836,623,445   736,678,395   389,630,012

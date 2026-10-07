@@ -1,0 +1,2744 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.4, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.accessiblecaption
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.aftercaption
+{
+  background-color: #FFFFFF;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+  padding-top: 4pt;
+}
+.batch
+{
+  background-color: #FFFFFF;
+  border: 0px solid #000000;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: 'SAS Monospace', 'Cumberland AMT', Courier;
+  font-size: 7pt;
+  font-style: normal;
+  font-weight: normal;
+  padding: 7px;
+}
+.beforecaption
+{
+  background-color: #FFFFFF;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.body
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.bodydate
+{
+  background-color: #FFFFFF;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  text-align: right;
+  vertical-align: top;
+}
+.bycontentfolder
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.byline
+{
+  background-color: #FFFFFF;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.bylinecontainer
+{
+  background-color: #FFFFFF;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.caption
+{
+  background-color: #FFFFFF;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.cell
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.container
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.contentfolder
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.contentitem
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.contentproclabel
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.contentprocname
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.contents
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.contentsdate
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.contenttitle
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+  margin-bottom: 4ex;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 3ex;
+  text-align: center;
+  width: 100%;
+}
+.continued
+{
+  background-color: #FFFFFF;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+  width: 100%;
+}
+.data
+{
+  border: 1px solid #919191;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasis
+{
+  border: 1px solid #919191;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasisfixed
+{
+  border: 1px solid #919191;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataempty
+{
+  border: 1px solid #919191;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.datafixed
+{
+  border: 1px solid #919191;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.datastrong
+{
+  border: 1px solid #919191;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.datastrongfixed
+{
+  border: 1px solid #919191;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.date
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.document
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+a:link {
+color:#0000FF
+}
+a:visited {
+color:#800080
+}
+a:active {
+color:#800080
+}
+.errorbanner
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.errorcontent
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.errorcontentfixed
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.extendedpage
+{
+  background-color: #FFFFFF;
+  border: 1pt solid #000000;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+.fatalbanner
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.fatalcontent
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.fatalcontentfixed
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.folderaction
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.footer
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.footeremphasis
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: normal;
+}
+.footeremphasisfixed
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.footerempty
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerfixed
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.footerstrong
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerstrongfixed
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.frame
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.graph
+{
+  background-color: #FFFFFF;
+  border: 0.75pt solid #000000;
+  border-collapse: separate;
+  border-spacing: 0.25pt;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.header
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.headeremphasis
+{
+  background-color: #BBBBBB;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: normal;
+}
+.headeremphasisfixed
+{
+  background-color: #BBBBBB;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.headerempty
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerfixed
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.headersandfooters
+{
+  background-color: #EDF2F9;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrong
+{
+  background-color: #BBBBBB;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrongfixed
+{
+  background-color: #BBBBBB;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #000000;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.heading1
+{
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-weight: bold;
+}
+.heading2
+{
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-weight: bold;
+}
+.heading3
+{
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 9pt;
+  font-weight: bold;
+}
+.heading4
+{
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 8pt;
+  font-weight: bold;
+}
+.heading5
+{
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 7pt;
+  font-weight: bold;
+}
+.heading6
+{
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 6pt;
+  font-weight: bold;
+}
+.index
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.indexaction
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexitem
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexprocname
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+}
+.indextitle
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: normal;
+}
+.layoutcontainer
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.layoutregion
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.linecontent
+{
+  background-color: #FFFFFF;
+  border: 1px solid #919191;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.list
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.list10
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list2
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.list3
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list4
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list5
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list6
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list7
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list8
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list9
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.listitem10
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem2
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.listitem3
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem4
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem5
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem6
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem7
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem8
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem9
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.note
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.notebanner
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.notecontent
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.notecontentfixed
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.output
+{
+  background-color: #FFFFFF;
+  border: 1px solid #000000;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.pageno
+{
+  background-color: #FFFFFF;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: bold;
+  text-align: right;
+  vertical-align: top;
+}
+.pages
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.pagesdate
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.pagesitem
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.pagesproclabel
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+}
+.pagesprocname
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+}
+.pagestitle
+{
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: normal;
+}
+.paragraph
+{
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.parskip
+{
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.prepage
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  text-align: left;
+}
+.proctitle
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.proctitlefixed
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooter
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooteremphasis
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooteremphasisfixed
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowfooterempty
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterfixed
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowfooterstrong
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterstrongfixed
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheader
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderemphasis
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderemphasisfixed
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowheaderempty
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 11pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderfixed
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowheaderstrong
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderstrongfixed
+{
+  background-color: #EDF2F9;
+  border: 1px solid #B0B7BB;
+  border-collapse: collapse;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter10
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter2
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter3
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter4
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter5
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter6
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter7
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter8
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter9
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle10
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle2
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle3
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle4
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle5
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle6
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle7
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle8
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle9
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 13pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.systitleandfootercontainer
+{
+  background-color: #FFFFFF;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.table
+{
+  background-color: #FFFFFF;
+  border: .1pt solid #919191;
+  border-collapse: collapse;
+  border-spacing: .05pt;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+  border: 0;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border: 0;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+  border: 0;
+}
+.titleandnotecontainer
+{
+  background-color: #FFFFFF;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.titlesandfooters
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.usertext
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.warnbanner
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: bold;
+}
+.warncontent
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Albany AMT', 'Albany AMT';
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.warncontentfixed
+{
+  background-color: #FFFFFF;
+  color: #112277;
+  font-family: 'Cumberland AMT', Courier;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+</head>
+<body class="body">
+
+<div class="branch">
+<a name="IDX"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="l systemtitle" style=" width: 33%;"><a href="https://tea.texas.gov/"><img src="../../../..//templates/img/tea-logo-header-2.png" Alt="Return to TEA Homepage" Border="0" Align="left" <img src="../../../..//templates/img/tea-logo-header-2.png" Alt="Return to TEA Homepage" Border="0" Align="left" WIDTH="100" HEIGHT="70"></a></td>
+<td class="c systemtitle" colspan="2" style=" width: 34%;">2024 - 2025 Actual Financial Data<br/>
+ Totals for HOUSTON ISD (101912) </td>
+<td class="c systemtitle2">&nbsp;</td>
+</tr>
+<tr>
+<td class="c systemtitle2" colspan="4">Total Enrolled Membership: 176,039</td>
+</tr>
+<tr>
+<td class="r systemtitle3" colspan="4" style=" font-size: medium;">Download: <span class="c" style=" font-style: italic;"><a href="/cgi/sas/broker?_service=marykay&_debug=0&single=N&batch=N&app=PUBLIC&ptype=E&_program=sfadhoc.actual_report_2025.sas&who_box=101912&search=dist">Excel</a>
+</span></td>
+</tr>
+<tr>
+<td class="r systemtitle4" colspan="4" style=" font-size: medium;"><span class="c" style=" font-style: italic;"><a href="/cgi/sas/broker?_service=marykay&_debug=0&single=N&batch=N&app=PUBLIC&ptype=P&_program=sfadhoc.actual_report_2025.sas&who_box=101912&search=dist"> PDF</a>
+</span></td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="7" rules="all" frame="box" border="0" bordercolor="#919191" summary="Procedure Report: Detailed and/or summarized report">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="c header" style=" font-size: 9pt;" scope="col">&nbsp;</th>
+<th id="ch1b1b6" class="c header" style=" font-size: 9pt;" colspan="6" scope="colgroup">District</th>
+<th id="ch1b1b9" class="c header" style=" font-size: 9pt;" colspan="3" scope="colgroup">State</th>
+</tr>
+<tr>
+<th class="c header" style=" font-size: 9pt;" scope="col">&nbsp;</th>
+<th id="ch1b1b14d" class="c header" style=" font-size: 9pt;" scope="col">General Fund</th>
+<th id="ch1b1b15e" class="c header" style=" font-size: 9pt;" scope="col">%</th>
+<th id="ch1b1b16f" class="c header" style=" font-size: 9pt;" scope="col">Per Student</th>
+<th id="ch1b1b17g" class="c header" style=" font-size: 9pt;" scope="col">All Funds</th>
+<th id="ch1b1b18h" class="c header" style=" font-size: 9pt;" scope="col">%</th>
+<th id="ch1b1b19i" class="c header" style=" font-size: 9pt;" scope="col">Per Student</th>
+<th id="ch1b1b21j" class="c header" style=" font-size: 9pt;" scope="col">All Funds</th>
+<th id="ch1b1b22k" class="c header" style=" font-size: 9pt;" scope="col">%</th>
+<th id="ch1b1b23l" class="c header" style=" font-size: 9pt;" scope="col">Per Student</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10"><span class="c" style=" font-size: 14pt;">Revenues</span>&nbsp;<br/>
+Operating&nbsp;Revenue</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Local Property Tax from M&amp;O (excluding recapture)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,466,211,104</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   82.85% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $8,329</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,466,211,104</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   65.76% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $8,329</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $26,403,388,349</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   37.70% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $4,776</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">State Operating Funds</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $158,467,092</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    8.95% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $900</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $214,908,431</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    9.64% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,221</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $31,165,952,674</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   44.50% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $5,637</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Federal Funds</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $25,580,041</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.45% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $145</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $400,497,957</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   17.96% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,275</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $8,131,028,444</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   11.61% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,471</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Other Local</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $119,554,936</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    6.76% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $679</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $148,159,388</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    6.64% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $842</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $4,328,508,833</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    6.18% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $783</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Operating Revenue</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,769,813,173</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $10,054</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,229,776,880</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $12,666</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $70,028,878,300</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $12,666</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10">Other&nbsp;Revenue</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Local Property Tax from I&amp;S</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $361,751,795</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   85.47% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,055</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $11,587,028,433</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   80.94% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,096</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">State Assistance for Debt Service</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $16,441,842</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.88% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $93</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,109,593,916</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    7.75% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $201</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Misc Rev Debt Service Fund (F599)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $7,990,870</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.89% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $45</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $382,081,382</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.67% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $69</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Other Receipts (excluding debt service financing)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $27,685,445</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $157</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $37,056,015</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    8.76% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $210</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,237,125,983</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    8.64% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $224</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Other Revenue</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $27,685,445</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $157</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $423,240,522</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,404</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $14,315,829,714</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,589</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-style: italic; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Subtotal: Operating and Other Revenue</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,797,498,618</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $10,211</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,653,017,402</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $15,071</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $84,344,708,014</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $15,255</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10">Recapture&nbsp;Revenue</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Local Property Tax Recaptured</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $56,900,029</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $323</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $56,900,029</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $323</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,949,025,275</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $533</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Recaptured Revenue</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $56,900,029</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $323</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $56,900,029</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $323</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,949,025,275</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $533</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-style: italic; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Subtotal: Operating, Other and Recaptured Revenue</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,854,398,647</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $10,534</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,709,917,431</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $15,394</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $87,293,733,289</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $15,789</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10">Debt&nbsp;Service&nbsp;Financing&nbsp;and&nbsp;TRS&nbsp;Estimate&nbsp;Revenue</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Debt Service Financing Related Revenue</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $482,636,155</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   80.94% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,742</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $5,656,562,279</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   63.48% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,023</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Estimated State TRS Contributions</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $113,672,854</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $646</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $113,672,854</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   19.06% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $646</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $3,253,768,462</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   36.52% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $589</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-style: italic; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Subtotal: Debt Service Financing and TRS Estimate Revenue</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $113,672,854</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $646</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $596,309,009</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $3,387</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $8,910,330,741</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,612</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Grand Total: Operating, Other, Debt Service Financing, and<br/>
+TRS Estimate Revenue excluding recapture</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,911,171,472</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $10,857</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $3,249,326,411</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $18,458</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $93,255,038,755</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $16,867</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10"><br/>
+<br/>
+<span class="c" style=" font-size: 14pt;">Expenditures</span>&nbsp;<br/>
+Operating&nbsp;Expenditures&nbsp;by&nbsp;Object&nbsp;(61xx-64xx&nbsp;only)</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Payroll Expenditures (Object 61xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,741,656,131</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   83.67% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $9,894</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,959,394,327</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   78.67% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $11,130</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $56,101,897,157</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   78.35% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $10,147</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Professional &amp; Contracted Services (Object 62xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $266,263,496</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   12.79% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,513</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $333,197,748</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   13.38% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,893</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $7,305,646,064</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   10.20% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,321</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Supplies &amp; Materials (Object 63xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $39,299,135</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.89% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $223</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $149,569,305</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    6.01% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $850</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $5,684,380,471</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    7.94% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,028</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Other Operating Expenditures (Object 64xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $34,373,500</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.65% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $195</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $48,346,688</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.94% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $275</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,515,064,988</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.51% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $455</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Operating Expenditures by Object</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,081,592,262</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $11,825</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,490,508,068</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $14,147</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $71,606,988,680</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $12,951</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10">Non-Operating&nbsp;Expenditures&nbsp;by&nbsp;Object</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Capital Outlay (Object 61xx-64xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $39,529</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.09% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $2,706,499</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.53% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $15</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $43,864,054</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.13% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $8</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Debt Services (Object 65xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $10,163,192</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   24.07% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $58</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $399,014,170</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   78.73% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,267</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $13,859,481,756</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   41.64% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,507</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Capital Outlay (Object 66xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $32,029,144</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   75.84% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $182</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $105,094,425</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   20.74% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $597</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $19,382,532,266</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   58.23% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $3,506</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Non-Operating Expenditures by Object</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $42,231,865</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $240</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $506,815,094</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,879</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $33,285,878,076</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $6,020</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Grand Total: Operating and Non-Operating Expenditures by Object</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,123,824,127</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $12,065</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,997,323,162</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $17,026</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    $104,892,866,756</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $18,972</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10"><br/>
+<br/>
+Operating&nbsp;Expenditures&nbsp;by&nbsp;Function&nbsp;(61xx-64xx&nbsp;only)<br/>
+</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Instruction (Function 11,95)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,248,528,899</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   59.98% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $7,092</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,407,573,880</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   56.52% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $7,996</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $39,057,679,896</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   54.54% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $7,064</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Instructional Resources &amp; Media Services (Function 12)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $6,944,632</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.33% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $39</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $7,147,380</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.29% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $41</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $631,608,720</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.88% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $114</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Curriculum &amp; Staff Development (Function 13)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $14,161,318</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.68% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $80</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $38,812,635</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.56% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $220</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,635,958,914</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.28% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $296</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Instructional Leadership (Function 21)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $68,042,893</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.27% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $387</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $83,518,377</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.35% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $474</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,252,542,721</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.75% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $227</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">School Leadership (Function 23)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $233,083,909</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   11.20% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,324</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $241,050,606</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    9.68% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,369</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $4,155,361,482</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    5.80% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $752</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Guidance Counseling Services (Function 31)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $67,390,975</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.24% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $383</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $82,075,548</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.30% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $466</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,971,479,569</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    4.15% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $537</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Social Work Services (Function 32)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $6,203,968</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.30% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $35</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $8,631,820</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.35% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $49</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $218,700,658</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.31% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $40</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Health Services (Function 33)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $26,000,000</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.25% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $148</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $28,292,352</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.14% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $161</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $730,295,532</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.02% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $132</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Transportation (Function 34)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $49,745,219</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.39% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $283</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $53,707,689</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.16% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $305</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,186,037,620</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.05% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $395</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Food Services (Function 35)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">            $118,310</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.01% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $1</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $140,934,293</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    5.66% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $801</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $3,817,080,903</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    5.33% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $690</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Extracurricular (Function 36)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $25,527,457</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.23% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $145</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $38,038,880</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.53% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $216</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,244,518,965</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.13% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $406</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">General Administration (Function 41,92)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $51,357,659</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.47% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $292</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $59,161,231</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.38% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $336</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,342,999,118</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.27% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $424</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Facilities Maintenance &amp; Operations (Function 51)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $205,588,891</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    9.88% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,168</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $210,095,462</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    8.44% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,193</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $7,335,226,035</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   10.24% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,327</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Security &amp; Monitoring Services (Function 52)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $29,263,738</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.41% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $166</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $33,569,297</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.35% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $191</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,314,897,725</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.84% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $238</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Data Processing Services (Function 53)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $44,517,825</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.14% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $253</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $46,190,711</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.85% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $262</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,320,042,648</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.84% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $239</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Community Services (Function 61)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $5,116,569</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.25% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $29</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $11,707,907</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.47% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $67</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $370,338,161</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.52% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $67</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Fund Raising CHARTER SCHOOLS ONLY (Function 81)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $22,220,013</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.03% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $4</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Operating Expenditures by Function</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,081,592,262</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $11,825</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,490,508,068</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $14,147</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $71,606,988,680</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $12,951</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10">Non-Operating&nbsp;Expenditures&nbsp;by&nbsp;Function</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Non-Operating Expenditures by Function (81) (61xx-64xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $39,529</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.09% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $2,706,499</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.53% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $15</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $43,864,054</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.13% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $8</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Non-Operating Expenditures by Function (1x-9x) (65xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $10,163,192</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   24.07% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $58</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $399,014,170</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   78.73% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,267</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $13,859,481,756</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   41.64% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,507</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Non-Operating Expenditures by Function (1x-9x) (66xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $32,029,144</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   75.84% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $182</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $105,094,425</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   20.74% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $597</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $19,382,532,266</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   58.23% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $3,506</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Non-Operating Expenditures by Function</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $42,231,865</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $240</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $506,815,094</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,879</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $33,285,878,076</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $6,020</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Grand Total: Operating and Non-Operating Expenditures by Function</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,123,824,127</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $12,065</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,997,323,162</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $17,026</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    $104,892,866,756</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $18,972</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10"><br/>
+<br/>
+Operating&nbsp;Expenditures&nbsp;by&nbsp;Program&nbsp;Intent&nbsp;Code&nbsp;(PIC)&nbsp;(61xx-64xx&nbsp;only)<br/>
+</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Basic Educational Services (PIC 11)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,082,905,641</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   52.02% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $6,152</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,105,650,919</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   44.39% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $6,281</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $28,911,714,498</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   40.38% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $5,229</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Gifted and Talented (PIC 21)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $8,849,794</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.43% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $50</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $8,872,471</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.36% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $50</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $384,904,252</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.54% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $70</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Career and Technical (PIC 22)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $59,700,646</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.87% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $339</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $62,080,341</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.49% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $353</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,575,064,055</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.60% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $466</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Students with Disabilities (PICs 23,33,43)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $319,643,583</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   15.36% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,816</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $361,557,851</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   14.52% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,054</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $10,062,118,290</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   14.05% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,820</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">State Compensatory Education (PICs 24,26,28,29,30,34)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $94,575,305</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    4.54% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $537</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $229,586,537</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    9.22% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,304</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $5,901,069,163</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    8.24% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $1,067</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Bilingual (PICs 25,35)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $28,203,680</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.35% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $160</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $38,116,900</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.53% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $217</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $813,423,683</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.14% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $147</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Early Education Allotment (PIC 36)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $59,633,916</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.86% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $339</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $60,354,449</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.42% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $343</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,468,065,699</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.05% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $266</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Dyslexia or Related Disorder Services (PIC 37)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $3,794,299</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.18% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $22</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $3,794,299</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.15% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $22</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $355,923,079</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.50% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $64</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">College, Career, and Military Readiness (CCMR) (PIC 38)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $20,618,386</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.99% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $117</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $20,721,067</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.83% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $118</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $409,333,566</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.57% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $74</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Athletics/Related Activities (PIC 91)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $21,284,873</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.02% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $121</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $21,383,319</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.86% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $121</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,455,031,002</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.03% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $263</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Un-Allocated (PIC 99)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $382,382,139</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   18.37% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,172</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $578,389,915</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   23.22% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $3,286</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $19,270,341,393</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   26.91% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $3,485</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Operating Expenditures by Program Intent Code (PIC)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,081,592,262</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $11,825</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,490,508,068</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $14,147</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $71,606,988,680</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $12,951</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10">Non-Operating&nbsp;Expenditures&nbsp;by&nbsp;PIC</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $39,529</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.09% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $2,706,499</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.53% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $15</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $43,864,054</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.13% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $8</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Non-Operating Expenditures by PIC (1x-9x) (65xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $10,163,192</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   24.07% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $58</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $399,014,170</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   78.73% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,267</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $13,859,481,756</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   41.64% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,507</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Non-Operating Expenditures by PIC (1x-9x) (66xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $32,029,144</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   75.84% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $182</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $105,094,425</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   20.74% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $597</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $19,382,532,266</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   58.23% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $3,506</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Non-Operating Expenditures by<br/>
+Program Intent Code (PIC)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $42,231,865</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $240</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $506,815,094</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,879</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $33,285,878,076</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $6,020</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Grand Total: Operating and Non-Operating Expenditures by<br/>
+Program Intent Code (PIC)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,123,824,127</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $12,065</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,997,323,162</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $17,026</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    $104,892,866,756</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $18,972</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10"><br/>
+<span class="c" style=" font-size: 14pt;">Disbursements</span>&nbsp;<br/>
+Total&nbsp;Disbursements</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Operating Expenditures</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,081,592,262</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   91.81% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $11,825</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,490,508,068</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   79.08% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $14,147</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $71,606,988,680</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   65.43% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $12,951</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Recapture</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $56,900,029</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.50% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $323</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $56,900,029</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.80% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $323</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,949,025,275</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.69% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $533</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Total Other Uses</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $16,215,400</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.72% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $92</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $20,613,808</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.65% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $117</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $813,101,886</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.74% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $147</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Intergovernmental Charge</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $70,239,668</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.10% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $399</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $74,490,101</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    2.37% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $423</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $793,643,569</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.73% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $144</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Capital Outlay (Object 61xx-64xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $39,529</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">          $2,706,499</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.09% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $15</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $43,864,054</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.04% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $8</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Debt Service (Object 65xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $10,163,192</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    0.45% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $58</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $399,014,170</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   12.67% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,267</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $13,859,481,756</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   12.66% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $2,507</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Capital Projects (Object 66xx)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">         $32,029,144</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    1.41% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $182</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $105,094,425</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    3.34% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $597</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $19,382,532,266</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">   17.71% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $3,506</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Disbursements</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $2,267,179,224</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $12,879</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $3,149,327,100</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $17,890</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    $109,448,637,486</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">  100.00% </td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $19,796</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10"><br/>
+<span class="c" style=" font-size: 14pt;">Tax Rates</span>&nbsp;<br/>
+2024&nbsp;-&nbsp;2025&nbsp;(current&nbsp;tax&nbsp;year)&nbsp;Tax&nbsp;Rates</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Maintenance &amp; Operations Tax Rate</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.7016</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.7278</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Interest &amp; Sinking Tax Rate</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.1667</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.2518</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Tax Rate</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.8683</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.9795</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10">Tax&nbsp;Detail</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Maximum Compressed Tax Rate (MCR)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.6516</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.6282</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Tier I Tax Rate</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.6516</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.6285</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Tier II Tax Rate (Enrichment Pennies)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.0500</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              0.0993</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10"><br/>
+<span class="c" style=" font-size: 14pt;">Fund Balance**</span><br/>
+Fund&nbsp;Balance</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Nonspendable Fund Balance</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">        $395,842,872</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                 $78</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Restricted Fund Balance</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $45,163,884,103</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $8,866</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Committed Fund Balance</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $4,052,094,187</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $795</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Assigned Fund Balance</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $3,244,291,758</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                $637</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">Unassigned Fund Balance</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $17,064,795,528</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $3,350</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">Total Fund Balance**</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $69,920,908,448</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $13,726</td>
+</tr>
+<tr>
+<td class="l linecontent" style=" background-color: #EDF2F9; font-size: 9pt; font-weight: bold;" colspan="10">Fund&nbsp;Balance&nbsp;Reconciliation</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">2023-2024 Total Fund Balance (Previous Year)</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,047,196,700</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $5,704</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">      $1,356,838,696</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $7,390</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $69,274,653,913</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $13,600</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">2024-2025 Excess (Deficiency) Operating Expenditures</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">    $-17,952,923,525</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $-3,524</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">2024-2025 Excess (Deficiency) Non-Operating Expenditures</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $20,042,919,869</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">              $3,935</td>
+</tr>
+<tr>
+<td class="l m data" style=" font-size: 9pt; padding: 4px;">2024-2025 Uncommon Items</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $-1,047,196,700</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $-5,949</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $-1,356,838,696</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $-7,708</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $-1,443,741,809</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">               $-283</td>
+</tr>
+<tr>
+<td class="r m data" style=" font-size: 9pt; font-weight: bold; padding-bottom: 4px; padding-left: 4px; padding-right: 3px; padding-top: 4px;">2024-2025 Total Fund Balance</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">                  $0</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">     $69,920,908,448</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">&nbsp;</td>
+<td class="r m data" style=" font-size: 9pt; padding: 4px;">             $13,726</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemfooter2" style=" font-size: 10pt;">Link To More <span class="c"><a href="https://tea.texas.gov/finance-and-grants/state-funding/state-funding-reports-and-data/peims-financial-standard-reports">PEIMS Financial Standard Reports</a>
+</span></td>
+</tr>
+<tr>
+<td class="c systemfooter3" style=" font-size: 8pt;">TEA | Office of School Finance | Forecasting &amp; Fiscal Analysis</td>
+</tr>
+</table><br>
+</div>
+</body>
+</html>

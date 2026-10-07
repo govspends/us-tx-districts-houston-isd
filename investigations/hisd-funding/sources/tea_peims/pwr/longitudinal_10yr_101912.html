@@ -1,0 +1,1502 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.4, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.accessiblecaption
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: italic;
+  font-weight: bold;
+}
+.aftercaption
+{
+  background-color: #E0E0E0;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+  padding-top: 4pt;
+}
+.batch
+{
+  background-color: #D3D3D3;
+  border: 1px solid #000000;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: 'SAS Monospace', 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  padding: 7px;
+}
+.beforecaption
+{
+  background-color: #E0E0E0;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.body
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.bodydate
+{
+  background-color: #E0E0E0;
+  border-spacing: 0px;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  text-align: right;
+  vertical-align: top;
+  width: 100%;
+}
+.bycontentfolder
+{
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.byline
+{
+  background-color: #B0B0B0;
+  border-spacing: 0px;
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.bylinecontainer
+{
+  background-color: #E0E0E0;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.caption
+{
+  background-color: #E0E0E0;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.cell
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.container
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.contentfolder
+{
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.contentitem
+{
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.contentproclabel
+{
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+}
+.contentprocname
+{
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+}
+.contents
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.contentsdate
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.contenttitle
+{
+  color: #002288;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: italic;
+  font-weight: normal;
+}
+.continued
+{
+  background-color: #E0E0E0;
+  border-spacing: 0px;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+  width: 100%;
+}
+.data
+{
+  background-color: #D3D3D3;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasis
+{
+  background-color: #D3D3D3;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: italic;
+  font-weight: normal;
+}
+.dataemphasisfixed
+{
+  background-color: #D3D3D3;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.dataempty
+{
+  background-color: #D3D3D3;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.datafixed
+{
+  background-color: #D3D3D3;
+  color: #000000;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.datastrong
+{
+  background-color: #D3D3D3;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.datastrongfixed
+{
+  background-color: #D3D3D3;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.date
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.document
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+a:link {
+color:#0066AA
+}
+a:visited {
+color:#004488
+}
+a:active {
+color:#004488
+}
+.errorbanner
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.errorcontent
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.errorcontentfixed
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.extendedpage
+{
+  background-color: #E0E0E0;
+  border: 1pt solid #000000;
+  color: #002288;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+.fatalbanner
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.fatalcontent
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.fatalcontentfixed
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.folderaction
+{
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.footer
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.footeremphasis
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: italic;
+  font-weight: normal;
+}
+.footeremphasisfixed
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.footerempty
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerfixed
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.footerstrong
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerstrongfixed
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.frame
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.graph
+{
+  background-color: #E0E0E0;
+  border: 1px solid #000000;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.header
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.headeremphasis
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: italic;
+  font-weight: normal;
+}
+.headeremphasisfixed
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.headerempty
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerfixed
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.headersandfooters
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrong
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrongfixed
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.heading1
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading2
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading3
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading4
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading5
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading6
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.index
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.indexaction
+{
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexitem
+{
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexprocname
+{
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+}
+.indextitle
+{
+  color: #002288;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: italic;
+  font-weight: normal;
+}
+.layoutcontainer
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.layoutregion
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.linecontent
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.list
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.list10
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list2
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.list3
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list4
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list5
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list6
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list7
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list8
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list9
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.listitem10
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem2
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.listitem3
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem4
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem5
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem6
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem7
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem8
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem9
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.note
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.notebanner
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.notecontent
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.notecontentfixed
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.output
+{
+  background-color: #F0F0F0;
+  border: 1px solid #000000;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.pageno
+{
+  background-color: #E0E0E0;
+  border-spacing: 0px;
+  color: #002288;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+  text-align: right;
+  vertical-align: top;
+}
+.pages
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.pagesdate
+{
+  background-color: #B0B0B0;
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.pagesitem
+{
+  color: #0033AA;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.pagesproclabel
+{
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+}
+.pagesprocname
+{
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+}
+.pagestitle
+{
+  color: #002288;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: italic;
+  font-weight: normal;
+}
+.paragraph
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.parskip
+{
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.prepage
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  text-align: left;
+}
+.proctitle
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: italic;
+  font-weight: bold;
+}
+.proctitlefixed
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooter
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooteremphasis
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooteremphasisfixed
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooterempty
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterfixed
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowfooterstrong
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterstrongfixed
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheader
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderemphasis
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderemphasisfixed
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderempty
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, Helv;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderfixed
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowheaderstrong
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderstrongfixed
+{
+  background-color: #B0B0B0;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter10
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter2
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter3
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter4
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter5
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter6
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter7
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter8
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter9
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle10
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle2
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle3
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle4
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle5
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle6
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle7
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle8
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle9
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+}
+.systitleandfootercontainer
+{
+  background-color: #E0E0E0;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.table
+{
+  background-color: #F0F0F0;
+  border: 1px solid #000000;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+  border: 0;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border: 0;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+  border: 0;
+}
+.titleandnotecontainer
+{
+  background-color: #E0E0E0;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.titlesandfooters
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-style: italic;
+  font-weight: bold;
+}
+.usertext
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.warnbanner
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.warncontent
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: Arial, Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.warncontentfixed
+{
+  background-color: #E0E0E0;
+  color: #002288;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+</head>
+<body class="body">
+
+<div class="branch">
+<a name="IDX"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle" style=" color: #000000;">Longitudinal Data: 10 Year History for Houston ISD                                                                 (101912)</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="1" cellpadding="7" rules="all" frame="box" border="1" bordercolor="#000000" summary="Procedure Print: Data Set WORK.DATA">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="l header" scope="col">Measure</th>
+<th class="r header" scope="col">2015-16</th>
+<th class="r header" scope="col">2016-17</th>
+<th class="r header" scope="col">2017-18</th>
+<th class="r header" scope="col">2018-19</th>
+<th class="r header" scope="col">2019-20</th>
+<th class="r header" scope="col">2020-21</th>
+<th class="r header" scope="col">2021-22</th>
+<th class="r header" scope="col">2022-23</th>
+<th class="r header" scope="col">2023-24</th>
+<th class="r header" scope="col">2024-25</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="l data">Expenditures per Student (All Funds - $&#39;s)</td>
+<td class="r data">13,573</td>
+<td class="r data">16,258</td>
+<td class="r data">14,422</td>
+<td class="r data">13,643</td>
+<td class="r data">13,871</td>
+<td class="r data">13,515</td>
+<td class="r data">14,985</td>
+<td class="r data">16,350</td>
+<td class="r data">18,150</td>
+<td class="r data">17,026</td>
+</tr>
+<tr>
+<td class="l data">Total Expenditures (All Funds - $&#39;s)</td>
+<td class="r data">2,916,778,575</td>
+<td class="r data">3,502,181,553</td>
+<td class="r data">3,079,572,202</td>
+<td class="r data">2,851,900,695</td>
+<td class="r data">2,903,314,697</td>
+<td class="r data">2,656,471,508</td>
+<td class="r data">2,902,999,507</td>
+<td class="r data">3,094,827,369</td>
+<td class="r data">3,332,345,222</td>
+<td class="r data">2,997,323,162</td>
+</tr>
+<tr>
+<td class="l data">Total Enrolled Students in Membership</td>
+<td class="r data">214,891</td>
+<td class="r data">215,408</td>
+<td class="r data">213,528</td>
+<td class="r data">209,040</td>
+<td class="r data">209,309</td>
+<td class="r data">196,550</td>
+<td class="r data">193,727</td>
+<td class="r data">189,290</td>
+<td class="r data">183,603</td>
+<td class="r data">176,039</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<a name="IDX1"></a>
+<div>
+<div  class="c">
+<img alt="Bar chart of _LABEL_" src="/cgi/sas/broker?_service=marykay&_server=tea4avsasext.tea.state.tx.us&_port=5033&_sessionid=I7yYwgJNT52&_program=replay&_entry=apswork.x0006A7E.gchart.GIF" style=" border-width: 0px; height: 552px; width: 752px;" border="0" class="c graph">
+</div>
+</div>
+<br>
+</div>
+</body>
+</html>

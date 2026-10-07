@@ -1,0 +1,39 @@
+Chief of Information Technology
+® Select, Fund, Procure Web Content Filtering solution for 80% of staff and student devices.
+o Select, Fund, Procure Priveleged Access Management (PAM) solution for 50% reduction of accounts
+with elevated access rights (50 to 25) to infrastructure systems.
+Specific Actions
+Preparation, planning and Secure funding to select a Security Information and Event Management
+1 (SIEM) solution to facilitate the collection and correlation of events and logs across all infrastructure
+systems.
+2 Design and implement the Security Information and Event Management (SIEM) solution.
+3 Preparation, planning and Secure funding to select a Privileged Access Management (PAM) solution to
+manage secure access to critical systems and prevent unauthorized access.
+4 Design and implement the Privileged Access Management (PAM) solution.
+5 Preparation, planning and Secure funding to select a Network Detection and Response (NDR) solution to
+enhance visibility and automate responses to mitigate threats.
+6 Design and implement the Network Detection and Response (NDR) solution.
+7 Preparation, planning and Secure funding to select a Vulnerability Management solution to identify risks
+and automate remediation.
+8 Design and implement the Vulnerability Management solution.
+9 Preparation, planning and Secure funding to select a Content filtering system and select a vendor to
+maintain CIPA compliance and protects staff and students from inapropriate content and maleware.
+10 Design and implement the Content Filtering solution.
+Key Action 5 - Successfully implement processes and procedures to support the adapted concept of the IT
+Indicators of Success
+By August 2025, IT will update the Technology Device Management Guide to support the IT roles and
+functions to match the current IT Division Unit Concept. Quarterly updates to be completed.
+Beginning July 2025, IT will conduct a minimum of six hands-on training sessions for campus IT contacts
+on relevant campus based IT support topics.
+® By June 30, 2026 IT will have held a minimum of six monthly support meetings for IT campus Contacts.
+® Cut IT Division Staff by 32 FTE's in support of newly adapted support concept.
+Specific Actions
+1 Initial Update for the Technology Device Management Guide with reflecting new IT Division Support
+model roles and functions by August 1.
+2 Quartely Update of the Technology Device Management Guide with identified updates for campus use.
+3 Creation of Training Guide and Scheduling of at least 6 "hands-on training opportunities for campus
+contacts leveraging Job-A-Like and district scheduled PD days.
+a Create meeting guideline and schedule IT support training and process review meetings for campus
+designated IT contacts.
+5 Consult with HR for RIF processes and procedures and notify FTE's.
+2025-2026 Adopted Budget Informational Section 161

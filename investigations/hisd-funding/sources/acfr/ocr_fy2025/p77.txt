@@ -1,0 +1,61 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+NOTE 10: SUBSCRIPTION-BASED INFORMATION TECHNOLOGY
+AGREEMENTS
+The District has entered into multiple subscription-based information technology agreements.
+The agreement allow the right-to-use softwares and other assets over the term of the agreement.
+The District is required to make monthly/annual payments at its incremental borrowing rate or the
+interest rate stated or implied within the agreement.
+As of June 30, 2025, Houston Independent School District had 14 active subscriptions.
+The combined value of the right to use asset, as of June 30, 2025 of $27,789,841 with accumulated
+amortization of $11,883,014 is included within the Subscription Class activities table found below.
+Interest                     Lease Term                 Ending
+Governmental Activities              Rate(s)                       in Years                   Balance
+Software                                1.894-5.000%                   0.4-5.0              $ 11,201,847
+Total Subscriptions                                                                            $ 11,201,847
+Interest                     Lease Term                 Ending
+Business-Type Activities             Rate(s)                       in Years                   Balance
+Software                              2.186-3.067%                  3.0-55             $ 4,447.41
+Total Subscriptions                                                            $ 4,447,411
+The future principal and interest payments as of fiscal year end are as follows:
+Governmental Activities
+Fiscal Year Ending                              Principal                     Interest                      Total
+
+2026                          $ 4,774,832            $ 335,752           $ 5,110,584
+
+2027                              4,157,016               189,821                4,346,837
+
+2028                                                   1,092,167                           65,157                          1,157,324
+
+2029                                                             810,280                              32,834                                 843,114
+
+2030                               367,552                 9,762                 377,314
+Total Governmental Activities                $ 11,201,847            $7 623,564           $ 11,457,859
+Business-Type Activities
+
+Fiscal Year Ending                              Principal                     Interest                      Total
+
+2026                          $ 2,558,212            $ 80,520           $ 2,638,732
+
+2027                                                    1,787,507                           21,813                           1,809,320
+
+2028                                                            101,692                                   390                                102,082
+Total Business-Type Activities            $ 4,447,411         $ 102,723        $ 4,550,134
+NOTE 11: RISK MANAGEMENT
+The District is exposed to various risks of loss related to torts, theft of, damage to and destruction
+of assets, errors and omissions, injuries to employees, and natural disasters. The District's risk
+management program encompasses various means of protecting the District against losses
+through policies with commercial insurance carriers or through self-insurance.
+Workers’ Compensation
+The District maintains a self-insurance program for workers’ compensation. Contributions are
+paid from all governmental and proprietary funds to the Workers’ Compensation Internal Service
+Fund from which all claims and administrative expenses are paid. Claims administration, loss
+control, and consultant services are provided by a third-party administrator. The District maintains
+a catastrophic loss insurance policy for catastrophic losses exceeding $1,000,000 per occurrence
+up to statutory limit of liability.
+
+-67 -
+Back to Top

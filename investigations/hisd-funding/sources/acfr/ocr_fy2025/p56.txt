@@ -1,0 +1,59 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+At the commencement of an SBITA, the District initially measures the subscription liability at the
+present value of payments expected to be made during the subscription term. Subsequently, the
+subscription liability is reduced by the principal portion of SBITA payments made. The subscription
+asset is initially measured as the initial amount of the subscription liability, adjusted for SBITA
+payments made at or before the SBITA commencement date, plus certain initial implementation
+costs. Subsequently, the subscription asset is amortized on a straight-line basis over the shorter of
+the subscription term or the useful life of the underlying IT assets.
+Key estimates and judgments related to SBITAs include how the District determines (1) the discount
+rate it uses to discount the expected subscription payments to present value, (2) subscription term,
+and (3) subscription payments.
+The District uses the interest rate charged by the SBITA vendor as the discount rate. When the
+interest rate charged by the SBITA vendor is not provided, the District generally uses its estimated
+incremental borrowing rate as the discount rate for SBITAs.
+The subscription term includes the noncancellable period of the SBITA.
+Subscription payments included in the measurement of the subscription liability are composed
+of fixed payments, variable payments fixed in substance or that depend on an index or a rate,
+termination penalties if the District is reasonably certain to exercise such options, subscription
+contract incentives receivable from the SBITA vendor, and any other payments that are reasonably
+certain of being required based on an assessment of all relevant factors.
+The District monitors changes in circumstances that would require a remeasurement of its SBITAs
+and will remeasure the subscription asset and liability if certain changes occur that are expected to
+significantly affect the amount of the subscription liability.
+Interfund Transactions
+Activities between funds that are representative of lending/borrowing arrangements outstanding at
+the end of the fiscal year are referred to as “due to/from other funds.” All other balances between funds
+are reported as transfers. Any residual balances outstanding between the governmental activities and
+business-type activities are reported in the government-wide statements as “internal balances.”
+A description of the basic types of interfund transactions and the related accounting policies are
+as follows:
+
+» Charges for services are reported as revenues for the performing fund and expenditures/
+expenses of the requesting fund.
+
+» Transactions to reimburse a fund for expenditures made by it for the benefit of another fund
+are recorded as expenditures or expenses in the reimbursing fund and as a reduction of
+expenditures or expenses in the fund that is reimbursed.
+
+« All otherinterfund transfers, such as legally authorized transfers from a fund receiving revenue
+to the fund through which the resources are to be expended, are transfers. Transfers are
+classified as other financing sources or uses in the Statement of Revenues, Expenditures,
+and Changes in Fund Balances.
+
+» For reporting at the government-wide financial statement level, the District eliminates direct
+interfund charges for services and the balances created within the same activity categories
+(i.e. governmental vs. business-type). This process ensures neither governmental nor
+business-type activities report direct internal revenue/expenditures. Interfund activity and
+balances resulting from transactions with the fiduciary funds are not eliminated. Instead, the
+fiduciary interfund activity and balances are treated as transactions with an external party.
+The Internal Service Funds are essentially repositories for income, expenses, assets and
+liabilities of the District's health insurance, worker's compensation, print shop, alternative
+certification, athletics, shared services, and UIL activities.
+
+- 46 -
+Back to Top

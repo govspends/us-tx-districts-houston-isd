@@ -1,0 +1,33 @@
+General Fund Ending Fund Balance Detail
+Fund Balance Categories 6/30/2022 6/30/2023 6/30/2024 6/30/2025
+Nonspendable 16,488,097 26,255,559 24,549,497 21,090,776
+Restricted - - 70,000,000 127,389,365
+Committed 97,481,219 98,991,251 99,874,040 101,134,650
+Assigned 348,770,724 411,754,248 262,705,301 33,713,134
+Unassigned 664,168,528 590,067,862 590,067,862 464,760,389
+1,126,908,568  1,127,068,920  1,047,196,700 748,088,314
+Assigned fund balances
+Designated for Auto / General Liability 5,984,838 4,766,549 4,766,549 5,225,847
+Designated for Incentive Pay Prgrm - - -
+Designated for Insurance Programs 25,000,000 25,000,000 25,000,000 25,000,000
+Designated for ERP Projects 7,767,615 - - -
+Reserve for Encumbrances 45,805,191 117,774,619 17,303,771 3,487,287
+Instructional Stablization 264,213,080 264,213,080 215,634,981
+Total Assigned fund balances 348,770,724 411,754,248 262,705,301 33,713,134
+Committed fund balances
+Designated for Operations 97,481,219 98,991,251 99,874,040 101,134,650
+Total Committed fund balances 97,481,219 98,991,251 99,874,040 101,134,650
+Nonspendable fund blaances
+Reserve for Inventories & Prepaids 16,488,097 26,255,559 24,549,497 21,090,776
+Total nonspendable fund balances 16,488,097 26,255,559 24,549,497 21,090,776
+Restricted fund balances
+Reserved for Cap Acquisition Prgrm - - 70,000,000 127,389,365
+Total restricted fund balances = 2 70,000,000 127,389,365
+Unassigned
+Unassigned fund balances 664,168,528 590,067,862 590,067,862 464,760,389
+Total unassigned fund balance 664,168,528 590,067,862 590,067,862 464,760,389
+This balance consists of $748 million in the General Fund of which
+$33 million is assigned, $127.3 million is restricted, $21 million is
+nonspendable, $101.1 million is committed, and $464.7 million is
+unassigned and available for spending at the District's discretion.
+2025-2026 Adopted Budget Financial Section 85

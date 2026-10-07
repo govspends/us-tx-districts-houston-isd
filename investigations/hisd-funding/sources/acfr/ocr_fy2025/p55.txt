@@ -1,0 +1,58 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+Capital assets, including right-to-use assets, are depreciated or amortized over the following
+estimated useful lives
+Asset Classification                                   Useful Life
+
+Buildings and improvements                                            40 Years
+Land improvements                                                       20 years
+Vehicles:
+
+Buses                                                                  12 years
+
+Medium                                                                 7 years
+
+Small                                                                   5 years
+Furniture                                                                   4 years
+Equipment                                                                 5 years
+Right-to-use assets                                                Shorter of Term or
+
+useful life
+Leases
+The District is a lessee for noncancellable leases of property and equipment. The District recognizes
+a lease liability, reported with long-term debt, and a right-to-use lease asset (lease asset), reported
+with other capital assets, in the government-wide and proprietary fund financial statements.
+The District recognizes lease liabilities with an initial, individual value of $5,000 or more.
+At the commencement of a lease, the District initially measures the lease liability at the present
+value of payments expected to be made during the lease term. Subsequently, the lease liability is
+reduced by the principal portion of lease payments made. The lease asset is initially measured as
+the initial amount of the lease liability, adjusted for lease payments made at or before the lease
+commencement date, plus certain initial direct costs. Subsequently, the lease asset is amortized on
+a straight-line basis over the shorter of the lease term or its useful life.
+Key estimates and judgments related to leases include how the District determines (1) the discount
+rate it uses to discount the expected lease payments to present value, (2) lease term, and (3) lease
+payments.
+The District uses the interest rate charged by the lessor as the discount rate. When the interest
+rate charged by the lessor is not provided, the District generally uses its estimated incremental
+borrowing rate as the discount rate for leases.
+The lease term includes the noncancellable period of the lease.
+Lease payments included in the measurement of the lease liability are composed of fixed payments,
+variable payments fixed in substance or that depend on an index or a rate, purchase option price
+that the District is reasonably certain to exercise, lease incentives receivable from the lessor, and
+any other payments that are reasonably certain of being required based on an assessment of all
+relevant factors.
+The District monitors changes in circumstances that would require a remeasurement of its leases
+and will remeasure the lease asset and liability if certain changes occur that are expected to
+significantly affect the amount of the lease liability.
+Subscription-Based Information Technology Agreements (SBITAs)
+The District has noncancellable contracts with SBITA vendors for the right to use information
+technology (IT) software, alone or in combination with tangible capital assets (the underlying IT
+assets). The District recognizes a subscription liability, reported with long-term debt, and a right-to-
+use subscription asset (an intangible asset), reported with other capital assets, in the government-
+wide and proprietary fund financial statements. The District recognizes subscription liabilities with
+an initial, individual value of $5,000 or more.
+- 45 -
+Back to Top

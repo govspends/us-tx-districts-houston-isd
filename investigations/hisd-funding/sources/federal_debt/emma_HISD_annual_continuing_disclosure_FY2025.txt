@@ -1,0 +1,564 @@
+  Houston Independent School District
+          General Obligation
+   Annual Financial Operating Data
+   Fiscal Year Ended June 30, 2025
+
+
+
+
+Submitted pursuant to SEC Rule 15 c 2-12
+                  By:
+Table 1 - Valuation, Exemptions and Tax-Supported Debt
+
+
+                                                                                                                                         (1)
+Tax Year 2023 Taxable Assessed Valuation (100% of estimated market value)                                       $     229,523,362,674
+                                                                                                                                      (1)
+Tax Year 2024 Taxable Assessed Valuation (100% of estimated market value)                                       $     238,619,804,243
+
+
+
+Total Ad Valorem Tax Debt as of June 30, 2025                                                                   $        1,600,520,000 (2)
+Less: Debt Service Fund as of June 30, 2025                                                                                156,388,194
+Net Debt Outsanding                                                                                             $        1,756,908,194
+
+
+Ratio of Net Debt to Tax Year 2023 Taxable Assessed Valuation                                                                    0.77%
+Ratio of Net Debt to Tax Year 2024 Taxable Assessed Valuation                                                                    0.74%
+
+
+Tax Year 2024 District Tax Rate (per $100 T.A.V.)
+  Local Maintenance                                                                                             $              0.70160
+  Debt Service                                                                                                                 0.16670
+       Total                                                                                                    $              0.86830
+
+Tax Rate Limitation (per $100 T.A.V.)                                                                           $              1.70000
+
+
+Average percentage of current tax collections for Tax Years 2021 through 2025                                                   97.11%
+Average percentage of total (current and delinquent) tax collections for Tax Years 2021 through 2025                            96.80%
+
+                                                                                                                                         (3)
+Peak Student Enrollment (2025)                                                                                                 176,727
+District Population Estimate                                                                                                 1,514,721 (4)
+
+
+(1)
+      Source: the District, as reported by Harris County Appraisal District. Net of exemptions.
+
+(2)
+      Debt payable from I&S taxes at 7/1/2024                                                                   $        1,351,010,000
+      Debt payable from M&O taxes at 7/1/2024                                                                              249,510,000
+                                                                                                                $        1,600,520,000
+
+      Comprised of $1,351,010,000 in bonds payable from debt service taxes and $249,510,000 in contractual obligations payable from
+      maintenance taxes. Does not include $22,045,000 in lease/purchase obligations issued by Public Facilities Corporation.
+
+(3)
+      Source: the District. Information is unaudited and subject to change.
+
+(4)
+      Source: the District, as reported by the U.S. Census Bureau
+
+
+
+
+                                                                                                                                               1
+Table 2 - Taxable Assessed Valuation by Category
+
+                                                                                                       Taxable Assessed Valuation for Tax Year
+                                                                                  2024                                   2023                                       2022
+                                                                                              % of                                  % of                                    % of
+                           Category                                     Amount                Total              Amount             Total               Amount              Total
+Real, Residential, Single-Family                                     $144,980,972,859         44.66%         $137,294,867,638       43.74%     $      123,822,944,484       43.71%
+Real, Residential, Multi-Family                                         36,487,013,412        11.24%             37,928,340,920     12.08%             32,165,121,226       11.36%
+Real, Vacant Lots/Tracts                                                 6,502,633,461         2.00%              6,485,643,343      2.07%              5,640,417,857        1.99%
+Real, Acreage (Land Only)                                                  348,466,292         0.11%                355,501,873      0.11%                339,869,865        0.12%
+Real, Farm and Ranch Improvements                                            2,135,051         0.00%                 30,629,632      0.01%                  1,392,006        0.00%
+Real, Commercial                                                        67,141,090,752        20.68%             64,363,727,262     20.51%             60,801,566,417       21.47%
+Real, Industrial                                                         5,117,199,598         1.58%              5,154,323,187      1.64%              4,840,857,096        1.71%
+Real, Oil,Gas, and Other Mineral Reserves                                   18,461,670         0.01%                  3,392,100      0.00%                  1,865,560        0.00%
+Real and Tangible Personal, Utilities                                    2,829,880,591         0.87%              2,485,516,245      0.79%              2,252,866,566        0.80%
+Tangible Personal, Commercial                                           13,484,237,843         4.15%             12,691,937,736      4.04%             11,354,426,139        4.01%
+Tangible Personal, Industrial                                            8,514,427,593         2.62%              8,268,304,536      2.63%              6,965,293,818        2.46%
+Tangible Personal, Other                                                    89,508,773         0.03%                 87,418,676      0.03%                 68,824,333        0.02%
+Real Property Inventory                                                    783,492,548         0.24%                848,694,670      0.27%                779,121,347        0.28%
+Exempt Property                                                         38,320,957,841        11.80%             37,886,920,010     12.07%             34,223,945,076       12.08%
+Total Appraised Value Before Exemptions                            $ 324,620,478,284         100.00%      $ 313,885,217,828       100.00%      $      283,258,511,790      100.00%
+Less: Total Exemptions/Reductions                                     (86,000,674,041)                         (84,361,855,154)                       (65,083,373,428)
+Less: Adjustments                                                                    -                                        -                                     -
+Total Appraised Value After Exemptions                             $ 238,619,804,243                      $ 229,523,362,674                    $      218,175,138,362
+
+
+
+
+                                                                                 Taxable Assessed Valuation for Tax Year
+                                                                                2021                                 2020
+                                                                                           % of                                       % of
+                           Category                                       Amount          Total               Amount                  Total
+Real, Residential, Single-Family                                   $   116,091,462,912        44.99%       $   106,877,322,959        42.41%
+Real, Residential, Multi-Family                                         29,739,864,131        11.53%            28,098,485,493        11.15%
+Real, Vacant Lots/Tracts                                                 5,057,654,592         1.96%             4,956,923,717         1.97%
+Real, Acreage (Land Only)                                                  356,174,704         0.14%               331,627,698         0.13%
+Real, Farm and Ranch Improvements                                          169,270,921         0.07%                 2,108,574         0.00%
+Real, Commercial                                                        58,112,851,208        22.52%            56,546,356,161        22.44%
+Real, Industrial                                                         4,454,570,697         1.73%             4,536,897,761         1.80%
+Real, Oil,Gas, and Other Mineral Reserves                                    2,030,130         0.00%                 4,040,230         0.00%
+Real and Tangible Personal, Utilities                                    2,032,090,510         0.79%             1,942,040,464         0.77%
+Tangible Personal, Commercial                                            9,752,377,611         3.78%            10,842,925,093         4.30%
+Tangible Personal, Industrial                                            5,833,465,575         2.26%             6,694,277,607         2.66%
+Tangible Personal, Other                                                    63,261,969         0.02%                59,694,793         0.02%
+Real Property Inventory                                                    636,106,816         0.25%               750,647,246         0.30%
+Exempt Property                                                         25,727,823,393         9.97%            30,381,356,972        12.05%
+Total Appraised Value Before Exemptions                            $   258,029,005,169       100.00%       $   252,024,704,768       100.00%
+Less: Total Exemptions/Reductions                                      (57,354,443,544)                        (55,393,030,620)
+Less: Adjustments                                                                    -                                       -
+Total Appraised Value After Exemptions                             $   200,674,561,625                     $   196,631,674,148
+
+
+
+Source: The District. Assessed Values include both certified and uncertified taxable values reported by the Harris County Appraisal
+District to the State Comptroller of Public Accounts. Taxable assessed values are subject to change throughout the year as contested assessed values are resolved
+with the Harris County Appraisal District.
+
+
+
+
+                                                                                                                                                                                2
+Table 3 - Exemptions
+
+                                                                            2024 Tax Year (FY25)           2023 Tax Year (FY24)          2022 Tax Year (FY23)           2021 Tax Year (FY22)
+ Classification of Exemption or Exclusion                                    Amount          Percent        Amount          Percent       Amount          Percent       Amount            Total
+Local Option and State-Mandated
+   Homestead Exemption                                                      44,259,075,514    50.79%       42,559,007,666    50.45%     27,585,314,797    42.38%    $ 22,565,260,366      39.34%
+
+Local Option and State-Mandated
+   Homestead Exemption Over 65 years
+   of age or older (up to $10,000 AV)                                        1,012,466,903     1.16%         934,329,751      1.11%      1,196,509,946      1.84%      1,202,364,263       2.10%
+
+Disabled Veterans, Surviving Spouses
+   and/or Children and Certain Other
+   Disabled Persons                                                           541,279,315      0.62%         428,777,075      0.51%       444,326,910       0.68%       402,050,574        0.70%
+
+Tax Abatement Exemption                                                                  -     0.00%                    -     0.00%                  -      0.00%                  -       0.00%
+
+Tax Exempt (i.e., Church)                                                   38,584,432,224    44.27%       37,917,300,704    44.95%     32,998,273,989    50.70%      30,996,031,601      54.04%
+
+Pollution Control                                                             320,725,023      0.37%         341,468,165      0.40%       334,865,893       0.51%       271,573,419        0.47%
+
+Foreign Trade                                                                 408,550,314      0.47%         496,444,763      0.59%       487,629,314       0.75%       478,099,204        0.83%
+
+Other                                                                        2,021,887,755     2.32%        1,684,527,030     2.00%      2,036,452,579      3.13%      1,439,064,117       2.51%
+
+Total Exemptions from Assessed Value                                    $   87,148,417,048   100.00%   $   84,361,855,154   100.00%   $ 65,083,373,428   100.00%    $ 57,354,443,544     100.00%
+
+Source: The District. Information is unaudited and subject to change.
+
+
+
+
+                                                                                                                                                                                                  3
+Table 4 - Valuation and Tax Supported Debt History
+
+                                                                                                        Ratio of
+                                                                Taxable          Tax Supported       Tax Supported
+      Fiscal                             Taxable                Assessed        Debt Outstanding     Debt to Taxable     Funded
+       Year      Estimated              Assessed               Valuation             at End            Assessed           Debt
+      Ended     Population (1)         Valuation (2)           Per Capita            of Year     (3)
+                                                                                                       Valuation        Per Capita
+       2021       1,570,773         $ 196,631,674,148         $ 125,181         $ 2,564,745,000          1.30%         $     1,633
+       2022       1,579,113           200,674,561,625             127,081         2,342,940,000          1.17%               1,484
+       2023       1,481,171           218,175,138,362             147,299         2,084,245,000          0.96%               1,407
+       2024       1,497,738           229,523,362,674             153,247         1,780,715,000          0.78%               1,189
+       2025       1,514,721           238,619,804,243             157,534         1,600,520,000          0.67%               1,057
+
+(1)
+    Source: U.S. Census Bureau
+(2)
+    As reported by the Harris County Appraisal District, subject to change throughout the year, net of exemptions.
+(3)
+    Includes bonds, contractual obligations. Does not include lease/purchase obligations.
+
+
+
+
+                                                                                                                                     4
+Table 5 - Tax Rate, Levy, and Collections History
+
+
+                                  Maintenance          Interest
+      Fiscal                          and                 and
+       Year          Tax           Operating           Sinking                                 % Current           % Total
+      Ended          Rate            Fund               Fund                Tax Levy           Collections (1)(2) Collections (1)(2)
+       2021       $ 1.13310       $ 0.96640          $   0.16670         $ 2,173,577,655          97.37%             96.36%
+       2022         1.09440          0.92770             0.16670           2,140,410,545          97.84%             97.32%
+       2023         1.03720          0.87050             0.16670           2,224,027,089          97.16%             97.16%
+       2024         0.86830          0.70160             0.16670           1,931,098,418          96.59%             96.59%
+       2025         0.86830          0.70160             0.16670           1,959,305,399          96.59%             96.59%
+
+(1)
+      Source: The District and Harris County Tax Assessor collections reported for fiscal year ended 6/30/2024.
+(2)
+      Information obtained by the District is unaudited and subject to change.
+
+
+
+
+                                                                                                                                       5
+Table 6 - Ten Largest Taxpayers
+
+
+                                                                           Tax year 2024    % of Total
+                                                                              Taxable        Taxable
+                                                                              Assessed      Assessed
+          Name of Taxpayer                           Nature of Property      Valuation      Valuation
+Centerpoint Energy, Inc.                  Electric Utility                $ 2,294,997,576        0.99%
+Chevron Chemical company                  Oil & Gas                           761,096,432        0.33%
+HG Galleria                               Shopping Mall                       747,282,529        0.32%
+Valero Energy                             Oil & Gas                           653,647,861        0.28%
+BSREP (Brookfield)                        Commercial Real Estate              652,395,173        0.28%
+One, Two, and Three Allen Center          Commercial Real Estate              649,199,743        0.28%
+Four Oaks Place Operating                 Commercial Real Estate              618,005,246        0.27%
+GWP (Greenway Plaza)                      Commercial Real Estate              559,968,115        0.24%
+HCG Block 69 LLC                          Office buildings                    520,694,398        0.22%
+Block 58 LLC                              Commercial Real Estate              509,786,950        0.22%
+                                                                          $ 7,967,074,023        3.43%
+
+
+
+Source: The District and Harris County Appraisal District.
+
+
+
+
+                                                                                                         6
+Table - 8 Ad Valorem Tax Debt Service Requirements
+
+
+                                                                 Total                                                        Total
+  Year                                                        Outstanding                                                  Outstanding
+ Ended                    I&S Fund Debt                       I&S Fund                   M&O Fund Debt                     M&O Fund           Total
+  6/30            Principal           Interest                 Debt (1)             Principal      Interest                  Debt (2)     Requirements (3)
+  2026        $   309,730,000      $      63,352,126      $    373,082,126      $    7,645,000    $    8,921,365      $ 16,566,365        $   389,648,490
+  2027            146,850,000             50,874,306           197,724,306           8,540,000        11,760,400             20,300,400       218,024,706
+  2028             95,850,000             43,298,368           139,148,368           8,950,000        11,323,150             20,273,150       159,421,518
+  2029             62,535,000             38,262,868           100,797,868           9,385,000        10,864,775             20,249,775       121,047,643
+  2030             75,390,000             34,896,352           110,286,352          13,660,000        10,288,650             23,948,650       134,235,002
+  2031             80,455,000             30,854,124           111,309,124          14,360,000         9,588,150             23,948,150       135,257,274
+  2032             82,495,000             26,548,134           109,043,134          15,100,000         8,851,650             23,951,650       132,994,784
+  2033             65,690,000             22,472,714            88,162,714          15,735,000         8,080,775             23,815,775       111,978,489
+  2034             69,930,000             19,246,914            89,176,914          16,535,000         7,274,025             23,809,025       112,985,939
+  2035             46,700,000             15,432,800            62,132,800          17,485,000         6,483,200             23,968,200        86,101,000
+  2036             44,810,000             13,222,700            58,032,700          18,000,000         5,655,750             23,655,750        81,688,450
+  2037              47,140,000            11,299,900            58,439,900          19,080,000         4,728,750             23,808,750        82,248,650
+  2038              49,520,000              9,273,250           58,793,250          20,030,000         3,775,875             23,805,875        82,599,125
+  2039              48,460,000              7,265,150           55,725,150           6,775,000         3,080,875              9,855,875        65,581,025
+  2040              50,515,000              5,262,650           55,777,650           7,125,000         2,733,375              9,858,375        65,636,025
+  2041              52,630,000              3,168,900           55,798,900           7,490,000         2,368,000              9,858,000        65,656,900
+  2042              22,310,000               984,100            23,294,100           7,875,000         1,983,875              9,858,875        33,152,975
+  2043                        -                      -                      -        8,275,000         1,580,125              9,855,125         9,855,125
+  2044                        -                      -                      -        8,700,000         1,155,750              9,855,750         9,855,750
+  2045                        -                      -                      -        9,150,000           709,500              9,859,500         9,859,500
+  2046                                                                               9,615,000           240,375              9,855,375         9,855,375
+              $ 1,351,010,000      $     395,715,355      $ 1,746,725,355       $ 249,510,000     $ 121,448,390       $ 370,958,390       $ 2,117,683,745
+
+
+Source: The Municipal Advisory Council of Texas.
+
+(1)
+      Interest on the Variable Rate Maintenance Tax Notes is estimated at 5.00% after the initial manditory tender date.
+
+(2)
+  Since the principal and interest payments occur on July 15 of each year, the District accrues the payments in the fiscal year prior to the July 15 payment
+date. However, the amounts in the table above are shown in the fiscal years that the payments are actually paid rather than the fiscal year in which the
+payments are accrued.
+
+(3)
+      Total requirements do not take into account any federal subsidies related to the outstanding Build America Bonds.
+
+
+
+                                                                                                                                                               7
+Table 9 - Authorized But Unissued Unlimited Tax Bonds
+
+
+
+
+As of June 30, 2025, the District does not have any authorized but unissued debt.
+
+
+
+
+                                                                                    8
+Table 10 - Other Obligations
+
+Leases:
+The District has entered into multiple lease agreements as lessee. The leases grant the District the right-to-use
+computers, copiers, and other assets over the term of the lease. The District is required to make annual payments on the
+laptop leass and monthly payments on all other leases at its incremental borrowing rate or the interest rate stated or
+implied within the leases. The lease rate, term, and ending lease liability are as follows:
+
+                                                                     Lease Term             Ending
+Governmental Activities                       Inerest Rates           in Years              Balance
+Laptops                                            2.27%                 3.0            $     1,406,842
+Copiers                                       2.85% - 3.66%              5.0                 38,421,494
+Other Leases                                   0.55% - 3.71           5.0-30.0                1,606,332
+Total Governmental Activities                                                           $    41,434,668
+
+
+
+Future Principal and Interest payments are as follows;
+
+Fiscal Year
+Ending        Principal     Interest      Total
+    2026       $ 10,248,104 $ 1,054,004 $ 11,302,108
+    2027          8,695,965       776,790     9,472,755
+    2028          8,730,192       534,382     9,264,574
+    2029          8,752,778       286,848     9,039,626
+    2030          5,007,629        56,007     5,063,636
+               $ 41,434,668 $ 2,708,031 $ 44,142,699
+
+
+
+
+The District's ACFR. Information is unaudited and subject to change.
+
+
+
+
+                                                                                                                           9
+Table 11 - General Fund Revenues and Expenditures
+
+                                                                                                                                              Total Revenues
+                                                                                                                                    Fiscal Years Ended (000's Omitted)
+                            Source                                                              2025             2024            2023              2022             2021
+Property Taxes                                                                              $    1,884,863    $ 1,864,110     $ 2,157,325      $ 2,114,671      $ 2,115,531
+Other Local Sources                                                                                 96,311         67,849         162,105            95,860           70,416
+State Sources                                                                                      345,023        384,247         232,848           246,078          319,255
+Federal Sources                                                                                    401,352        779,835         816,348           699,120          341,025
+Subtotal                                                                                    $    2,727,549    $ 3,096,041     $ 3,368,626      $ 3,155,729      $ 2,846,227
+Other Sources                                                                                       65,180         89,138         251,422           188,317          138,094
+Total Revenues                                                                                   2,792,729      3,185,179       3,620,048         3,344,046        2,984,321
+
+
+                                                                                                                                               General Fund
+                                                                                                                                     Fiscal Years Ended (000's Omitted)
+                      Source                                                                    2025             2024            2023               2022              2021
+Beginning of Fiscal Year                                                                    $    1,047,197    $ 1,127,069     $ 1,126,909       $    996,626     $ 967,900
+Revenues                                                                                         1,940,386      1,982,609       2,154,752          2,107,492         2,139,390
+Total Funds Available                                                                            2,987,583      3,109,678       3,281,661          3,104,118     $ 3,107,290
+
+Expenditures                                                                                $   (2,250,964)   $ (2,149,215)   $ (2,175,001)     $ (1,992,857)     $ (2,118,499)
+
+Other Sources                                                                                      27,684         103,130          36,620            41,349             43,748
+Other Uses                                                                                        (16,215)        (16,396)        (16,211)          (25,701)           (35,913)
+Balance, End of Fiscal Year                                                                 $     748,088     $ 1,047,197     $ 1,127,069       $ 1,126,909       $    996,626
+
+
+                                                                                                                                            Special Revenue Fund
+                                                                                                                                      Fiscal Years Ended (000's Omitted)
+                      Source                                                                    2025              2024            2023               2022              2021
+                                                                                                                                                                                  (1)
+Beginning of Fiscal Year                                                                    $     114,228     $    111,112    $    105,393       $     81,621     $      69,813
+Revenues                                                                                          459,964          780,370         808,992            694,172           358,804
+Total Funds Available                                                                             574,192          891,482         914,385            775,793     $     428,617
+
+Expenditures                                                                                $    (477,640)    $   (778,583)   $   (803,273)     $   (670,399)     $   (348,817)
+
+Other Sources                                                                                       9,786           1,329             -                 -                1,821
+Other Uses                                                                                         (4,398)            -               -                 -                  -
+Balance, End of Fiscal Year                                                                 $     101,940     $   114,228     $   111,112       $   105,393       $     81,621
+
+(1)
+      Beginning balance of $69,813 reflects cumulative effect of the adoption of GASB 84.
+                                                                                                                                              Debt Service Fund
+                                                                                                                                      Fiscal Years Ended (000's Omitted)
+                      Source                                                                    2025              2024            2023               2022              2021
+Beginning of Fiscal Year                                                                    $     123,817     $    126,657    $    115,548       $    116,336     $ 112,859
+Revenues                                                                                          386,184          384,185         358,968            322,260           316,280
+Total Funds Available                                                                       $     510,001     $    510,842    $    474,516       $    438,596     $ 429,139
+
+Expenditures                                                                                $    (383,955)    $   (409,282)   $   (452,708)     $   (460,688)     $   (404,856)
+
+Other Sources                                                                                     482,636          22,257          214,802          137,640             92,053
+Other Uses                                                                                  $    (452,294)    $       -       $   (109,953)                0               -
+Balance, End of Fiscal Year                                                                 $     156,388     $   123,817     $    126,657      $   115,548       $    116,336
+
+                                                                                                                                          Capital Renovation Fund
+                                                                                                                                      Fiscal Years Ended (000's Omitted)
+                      Source                                                                    2025              2024            2023              2022 (1)          2021 (1)
+Beginning of Fiscal Year                                                                    $      71,597     $    213,303    $    214,396       $ 238,798        $ 289,972
+Revenues                                                                                             6,194          38,016          45,915             31,805            31,753
+Total Funds Available                                                                       $      77,791     $    251,319    $    260,311       $ 270,603        $ 321,725
+
+Expenditures                                                                                $     (38,737)    $   (103,860)   $    (41,239)     $    (55,163)     $    (74,723)
+
+Other Sources                                                                                       2,248              -              -               9,328                472
+Other Uses                                                                                        (15,762)         (75,861)        (5,769)          (10,371)            (8,677)
+Balance, End of Fiscal Year                                                                 $      25,540     $     71,597    $   213,303       $   214,396       $    238,798
+
+(1) Includes the Capital Renovation Fund of the PFC.
+
+SOURCES OF DISTRICT REVENUES
+                                                                                                                                                        2025
+Ad Valorem Taxes                                                                                                                                        67%
+Other Local Sources                                                                                                                                      3%
+State sources                                                                                                                                           12%
+Federal sources                                                                                                                                         14%
+Other sources                                                                                                                                            2%
+                                                                                                                                                       100%
+Source: The District's ACFR. Information is unaudited and subject to change.
+
+
+
+
+                                                                                                                                                                                  10
+Table 12 - Current Investments
+
+
+The District's investments, including restricted assets, at June 30, 2025 are as follows:
+
+
+
+                                     Value as of                Issuer               Investment Maturities in Years
+       Description                  June 30, 2025            Concentration        Less than 1 year     1-5 Years
+Agency Securities              $         206,121,842           15.56%             $            -       $ 206,121,842
+Municipal Bonds                           55,479,268            4.19%                          -            55,479,268
+Treasur Notes                                     -             0.00%                          -                    -
+Total Securities               $         261,601,110           19.75%             $            -       $ 261,601,110
+
+Lone Star Investment Pool      $          405,036,232            30.58%           $     405,036,233    $          -
+Texas Class                                 2,171,958             0.16%                   2,171,958               -
+Texas FIT                                 591,721,940            44.68%                 590,805,125               -
+Texas Range                                50,025,391             3.78%                  50,025,391
+Tex Pool                                   13,835,932             1.04%                  13,835,932
+Total Investment Pools                  1,062,791,453            80.25%               1,061,874,639               -
+
+Total Investments              $        1,324,392,563           100.00%           $ 1,061,874,639      $ 261,601,110
+
+
+
+Source: The District's ACFR. The information is unaudited and subject to change.
+
+
+
+
+                                                                                                                         11
+Tables of the Houston ISD Public Facilities Corporation
+
+Table 1 - Debt Service Requirements
+
+
+
+  Fiscal
+Year Ending
+  30-Jun            Principal           Interest          Total
+   2026         $      5,460,000      $ 1,238,750    $     6,698,750
+   2027                4,785,000          982,625          5,767,625
+   2028                5,115,000          735,125          5,850,125
+   2029                4,940,000          483,750          5,423,750
+   2030                5,185,000          230,625          5,415,625
+   2031                2,020,000           50,500          2,070,500
+                $    27,505,000       $ 3,721,375    $    31,226,375
+
+Source: The Municipal Advisory Council of Texas
+
+
+
+
+Table 2 - Tier One Allotment History
+
+
+
+
+  Fiscal
+Year Ending
+  30-Jun          Local Share          State Share        Total
+   2021         $ 1,834,257,324       $        -     $ 1,570,521,134
+   2022           1,786,039,761                -       1,532,236,692
+   2023           1,827,800,671                        1,485,012,779
+   2024           1,516,263,440                -       1,474,696,065
+   2025           1,543,784,154                -       1,420,707,476
+
+Source:
+Texas Education Agency: Summary of Finances NF
+
+
+
+
+                                                                       12
+Tables of the Houston ISD Public Facilities Corporation
+
+Table 3 - Undesignated (Unassigned) General Fund Balance History
+
+
+
+  Fiscal           Unassigned
+Year Ended           General
+ June 30          Fund Balance
+  2021              556,322,769
+  2022              664,168,528
+  2023              590,067,862
+  2024              590,067,862
+  2025              464,760,389
+
+
+
+
+Table 4 - Average Daily Attendance
+
+  Fiscal             Average
+Year Ending            Daily             Peak
+  30-Jun            Attendance         Enrollment
+   2021                  177,716          196,943
+   2022                 174,359           194,607
+   2023                 167,391           189,290
+   2024                 163,594           184,109
+   2025                 157,054           176,727
+
+Source: The District. Information is unaudited and subject to change.
+
+
+
+
+                                                                        13
+Tables of the Houston ISD Public Facilities Corporation
+
+
+Taxable Assessed Valuations By Category
+
+See Table 2
+
+
+
+
+Tax Rate, Levy and Calculations History
+
+See Table 5
+
+
+
+
+Ten Largest Taxpayers
+
+See Table 6
+
+
+
+
+Outstanding District Debt
+
+See Table 8
+
+
+
+
+Summary of District Revenues and Fund Balances
+
+See Table 11
+
+
+
+
+                                                          14
+

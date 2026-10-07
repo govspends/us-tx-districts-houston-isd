@@ -1,0 +1,2281 @@
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+Cover Page
+2025 Accountability Rating: The overall rating earned by the district or campus for 2025.
+
+2025 Special Education Determination Status (district TAPR only): This label represents an integrated
+determination level status based on an evaluation of each local educational agency’s (LEA) Results
+Driven Accountability (RDA) indicators in the special education program area and four Federally
+Required Elements (FREs), which include the State Performance Plan (SPP) compliance indicators 9, 10,
+11, 12, and 13; data integrity; uncorrected noncompliance; and financial audit findings. Each LEA
+receives one of four special education determination levels (DLs):
+Meets Requirements
+Needs Assistance
+Needs Intervention Needs
+Substantial Intervention
+
+2025 Armed Services Vocational Aptitude Battery (ASVAB) Test (Career Exploration) (districts serving
+grades 10–12): Senate Bill 1843 requires that each school year, each school district and open-enrollment
+charter school provide students in grades 10–12 the opportunity to take the ASVAB and consult with a
+military recruiter. (Data source: PEIMS ArmedServicesVocAptBattery E1625)
+
+
+
+Performance
+STAAR: A comprehensive testing program for public school students in grades 3–8 or high school
+courses with end-of-course (EOC) assessments. The STAAR program is designed to measure to what
+extent a student has learned, understood, and is able to apply the concepts and skills expected at each
+grade level or after completing each course for which an EOC assessment exists. Each STAAR assessment
+is linked directly to the Texas Essential Knowledge and Skills (TEKS). The TEKS are the state-mandated
+content standards that describe what a student should know and be able to do upon completion of a
+course. For more information on the TEKS, see the Texas Essential Knowledge and Skills website at
+http://tea.texas.gov/curriculum/teks/.
+Other Important Information:
+STAAR (with and without accommodations) and STAAR Alternate 2. The TAPR and the Texas
+       Performance Reporting System (TPRS) include performance on STAAR and STAAR Alternate 2.
+Spanish STAAR. All STAAR assessments in grades 3, 4, and 5 are available in both English and Spanish.
+        The TAPR and the TPRS include performance on the Spanish STAAR.
+Rounding of STAAR results. STAAR performance shown on the TAPR and TPRS is rounded to whole
+       numbers. For example, 49.877% is rounded to 50%; 49.4999% is rounded to 49%; and 59.5% is
+       rounded to 60%.
+Masking. STAAR performance rates are masked when necessary to comply with FERPA. For more
+information, see the Explanation of Masking at
+https://rptsvr1.tea.texas.gov/perfreport/tapr/2025/masking.html.
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                  1 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+
+STAAR Performance (2024–25)
+The STAAR Performance section displays performance results by grade, subject and performance level
+for students in the accountability subset, which are students enrolled in the same district/campus on
+both the snapshot date (PEIMS Fall Snapshot) and the testing date. The STAAR Performance–All
+Students section of the TPRS displays STAAR performance by grade, subject, and performance level and
+includes all students tested, regardless of whether they were in the accountability subset.
+
+STAAR Subjects by Grade:
+
+        Grade 3 – Reading Language Arts (RLA) and Mathematics
+        Grade 4 – Reading Language Arts (RLA), and Mathematics
+        Grade 5 – Reading Language Arts (RLA), Mathematics, and Science
+        Grade 6 – Reading Language Arts (RLA) and Mathematics
+        Grade 7 – Reading Language Arts (RLA) and Mathematics
+        Grade 8 – Reading Language Arts (RLA), Mathematics, Science, and Social Studies
+
+STAAR End-of-Course (EOC) Subjects:
+
+        English I
+        English II
+        Algebra I
+        Biology
+        U.S. History
+    Accelerated Testers:
+        SAT/ACT
+ Percentage at Approaches Grade Level or Above. The percentage of assessments that met or exceeded
+       the Approaches Grade Level standard.
+ Percentage at Meets Grade Level or Above. The percentage of assessments that met or exceeded the
+       Meets Grade Level standard.
+ Percentage at Masters Grade Level. The percentage of assessments that met the Masters Grade Level
+       standard.
+ STAAR Performance Rate by Enrolled Grade at Meets Grade Level or Above on Both Reading and
+       Mathematics. The percentage of students who took both the reading and mathematics STAAR
+       and met or exceeded the Meets Grade Level standard on both assessments (excluding EOC
+       assessments).
+ STAAR Performance Rate by Enrolled Grade at Meets Grade Level or Above on Both Reading and
+       Mathematics Including EOC. The percentage of students who took both the reading and
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                2 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+        mathematics STAAR or EOC and met or exceeded the Meets Grade Level standard on both
+        assessments.
+ STAAR Performance Rate by Enrolled Grade at Meets Grade Level or Above on Reading Including EOC.
+       The percentage of students who took the reading STAAR or the English I or II EOC and met or
+       exceeded the Meets Grade Level standard.
+STAAR Performance Rate by Enrolled Grade at Meets Grade Level or Above on Mathematics Including
+       EOC. The percentage of students who took the mathematics STAAR or the Algebra I EOC and
+       met or exceeded the Meets Grade Level standard.
+
+Progress (Annual Growth, Accelerated Learning and STAAR Progress
+Measure)
+School Progress Domain— Annual Growth is the percentage of students who grew academically by at
+        least one school year. For STAAR assessments (with or without accommodations), annual
+        growth is measured by a transition table. Individual student growth is calculated as the change
+        between Low Did Not Meet Grade Level, High Did Not Meet Grade Level, Low Approaches Grade
+        Level, High Approaches Grade Level, Meets Grade Level, and Masters Grade Level performance
+        from the prior year to the current year.
+School Progress Domain—Accelerated Learning is the percentage of students who earned Did Not Meet
+        Grade Level in the prior year and were accelerated to Approaches Grade Level or above in the
+        current year.
+The above measures were used to determine the Annual Growth and Accelerated Learning in the
+       Bilingual Education/ESL report.
+
+Bilingual Education/ESL
+Bilingual Education (BE): Dual-language program that enables emergent bilingual (EB) students/English
+learners (ELs) to become proficient in listening, speaking, reading, and writing in the English language
+through the development of literacy and academic skills in the primary language and English. This
+category includes the following:
+     • BE Trans Early Exit. Bilingual program model in which students identified as EB students/ELs are
+        served in both English and another language and are prepared to meet reclassification criteria to
+        be successful in English-only instruction not earlier than two or later than five years after the
+        student enrolls in school.
+     • BE Trans Late Exit. Bilingual program model in which students identified as EB students/ELs are
+        served in both English and another language and are prepared to meet reclassification criteria to
+        be successful in English-only instruction not earlier than six or later than seven years after the
+        student enrolls in school.
+     • BE Dual Two-Way. Bilingual/biliteracy program model in which students identified as EB
+        students/ELs are integrated with non-EB/non-EL students and are served in both English and
+        another language and are prepared to meet reclassification criteria in order to be successful in
+        English-only instruction not earlier than six or later than seven years after the student enrolls in
+        school. This model provides ongoing instruction in literacy and academic content in English and
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                     3 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+        another language with at least half of the instruction delivered in the non-English program
+        language for the duration of the program.
+    •   BE Dual One-Way. Bilingual/biliteracy program model in which students identified as EB
+        students/ELs are served in both English and another language and are prepared to meet
+        reclassification criteria in order to be successful in English-only instruction not earlier than six or
+        later than seven years after the student enrolls in school. This model provides ongoing
+        instruction in literacy and academic content in the students' primary language as well as English,
+        with at least half of the instruction delivered in the students' primary language for the duration
+        of the program.
+
+English as a Second Language (ESL): An English acquisition program that enables emergent bilingual (EB)
+students/English learners (ELs) to become proficient in listening, speaking, reading, and writing in the
+English language through the integrated use of second language acquisition methods. This category
+includes the following:
+    • ESL Content-Based. An English acquisition program that serves students identified as EB
+         students/ELs through English instruction by a teacher appropriately certified in ESL under TEC,
+         §29.061(c), through English language arts and reading, mathematics, science, and social studies.
+    • ESL Pull-Out. An English program that serves students identified as EB students/ELs through
+         English instruction provided by an appropriately certified ESL teacher under the TEC, §29.061(c),
+         through English language arts and reading. Instruction shall be provided by the ESL teacher in a
+         pull-out or inclusionary delivery model.
+
+Alternative Language Program (ALP): An alternative language program provided to emergent bilingual
+(EB) students/English learners (ELs) for whom the local education agency (LEA) does not have the
+appropriately certified teachers for the required bilingual education or English as a second language
+(ESL) program for the current school year. This category includes the following:
+    • ALP Bilingual (Exception). An alternative language program to the required bilingual education
+        (BE) program approved by the TEA for the current school year due to the LEA’s submission of a
+        bilingual education exception application.
+    • ALP ESL (Waiver). An alternative language program to the required English as a second language
+        (ESL) program approved by the TEA for the current school year due to the LEA’s submission of
+        an ESL waiver application.
+
+Emergent Bilingual (EB) Students/English Learner (EL): The count and percentage of students whose
+primary language is other than English and who are in the process of acquiring English. As a result of the
+87th Texas Legislature, the term “emergent bilingual student” replaced the term of “limited English
+proficient (LEP) student” used in the Texas Education Code (TEC), Chapter 29, Subchapter B, and thus,
+will be changing the term of “English learner (EL)” used in 19 TAC Chapter 89, Subchapter BB. These
+terms describe the same group of Texas students. In the revised Texas Education Data Standards (TEDS),
+the terms of “emergent bilingual” and “English learner” have been bridged as EB/EL. The term “English
+learner” is still used in federal regulations and guidance. This category includes:
+     • EB/EL with Parental Denial. Students identified as emergent bilingual (EB) students/English
+         learners (ELs) whose parents have denied all bilingual and ESL program services.
+     • Never EB/EL. Students who have never been identified as EB students/ELs (non-EB/non-EL
+         students).
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                        4 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+    •   Total EB/EL (Current). Students currently identified as EB students/ELs, including those served in
+        a standard or alternative bilingual or ESL program as well as those with a parental denial of
+        services.
+    •   Monitored & Former EB/EL. Students who were once identified as EB students/ELs but have
+        reclassified as English proficient, including students within their four years of state and federal
+        monitoring and those beyond monitoring years.
+
+STAAR Participation (2024–25)
+This Texas Academic Performance Report (TAPR) provides the State Assessment participation rate as
+used in State Accountability. This participation rate includes students who are considered participants
+for state reporting purposes but are excluded from the federal participation rate. The report details the
+participation rate by All Tests, Reading, Mathematics, Science, Social Studies, and Accelerated Testers
+and which assessments and students are included or excluded from accountability.
+
+Assessment Participants
+    • STAAR Assessments:
+           o Includes STAAR and STAAR Alternate 2 assessments with a score code of "S."
+    • STAAR Alternate 2 Assessments:
+           o Includes assessments with a score code of "N."
+    • STAAR Reading Language Arts (RLA) Assessments:
+           o Includes STAAR and STAAR Alternate 2 assessments with a score code of "A" or "O,"
+               provided a TELPAS or TELPAS Alternate assessment has a score code of "S."
+    • STAAR Mathematics Assessments:
+           o Includes assessments with a score code of "A" or "O," provided a TELPAS or TELPAS
+               Alternate assessment has a score code of "S” for year 1 asylees/ refugees or students
+               with interrupted formal education (SIFEs).
+    • Accelerated Testers:
+           o This includes Evidence-Based Reading and Writing (EBRW) SAT, English Language Arts
+               (ELA) ACT, ACT science, and mathematics SAT and ACT results for students who
+               complete a STAAR End-of-Course (EOC) assessment at the Approaches Grade Level or
+               above in Algebra I, English II, and/or Biology before grade 9.
+
+Included in Accountability:
+    • This represents the state assessment participation rate used in state accountability measures.
+    • Includes all of the participants listed above, except for students classified as "Mobile" or under
+        "Other Exclusions."
+
+Not Included in Accountability:
+    • Mobile: Refers to the percentage of assessments excluded from the "Included in Accountability"
+        rate because the students enrolled in the district or campus after the Texas Student Data System
+        (TSDS) Public Education Information Management System (PEIMS) fall snapshot date.
+    • Other Exclusions: Refers to the percentage of assessments excluded from the "Included in
+        Accountability" rate for the following reasons:
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                     5 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+            o   STAAR Assessments (STAAR and STAAR Alternate 2) with score codes "A" or "O" that do
+                NOT have a corresponding TELPAS or TELPAS Alternate assessment with a score code of
+                "S."
+            o   STAAR Alternate 2 assessments with a score code of "N."
+            o   Answer documents of students who are an Emergent Bilingual/English learner (EB/EL)
+                who has been in school in the U.S. for one year.
+            o   Other exclusions specified in the 2025 Accountability Manual — Appendix G.
+
+Not Tested
+    • Assessments that are not considered in the participation rate include:
+           o Absent: Assessments with a score code of "A."
+           o Other: Assessments with a score code of "O."
+           o Accelerated Testers: Accelerated testers who did not take an SAT/ACT assessment.
+
+The denominator for participation is the sum of these five categories: Included in Accountability, Mobile,
+Other Exclusions, and Not Tested (Absent and Other). STAAR Participation Rate is rounded to a whole
+number. For example, 94.49% is rounded to 94%. Small values may show as zero: 0.4% is rounded to 0%,
+and 0.6% is rounded to 1%.
+
+Attendance, Graduation, and Dropout Rates (2024–25)
+Attendance Rate: The percentage of days that students were present based on student attendance for
+the entire school year. Only students in grades 1–12 are included in the calculation.
+
+Attendance is calculated as follows:
+
+      total number of days that students in grades 1–12 were present during the 2023–24 school
+                                                 year
+      total number of days that students in grades 1–12 were in membership during the 2023–24
+                                              school year
+
+(Data source: PEIMS 42400)
+Chronic Absenteeism: The unduplicated number of K–12 students enrolled for at least 10 days and
+absent for 10 percent or more days. Chronic Absenteeism is calculated as follows:
+
+       total number of K–12 students enrolled for at least 10 days and absent for 10 percent or
+                             more days during the 2023–24 school year
+      total number of K–12 students enrolled for at least 10 days during the 2023–24 school year
+
+(Data source: PEIMS 42400)
+Annual Dropout Rate: The percentage of students who drop out of school during a school year. Annual
+dropout rates are shown for districts and campuses that serve grades 7–8 and/or 9–12. State law
+prohibits including a student who meets any of the following criteria from campus and district annual
+dropout rate calculations:
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                   6 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+    •   Is ordered by a court to attend a high school equivalency certificate program but has not earned
+        a high school equivalency certificate
+    •   Was previously reported to the state as a dropout (previous dropout exclusions do not apply to
+        completion measure calculations for AEA campuses)
+    •   Was in attendance but not in membership for purposes of average daily attendance (i.e.,
+        students for whom school districts are not receiving state Foundation School Program [FSP]
+        funds)
+    •   Was initially enrolled in a school in the United States in any grade 7 through 12 as an unschooled
+        refugee or asylee as defined by TEC §39.027(a-1)
+    •   Attends a district exclusively as a function of having been detained at a county detention facility
+        and is not otherwise a student of the district in which the facility is located or is being provided
+        services by an open-enrollment charter school exclusively as the result of having been detained
+        at the facility
+    •   Is incarcerated in a state jail or federal penitentiary as an adult or as a person certified to stand
+        trial as an adult
+    •   Is a student who has suffered a condition, injury, or illness that requires substantial medical care
+        and leaves the student unable to attend school and assigned to a medical or residential
+        treatment facility
+    •   Is a student in a Texas Juvenile Justice Department facility or residential treatment facility
+        served by a Texas public school district
+    •   Is at least 18 years of age as of September 1 and has satisfied the credit requirements for high
+        school graduation; has not completed his or her individualized education program (IEP); and is
+        enrolled and receiving IEP services
+    •   Is a student who (a) is at least 18 years of age and under 26 years of age; (b) has not been
+        previously reported as a dropout; and (c) has not been enrolled in school during the previous
+        nine months before enrolling in a high school equivalency program, a dropout recovery school,
+        or an adult education program provided under a high school diploma and industry certification
+        charter school program (previous dropout/previous dropout exclusions do not apply to
+        completion measure calculations for AEA campuses)
+Annual Dropout Rate (Gr 7–8). This includes only grades 7 and 8. It is calculated as follows:
+                 number of dropouts in grades 7 and 8 during the 2023–24 school year
+   number of students in grades 7 and 8 in attendance at any time during the 2023–24 school year
+
+
+Annual Dropout Rate (Gr 9–12). This includes grades 9 through 12. It is calculated as follows:
+                  number of dropouts in grades 9–12 during the 2023–24 school year
+     number of students in grades 9–12 in attendance at any time during the 2023–24 school year
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                         7 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+Both annual dropout rates appear on campus, district, region, and state TAPRs. The state and region
+annual dropout rates that are reported on district and campus TAPRs, however, are calculated without
+the exclusions required for campus and district calculations.
+Note that with all annual dropout rate calculations, a cumulative count of students is used in the
+denominator. This method for calculating the dropout rate neutralizes the effect of mobility by including
+in the denominator every student ever reported in attendance at the district or campus throughout the
+school year, regardless of length of enrollment. For a more complete description of dropout rates and
+exclusions, see the Secondary School Completion and Dropouts in Texas Public Schools reports,
+available on the TEA website at Completion, Graduation, and Dropout | Texas Education Agency.
+For detailed information on data sources, see Appendix H in the 2025 Accountability Manual. (Data
+source: PEIMS 40203, 40110, 42400, and 42500)
+
+Longitudinal Rates: The status of a group (cohort) of students after four years in high school (4-Year
+Longitudinal Rate), after five years in high school (5-Year Extended Longitudinal Rate), or after six years
+in high school (6-Year Extended Longitudinal Rate).
+For the 4-Year Longitudinal Rate, the cohort consists of students who first attended ninth grade in
+2020–21. They are followed through their expected graduation with the Class of 2024.
+For the 5-Year Extended Longitudinal Rate, the cohort consists of students who first attended ninth
+grade in 2019–20. They are followed for five years and included if they graduated within a year after
+their expected graduation with the Class of 2023.
+For the 6-Year Extended Longitudinal Rate, the cohort consists of students who first attended ninth
+grade in 2018–19. They are followed for six years and included if they graduated within two years after
+their expected graduation with the Class of 2022.
+Additional Information on Cohorts:
+   A student transfers into a campus, district, or state cohort when he or she moves into the cohort
+   from another high school in Texas, from another district in Texas, or from out of state.
+   A student transfers out of a campus or district cohort when he or she moves to another public high
+   school in Texas or moves to another district in Texas. Note that these students are transferred into
+   the cohort of the high school or district to which they moved. There are also students who move out
+   of state or out of the country and students who transfer to private schools or who are home-
+   schooled. These types of transfer students cannot be tracked and are not included in longitudinal
+   rate calculations.
+   A student does not change cohorts if he or she repeats or skips a grade. A student who begins with
+   the 2020–21 ninth-grade cohort remains with that cohort. A student who started the ninth grade in
+   2020–21 but takes 5 years to graduate (i.e., graduates in May 2025) is still part of the 2024 cohort; he
+   or she is not switched to the 2025 cohort. This student would be considered a continuing student and
+   counted as part of the Continued HS number for the Class of 2024. This is also true for the five-year
+   and six-year extended longitudinal cohorts.
+There are four student outcomes used in computing each longitudinal rate:
+   4-Year Longitudinal Rate
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                      8 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+   (1) Graduated: The percentage who received their high school diploma in four years or fewer by
+       August 31, 2024 for the 2024 cohort.
+              number of students from the cohort who received a high school diploma by
+                                              August 31, 2024
+
+                                 number of students in the 2024 cohort*
+
+   (2) Received TxCHSE: For the 2024 cohort, the percentage who received a Texas high school
+       equivalency certificate by August 31, 2024. It is calculated as follows:
+
+            number of students from the cohort who received a TxCHSE by August 31, 2024
+
+                                 number of students in the 2024 cohort*
+
+   (3) Continued High School: The percentage of the 2024 cohort still enrolled as students in the fall
+       after his or her anticipated graduation. It is calculated as follows:
+
+  number of students from the cohort who were enrolled in the fall of the 2024–25 school year
+
+                              number of students in the 2024 cohort*
+
+   (4) Dropped Out: The percentage of the 2024 cohort who dropped out and did not return by the fall
+       of the 2024–25 school year. It is calculated as follows:
+
+    number of students from the cohort who dropped out before fall of the 2024–25 school
+                                            year
+
+                             number of students in the 2024 cohort*
+
+   (5) Graduates & TxCHSE: The percentage of graduates and TxCHSE recipients in the 2024 cohort.
+       It is calculated as follows:
+
+       number of students from the 2024 cohort who received a high school diploma by August 31,
+          2024 plus number of students from the cohort who received a TxCHSE by August 31, 2024
+
+                                 number of students in the 2024 cohort*
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                   9 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+    (6) Graduates, TxCHSE & Continuers: The percentage of graduates, TxCHSE recipients, and
+        continuers in the 2024 cohort. It is calculated as follows:
+
+       number of students from the cohort who received a high school diploma by August 31, 2024
+                                                   plus
+              number of students from the cohort who received a TxCHSE by August 31, 2024
+                                                   plus
+        number of students from the cohort who were enrolled in the fall of the 2024–25 school year
+
+                                 number of students in the 2024 cohort*
+The graduation rate calculation is modified to credit AEA campuses for graduates, continuing students
+(continuers), TxCHSE recipients, and previous dropouts who complete. The completion rate component
+includes the four-year rates.
+
+5-Year Extended Longitudinal Rate
+
+   (1) Graduated: The percentage who received their high school diploma by August 31, 2024, for the
+       2023 cohort. It is calculated as follows:
+
+       number of students from the cohort who received a high school diploma by August 31, 2024
+
+                                 number of students in the 2023 cohort*
+
+   (2) Received TxCHSE: For the 2023 cohort, the percentage who received a TxCHSE certificate by
+       August 31, 2024. It is calculated as follows:
+
+             number of students from the cohort who received a TxCHSE by August 31, 2024
+
+                                 number of students in the 2023 cohort*
+
+   (3) Continued High School: The percentage of the 2023 cohort still enrolled as students in the fall of
+       the 2024–25 school year. It is calculated as follows:
+
+      number of students from the cohort who were enrolled in the fall of the 2024–25 school year
+
+                                 number of students in the 2023 cohort*
+
+   (4) Dropped Out: The percentage of the 2023 cohort who dropped out and did not return by the fall
+       of the 2024–25 school year. It is calculated as follows:
+
+       number of students from the cohort who dropped out before fall of the 2024–25 school year
+
+                                 number of students in the 2023 cohort*
+
+   (5) Graduates & TxCHSE: The percentage of graduates and TxCHSE recipients in the 2023 cohort. It
+       is calculated as follows:
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                  10 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+       number of students from the cohort who received a high school diploma by August 31, 2024
+                                                   plus
+              number of students from the cohort who received a TxCHSE by August 31, 2024
+
+                                 number of students in the 2023 cohort*
+
+   (6) Graduates, TxCHSE & Continuers: The percentage of graduates, TxCHSE recipients, and
+       continuers in the 2023 cohort. It is calculated as follows:
+
+       number of students from the cohort who received a high school diploma by August 31, 2024
+                                                   plus
+              number of students from the cohort who received a TxCHSE by August 31, 2024
+                                                   plus
+         number of students from the cohort who were enrolled in the fall of the 2024–25 school year
+
+                                 number of students in the 2023 cohort*
+The graduation rate calculation is modified to credit AEA campuses for graduates, continuing students
+(continuers), TxCHSE recipients, and previous dropouts who complete. The completion rate component
+includes the five-year rates.
+
+6-year Extended Longitudinal Rate
+
+   (1) Graduated: The percentage who received their high school diploma by August 31, 2024, for the
+       2022 cohort. It is calculated as follows:
+
+     number of students from the cohort who received a high school diploma by August 31, 2024
+
+                               number of students in the 2022 cohort*
+
+   (2) Received TxCHSE: For the 2022 cohort, the percentage who received a TxCHSE certificate by
+       August 31, 2024. It is calculated as follows:
+
+              number of students from the cohort who received a TxCHSE by August 31, 2024
+
+                                 number of students in the 2022 cohort*
+
+   (3) Continued High School: The percentage of the 2022 cohort still enrolled as students in the fall of
+       the 2024–25 school year. It is calculated as follows:
+
+      number of students from the cohort who were enrolled in the fall of the 2024–25 school year
+
+                                 number of students in the 2022 cohort*
+
+   (4) Dropped Out: The percentage of the 2022 cohort who dropped out and did not return by the fall
+       of the 2024–25 school year. It is calculated as follows:
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                  11 of 47
+ 2024–25 Texas Academic Performance Report
+ (TAPR) Glossary
+      number of students from the cohort who dropped out before fall of the 2024–25 school year
+                                   number of students in the 2022 cohort*
+
+    (5) Graduates & TxCHSE. The percentage of graduates and TxCHSE recipients in the 2022 cohort. It
+        is calculated as follows:
+
+         number of students from the cohort who received a high school diploma by August 31, 2024
+                                                     plus
+                number of students from the cohort who received a TxCHSE by August 31, 2024
+
+                                   number of students in the 2022 cohort*
+
+ (6) Graduates, TxCHSE & Continuers. The percentage of graduates, TxCHSE recipients, and continuers
+     in the 2022 cohort. It is calculated as follows:
+
+         number of students from the cohort who received a high school diploma by August 31, 2024
+                                                     plus
+                number of students from the cohort who received a TxCHSE by August 31, 2024
+                                                     plus
+           number of students from the cohort who were enrolled in the fall of the 2024–25 school year
+
+                                   number of students in the 2022 cohort*
+The graduation rate calculation is modified to credit AEA campuses for graduates, continuing students
+(continuers), TxCHSE recipients, and previous dropouts who complete. The completion rate component
+includes the six-year rates.
+     *    The cohort in the denominator of the formulas shown above includes those students who
+          graduated, continued in school, received a TxCHSE, or dropped out. It does not include data
+          errors or leavers with the leaver reason codes 03, 16, 24, 60, 66, 78, 81, 82, 83, 85, 86, 87, 88, 89
+          or 90. See Annual Dropout Rate for a list of all the exclusions mandated by state statute for
+          districts and campuses.
+    The graduation, continuation, TxCHSE recipient, and dropout rates sum to 100% (some totals may
+    not equal exactly 100% due to rounding). Students served through special education who graduate
+    with an individualized education program (IEP) are included as graduates.
+    Additional Information about Federal Graduation Rates
+    In addition to the detailed breakdown of the four-, five- and six-year longitudinal rates, the district
+    and campus reports show federal graduation rates for the following:
+
+    (1) 4-Year Federal Graduation Rate. Cohort of students who first attended ninth grade in 2020–21.
+        They are followed through their expected graduation with the Class of 2024. It is calculated as
+        follows:
+
+
+
+
+ Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                      12 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+
+       number of students from the cohort who received a high school diploma by August 31, 2024
+
+                                number of students in the 2024 cohort **
+
+   (2) 5-Year Extended Federal Graduation Rate. Cohort of students who first attended ninth grade in
+       2019–20. They are followed for five years to see if they graduated within a year after their
+       expected graduation with the Class of 2023. It is calculated as follows:
+
+
+
+       number of students from the cohort who received a high school diploma by August 31, 2024
+
+                                number of students in the 2023 cohort**
+
+(3) 6-Year Extended Federal Graduation Rate. Cohort of students who first attended ninth grade in
+    2018–19. They are followed for six years to see if they graduated within two years after their
+    expected graduation with the Class of 2022. It is calculated as follows:
+
+       number of students from the cohort who received a high school diploma by August 31, 2024
+
+                                number of students in the 2022 cohort**
+
+    ** The cohort in the denominator above includes those students who graduated, continued in
+       school, received a TxCHSE, or dropped out. It does not include data errors or leavers with leaver
+       reason codes 03, 16, 24, 60, 66, 78, 81, 82, 83, 85, 86, 87, or 90. Students with leaver codes 88
+       and 89 are included in the federal rates.
+   A student in a Texas Juvenile Justice Department facility or residential treatment facility served by a
+   Texas public school district is excluded from district and campus graduation rates calculated for
+   federal accountability purposes. Students served by special education who graduate with an
+   individualized education program (IEP) are included as graduates.
+   For further information on these rates, see the Secondary School Completion and Dropouts in Texas
+   Public Schools document located on the Completion, Graduation, and Dropout Reports website.
+   (Data source: PEIMS 40203 and Texas Certificate of High School Equivalency Information File)
+
+Graduation Program: The percentage of students who graduated under one of the following programs:
+   RHSP/DAP Graduates (Longitudinal Rate) (Class of 2024) The percentage of graduates who, after four
+      years, satisfied the course requirements for the Recommended High School Program or
+      Distinguished Achievement Program.
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                    13 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+
+             number of graduates in the Class of 2024 who complete a 4-year RHSP or DAP
+
+               number of graduates in the Class of 2024 with reported graduation plans
+                            (excludes graduates with FHSP graduation plans)
+
+   FHSP-E Graduates (Longitudinal Rate) The percentage of graduates who, after four years, satisfied
+      the course requirements for the Foundation High School Program with an endorsement.
+
+                number of graduates in the Class of 2024 who complete a 4-year FHSP-E
+            number of graduates in the Class of 2024 with reported FHSP graduation plans
+
+
+   FHSP-DLA Graduates (Longitudinal Rate) The percentage of graduates who, after four years, satisfied
+      the course requirements for the Foundation High School Program at the distinguished level of
+      achievement.
+
+              number of graduates in the Class of 2024 who complete a 4-year FHSP-DLA
+            number of graduates in the Class of 2024 with reported FHSP graduation plans
+
+   RHSP/DAP/FHSP-E/FHSP-DLA/Texas First-DLA Graduates (Longitudinal Rate) The percentage of
+      graduates who, after four years, satisfied the course requirements for the Recommended High
+      School Program, Distinguished Achievement Program, the Foundation High School Program with
+      an endorsement or at the distinguished level of achievement, or the Texas First Early High School
+      Completion Program.
+
+           number of graduates in the Class of 2024 who complete a 4-year RHSP or DAP or
+                              FHSP-E or FHSP-DLA or Texas First-DLA
+               number of graduates in the Class of 2024 with reported graduation plans
+
+   RHSP/DAP Graduates (Annual Rate) (2023-24) The percentage of graduates who satisfied the course
+      requirements for the Recommended High School Program or Distinguished Achievement
+      Program.
+
+         number of graduates in SY 2023-24 reported with graduation codes for RHSP or DAP
+
+     number of graduates in SY 2023-24 with reported graduation plans (excludes graduates with
+                                      FHSP graduation plans)
+
+   FHSP-E Graduates (Annual Rate) (2023–24) The percentage of graduates who satisfied the course
+      requirements for the Foundation High School Program with an endorsement.
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                14 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+                        number of graduates in SY 2023–24 who earn an FHSP-E
+
+               number of graduates in SY 2023–24 with reported FHSP graduation plans
+
+   FHSP-DLA Graduates (Annual Rate) (2023–24) The percentage of graduates who satisfied the course
+      requirements for the Foundation High School Program at the distinguished level of achievement.
+
+                       number of graduates in SY 2023–24 who earn an FHSP-DLA
+               number of graduates in SY 2023–24 with reported FHSP graduation plans
+
+   Texas First-DLA Graduates (Annual Rate) (2023-24) The percentage of graduates who satisfied the
+      requirements for the Texas First Early High School Completion Program. Graduates under this
+      program are considered to have earned a diploma with a distinguished level of achievement
+      under Texas Education Code §28.025.
+
+                     number of graduates in SY 2023–24 who earn a Texas First-DLA
+
+                  number of graduates in SY 2023–24 with reported graduation plans
+
+
+   RHSP/DAP/FHSP-E/FHSP-DLA/Texas First-DLA Graduates (Annual Rate) (2023–24) The percentage of
+      graduates who satisfied the course requirements for the Recommended High School Program,
+      Distinguished Achievement Program, the Foundation High School Program with an endorsement
+      or at the distinguished level of achievement, or the Texas First Early High School Completion
+      Program.
+         number of graduates in SY 2023–24 reported with graduation codes for RHSP or DAP
+                             or FHSP-E or FHSP-DLA or Texas First-DLA
+
+                  number of graduates in SY 2023–24 with reported graduation plans
+
+RHSP graduates have graduation type codes of 19, 22, 25, 28, or 31; DAP graduates have graduation
+type codes of 20, 23, 26, 29, or 32; FHSP graduates are students with graduation type codes of 34, 35,
+54, 55, 56, or 57. FHSP graduates with code type 35 are eligible for endorsements starting with the Class
+of 2020. Texas First-DLA graduates have graduation type code 40. See the Texas Education Data
+Standards for more information. (Data source: PEIMS 40203)
+For additional information about graduation programs please see
+https://tea.texas.gov/Academics/Graduation_Information/State_Graduation_Requirements.
+
+Graduation Profile
+Annual Graduates: The count and percentage of students who graduate at some time during the school
+year. It includes summer graduates and is reported by districts in the fall of the following school year. It
+includes all students in grade 12 who graduated, as well as graduates from other grades. Students
+served by special education who graduate are included in the totals. Counts of students graduating
+under the following graduation types in 2023–24 are also shown:
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                     15 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+    •   Minimum High School Program (MHSP)
+    •   Recommended High School Program (RHSP)
+    •   Distinguished Achievement Program (DAP)
+    •   Foundation High School Program (FHSP)
+    •   Texas First Early High School Completion Program (Texas First-DLA)
+(Data source: PEIMS 40203)
+Special Education: The count and percentage of graduates served by special education programs. (Data
+source: PEIMS 41163)
+Economically Disadvantaged: The count and percentage of graduates eligible for free or reduced-price
+lunch or eligible for other public assistance. (Data source: PEIMS 40100 and STAAR)
+
+   number of graduates in the 2023–24 school year eligible for free or reduced-price lunch or
+                                   other public assistance
+
+                       total number of graduates in the 2023-24 school year
+
+Emergent Bilingual (EB)/English Learner (EL): The count and percentage of graduates whose primary
+language is other than English and who are in the process of acquiring English. The terms “Emergent
+Bilingual,” “English learner” and “Limited English Proficient” (LEP) are used interchangeably. (Data
+source: PEIMS 40110)
+At-Risk: The count and percentage of graduates identified as being at risk of dropping out of school as
+defined by TEC §29.081(d) and (d-1). (Data source: PEIMS 40100)
+
+                 number of graduates in the 2023–24 school year considered as at risk
+
+                          total number of graduates in the 2023-24 school year
+
+CTE Completers: The count and percentage of graduates who completed and passed three or more
+Career and Technical Education (CTE) courses for a total of four or more credits within a program of
+study, including one level three or level four course from within the same program of study. (Data
+source: PEIMS Course Completion Records)
+
+College, Career, or Military* Readiness (CCMR) (2024–25)
+Annual graduates demonstrate college, career, or military readiness in any one of the following ways:
+
+College Readiness
+        1) Texas Success Initiative (TSI) Criteria: Meet Texas Success Initiative (TSI) Criteria in RLA and
+           Mathematics. A student meeting the TSI college readiness standards in both RLA and
+           mathematics; specifically, meeting the college-ready criteria on the TSIA1 and/or TSIA2
+           assessment, SAT, ACT, or by successfully completing and earning credit for a college prep
+           course as defined in TEC §28.014 and TEC §51.338, in both RLA and mathematics. The
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                    16 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+            criteria for successful completion of a college prep course should be in alignment between
+            an LEA and the partnering IHE(s). In accordance with TEC §51.338(e), upon successful
+            completion of a college prep course, students earn a TSI exemption from the partnering
+            IHE(s) in that content area. Students should only be reported as successfully completing a
+            course if they have met TSI exemption requirements. The assessment results considered
+            include TSIA1 and/or TSIA2 assessments through October 2024, SAT and ACT results through
+            the July 2024 administration, and course completion data via TSDS PEIMS. See Appendix H
+            for additional information. A student must meet the TSI requirement for both RLA and
+            mathematics but does not necessarily need to meet them on the same assessment. For
+            example, a student may meet the TSI criteria for college readiness in RLA on the SAT and
+            complete and earn credit for a college prep course in mathematics. (Data source: PEIMS
+            43415, THECB, College Board, and ACT, Inc.)
+        2) Earn Dual Course Credits: A graduate completing and earning credit for at least three credit
+           hours in ELA or mathematics or at least nine credit hours in any subject. (Data source: PEIMS
+           43415)
+        3) Meet Criteria on Advanced Placement (AP)/International Baccalaureate (IB) Examination:
+           A graduate meeting the criterion score on an AP or IB examination in any subject area.
+           Criterion score is 3 or more for AP and 4 or more for IB. (Data source: College Board or IB)
+        4) Earn an Associate Degree: A graduate earning an associate degree by August 31
+           immediately following high school graduation. (Data source: PEIMS 40100)
+        5) Earn OnRamps Course Credits: A graduate completing an OnRamps dual enrollment course
+           and qualifying for at least three hours of university or college credit in any subject area.
+           (Data source: OnRamps program)
+        6) Graduates under an Advanced Diploma Plan and Identified as a current Special Education
+           Student: A graduate who is identified as receiving special education services during the year
+           of graduation and whose graduation plan type is identified as a Recommended High School
+           Plan (RHSP), Distinguished Achievement Plan (DAP), Foundation High School Plan with an
+           Endorsement (FHSP-E), Foundation High School Plan with a Distinguished Level of
+           Achievement (FHSP-DLA), or Texas First Early High School Completion Program (Texas First-
+           DLA) (Data source: PEIMS 40203 and 40110)
+
+
+Career/Military Readiness
+        7) Earn an Industry-Based Certification (IBC): A graduate earning an IBC under 19 TAC,
+           §74.1003 and earned credit in a level 2 course or higher in an aligned Program of Study
+           applies to the 2024 graduates. Alignment is determined by the IBC Crosswalk, which maps
+           approved IBCs to their corresponding Programs of Study. The student must have earned the
+           IBC associated with the Program of Study and also met the phase-in requirement. See
+           Appendix J for a complete list of approved IBCs. The sunsetting IBC limit applied within the
+           Student Achievement and School Progress, Part B: Relative Performance domains is not
+           applied within Closing the Gaps. For prior graduating class IBC requirements please refer to
+           “Chapter 2—Student Achievement Domain”. (Data source: PEIMS 40100)
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                 17 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+        8) Graduate with Completed IEP and Workforce Readiness: A graduate receiving a graduation
+           type code of 04, 05, 54, or 55 which indicates the student has completed his/her IEP and has
+           either demonstrated self-employment with self-help skills to maintain employment or has
+           demonstrated mastery of specific employability and self-help skills that do not require
+           public school services. (Data source: PEIMS 40203)
+        9) Graduate with Level I or Level II Certificate: A graduate earning a level I or level II
+           certificate in any workforce education area. (Data source: THECB)
+        10) Enlist in the Armed Forces A graduate enlisting in the U.S. Army, Navy, Air Force, Coast
+            Guard, Marines, Space Force, Texas National Guard or Reserves for their respective services.
+            (Data source: Department of Defense (DoD) Form 4 Submission).
+
+College, Career, or Military Ready Graduates
+College, Career, or Military Ready (Student Achievement): The percentage of annual graduates who
+demonstrated college, career, or military readiness by meeting at least one of the nine criteria described
+in College, Career, or Military Readiness.
+
+Only College Ready: The percentage of annual graduates who demonstrated only college readiness by
+meeting college ready criteria 1, 2, 3, 4, 5 or 6 but did not meet any of the career and military ready
+criteria 7, 8, 9 or 10 described in College, Career, or Military Readiness.
+
+Only Career/Military Ready: The percentage of annual graduates who demonstrated only career or
+military readiness by meeting career or military ready criteria 7, 8, 9 or 10 but did not meet any of the
+college ready criteria 1, 2, 3, 4, 5 or 6 described in College, Career, or Military Readiness.
+
+College Ready Graduates
+College Ready: The percentage of annual graduates who demonstrated college readiness by meeting
+criteria 1, 2, 3, 4, 5, or 6 described in College, Career, or Military Readiness. This percentage includes
+graduates who may have met career or military ready criteria 7, 8, 9 or 10. (Data source: PEIMS 43415,
+40100, 40203, and 40110, THECB, College Board, ACT, IB and OnRamps)
+
+TSI Criteria Graduates: The percentage of annual graduates who met or exceeded the college-ready
+criteria on the Texas Success Initiative Assessment (TSIA1 and/or TSIA2), the SAT, ACT, or by successfully
+completing and earning credit for a college prep course as defined in TEC §28.014, in both ELA and
+mathematics. The criteria for each are as follows:
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                     18 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+
+                                                TSI Criteria
+
+   TSIA1 and/or
+                                     SAT                           ACT              College Prep Course
+       TSIA2
+
+                                                                Before Feb
+                                                                 15, 2023
+                                                                >=19 on
+                                                               English and
+                                >=480 on the                     >= 23
+       >= ELAR                                                 Composite             Complete and earn
+                               Evidence-Based
+   criteria shown     or                              or                       or   credit for ELA college
+                             Reading and Writing               After Feb 15,
+        below                                                                           prep course
+                                   (EBRW)                          2023
+                                                                 English +
+                                                                 Reading
+                                                                Combined
+                                                                score >=40
+
+                                                                Before Feb
+                                                                 15, 2023
+                                                                 >=19 on
+          >=                                                   Mathematics          Complete and earn
+    Mathematics                  >=530 on                        and >=23               credit for
+                      or                              or        Composite      or
+   criteria shown               Mathematics                                         mathematics college
+        below                                                  After Feb 15,           prep course
+                                                                   2023
+                                                               Mathematics
+                                                               score >=22
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                     19 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+
+                  Assessment
+    Subject                                     Score Requirements for CCMR
+                    Version
+                     TSIA1   Score ≥ 351 on Reading
+                                  Score ≥ 945 on the ELAR
+                                                                                                 Score ≥ 5 on the
+                                     College Readiness                      AND
+                                                                                                      essay
+                                    Classification (CRC)
+                      TSIA2                                               OR
+    English                                                                                               Score ≥ 5
+                                  Score < 945 on the ELAR                       Score ≥ 5 on
+   Language                                                         AND                          AND       on the
+                                            CRC                                the diagnostic
+    Arts and                                                                                                essay
+    Reading
+                                  Score ≥ 945 on the ELAR                                        Score ≥ 5 on the
+     (ELAR)                                                                 AND
+                                     CRC on the TSIA2                                              TSIA1 essay
+                                                                          OR
+                  Combination                                                                             Score ≥ 5
+                                                                                Score ≥ 5 on
+                                  Score < 945 on the ELAR                                                  on the
+                                                                    AND        the diagnostic    AND
+                                     CRC on the TSIA2                                                       TSIA1
+                                                                                on the TSIA2
+                                                                                                            essay
+                                        Score ≥ 350 on
+                      TSIA1
+                                         Mathematics
+                                     Score ≥ 950 on the
+ Mathematics                         Mathematics CRC
+                      TSIA2                                               OR
+                                     Score < 950 on the                         Score = 6 on
+                                                                    AND
+                                     Mathematics CRC                           the diagnostic
+
+The percentages are calculated as follows:
+
+   English Language Arts.
+  number of 2023-24 annual graduates who met or exceeded the college-ready criteria on the TSIA1 and/or TSIA2, SAT,
+                ACT, or by successfully completing and earning credit for a college prep course in ELA
+
+                                         number of 2023-24 annual graduates
+
+
+   Mathematics.
+     number of 2023-24 annual graduates who met or exceeded the college-ready criteria on the TSIA1 and/or TSIA2,
+          SAT, ACT, or by successfully completing and earning credit for a college prep course in mathematics
+
+                                         number of 2023-24 annual graduates
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                               20 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+   Both Subjects.
+   number of 2023-24 annual graduates who met or exceeded the college-ready criteria on the TSIA1 and/or TSIA2, SAT,
+      ACT, or by successfully completing and earning credit for a college prep course in both ELA and mathematics
+
+
+                                          number of 2023-24 annual graduates
+
+
+   Any Subject.
+   number of 2023-24 annual graduates who met or exceeded the college-ready criteria on the TSIA1 and/or TSIA2, SAT,
+         ACT, or by successfully completing and earning credit for a college prep course in ELA or mathematics
+
+                                          number of 2023-24 annual graduates
+
+
+
+AP/IB Criteria Met in Any Subject: The percentage of annual graduates who earned a 3 or more on an
+AP examination or a 4 or more on an IB examination. (Data source: College Board and IB)
+
+        number of 2023-24 annual graduates who earned a 3 or more on an AP examination or a 4 or more on an IB
+                                                   examination
+
+                                          number of 2023-24 annual graduates
+
+Associate Degree: The percentage of annual graduates who earned an associate degree by August 31
+immediately following high school graduation. (Data source: PEIMS 40100)
+
+             number of 2023-24 annual graduates who earned an associate degree by August 31 immediately
+                                          following high school graduation.
+
+                                          number of 2023-24 annual graduates
+
+Dual Course Credits: A graduate completing and earning credit for at least three credit hours in ELA or
+mathematics or at least nine credit hours in any subject. (Data source: PEIMS 43415)
+
+
+ number of 2023-24 annual graduates who completed and earned credit for nine or more hours of dual credit in any subject
+                                     or three or more hours in ELA or mathematics
+                                          Number of 2023-24 annual graduates
+
+
+
+OnRamps Course Credits: The percentage of annual graduates who completed an OnRamps dual
+enrollment course and qualified for at least three hours of university or college credit in any subject area
+(Data source: OnRamps program)
+
+             number of 2023-24 annual graduates who completed an OnRamps course and qualified for three
+                                       hours of college credit before graduation
+
+                                          number of 2023-24 annual graduates
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                                21 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+Graduates Under an Advanced Diploma Plan and be Identified as a Current Special Education Student:
+The percentage of annual graduates under an advanced diploma plan and identified as a current special
+education student (Data source: PEIMS 40203 and 42401)
+
+            number of 2023-24 annual graduates who graduated under an advanced diploma plan and were
+                                 identified as a current special education student
+
+                                         number of 2023-24 annual graduates
+
+
+Career/Military Ready Graduates
+Career or Military Ready Graduates: The percentage of annual graduates who demonstrated career or
+military readiness by meeting criteria 7, 8, 9 or 10 described in College, Career, or Military Readiness.
+This percentage includes graduates who may have met college ready criteria 1, 2, 3, 4, 5 or 6.
+
+Approved Industry-Based Certification: The percentage of annual graduates who earned an approved
+industry-based certification and earned credit in a level 2 course or higher in an aligned Program of
+Study. For additional information, see Chapter 2 of the 2025 Accountability Manual. (Data source: PEIMS
+48011)
+
+               number of 2023-24 annual graduates who earned an approved industry-based certification
+
+                                         number of 2023-24 annual graduates
+
+Graduates with Level I or Level II Certificate: The percentage of annual graduates who earned a level I
+or level II certificate (Data source: THECB)
+
+                     number of 2023-24 annual graduates who earned a level I or level II certificate
+
+                                         number of 2023-24 annual graduates
+
+Graduates with Completed IEP and Workforce Readiness: The percentage of annual graduates who
+received a graduation type code of 04, 05, 54, or 55. For additional information, see Chapter 2 of the
+2025 Accountability Manual. (Data source: PEIMS 40203)
+
+             number of 2023-24 annual graduates who received a graduation type code of 04, 05, 54, or 55
+
+                                         number of 2023-24 annual graduates
+
+U.S. Armed Forces Enlistment (Annual Graduates): The percentage of annual graduates who enlist in
+the U.S. Army, Navy, Air Force, Coast Guard, Marines, Space Force, Texas National Guard, or Reserves
+for their respective services. (Data source: Department of Defense (DoD) Form 4 Submission).
+
+           number of 2023-24 annual graduates enlisting in the U.S. Armed Forces or Texas National Guard by
+                             December 31 immediately following high school graduation
+
+                                         number of 2023-24 annual graduates
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                              22 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+CCMR-related Indicators (2024–25)
+TSIA Results (Graduates >= Criterion) (Annual Graduates): The percentage of annual graduates who
+met the TSI criteria on the TSIA1 and/or TSIA2 (Data source: THECB and PEIMS 40203)
+English Language Arts.
+  number of 2023-24 annual graduates who met or exceeded the college-ready criteria on the TSIA1 and/or TSIA2 in ELA
+                                         number of 2023-24 annual graduates
+
+Mathematics.
+    number of 2023-24 annual graduates who met or exceeded the college-ready criteria on the TSIA1 and/or TSIA2 in
+                                                   mathematics
+
+                                         number of 2023-24 annual graduates
+
+
+
+Both Subjects.
+  number of 2023-24 annual graduates who met or exceeded the college-ready criteria on the TSIA1 and/or TSIA2 in both
+                                               ELA and mathematics
+
+                                         number of 2023-24 annual graduates
+
+Completed and Received Credit for College Prep Courses (Annual Graduates): The percentage of
+annual graduates who completed and earned credit for a college prep course as defined in TEC §28.014
+in either ELA or mathematics or both. (Data source: PEIMS 43415)
+English Language Arts.
+
+    number of 2023-24 annual graduates who completed and earned credit for a college prep course as defined in TEC
+                                                 §28.014 in ELA
+
+                                         number of 2023-24 annual graduates
+
+Mathematics.
+    number of 2023-24 annual graduates who completed and earned credit for a college prep course as defined in TEC
+                                             §28.014 in mathematics
+
+                                         number of 2023-24 annual graduates
+
+Both Subjects.
+    number of 2023-24 annual graduates who completed and earned credit for a college prep course as defined in TEC
+                                         §28.014 in ELA and mathematics
+
+                                         number of 2023-24 annual graduates
+
+AP/IB Results (Participation) (Grades 11–12): The percentage of students in grades 11 and 12
+who took the College Board’s Advanced Placement (AP) examinations or the International
+Baccalaureate’s (IB) examinations. (Data source: College Board and IB)
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                               23 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+All Subjects.
+       number of students in grades 11 & 12 in the 2023-24 school year who took at least one AP or IB examination
+
+                                         total students enrolled in grades 11 & 12
+
+English Language Arts.
+ number of students in grades 11 & 12 in the 2023-24 school year who took at least one AP or IB examination in
+                                                     ELA
+                                       total students enrolled in grades 11 & 12
+
+
+
+Mathematics.
+ number of students in grade 11 & 12 in the 2023-24 school year who took at least one AP or IB examination in
+                                                mathematics
+                                       total students enrolled in grades 11 & 12
+
+
+
+Science.
+ number of students in grade 11 & 12 in the 2023-24 school year who took at least one AP or IB examination in
+                                                   science
+                                       total students enrolled in grades 11 & 12
+
+
+
+Social Studies.
+ number of students in grade 11 & 12 in the 2023-24 school year who took at least one AP or IB examination in
+                                                social studies
+                                       total students enrolled in grades 11 & 12
+
+(Data source: College Board, IB, and PEIMS 40110)
+
+AP/IB Results (Examinees >= Criterion) (Grades 11–12): The percentage of students with at least one AP
+or IB examination in grades 11 and 12 at or above the criterion score. High school students may take one
+or more of these examinations, ideally upon completion of AP or IB courses, and may receive advanced
+placement or credit, or both, upon entering college. Generally, colleges will award credit or advanced
+placement for scores of 3, 4, or 5 on AP examinations and scores of 4, 5, 6, or 7 on IB examinations.
+Requirements vary by college and by subject tested. (Data source: College Board and IB)
+   All Subjects.
+     number of 11th and 12th graders in the 2023-24 school year with at least one AP or IB score at or above criterion
+
+                         number of 11th and 12th graders with at least one AP or IB examination
+
+   English Language Arts.
+    number of 11th and 12th graders in the 2023-24 school year with at least one AP or IB score at or above criterion in
+                                                          ELA
+
+                      number of 11th and 12th graders with at least one AP or IB examination in ELA
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                                    24 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+   Mathematics.
+    number of 11th and 12th graders in the 2023-24 school year with at least one AP or IB score at or above criterion in
+                                                     mathematics
+
+                   number of 11th and 12th graders with at least one AP or IB examination in mathematics
+
+   Science.
+    number of 11th and 12th graders in the 2023-24 school year with at least one AP or IB score at or above criterion in
+                                                        science
+
+                      number of 11th and 12th graders with at least one AP or IB examination in science
+
+   Social Studies.
+    number of 11th and 12th graders in the 2023-24 school year with at least one AP or IB score at or above criterion in
+                                                     social studies
+
+                   number of 11th and 12th graders with at least one AP or IB examination in social studies
+
+
+(Data source: The College Board, The International Baccalaureate Organization, and PEIMS 40110)
+
+AP/IB Results (11th & 12th Graders >= Criterion): The percentage of students enrolled in grades 11 and
+12 with at least one AP or IB score at or above the criterion score. This denominator includes students
+enrolled in grades 11 and 12 who did not take AP or IB examination. High school students may take one
+or more of these examinations, ideally upon completion of AP or IB courses, and may receive advanced
+placement or credit, or both, upon entering college. Generally, colleges will award credit or advanced
+placement for scores of 3, 4, or 5 on AP examinations and scores of 4, 5, 6, or 7 on IB examinations.
+Requirements vary by college and by subject tested. (Data source: College Board and IB)
+   All Subjects.
+      number of 11th and 12th graders in the 2023-24 school year with at least one AP or IB score at or above criterion
+
+                                        total students enrolled in 11th and 12th grades
+
+SAT/ACT Results (Annual Graduates): Participation and performance of annual graduates from all Texas
+public schools on the College Board’s SAT and ACT, Inc.’s ACT assessment. ACT and SAT scores are based
+on each student’s highest section scores across all exams taken, and the SAT total and ACT composite
+scores are calculated using the highest section scores.
+   (1) Tested: The percentage of graduates who took either college admissions assessment:
+                             number of 2023-24 graduates who took either the SAT or the ACT
+
+                                           number of 2023-24 graduates reported
+
+   (2) At/Above Criterion for All Graduates: The percentage of graduates who scored at or above the
+       criterion score of 480 on the SAT evidence-based reading and writing or 19 on ACT English
+       section and 23 on the ACT composite (before February 15, 2023) and 530 on SAT mathematics
+       or 19 on ACT Mathematics section and 23 on the ACT composite (before February 15, 2023).
+       After February 15, 2023, the percentage of graduates who scored at or above the criterion score
+       of 40 on ACT English and Reading Combined and at or above 22 on ACT Mathematics:
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                                     25 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+                   number of 2023-24 graduating examinees who scored at or above the criterion score
+                                             on either the SAT or the ACT
+
+                                         number of 2023-24 graduates reported
+
+
+Average SAT Score (Annual Graduates): Performance of annual graduates from all Texas public schools
+on the College Board’s SAT assessment. If a student takes the SAT more than once, the best result by
+subject area is selected, and the SAT total is calculated as the sum of the highest section scores.
+   (1) All Subjects: The average score for the SAT evidence-based reading and writing and mathematics
+       combined. The maximum score is 1600.
+  sum of SAT total scores (evidence-based reading and writing + mathematics) of all 2023-24 graduates who took the SAT
+
+                                     number of 2023-24 graduates who took the SAT
+
+   (2) English Language Arts and Writing: The average score for the SAT evidence-based reading and
+       writing. The maximum score is 800.
+              sum of SAT evidence-based reading and writing scores of all 2023-24 graduates who took the
+                                                         SAT
+
+                                            number of 2023-24 graduates who took the SAT
+
+   (3) Mathematics: The average score for the SAT mathematics. The maximum score is 800.
+                       sum of SAT mathematics scores of all 2023-24 graduates who took the SAT
+
+                                     number of 2023-24 graduates who took the SAT
+
+(Data source: College Board and PEIMS 40203)
+
+Average ACT Score (Annual Graduates): Performance of annual graduates from all Texas public schools
+on the ACT Inc.’s ACT assessment. If a student takes the ACT more than once, the best result by subject
+area is selected, and the ACT composite scores is calculated as the average of the highest section scores.
+
+    (1) All Subjects: The average score for the ACT composite. The maximum score is 36.
+                      sum of ACT composite scores of all 2023-24 graduates who took the ACT
+
+                                  number of 2023-24 graduates who took the ACT
+
+    (2) English Language Arts: The average score for the ACT English and reading combined. The
+        maximum score is 36.
+            sum of ACT English and reading combined scores of all 2023-24 graduates who took the ACT
+
+                                  number of 2023-24 graduates who took the ACT
+
+    (3) Mathematics: The average score for the mathematics ACT. The maximum score is 36.
+                     sum of ACT mathematics scores of all 2023-24 graduates who took the ACT
+
+                                  number of 2023-24 graduates who took the ACT
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                                26 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+    (4) Science: The average score for the science ACT. The maximum score is 36.
+                         sum of ACT science scores of all 2023-24 graduates who took the ACT
+
+                                   number of 2023-24 graduates who took the ACT
+
+
+
+Other Postsecondary Indicators (2024–25)
+Advanced/Dual-Credit Course Completion (Grades 9–12): The percentage of students who completed
+and received credit for at least one advanced or dual-credit course. Decisions about awarding high
+school credit for college courses are described in Texas Administrative Code §74.25.
+Appendix A lists all courses identified as advanced courses. Courses for which a student can earn dual
+credit are not listed because they vary from campus to campus.
+Course completion information is reported by districts through the PEIMS after the close of the school
+year. For example, the values, expressed as percentages for grades 9–12, are calculated as follows:
+(Data source: PEIMS 43415)
+Any Subject.
+
+                       number of students in grades 9–12 in 2023-24 who received credit for at least
+                                            one advanced/dual-credit course
+
+                  number of students in grades 9–12 who received credit for at least one course in 2023-24
+
+
+English Language Arts.
+
+                       number of students in grades 9–12 in 2023-24 who received credit for at least
+                                          one ELA advanced/dual-credit course
+
+               number of students in grades 9–12 who received credit for at least one ELA course in 2023-24
+
+Mathematics.
+
+                       number of students in grades 9–12 in 2023-24 who received credit for at least
+                                     one mathematics advanced/dual-credit course
+
+           number of students in grades 9–12 who received credit for at least one mathematics course in 2023-24
+
+
+Science.
+
+                       number of students in grades 9–12 in 2023-24 who received credit for at least
+                                       one science advanced/dual-credit course
+
+             number of students in grades 9–12 who received credit for at least one science course in 2023-24
+
+
+Social Studies.
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                                  27 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+                     number of students in grades 9–12 in 2023-24 who received credit for at least
+                                   one social studies advanced/dual-credit course
+
+         number of students in grades 9–12 who received credit for at least one social studies course in 2023-24
+
+(Data source: PEIMS 43415)
+
+Graduates Enrolled in Texas Institution of Higher Education (TX IHE): The percentage of students who
+enrolled and began instruction at an institution of higher education in Texas for the school year
+following high school graduation.
+
+              number of graduates during the 2022-23 school year who attended a public or independent
+                            college or university in Texas in the following academic year
+
+                                  number of graduates during the 2022-23 school year
+
+
+Students who enrolled in out-of-state colleges or universities or any non-public career school are not
+included. Students who attend public community colleges in Texas are included.
+(Data source: THECB)
+Additional reports showing students enrolled in Texas public colleges and universities are available on
+the Texas Higher Education Coordinating Board (THECB) site at
+http://www.txhighereddata.org/generatelinks.cfm?Section=HS2Col.
+For more information on the data used in this indicator, contact the Texas Higher Education
+Coordinating Board at (512) 427-6153. (Data source: THECB)
+
+Student Information (2024–25)
+Please note, the Enrollment section of this report was added beginning with 2019–20. The definitions
+below describe the nuances between Membership and Enrollment. If comparing the data shown from
+this year’s report to reports prior to 2019–2020, use the data displayed under Membership.
+
+Enrollment: Students reported as enrolled as of the last Friday in October
+
+Membership: Membership differs from enrollment, as it does not include those students who are
+served for less than two hours per day. A student is in membership if he/she is enrolled and is either
+
+        • scheduled to attend at least two hours of instruction each school day or
+
+        • participating in an alternative attendance accounting program.
+
+For example, the count of Total Students excludes students who attend a non-public school but receive
+some services, such as speech therapy—for less than two hours per day—from their local school district.
+
+Total Students: The total number of public school students who were reported at any grade from early
+childhood education through grade 12. (Data source: PEIMS Student Entity)
+
+Students by Grade: The count of students in each grade divided by the total number of students. (Data
+source: PEIMS StudentSchoolAssociation Entity)
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                                   28 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+Ethnic Distribution: The number and percentage of students who are identified as belonging to one of
+the following groups: African American, Hispanic, white, American Indian, Asian, Pacific Islander, and
+two or more races. (Data source: PEIMS StudentEducationOrganizationAssociation Entity)
+
+Male/Female: The number and percentage of students who are identified as male or female. (Data
+source: PEIMS StudentEducationOrganizationAssociation Entity)
+
+Economically Disadvantaged: The count and percentage of students eligible for free or reduced-price
+lunch or eligible for other public assistance.
+      number of students eligible for free or reduced-price lunch or other public assistance
+                                      total number of students
+
+(Data source: PEIMS StudentEducationOrganizationAssociation Entity and TEA Student Assessment
+Division)
+
+Non-Educationally Disadvantaged: Those students not eligible to participate in free or reduced-price
+lunch or to receive any other public assistance. This is the complementary count and percentage to
+Economically Disadvantaged.
+
+Section 504 Students: The count and percentage of students identified as receiving section 504 services.
+(Data source: PEIMS StudentEducationOrganizationAssociation Entity)
+
+Emergent bilingual students/English learner (EB/EL) : The count and percentage of students whose
+primary language is other than English and who are in the process of acquiring English. The terms
+“English Learner” (EL) and “Emergent Bilingual” (EB) are used interchangeably.
+The percentage of EB/ELs is calculated by dividing the number of EB/ELs by the total number of students
+in the district or campus. Not all students identified as EB/ELs receive bilingual or English as a second
+language instruction. (Data source: TELPAS file)
+
+Students with Disciplinary Placements: The count and percentage of students placed in alternative
+education programs under Chapter 37 of the Texas Education Code (Discipline; Law and Order). Districts
+report the disciplinary actions taken toward students who are removed from the classroom for at least
+one day. Although students can have multiple removals throughout the year, this measure counts
+students only once and includes only those whose removal results in a placement in a disciplinary
+alternative education program or juvenile justice alternative education program. It is calculated as
+follows:
+
+                     number of students with one or more disciplinary placements
+            number of students who were in attendance at any time during the school year
+For 2024–25, the following 19 disciplinary action codes are included as disciplinary placements: 02, 03,
+04, 07, 08, 10, 12, 13, 14, 15, 51, 52, 53, 54, 55, 57, 59, 60, and 61. (Data source: PEIMS DisciplineAction
+Entity)
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                     29 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+Students with Dyslexia: The count and percentage of students identified with Dyslexia. (Data source:
+PEIMS StudentEducationOrganizationAssociation Entity)
+
+Foster Care: The count and percentage of students identified as in the conservatorship of the
+Department of Family and Protective Services (DFPS). (Data source: PEIMS
+StudentEducationOrganizationAssociation Entity)
+
+Homeless: The count and percentage of students meeting the criteria defined by 42 U.S.C. Section
+11434(a), the term “homeless children and youths” —
+       (A) individuals who lack a fixed, regular, and adequate nighttime residence [within the meaning
+       of section 11302(a)(1)]; and
+       (B) includes —
+                (i) children and youths who are sharing the housing of other persons due to loss of
+                housing, economic hardship, or a similar reason; are living in motels, hotels, trailer
+                parks, or camping grounds due to the lack of alternative adequate accommodations; are
+                living in emergency or transitional shelters;
+                (ii) children and youths who have a primary nighttime residence that is a public or
+                private place not designed for or ordinarily used as a regular sleeping accommodation
+                for human beings [within the meaning of section 11302(a)(2) (C)];
+                (iii) children and youths who are living in cars, parks, public spaces, abandoned
+                buildings, substandard housing, bus or train stations, or similar settings; and
+                (iv) migratory children (as such term is defined in section 6399 of title 20) who qualify as
+                homeless for the purposes of this subtitle because the children are living in
+                circumstances described in clauses (i) through (iii).
+(Data source: PEIMS StudentEducationOrganizationAssociation Entity)
+Immigrant: The count and percentage of students identified under the definition found under
+Title III of the No Child Left Behind Act of 2001 (NCLB), where the term ‘immigrant children and youth’ is
+defined as, “individuals who are aged 3 through 21; were not born in any state; and have not been
+attending one or more schools in any one or more states for more than 3 full academic years.” The term
+‘State’ means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+(Data source: PEIMS StudentEducationOrganizationAssociation Entity)
+
+Migratory: The count and percentage of students that meet the following criteria: Student is (ages 3-
+21), or the student's parent, spouse, or guardian is a migratory agricultural worker, including a migratory
+dairy worker, or a migratory fisher, and who, in the preceding 36 months, in order to obtain, or
+accompany such parent, spouse, or guardian in order to obtain, temporary or seasonal employment in
+agricultural or fishing work: 1) has moved from one school district to another; or 2) resides in a school
+district of more than 15,000 square miles, and migrates a distance of 20 miles or more to a temporary
+residence to engage in a fishing activity. (Data source: PEIMS StudentEducationOrganizationAssociation
+Entity)
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                    30 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+Title I: The count and percentage of students participating in a program authorized under Elementary
+and Secondary Education Act (ESEA), Title I, Part A of the Improving America's Schools Act. (Data source:
+PEIMS StudentTitleIPartAProgramAssociation Entity)
+
+Military Connected: The count and percentage of students who are dependents of an active duty or
+former member of the United States military, the Texas National Guard, or a reserve force of the United
+States military, or who are dependents of a member of the United States military, the Texas National
+Guard, or a reserve force of the United States military who was killed in the line of duty. (Data source:
+PEIMS StudentEducationOrganizationAssociation Entity)
+
+At-Risk: The count and percentage of students identified as being at risk of dropping out of school as
+defined by TEC §29.081(d) and (d-1).
+
+                  number of students in the 2024–25 school year considered as at risk
+                                          total number of students
+
+(Data source: PEIMS StudentEducationOrganizationAssociation Entity)
+
+
+Student by Instructional Program:
+The count and percentage of students served in programs and/or courses for special education, career
+and technical education, career and technical education (grades 9– 12 only), bilingual/ESL education, or
+gifted and talented education. The percentages do not total to 100 because students may participate in
+more than one of these programs. (Data source: TSDS PEIMS StudentSchoolAssociation Entity,
+StudentSpecialEducationProgramAssociation Entity and StudentCTEProgramAssociation Entity)
+
+Students with Disabilities by Type of Primary Disability: The count of students disaggregated by
+primary disability. The TAPR and Texas Performance Reporting System (TPRS) uses five categories of
+primary disability: Students with Intellectual Disabilities, Students with Physical Disabilities, Students
+with Autism, Students with Behavioral Disabilities, and Students with Non-Categorical Early Childhood.
+Additional information is provided below.
+Students with Intellectual Disabilities (PEIMS disability codes 06, 08, 12, 13)
+    •   06—Intellectual Disability (ID)
+    •   08—Specific Learning Disability (LD)
+    •   12—Developmental Delay (DD)
+    •   13—Traumatic Brain Injury (TBI)
+Students with Physical Disabilities (PEIMS disability codes 01, 03, 04, 05, 09)
+    •   01—Orthopedic Impairment (OI)
+    •   03—Deaf and Hard of Hearing (DHH)
+    •   04—Visual Impairment (VI)
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                    31 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+    •   05—Deaf-Blindness (DB)
+    •   09—Speech or Language Impairment
+Students with Autism (PEIMS disability code 10)
+    •   10—Autism (AU)
+Students with Behavioral Disabilities (PEIMS disability codes 02 and 07)
+    •   02—Other Health Impairment (OHI)
+    •   07—Emotional Disturbance (ED)
+Students with Noncategorical Early Childhood (PEIMS disability code 14)
+    •   14—Noncategorical Early Childhood (NCES)
+
+(Data source: PEIMS StudentSpecialEducationProgramAssociation Entity)
+
+Mobility: The count and percentage of students who have been in membership for less than 83 percent
+of the school year (i.e., missed six or more weeks).
+
+
+
+                                 number of mobile students in 2023–24
+                  number of students who were in membership at any time during the
+                                           2023–24 school year
+
+This rate is calculated at the state, region, district, and campus level and is disaggregated by
+race/ethnicity, economically disadvantaged status, special education status, and emergent bilingual
+students/English learner status. The mobility rates shown are based on the count of mobile students
+identified at the campus level. The district mobility rate reflects school-to-school mobility within the
+same district or from outside the district. The region mobility rate reflects school-to-school mobility
+within the same region or from outside the region. (Data source: PEIMS
+BasicReportingPeriodAttendanceExtension Entity)
+
+ Attrition Rate: The percentage of students enrolled in fall 2022-23 who did not return to the same
+campus in the fall of 2023-24. This calculation is adjusted to account for the grade levels available to
+students at each campus as well as additional factors. For instance, students were excluded from the
+calculation if the campus in which they were enrolled in 2022-23 did not offer the next grade they were
+expected to move into in 2023-24 or if they were at a campus in 2022-23 that was no longer active in
+2023-24. Students who were retained in grade, including those in Grade 12, remained in the calculation.
+
+Some campuses may not receive an attrition rate because all of their students are excluded from the
+attrition denominator due to their subsequent grade level not being offered at that campus in 2023-24.
+Examples of such campuses are campuses that serve single grade levels or campuses that changed the
+grades offered in 2023-24. Attrition Rate is calculated as follows:
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                    32 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+
+        number of students enrolled in fall 2023 – number of students who returned in fall 2024
+                                 number of students enrolled in fall 2023
+
+Aggregations of campus denominators and numerators are created for district, region and state levels,
+and rates for each of those levels are calculated from these sums.
+
+
+Retention Rates by Grade: The percentage of students in Texas public schools who enrolled in fall 2024
+in the same grade in which they were reported for the last six-week period of the prior school year
+(2023–24).
+
+           number of students enrolled in the same grade from one school year to the next
+    number of students enrolled from one school year who return the next year or who graduate
+
+Special education retention rates are calculated and reported separately because local retention
+practices differ for students served by special education.
+The TAPR and TPRS show retention rates only for grades K–9. Retention rates for all grades can be found
+in Grade-Level Retention in Texas Public Schools available from TEA. (Data source: PEIMS
+StudentSchoolAssociation Entity)
+
+Data Quality (not on campus profile): The percentage of errors made by the district in the PEIMS
+Student Leaver Data.
+
+Percent of Underreported Students. Underreported students are 7th–12th graders who were enrolled at
+      any time during the prior year, who are not accounted for through district records or TEA
+      processing in the current year, and for whom the district did not submit a leaver record. A district
+      is required to submit a leaver record for any student served in grades 7–12 the previous year
+      unless the student received a Texas high school equivalency certificate (TxCHSE) certificate by
+      August 31, is a previous Texas public school graduate, moved to and enrolled in another Texas
+      public school district, or returned to the district by the end of the school start window. (For
+      2023–24 the end of the school-start window was September 27, 2024)
+                                      number of underreported students
+       number of students in grades 7–12 who were served in the district in the 2023–24 school year
+
+(Data source: Texas High School Equivalency Certificate Information File; PEIMS
+StudentEducationOrganizationAssociation Entity, StudentSchoolAssociation Entity,
+BasicReportingPeriodAttendance Entity, and SpecialProgramsReportingPeriodAttendanceExtension)
+
+Class Size Averages by Grade and Subject: The average class size by grade (elementary) or selected
+subjects (secondary classes).
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                   33 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+For secondary classes, averages are determined by totaling the number of students served (in a subject
+at the campus) and dividing that sum by the count of classes for that subject.
+For elementary classes, the average is determined based on the instructional model. If an elementary
+teacher teaches all subjects to the same group of fourth graders all day, the class size average is simply
+the number of fourth grade students served by that teacher. If an elementary teacher teaches a single
+subject to five different sections of fourth graders each day, however, the average is calculated the
+same way as for secondary subjects. For example, one fourth grade science teacher teaches five science
+classes each day with 18, 20, 19, 21, and 22 students in each class. The total of 100 students divided by
+the five classes produces an average class size of 20 students for that teacher.
+The following rules apply to the average class sizes:
+   •   Classes identified as serving regular, compensatory/remedial, gifted and talented, career and
+       technical, and honors students are included in the calculation.
+   •   English language arts (ELA), mathematics, science, social studies, languages other than English,
+       computer science, and career and technical education are included in the calculation, as are self-
+       contained classrooms.
+   •   Classes where the number of students served is reported as zero are not included.
+   •   Service codes with the “SR” prefix are not included.
+   •   Teacher roles coded as “teacher” and/or “substitute teacher” are included.
+   •   Only class settings coded as “regular class” are included.
+   •   Missing partial FTE counts are not included.
+   •   Elementary classes in which the number of students exceeds 100 are not included.
+   •   Mixed grade-level class averages are not included.
+   (Data source: PEIMS StaffEducationOrganizationAssignmentAssociation Entity and
+       StaffSectionAssociation Entity)
+
+Staff Information (2024–25)
+Total Staff: The total count of staff which includes professional staff (teachers, professional support,
+administrators), educational aides, and (on the district profile) auxiliary staff. (Data source: PEIMS Staff
+Entity, StaffEducationOrganizationEmploymentAssociation Entity,
+StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+Professional Staff: The full-time equivalent (FTE) count of teachers, professional support staff, campus
+administrators, and on the district profile, central office administrators. Staff are grouped according to
+roles as reported in PEIMS. Each type of professional staff is shown as a percentage of the total staff
+FTE. See Appendix B for all PEIMS Role IDs. (Data source: PEIMS Staff Entity,
+StaffEducationOrganizationEmploymentAssociation Entity,
+StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+Educational Aides: The count and percentage of paraprofessional staff who are reported with a role of
+033 (Educational Aide) or 036 (Certified Interpreter). The FTE counts of educational aides are expressed
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                      34 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+as a percentage of the total staff FTEs. See Appendix B for all PEIMS Role IDs. (Data source: PEIMS
+StaffEducationOrganizationAssignmentAssociation Entity and StaffSectionAssociation Entity)
+
+Auxiliary Staff (not on campus profile): The count of full-time equivalent (FTE) staff reported in PEIMS
+employment and payroll records who are not reported in the PEIMS
+StaffEducationOrganizationAssignmentAssociation or StaffSectionAssociation Entities. The auxiliary staff
+(and educational aide who performs routine classroom tasks under the general supervision of a certified
+teacher or teaching team) are expressed as a percentage of total staff. For auxiliary staff, the FTE is the
+value of the percentage of day worked. (Data source: PEIMS PayrollExt Entity and
+StaffEducationOrganizationEmploymentAssociation Entity)
+Librarians and Counselors (Headcount): The headcount of librarians and counselors is based on full-
+time equivalent (FTE) for full-time and part-time headcounts. Librarians and counselors are considered
+part-time when the FTE count is less than or equal to .85 (For example, if an FTE count is less than or
+equal to .85, the part-time headcount is equal to 1). Counselor includes PEIMS Staff Classifications 008
+and 117. Librarian includes PEIMS Staff Classifications 013.
+Librarians and counselors are headcounts, not sums of FTEs. The district headcount is not a sum of the
+campus headcount. For example, a counselor spends 50 percent of their time at the elementary (0.50
+FTE) and 50 percent of their time at the high school (0.50 FTE). On each of the campus reports, this
+counselor will be reflected as 1.0 part-time counselor. On the district report, the counselor will be
+reflected as 1.0 full-time counselor since the FTE count is greater than .85 (0.50 FTE plus 0.50 FTE=1.0
+FTE). See Appendix B for PEIMS Staff Classifications (Professional Support Staff). (Data source: PEIMS
+Staff Entity, StaffEducationOrganizationEmploymentAssociation Entity,
+StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+Total Minority Staff: The total count of minority staff is the sum of the FTE counts for all non-white staff
+groups (African American, Hispanic, American Indian, Asian, Pacific Islander, and Two or More Races).
+The minority staff FTE count is expressed as a percentage of the total staff FTE. (Data source: PEIMS
+Staff Entity, StaffEducationOrganizationEmploymentAssociation Entity,
+StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+Teachers by Ethnicity and Sex: The counts of teacher FTEs by ethnic group and by sex. Counts are also
+expressed as a percentage of the total teacher FTEs. (Data source: PEIMS PEIMS Staff Entity,
+StaffEducationOrganizationEmploymentAssociation Entity,
+StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+Teachers by Highest Degree Held: The distribution of degrees held by teachers. The FTE counts of
+teachers with no degree, a bachelor’s degree, a master’s degree, or a doctorate are expressed as a
+percentage of the total teacher FTEs. (Data source: PEIMS Staff Entity,
+StaffEducationOrganizationEmploymentAssociation Entity,
+StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+Teachers by Years of Experience: The FTE count of teachers by total years of experience for the
+individual, not necessarily years of experience in the district or campus. Teacher counts within each
+range of experience are expressed as a percentage of total teacher FTEs. Teachers are reported with
+zero years of experience (first year teachers), 1–5 years, 6–10 years, 11–20 years, 21–30 years, and over
+30 years. (Data source: PEIMS PEIMS Staff Entity, StaffEducationOrganizationEmploymentAssociation
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                     35 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+Entity, StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+Number of Students per Teacher: The total number of students divided by the total teacher FTE count.
+(Data source: PEIMS Staff Entity, StaffEducationOrganizationEmploymentAssociation Entity,
+StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+Experience of Campus Leadership: The average years of experience for principals and assistant
+principals.
+    Average Years as Principal: The number of completed years of experience as a principal, regardless
+        of district or interruption in service. These amounts are added together and divided by the
+        number of all principals reported for the campus.
+    Average Years as Principal with District: The number of years a principal is employed in the district
+        regardless of any interruption in service. The amounts are added together and divided by the
+        number of principals reported for the district.
+    Average Years as Assistant Principal: The number of completed years of experience as assistant
+        principal, regardless of district or interruption of service. The amounts are added together and
+        divided by the number of assistant principals reported for the campus.
+    Average Years as Assistant Principal with District: The number of years employed as assistant
+        principal in the district regardless of any interruption in service. These amounts are added
+        together and divided by the number of assistant principals reported for the district.
+    (Data source: PEIMS StaffEducationOrganizationEmploymentAssociation Entity)
+
+Average Years Experience of Teachers: The average number of completed years of professional
+experience, regardless of district. Weighted averages are calculated by multiplying each teacher’s FTE
+coefficient (1 for a full-time teacher, .75 for a three-quarter-time teacher, and .5 for a half-time teacher,
+for example) by his or her years of experience. These amounts are added together and divided by the
+sum of all teachers’ FTE coefficients. (Data source: PEIMS PEIMS Staff Entity,
+StaffEducationOrganizationEmploymentAssociation Entity,
+StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+Average Years Experience of Teachers with District: The average number of years employed in the
+district regardless of any interruption in service. Weighted averages are calculated by multiplying each
+teacher’s FTE coefficient by his or her years of experience in the district. These amounts are added
+together and divided by the sum of all teacher’s coefficients. (Data source: PEIMS
+StaffEducationOrganizationEmploymentAssociation Entity)
+
+Average Teacher Salary by Years of Experience (regular duties only): Total pay for all teachers in each
+category divided by the total teacher FTE count in that category. For the purpose of this calculation, the
+total actual salary amount is pay for regular duties only and does not include supplemental pay. For
+teachers who also have non-teaching roles, only the portion of time and pay dedicated to classroom
+responsibilities is factored into the average teacher salary calculation. Teachers are reported with zero
+years of experience (first year teacher), 1–5 years, 6–10 years, 11–20 years, 21–30 years, and over 30
+years. (Data source: PEIMS PayrollExt Entity)
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                      36 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+Average Actual Salaries (regular duties only): For each category, the total salary for that category
+divided by the total FTE count for that category. Only payment for regular duties is included in the total
+salary; supplemental payments for extra duties (e.g., coaching, band and orchestra assignments, club
+sponsorships) are not included. See Appendix B for lists of the PEIMS staff classifications included in
+each category.
+  Teachers. Teachers, special duty teachers, and substitute teachers. Substitute teachers are either
+     temporarily hired to replace a teacher or hired permanently on an as-needed basis. The District
+     Teacher Salary Report and Graph also uses this definition in creating counts for various salary
+     ranges.
+  Professional Support. Therapists, nurses, librarians, counselors, and other campus professional
+      personnel.
+  Campus Administration (School Leadership). Principals, assistant principals, and other administrators
+     reported with a specific school ID.
+  Central Administration (not on campus profile). Superintendents, presidents, chief executive officers,
+     chief administrative officers, business managers, athletic directors, and other administrators
+     reported with a central office ID and not a specific school ID.
+
+Instructional Staff Percent (district profile only): The percentage of the district's FTEs whose job function
+was to provide classroom instruction directly to students during the 2024–25 school year. The
+instructional staff percent is a district-level measure and is calculated as follows:
+
+             total number of hours for district staff who were reported under expenditure
+               object codes 6112, 6119, and 6129, and function codes 11, 12, 13, and 31
+                         total number of hours worked by all district employees
+
+Contact the Division of Financial Compliance at (512) 463-9095 for further details about this measure.
+(Data source: PEIMS Staff Entity, StaffEducationOrganizationEmploymentAssociation Entity,
+StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+Turnover Rate for Teachers (not on campus profile): The percentage of teachers from the fall of 2023–
+24 who were not employed in the district in the fall of 2024–25. It is calculated as the total FTE count of
+teachers from the fall of 2023–24 who were not employed in the district in the fall of 2024–25, divided
+by the total teacher FTE count for the fall of 2023–24. Teachers include PEIMS Staff Classifications (Role
+IDs) 087 and 047. Staff who remained employed in the district but not as teachers also count toward
+teacher turnover. (Data source: PEIMS 2023-2024 PEIMS 30040 and 30090, 2024-2025 PEIMS Staff
+Entity StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+Staff Exclusions (not on campus profile): The counts of individuals who serve public school students but
+are not included in the FTE totals for any of the other employee statistics. There are two types of these
+entries: individuals participating in a shared services arrangement and individuals on contract with the
+district to provide instructional services.
+Shared Services Arrangement (SSA) Staff are staff who work in schools located in districts other than
+their employing district or whose assigned organization (in PEIMS) shows a code of 751, indicating that
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                     37 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+they are employed by the fiscal agent of an SSA. Only the portion of a person’s total FTE amount
+associated with the school in another district (or with the 751 organization code) is counted as SSA. SSA
+staff are grouped into three categories: Professional Staff (which includes teachers, administrators, and
+professional support); Educational Aides; and Auxiliary Staff. Note that SSA Auxiliary Staff are identified
+by the type of fund from which they are paid.
+Contracted Instructional Staff (District and Campus Profiles) refers to counts of instructors for whom the
+district has entered into a contractual agreement with some outside organization. Through the contract,
+the outside organization has committed to supplying instructional staff for the district. They are never
+employees of the reporting school district. (Data source: PEIMS ContractedInstructionalStaffFTEExt
+Entity and PayrollExt Entity)
+
+Contracted Instructional Staff: The count of individuals who are not regular classroom teachers who
+have signed a contract with a district, nor are they shared services arrangement employees. Rather,
+these are instructors for whom the district has entered into a contractual agreement with an outside
+organization. Through the contract, the outside organization has committed to supplying instructional
+staff for the district. They include, but are not limited to, speech therapists, occupational therapists, and
+any other professional contracted staff working in a classroom on a dedicated basis. (Data source: PEIMS
+ContractedInstructionalStaffFTEExt Entity)
+
+Teacher Incentive Allotment (TIA): The headcount of teachers who received incentive allotment per
+House Bill 3 and TEC Sec. 48.112 and average TIA payout by categories of Recognized, Exemplary and
+Master for the 2024-25 school year. (Data source: Division of District Talent Systems)
+
+Teachers by Program (population served): The FTE count of teachers categorized by the type of student
+populations served: regular, special, compensatory, bilingual/ESL, gifted and talented education
+students, and other populations. Teacher FTE values are allocated across population types for teachers
+who serve multiple population types. Percentages are expressed as a percentage of total teacher FTEs.
+(Data source: PEIMS Staff Entity, StaffEducationOrganizationEmploymentAssociation Entity,
+StaffEducationOrganizationAssignmentAssociation Entity, and StaffSectionAssociation Entity)
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                     38 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+                                    Appendix A
+                             Advanced Academic Courses
+• All courses shown were for the 2024–25 school year.
+• An “A” prefix indicates a College Board Advanced Placement course.
+• An “I” prefix indicates an International Baccalaureate course.
+• Dual credit courses are not specifically shown on this list.
+English Language Arts
+ Course Code              Abbreviated Course Title
+ 03231900          ADV BROADCAST JOURNALISM I
+ 03231901          ADV BROADCAST JOURNALISM II
+ 03231902          ADV BROADCAST JOURNALISM III
+ 03230180          ADV JOURNALISM: LIT MAG II
+ 03230190          ADV JOURNALISM: LIT MAG III
+ 03230170          ADV JOURNALISM: LIT MAGAZINE I
+ 03230140          ADV JOURNALISM: NEWSPAPER I
+ 03230150          ADV JOURNALISM: NEWSPAPER II
+ 03230160          ADV JOURNALISM: NEWSPAPER III
+ 03230110          ADV JOURNALISM: YEARBOOK I
+ 03230120          ADV JOURNALISM: YEARBOOK II
+ 03230130          ADV JOURNALISM: YEARBOOK III
+ A3220100          AP ENGLISH LANGUAGE AND COMP
+ A3220200          AP ENGLISH LITERATURE AND COMP
+ 03240600          DEBATE I (DEBATE 1)
+ 03240700          DEBATE II (DEBATE 2)
+ 03240800          DEBATE III (DEBATE 3)
+ I3220900          IB LITERATURE & PERF STD LEVEL
+ I3220600          IB LNG A: LANG & LIT HIGH LEVL
+ I3220500          IB LNG A: LANG & LIT STD LEVEL
+ I3220800          IB LNG A: LITERATURE HIGH LEVL
+ I3220700          IB LNG A: LITERATURE STD LEVEL
+ I3366020          IB PHILOSOPHY HIGHER LEVEL
+ I3366010          IB PHILOSOPHY STANDARD LEVEL
+ 03221800          INDEP STUDY/ENGLISH (1ST TIME)
+ 03231000          INDEP STUDY/JOURNALISM (1ST)
+ 03231011          INDEP STUDY/JOURNALISM (2ND)
+ 03231022          INDEP STUDY/JOURNALISM (3RD)
+ 03241200          INDEP STUDY/SPEECH (1ST TIME)
+ 03241210          INDEP STUDY/SPEECH (2ND TIME)
+ 03241220          INDEP STUDY/SPEECH (3RD TIME)
+ 03240200          ORAL INTERPRETATION I
+ 03240300          ORAL INTERPRETATION II
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting   39 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+ Course Code             Abbreviated Course Title
+ 03240400          ORAL INTERPRETATION III
+ 03230800          PHOTOJOURNALISM (PHOTJOUR)
+ 03241100          PUBLIC SPEAKING III (PUBSPKG3)
+ 03221100          RESEARCH/TECHNICAL WRITING
+
+
+Mathematics
+ Course Code             Abbreviated Course Title
+ 03102510          ADVANCED QUANT REASONING
+ A3100101          AP CALCULUS AB
+ A3100102          AP CALCULUS BC
+ A3100100          AP PRECALCULUS
+ A3100200          AP STATISTICS (APSTATS)
+ 12701410          APPLIED MATH FOR TECH PROFNALS
+ 03102520          DISCRETE MATH FOR PRBLM SOLVNG
+ I3100600          IB MATH ANALYS & APRCH HGH LVL
+ I3100500          IB MATH ANALYS & APRCH STD LVL
+ I3100800          IB MATH APPS & INTERPT HGH LVL
+ I3100700          IB MATH APS & INTERPT STD LVL
+ 03102500          INDEP STUDY IN MATH (1ST TIME)
+ 03102501          INDEP STUDY IN MATH (2ND TIME)
+ 03102502          INDEP STUDY IN MATH (3RD TIME)
+ IHE11100          MATH-INST OF HIGHER EDU ENDRSD
+ 03101100          PRECALCULUS (PRE CALC)
+
+Science
+ Course Code              Abbreviated Course Title
+ A3010200          AP BIOLOGY
+ A3040000          AP CHEMISTRY
+ A3020000          AP ENVIRONMENTAL SCIENCE
+ A3050003          AP PHYSICS 1: ALGEBRA BASED
+ A3050004          AP PHYSICS 2: ALGEBRA BASED
+ A3050005          AP PHYSICS C: ELECTR&MAGNETISM
+ A3050006          AP PHYSICS C: MECHANICS
+ I3010202          IB BIOLOGY HIGHER LEVEL
+ I3010201          IB BIOLOGY STANDARD LEVEL
+ I3040003          IB CHEMISTRY HIGHER LEVEL
+ I3040002          IB CHEMISTRY STANDARD LEVEL
+ I3030002          IB DESIGN TECHNOLOGY HIGHR LVL
+ I3030001          IB DESIGN TECHNOLOGY STD LEVEL
+ I3020000          IB ENVIRN SYS & SOC STND LEVL
+ I3050003          IB PHYSICS HIGHER LEVEL
+ I3050002          IB PHYSICS STANDARD LEVEL
+ I3060002          IB SPRTS EXERS&HLTH SCI HGH LV
+ I3060001          IB SPRTS EXERS&HLTH SCI ST LVL
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting   40 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+
+Social Studies
+ Course Code               Abbreviated Course Title
+ A3330200          AP COMPARATIVE GOVT & POLITICS
+ A3340200          AP EUROPEAN HISTORY
+ A3360200          AP HUMAN GEOGRAPHY (ELECTIVE)
+ A3360100          AP HUMAN GEOGRAPHY (WRLD GEOG)
+ A3220300          AP INTERNATIONAL ENGL LANGUAGE
+ A3310200          AP MACROECONOMICS
+ A3310100          AP MICROECONOMICS
+ A3350100          AP PSYCHOLOGY
+ A3330100          AP U.S. GOVERNMENT & POLITICS
+ A3340100          AP UNITED STATES HISTORY
+ A3370100          AP WORLD HISTORY
+ 03310301          ECONOMICS ADV STUDIES, 1ST TME
+ 03310321          ECONOMICS ADV STUDIES, 2ND TME
+ I3303200          IB ECONOMICS HIGHER LEVEL
+ I3303100          IB ECONOMICS STANDARD LEVEL
+ I3302200          IB GEOGRAPHY HIGHER LEVEL
+ I3302100          IB GEOGRAPHY STANDARD LEVEL
+ I3302600          IB GLOBAL POLITICS HIGHER LVL
+ I3302500          IB GLOBAL POLITICS STAND LEVEL
+ I3301200          IB HIST AFRICA&MIDEAST HGHR LV
+ I3301400          IB HIST ASIA&OCEANIA HIGHR LVL
+ I3301300          IB HIST OF AMERICAS HIGHER LVL
+ I3301500          IB HIST OF EUROPE HIGHER LEVEL
+ I3301100          IB HISTORY STANDARD LEVEL
+ I3304200          IB PSYCHOLOGY HIGHER LEVEL
+ I3304100          IB PSYCHOLOGY STANDARD LEVEL
+ I3302400          IB SOC & CULTRL ANTHRO HGH LVL
+ I3302300          IB SOC & CULTRL ANTHRO STD LVL
+ 03380003          SOC STUD RESEARCH METH (1ST)
+ 03380023          SOC STUD RESEARCH METH (2ND)
+ 03380033          SOC STUD RESEARCH METH (3RD)
+ 03380043          SOC STUD RESEARCH METH (4TH)
+ 03380031          SOC STUDIES ADV STUDY-3RD TIME
+ 03380041          SOC STUDIES ADV STUDY-4TH TIME
+ 03380001          SOCIAL STD ADV STDYS (1ST TME)
+ 03380021          SOCIAL STD ADV STDYS (2ND TME)
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting   41 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+Foreign Language
+ Course Code              Abbreviated Course Title
+ 03980910          AMER SIGN LNG ADV STD 1ST TIME
+ 03980920          AMER SIGN LNG ADV STD 2ND TIME
+ 03980930          AMER SIGN LNG ADV STD 3RD TIME
+ A3400400          AP LANG & CULTURE - ITALIAN
+ A3120400          AP LANG & CULTURE - JAPANESE
+ A3440100          AP LANG & CULTURE - SPANISH
+ A3410100          AP LANGUAGE & CULTURE - FRENCH
+ A3420100          AP LANGUAGE & CULTURE - GERMAN
+ A3490400          AP LANGUAGE &CULTURE - CHINESE
+ A3430100          AP LATIN
+ A3440200          AP LITER & CULTURE - SPANISH
+ 03430910          CLS LNG SEM, ADV 1ST TME LATIN
+ 03430920          CLS LNG SEM, ADV 2ND TME LATIN
+ 03430930          CLS LNG SEM, ADV 3RD TME LATIN
+ I3520500          IB LANG B MODERN LANG HL-HINDI
+ I3520400          IB LANG B MODERN LANG SL-HINDI
+ I3996100          IB LANG B, MODRN LANG HL OTHER
+ I3996000          IB LANG B, MODRN LANG SL OTHER
+ I3110300          IB LANGUAGE AB INITIO STD LEVL
+ I3430500          IB LNG B CLASSIC LANG HL-LATIN
+ I3430400          IB LNG B CLASSIC LANG SL-LATIN
+ I3410500          IB LNG B MODERN LANG HL-FRENCH
+ I3420500          IB LNG B MODERN LANG HL-GERMAN
+ I3480500          IB LNG B MODERN LANG HL-HEBREW
+ I3410400          IB LNG B MODERN LANG SL-FRENCH
+ I3420400          IB LNG B MODERN LANG SL-GERMAN
+ I3480400          IB LNG B MODERN LANG SL-HEBREW
+ I3110500          IB LNG B MODRN LANG HL- ARABIC
+ I3490500          IB LNG B MODRN LANG HL-CHINESE
+ I3450500          IB LNG B MODRN LANG HL-RUSSIAN
+ I3440500          IB LNG B MODRN LANG HL-SPANISH
+ I3110400          IB LNG B MODRN LANG SL- ARABIC
+ I3490400          IB LNG B MODRN LANG SL-CHINESE
+ I3450400          IB LNG B MODRN LANG SL-RUSSIAN
+ I3440400          IB LNG B MODRN LANG SL-SPANISH
+ I3120500          IB LNG B MODRN LNG HL-JAPANESE
+ I3120400          IB LNG B MODRN LNG SL-JAPANESE
+ 03110300          LANG O/T ENGLISH III - ARABIC
+ 03420300          LANG O/T ENGLISH III - GERMAN
+ 03980300          LANG O/T ENGLISH III - ASL
+ 03490300          LANG O/T ENGLISH III - CHINESE
+ 03410300          LANG O/T ENGLISH III - FRENCH
+ 03450300          LANG O/T ENGLISH III - RUSSIAN
+ 03440300          LANG O/T ENGLISH III - SPANISH
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting   42 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+ Course Code             Abbreviated Course Title
+ 03400300          LANG O/T ENGLISH III- ITALIAN
+ 03120300          LANG O/T ENGLISH III- JAPANESE
+ 03470300          LANG O/T ENGLISH III PORTUGUES
+ 03110400          LANG O/T ENGLISH IV - ARABIC
+ 03980400          LANG O/T ENGLISH IV - ASL
+ 03490400          LANG O/T ENGLISH IV - CHINESE
+ 03410400          LANG O/T ENGLISH IV - FRENCH
+ 03420400          LANG O/T ENGLISH IV - GERMAN
+ 03400400          LANG O/T ENGLISH IV - ITALIAN
+ 03120400          LANG O/T ENGLISH IV - JAPANESE
+ 03450400          LANG O/T ENGLISH IV - RUSSIAN
+ 03440400          LANG O/T ENGLISH IV - SPANISH
+ 03470400          LANG O/T ENGLISH IV PORTUGUESE
+ 03110500          LANG O/T ENGLISH V - ARABIC
+ 03490500          LANG O/T ENGLISH V - CHINESE
+ 03410500          LANG O/T ENGLISH V - FRENCH
+ 03420500          LANG O/T ENGLISH V - GERMAN
+ 03400500          LANG O/T ENGLISH V - ITALIAN
+ 03450500          LANG O/T ENGLISH V - RUSSIAN
+ 03440500          LANG O/T ENGLISH V - SPANISH
+ 03470500          LANG O/T ENGLISH V PORTUGUESE
+ 03110600          LANG O/T ENGLISH VI - ARABIC
+ 03490600          LANG O/T ENGLISH VI - CHINESE
+ 03410600          LANG O/T ENGLISH VI - FRENCH
+ 03420600          LANG O/T ENGLISH VI - GERMAN
+ 03400600          LANG O/T ENGLISH VI - ITALIAN
+ 03120600          LANG O/T ENGLISH VI - JAPANESE
+ 03450600          LANG O/T ENGLISH VI - RUSSIAN
+ 03440600          LANG O/T ENGLISH VI - SPANISH
+ 03470600          LANG O/T ENGLISH VI PORTUGUESE
+ 03410700          LANG O/T ENGLISH VII - FRENCH
+ 03420700          LANG O/T ENGLISH VII - GERMAN
+ 03440700          LANG O/T ENGLISH VII - SPANISH
+ 03110700          LANG O/T ENGLISH VII-ARABIC
+ 03490700          LANG O/T ENGLISH VII-CHINESE
+ 03400700          LANG O/T ENGLISH VII-ITALIAN
+ 03120700          LANG O/T ENGLISH VII-JAPANESE
+ 03470700          LANG O/T ENGLISH VII-PORTUGUES
+ 03450700          LANG O/T ENGLISH VII-RUSSIAN
+ 03120500          LANG O/T ENGLISH V-JAPANESE
+ 11403100          LANG OTH ENG/LVLIII/KOR
+ 11401300          LANG OTH ENG/LVLIII/TURK
+ 11403200          LANG OTH ENG/LVLIV/KOR
+ 11401400          LANG OTH ENG/LVLIV/TURK
+ 11403300          LANG OTH ENG/LVLV/KOR
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting   43 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+ Course Code              Abbreviated Course Title
+ 11401500          LANG OTH ENG/LVLV/TURK
+ 11403400          LANG OTH ENG/LVLVI/KOR
+ 11401600          LANG OTH ENG/LVLVI/TURK
+ 11403500          LANG OTH ENG/LVLVII/KOR
+ 11401700          LANG OTH ENG/LVLVII/TURK
+ 03520300          LANG OTH THN ENG LVL III HINDI
+ 03520700          LANG OTH THN ENG LVL VII HINDI
+ 03520500          LANG OTHR THAN ENG LVL V HINDI
+ 03520400          LANG OTHR THN ENG LVL IV HINDI
+ 03520600          LANG OTHR THN ENG LVL VI HINDI
+ 03510300          LNG OTH THN EN LVL III VIETNAM
+ 03510700          LNG OTH THN EN LVL VII VIETNAM
+ 03510400          LNG OTH THN ENG LVL IV VIETNAM
+ 03510500          LNG OTH THN ENG LVL V VIETNAM
+ 03510600          LNG OTH THN ENG LVL VI VIETNAM
+ 03530300          LOE, LEVEL III - URDU
+ 03530400          LOE, LEVEL IV - URDU
+ 03530500          LOE, LEVEL V - URDU
+ 03530600          LOE, LEVEL VI - URDU
+ 03530700          LOE, LEVEL VII - URDU
+ 03430300          LOTE CLASSIC LNG LVL III LATIN
+ 03430700          LOTE CLASSIC LNG LVL VII LATIN
+ 03430400          LOTE CLASSIC LNG, LVL IV LATIN
+ 03430500          LOTE CLASSIC LNG, LVL V LATIN
+ 03430600          LOTE CLASSIC LNG, LVL VI LATIN
+ 03993400          OTHER FOREIGN LANG LEVEL III
+ 03996000          OTHER FOREIGN LANGUAGES IV
+ 03996100          OTHER FOREIGN LANGUAGES V
+ 03996200          OTHER FOREIGN LANGUAGES VI
+ 03996300          OTHER FOREIGN LANGUAGES VII
+ 03110910          SEM LOT, ADV 1ST TIME, ARABIC
+ 03490910          SEM LOT, ADV 1ST TIME, CHINESE
+ 03410910          SEM LOT, ADV 1ST TIME, FRENCH
+ 03420910          SEM LOT, ADV 1ST TIME, GERMAN
+ 03520910          SEM LOT, ADV 1ST TIME, HINDI
+ 03400910          SEM LOT, ADV 1ST TIME, ITALIAN
+ 11403610          SEM LOT, ADV 1ST TIME, KOREAN
+ 03470910          SEM LOT, ADV 1ST TIME, PORTUGE
+ 03450910          SEM LOT, ADV 1ST TIME, RUSSIAN
+ 03440910          SEM LOT, ADV 1ST TIME, SPANISH
+ 11401910          SEM LOT, ADV 1ST TIME, TURKISH
+ 03530910          SEM LOT, ADV 1ST TIME, URDU
+ 03510910          SEM LOT, ADV 1ST TIME, VIETNAM
+ 03120910          SEM LOT, ADV 1ST TME, JAPANESE
+ 03110920          SEM LOT, ADV 2ND TIME, ARABIC
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting   44 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+ Course Code             Abbreviated Course Title
+ 03490920          SEM LOT, ADV 2ND TIME, CHINESE
+ 03410920          SEM LOT, ADV 2ND TIME, FRENCH
+ 03420920          SEM LOT, ADV 2ND TIME, GERMAN
+ 03520920          SEM LOT, ADV 2ND TIME, HINDI
+ 03400920          SEM LOT, ADV 2ND TIME, ITALIAN
+ 11403620          SEM LOT, ADV 2ND TIME, KOREAN
+ 03470920          SEM LOT, ADV 2ND TIME, PORTUGE
+ 03450920          SEM LOT, ADV 2ND TIME, RUSSIAN
+ 03440920          SEM LOT, ADV 2ND TIME, SPANISH
+ 11401920          SEM LOT, ADV 2ND TIME, TURKISH
+ 03530920          SEM LOT, ADV 2ND TIME, URDU
+ 03510920          SEM LOT, ADV 2ND TIME, VIETNAM
+ 03120920          SEM LOT, ADV 2ND TME, JAPANESE
+ 03110930          SEM LOT, ADV 3RD TIME, ARABIC
+ 03490930          SEM LOT, ADV 3RD TIME, CHINESE
+ 03410930          SEM LOT, ADV 3RD TIME, FRENCH
+ 03420930          SEM LOT, ADV 3RD TIME, GERMAN
+ 03520930          SEM LOT, ADV 3RD TIME, HINDI
+ 03400930          SEM LOT, ADV 3RD TIME, ITALIAN
+ 11403630          SEM LOT, ADV 3RD TIME, KOREAN
+ 03470930          SEM LOT, ADV 3RD TIME, PORTUGE
+ 03450930          SEM LOT, ADV 3RD TIME, RUSSIAN
+ 03440930          SEM LOT, ADV 3RD TIME, SPANISH
+ 03530930          SEM LOT, ADV 3RD TIME, URDU
+ 03510930          SEM LOT, ADV 3RD TIME, VIETNAM
+ 03120930          SEM LOT, ADV 3RD TME, JAPANESE
+ 11401930          SEM LOT, ADV 3TD TIME, TURKISH
+ 03440330          SPANISH FOR SPAN SPEAKERS LVL3
+ 03440440          SPANISH FOR SPAN SPEAKERS LVL4
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting   45 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+                                                  Appendix B
+                                            PEIMS Staff Classifications
+                                                     (In Alphabetical Order by Label)
+CENTRAL ADMINISTRATORS
+          004.....................................................................Assistant/Associate/Deputy Superintendent
+          027.....................................................................Superintendent/CAO/CEO/President
+          061.....................................................................Asst/Assoc/Deputy Exec Director
+          062.....................................................................Component/Department Director
+          063.....................................................................Coordinator/Manager/Supervisor
+CAMPUS ADMINISTRATORS
+          003.....................................................................Assistant Principal
+          020.....................................................................Principal
+EITHER CENTRAL OR CAMPUS ADMINISTRATORS*
+          012.....................................................................Instructional Officer
+          028.....................................................................Teacher Supervisor
+          040.....................................................................Athletic Director
+          043.....................................................................Business Manager
+          044.....................................................................Tax Assessor and/or Collector
+          045.....................................................................Director - Personnel/Human Resources
+          055.....................................................................Registrar
+          060.....................................................................Executive Director
+          120………………………………………………………………… Instructional Coach
+PROFESSIONAL SUPPORT STAFF
+          002 ....................................................................Art Therapist
+          005 ....................................................................Psychological Associate
+          006.....................................................................Audiologist
+          007.....................................................................Corrective Therapist
+          008.....................................................................Counselor
+          011 ....................................................................Educational Diagnostician
+          013.....................................................................Librarian
+          015.....................................................................Music Therapist
+          016.....................................................................Occupational Therapist
+          017.....................................................................Certified Orientation & Mobility Specialist
+          018.....................................................................Physical Therapist
+          019 ....................................................................Physician
+          021.....................................................................Recreational Therapist
+          022.....................................................................School Nurse
+          023.....................................................................LSSP/Psychologist
+          024.....................................................................Social Worker
+          026.....................................................................Speech Therapist/Speech-Lang Pathologist
+          030.....................................................................Visiting Teacher/Truant Officer
+          032.....................................................................Work-Based Learning Site Coordinator
+          041.....................................................................Teacher Facilitator
+          042.....................................................................Teacher Appraiser
+          054.....................................................................Department Head
+          056.....................................................................Athletic Trainer
+          058.....................................................................Other Campus Professional Personnel
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                                                46 of 47
+2024–25 Texas Academic Performance Report
+(TAPR) Glossary
+            064.....................................................................Specialist/Consultant
+            065.....................................................................Field Service Agent
+            079.....................................................................Other ESC Professional Personnel
+            080.....................................................................Other Non-Campus Professional Personnel
+            100..................................................................... Instructional Materials Coordinator
+            101..................................................................... Legal Services
+            102 ....................................................................Communications Professional
+            103 ....................................................................Research/Evaluation Professional
+            104 ....................................................................Internal Auditor
+            105 ....................................................................Security
+            106 ....................................................................District/Campus Information Technology Professional
+            107 ....................................................................Food Service Professional
+            108 ....................................................................Transportation
+            109 ....................................................................Athletics
+            110 ....................................................................Custodial
+            111 ....................................................................Maintenance
+            112 ....................................................................Business Services Professional
+            113 ....................................................................Other District Exempt Professional Auxiliary
+            114 ....................................................................Other Campus Exempt Professional Auxiliary
+            115………………………………………………………………….Psychiatric Nurse
+            116………………………………………………………………….Licensed Clinical Social Worker
+            117………………………………………………………………….Licensed Professional Counselor
+            118………………………………………………………………….Licensed Marriage & Family Therapist
+            119………………………………………………………………….Family and Community Liaison
+            121………………………………………………………………….Chaplain
+TEACHERS
+          087.....................................................................Teacher
+          047.....................................................................Substitute Teacher
+EDUCATIONAL AIDES
+          033.....................................................................Educational Aide
+          036.....................................................................Certified Interpreter
+AUXILIARY STAFF
+          Employment record, but no responsibility records.
+* Administrators reported with these roles are categorized as central office or campus, depending on the organization ID reported for them.
+
+
+
+
+Texas Education Agency | Analytics, Assessment, Reporting| Performance Reporting                                                          47 of 47
+

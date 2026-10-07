@@ -1,0 +1,50 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+
+Actuarial Methods and Assumptions
+The actuarial valuation of the total OPEB liability was performed as of August 31, 2023. Update
+procedures were used to roll forward the Total OPEB Liability to August 31, 2024.
+The actuarial valuation of the OPEB plan offered through TRS-Care is similar to the actuarial
+valuation performed to the pension plan, except that the OPEB valuation is more complex. The
+demographic assumptions were updated based on the experience study performed for TRS for the
+period ending August 31, 2021. The following assumptions and other inputs used for members of
+TRS-Care are based on an established pattern of practice and are identical to the assumptions used
+in the August 31, 2023 TRS pension actuarial valuation that was rolled forward to August 31, 2024:
+Rates of Mortality                                              Rates of Disability
+Rates of Retirement                                       General Inflation
+Rates of Termination                                       Wage Inflation
+The active mortality rates were based on PUB (2010), Amount-Weighted, Below-Median Income,
+Teacher male and female tables (with a two-year set forward for males). The post-retirement
+mortality rates for healthy lives were based on the 2021 TRS of Texas Healthy Pensioner Mortality
+Tables. The rates were projected on a fully generational basis using the ultimate improvement rates
+from the mortality projection scale MP-2021.
+The following methods and additional assumptions were used in the TRS-Care OPEB valuation:
+Valuation Date                                     August 31, 2023 rolled forw ard to August 31, 2024
+Actuarial Cost Method                               Individual Entry Age Normal
+Inflation                                        2.30%
+Asset Valuation Method                              Fair Value
+Single Discount Rate                               3.87% as of August 31, 2024
+Aging Factors                                      Based on the Society of Actuaries' 2013 Study "Health
+
+Care Costs - From Birth to Death".
+Expenses                                            Third-party administrative expenses related to the
+
+delivery of health care benefits are included in the
+
+age-adjusted claims costs.
+Salary Increases                                2.95% to 8.95%, including inflation
+Ad Hoc Post-Employment Benefit Changes     None
+Discount Rate
+A single discount rate of 3.87 percent was used to measure the total OPEB liability. There was a
+decrease of 0.26 percent in the discount rate since the previous year. Because the investments are
+held in cash and there is no intentional objective to advance fund the benefits, the Single Discount
+Rate is equal to the prevailing municipal bond rate.
+The source of the municipal bond rate is the Bond Buyer's “20-Bond GO Index” as of August 31,
+2024, using the Fixed Income Municipal bonds with 20 years to maturity that include only federally
+tax-exempt municipal bonds.
+
+- 78 -
+Back to Top

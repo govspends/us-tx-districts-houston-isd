@@ -1,0 +1,37 @@
+Chief of Information Technology
+Department Description
+The IT Department provides technology support for students and staff by using tools like AskIT (virtual
+agent), HISD Access (staff password resets), and the Solution Center, accessible via a central IT SharePoint
+for guides and resources, with campus-level support via designated IT liaisons.
+Key Action 1 - Improve Districtwide Systems and Efficiency: Fund, Design, Load and Deploy Microsoft Based
+Data Lake and Dashboard Solution to Deliver Accurate, Actionable Data supporting recurring or important
+Indicators of Success
+By 1 September 2025, the District will be able to acquire accurate, updated data or answers to 200
+recurring or important queries within an hour of a request from a Cabinet member
+o By 1 January 2026, the District will be able to acquire accurate, updated data or answers to 400
+recurring or important queries within an hour of a request from a Cabinet member
+o By 15 May 2026, deploy anomoly detections system indentifying critical data patterns that require
+intervention.
+® 100% of 400 question data is imported and usable in the data lake by November 1
+Data Feeds from new systems are represented in the datalake within 1 month of implementation
+(includes EZRouting, Frontline, SalesForce, ParentSquare & TimeClock Plus)
+Specific Actions
+1 Creation of SOW for 3rd party assistance
+2 Secure Funding
+3 Hire Management
+4 Project plan creation
+5 Data consumption from Academics Data Models
+6 Data source loads
+7 Upskill of team members on new suite of tools with 3rd party
+8 Data Modeling and KPI development
+Key Action 2 - Select and Implement New ERP Solution to Support All District Back Office Operations
+Indicators of Success
+By 5/8/2025, complete RFP process with vendor selection for comprehensive ERP system replacing
+current ERP system.
+By 09/01/2025, complete RFP process with vendor selection for implementation partner for selection
+ERP.
+® Project Plan and Project workshops completed by 11/01/2025
+eo Complete development and configuration of phase 1 core functionaility by 09/01/2026 - Key Action 3
+Specific Actions
+1 RFP for Product and Solution Partner are complete and Board Approved
+2025-2026 Adopted Budget Informational Section 159

@@ -1,0 +1,55 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+GASB Statement Number 72 established a hierarchy that prioritizes the inputs used to measure fair
+value. Certain investment types utilized by the District are not required to be measured at fair value.
+The District has investments in TexPool Prime which maintains stable net asset values of $1 per
+share and utilize the amortized cost method as allowed by GASB 79. The District has investments
+in Texas FIT which maintains a stable net asset value of $1 and measures fair value as provided
+in paragraph 11 of GASB Statement 31. The District invests in the Lone Star Corporate Overnight
+Fund which maintains a stable net asset value of $1 and the underlying pool investments are
+reported at amortized cost per GASB 79. The District invests in the Lone Star Corporate Overnight
+Plus Fund which maintains a stable net asset value of $1 and the pool utilizes fair value reporting
+per GASB 72. The District invests in the Texas-CLASS fund which maintains a stable net asset
+value of $1 and measures fair value as provided in paragraph 11 of GASB Statement 31. The
+District invests in the Texas Range TexasDAILY Select fund which maintains a stable net asset
+value of $1 and the underlying pool investments are reported at amortized cost per GASB 79. The
+District has no unfunded commitments to these pools and may redeem investments at any time.
+Custodial Credit Risk - Investments purchased for the District are made in the name of the Houston
+Independent School District. All investments are purchased with the delivery versus payment
+method and are recorded in the District's name on the Federal Reserve's book entry system and
+confirmed to the District via safekeeping receipt maintained on the books of the depository bank's
+safekeeping department.
+Concentration of Credit Risk - The investment portfolio is diversified to eliminate the risk of loss
+resulting from over concentration of assets in a specific maturity, a specific issue, or a specific class
+of securities. Within the cash flow requirement constraints, investment maturities are staggered in
+a way that avoids undue concentration of assets in a specific maturity sector.
+The District does not invest its portfolio in any single investment pool. Funds are subdivided
+between various pools for diversification and security reasons.
+The District is prohibited from investing in the following types of investments:
+a. obligations whose payment represents the coupon payments on the outstanding principal
+balance of the underlying mortgage-backed security collateral and pays no principal;
+b. obligations whose payment represents the principal stream of cash flow from the underlying
+mortgage-backed security collateral and bears no interest;
+c. collateralized mortgage obligations that have a stated final maturity date of greater than
+10 years; and
+d. collateralized mortgage obligations whose interest rate is determined by an index that
+adjusts opposite to the changes in a market index.
+The District neither enters into reverse repurchase agreements nor trades in options or future
+contracts. Additionally, the District does not participate in any securities lending program.
+Foreign Currency Risk
+The District does not engage in any deposit or investment transactions involving foreign currency.
+NOTE 4: PROPERTY TAXES AND STATE AID REVENUE
+PROPERTY TAXES
+The appraisal of property within the District is the responsibility of the Harris County Appraisal
+District (“Appraisal District”). The District's ad valorem property tax is levied annually in October
+on the assessed value as of the prior January 1 for all real and business personal property located
+in the District. Taxes are due on receipt of the tax bill and are delinquent if not paid by January
+31 of the next calendar year. Such taxes are applicable to the fiscal year in which they are levied
+and become delinquent with an enforceable lien on property after January 31 of the subsequent
+calendar year. Delinquent taxes receivable on the government-wide statement of net position and
+the governmental fund balance sheet is net of estimated uncollectible taxes.
+- 54 -
+Back to Top

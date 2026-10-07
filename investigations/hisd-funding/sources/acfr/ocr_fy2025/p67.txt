@@ -1,0 +1,50 @@
+HOUSTON INDEPENDENT
+SCHOOL DISTRICT
+HOUSTON INDEPENDENT SCHOOL DISTRICT
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+A summary of capital asset activity during fiscal year ended June 30, 2025 follows:
+Balance                                                            Balance
+Governmental activities:                                         _ July12024 = Increases =~ Decreases = June 30,2025
+Capital assets not being depreciated:
+Land                                                            $       289,432,182 $               -      $               -      $       289,432,182
+Construction in progress                                                11,931,392              44,617           (1,162,620)            10,813,389
+Total capital assets not being depreciated                     301,363,574              44,617           (1,162,620)           300,245,571
+Capital assets being depreciated:
+Land Improvements                                                      19,029,997          2,441,813                   -                21,471,810
+Buildings and improvements                                       5,717,441,592         17,217,420          (3,688,783)        5,730,970,229
+Furniture and equipment                                                 244,525,367          18,543,684             (124,300)           262,944,751
+Library Books and Media                                             26,614,830                 -                     -               26,614,830
+Vehicles                                                                130,516,528          9,604,762           (1,515,598)           138,605,692
+Right-to-use subscription assets                                        22,380,380           15,666,644          (20,965,970)             17,081,054
+Right-to-use lease assets-Land                                               762,000                     -                        -                     762,000
+Right-to-use lease assets-Buildings                                        2,944,959                     -                        -                   2,944,959
+Right-to-use lease assets-Furniture & Equipment                      44,536,826         41,729,713                    -                86,266,539
+Total Right-to-use lease assets                                     48,243,785           41,729,713                     -                 89,973,498
+Total capital assets being depreciated                     6,208,752,478         105,204,036        (26,294,651)          6,287,661,864
+Less accumulated depreciation for:
+Land Improvements                                                     (2,061,624)            (984,881)                  -                (3,046,505)
+Buildings and improvements                                     (1,984,804,393)       (135,902,072)              92,220        (2,120,614,245)
+Furniture and equipment                                               (221,431,339)         (10,001,102)              105,655           (231,326,786)
+Library Books and Media                                            (16,677,232)         (3,147,400)                 -              (19,824,632)
+Vehicles                                                                (87,778,399)          (7,817,974)           1,474,463            (94,121,910)
+Right-to-use subscription assets                                       (16,877,078)          (9,647,834)          20,911,805              (5,613,107)
+Right-to-use lease assets-Land                                              (292,100)             (152,400)                    -                    (444,500)
+Right-to-use lease assets-Buildings                                       (1,582,538)             (614,791)                    -                  (2,197,329)
+Right-to-use lease assets-Furniture & Equipment                     (34,970,514)         (11,953,896)                   -                (46,924,410)
+Total Accumulated Amortization, Right-to-use lease assets           (36,845,152)         (12,721,087)                   -                (49,566,239)
+Total accumulated depreciation                              (2,366,475,217)        (180,222,350)           22,584,143        (2,524,113,424)
+Governmental activities capital assets, net                   $ 4,143,640,835 §$     (74,973,697) $      (4,873,129) $      4,063,794,011
+Balance                                                            Balance
+Business-type Activities:                                        __July1,2024 =~ _ Increases =~ _ Decreases = __ June 30,2025
+Capital assets being depreciated:
+Furniture and Equipment                                       $           457,452 $           13,030 $               -      $            470,482
+Right-to-use subscription assets                                          8,821,173             1,887,614                     -                  10,708,787
+Total capital assets being depreciated:                          9,278,625            1,900,644                    -                 11,179,269
+Less Accumulated depreciation for:
+Furniture and Equipment                                                  (454,966)               (3,441)                  -                  (458,407)
+Right-to-use subscription assets                                         (3,924,149)           (2,345,758)                    -                  (6,269,907)
+Total accumulated depreciation                            (4,379,115)          (2,349,199)                  -                (6,728,314)
+Business-type activities capital assets, net                     $        4,899,510 $        (448,555) $                 - $          4,450,955
+-57-
+Back to Top
