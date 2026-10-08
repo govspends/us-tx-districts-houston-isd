@@ -47,7 +47,7 @@ Labels:
 | GF other sources, net (property sales, transfers) | +$80,594,726 | +$25,176,073 | +$23,769,073 |
 | **GF budgeted net change in fund balance** | **($131,118,382)** | **($14,683,839)** | **($790,881)** |
 | GF est. ending fund balance (as adopted) | $801,569,427 | $785,180,647 | $729,251,497 |
-| Total tax rate per $100 (M&O + I&S) | $0.8683 (0.7016 + 0.1667) | $0.8783 (0.7116 + 0.1667) | $0.8421 (0.6754 + 0.1667) |
+| Total tax rate per $100 (M&O + I&S) | $0.8683 (0.7016 + 0.1667) | $0.8783 (0.7116 + 0.1667) | $0.8421 (0.6754 + 0.1667) **proposed** (N27); not shown as adopted on HISD's tax page or the board agenda as of 2026-10-08 |
 
 Sources for the table above:
 
@@ -442,7 +442,7 @@ The Texas Tribune's "$8,459 / $6,265" figures (SECONDARY, FY27) were **not found
 
 ## 8. Big-ticket items and notable lines
 
-- **Contracted charters and virtual school (paid out of GF Instruction):** total $55.9M (FY25) → **$67.2M (FY26)**.
+- **Contracted charters and virtual school (paid out of GF Instruction):** budget-book allocations of $55.9M (FY25) → **$67.2M (FY26)**. These are budgeted allocations, not actuals; TEA's campus data shows Texas Connections Academy's 2024-25 General Fund actual at $56.5M.
   - Texas Connections Academy Houston: $42.2M (FY25) → **$51.8M (FY26)**.
   - Also included: Energized ECC/ES/MS, E-STEM Central HS / West MS, and Mount Carmel (closed Dec 2024).
   - Sources: B25 p147; B26 p151 (OCR). The FY25 actual overspend included "Texas Connections expenditures" ([`notes/acfr.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/acfr.md)).
@@ -662,3 +662,43 @@ Sources: ACFR RSI pages listed above; also [`notes/acfr.md`](https://github.com/
 - **FY2024 ADA/WADA assumptions, and FY2024 object/FTE detail:** no FY2024 book. The FY2025 book (B25 p22, p39) carries FY24 final-budget object and FTE columns; see §4 and §6.
 - **Exact board vote dates other than the TEA postings:** not cross-checked against board minutes. The FY2020 budget (adopted Jun 27 2019) may have followed an earlier failed vote; an Arabic-language HISD press-release file titled "HISD_Board_of_Education_rejects_proposed_budget_for_2019_Arabic_.pdf" appears in the Internet Archive's index of `houstonisd.org/cms/lib2/TX01001591/Centricity/Domain/40261/` (SECONDARY; seen in the index only, not downloaded or read).
 - **The 2021-2023 tax-rate calculation worksheets** were downloaded but not analyzed.
+
+---
+
+## FY2026 and FY2027 where no audit exists (update, 2026-10-08)
+
+Added so that every report table can run through FY2027. HISD's FY2026 ACFR is not yet published, so FY2026 is shown from budgets and HISD's own forecasts. All figures below are General Fund. [`scripts/build_gf_fy2019_2027.py`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/build_gf_fy2019_2027.py) holds them with their citations, checks that revenue − appropriations + other sources = net change and beginning + net change = ending fund balance for every budget, and writes [`data/hisd_gf_fy2019_2027_by_basis.csv`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_gf_fy2019_2027_by_basis.csv), [`data/hisd_gf_function_fy2019_2027.csv`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_gf_function_fy2019_2027.csv) and [`data/hisd_gf_revenue_source_fy2019_2027.csv`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_gf_revenue_source_fy2019_2027.csv).
+
+### U1. FY2026: every published estimate
+
+| Version | Revenue | Appropriations | Other sources (net) | Net change | Beginning FB | Ending FB | Source |
+|---|---:|---:|---:|---:|---:|---:|---|
+| Adopted (Jun 12 2025) | 2,082,033,202 | 2,121,893,114 | 25,176,073 | (14,683,839) | 799,864,486 | 785,180,647 | S26 |
+| Amendment #1 (Feb 12 2026) | 2,074,847,057 | 2,099,737,938 | 28,769,073 | 3,878,192 | 748,088,314 | 751,966,506 | A26-1; repeated as the first column of A26-2 (A26-1 prints revenue as ...058) |
+| HISD forecast, actuals to Mar 31 2026 | | | | | | 751,966,507 | WS-Apr26 slide 36 |
+| Amendment #2 (Jun 11 2026), final budget | 2,053,847,057 | 2,109,408,270 | 37,515,277 | (18,045,936) | 748,088,314 | 730,042,378 | A26-2 p1 |
+| HISD forecast (May 20 2026) | | | | | | 730,042,378 | WS-May26 slide 14 "Forecasted FY 2026 Fund Balance" |
+| Audited | | | | | | not yet published | |
+
+- A26-2 other sources: transfers in $4,120,000; sale of property $15,000,000; "Prior period property value audit" $46,626,204; transfers out ($28,230,927). Without the property-value audit item the net change would be ($64,672,140) [calc].
+- A26-2 revenue by source: local $1,654,861,362; state $377,325,695 (adopted $414,500,000; A26-1 $398,325,695); federal $21,660,000.
+- A26-2 by function is in §3 above (column "FY26 amended #2").
+- Nutrition fund, A26-2: revenue $139,136,165 (federal $130,927,426), appropriations $151,953,888, deficit ($12,817,723), restricted FB $55.8M → $42.9M.
+- Debt Service fund, A26-2: appropriations $394,251,191 (adopted $397,003,334); the Series 2026 refunding ($342,790,000 issued, $343,800,000 to escrow, $7,161,126 premium) is booked here; unassigned FB $156.4M → $181.3M projected.
+- The FY27 tax notice (N27) gives an M&O fund balance of $558,903,003 at the end of FY26. That is net of the cash needed before the first state aid payment, so it is not comparable with the $730.0M above.
+
+### U2. FY2026 enrollment and per-student figures
+
+- TEA's fall 2025 enrolled membership for HISD is **167,793** (TEA 2025-26 budget report header; the campus budget report's campus counts sum to 167,786). TEA's budget and actual reports carry the same fall count for each year (checked for 2019-20 to 2024-25), so this is a count, not a projection.
+- TEA's count ran 0.3-0.4% below the ACFR enrollment in FY2023-FY2025 (189,290 vs 189,934; 183,603 vs 184,109; 176,039 vs 176,727).
+- FY2026 amended General Fund spending per TEA-counted student: $2,109,408,270 / 167,793 = **$12,571** (no recapture budgeted) [calc]. Excluding TIRZ ($54,247,082): $12,248 [calc].
+- FY2027 adopted: $2,015,007,011 / 164,812 (HISD projection, WS-May26 slide 8) = **$12,226** [calc]; excluding TIRZ ($44,698,594): $11,955 [calc].
+
+### U3. Budgets as filed with TEA
+
+TEA publishes each district's adopted budget as filed in PEIMS ("Budgeted Financial Data"). HISD's 2025-26 filing ties to S26: General Fund revenue including TRS on-behalf and other receipts $2,127,033,202 = adopted revenue $2,082,033,202 + property sales and transfers in $45,000,000; total disbursements $2,141,716,843 vs appropriations + transfers out $2,141,717,041 ($198 apart). Details and the per-student comparisons with the state are in [`notes/tea_peims.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/tea_peims.md) ("Budgeted data as filed with TEA").
+
+### U4. Still not published (checked 2026-10-08)
+
+- HISD's budget page lists no new posts since 2026-10-06: no FY2027 budget book, no FY2027 amendment, no FY2026 year-end report.
+- HISD's tax-information page still shows only the 2025 rate ($0.8783, adopted Oct 15 2025). The FY2027 proposed rate is $0.8421 (N27).

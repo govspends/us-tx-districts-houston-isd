@@ -1,0 +1,1008 @@
+cdn,entity,school_year,basis,enrolled_membership,section,line,gf,gf_ps,af,af_ps
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Revenue,Local Property Tax from M&O (excluding recapture),1702171380,8132,1702171380,8132
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Revenue,State Operating Funds,73313693,350,73898693,353
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Revenue,Federal Funds,20720946,99,154965788,740
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Revenue,Other Local,26879675,128,32436089,155
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Revenue,Total Operating Revenue,1823085694,8710,1963471950,9381
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Other Revenue,Local Property Tax from I&S,0,0,296989491,1419
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Other Revenue,State Assistance for Debt Service,0,0,2598721,12
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Other Revenue,Other Receipts (excluding debt service financing),37589788,180,42737678,204
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Other Revenue,Total Other Revenue,37589788,180,342325890,1636
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Other Revenue,Subtotal: Operating and Other Revenue,1860675482,8890,2305797840,11016
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Recapture Revenue,Local Property Tax Recaptured,0,0,0,0
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Recapture Revenue,Total Recaptured Revenue,0,0,0,0
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",1860675482,8890,2305797840,11016
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,52807342,252
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,80000000,382,80000000,382
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Debt Service Financing and TRS Estimate Revenue,Subtotal: Debt Service Financing and TRS Estimate Revenue,80000000,382,132807342,635
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),1394943268,6665,1457003530,6961
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),270011792,1290,282284473,1349
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Object,Supplies & Materials (Object 63xx),62626043,299,126298529,603
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),76143291,364,83920673,401
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Object,Total Operating Expenditures by Object,1803724394,8618,1949507205,9314
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Non-Operating Expenditures by Object,Debt Services(Object 65xx),22155334,106,375216282,1793
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Non-Operating Expenditures by Object,Capital Outlay(Object 66xx),40196857,192,41136860,197
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,62352191,298,416353142,1989
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,1866076585,8915,2365860347,11303
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,"Instruction(Function 11,95)",1051972137,5026,1051972137,5026
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),8648915,41,8648915,41
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),54947672,263,54947672,263
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Instructional Leadership (Function 21),21128766,101,21128766,101
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,School Leadership (Function 23),143659570,686,143659570,686
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Guidance Counseling Services (Function 31),59604901,285,59604901,285
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Social Work Services (Function 32),13130113,63,13130113,63
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Health Services (Function 33),20845783,100,20845783,100
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Transportation (Function 34),59408682,284,59408682,284
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Food Services (Function 35),0,0,143995333,688
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Extracurricular (Function 36),13787993,66,13787993,66
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,"General Administration (Function 41,92)",36820847,176,36820847,176
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),206432339,986,208219817,995
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Security & Monitoring Services (Function 52),24085333,115,24085333,115
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Data Processing Services (Function 53),86604109,414,86604109,414
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Community Services (Function 61),2647234,13,2647234,13
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Function,Total Operating Expenditures by Function,1803724394,8618,1949507205,9314
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),22155334,106,375216282,1793
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),40196857,192,41136860,197
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,62352191,298,416353142,1989
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,1866076585,8915,2365860347,11303
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),871195703,4162,871195703,4162
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),9137895,44,9137895,44
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),51309185,245,51309185,245
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33)",185652694,887,185652694,887
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",161318230,771,161318230,771
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",47318797,226,47318797,226
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,High School Allotment (PIC 31),3018643,14,3018643,14
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,PreKindergarten (PIC 32),48207185,230,48207185,230
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),10640899,51,10640899,51
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),415925163,1987,561707974,2684
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),1803724394,8618,1949507205,9314
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),22155334,106,375216282,1793
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),40196857,192,41136860,197
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Total Disbursements,Operating Expenditures,1803724394,8618,1949507205,9314
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Total Disbursements,Recapture,0,0,0,0
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Total Disbursements,Total Other Uses,40134765,192,40134765,192
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Total Disbursements,Intergovernmental Charge,77763224,372,77763224,372
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Total Disbursements,Debt Service (Object 6500),22155334,106,375216282,1793
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Total Disbursements,Capital Projects (Object 6600),40196857,192,41136860,197
+101912,Houston ISD,2019-20,budget filed with TEA (PEIMS),209309,Total Disbursements,Total Disbursements,1983974574,9479,2483758336,11866
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Revenue,Local Property Tax from M&O (excluding recapture),25615491825,4675,25615491825,4675
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Revenue,State Operating Funds,23686907612,4323,23701052063,4326
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Revenue,Federal Funds,1266478732,231,3323163205,607
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Revenue,Other Local,1126516091,206,1753801697,320
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Revenue,Total Operating Revenue,51695394260,9435,54393508790,9927
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Other Revenue,Local Property Tax from I&S,0,0,7836436066,1430
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Other Revenue,State Assistance for Debt Service,0,0,367161803,67
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Other Revenue,Other Receipts (excluding debt service financing),470274085,86,568044114,104
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Other Revenue,Total Other Revenue,470274085,86,8771641983,1601
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Other Revenue,Subtotal: Operating and Other Revenue,52165668345,9521,63165150773,11528
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Recapture Revenue,Local Property Tax Recaptured,2262149340,413,2262149340,413
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Recapture Revenue,Total Recaptured Revenue,2262149340,0,2262149340,413
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",54427817685,9933,65427300113,11941
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,646196365,118
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,2157646661,394,2169747510,396
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Debt Service Financing and TRS Estimate Revenue,Subtotal: Debt Service Financing and TRS Estimate Revenue,2157646661,394,2815943875,514
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),42263512979,7713,43358300806,7913
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),4807471474,877,5179484839,945
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Object,Supplies & Materials (Object 63xx),2801401234,511,4055830699,740
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),1455124057,266,1497270632,273
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Object,Total Operating Expenditures by Object,51327509744,9368,54090886976,9872
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Non-Operating Expenditures by Object,Debt Services(Object 65xx),410859021,75,8719588475,1591
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Non-Operating Expenditures by Object,Capital Outlay(Object 66xx),1117134435,204,1190532123,217
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,1527993456,279,9910120598,1809
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,52855503200,9647,64001007574,11681
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,"Instruction(Function 11,95)",29969269103,5470,29969920624,5470
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),611357515,112,611357515,112
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),879365446,160,879368875,160
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Instructional Leadership (Function 21),807368621,147,807368621,147
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,School Leadership (Function 23),3308815027,604,3308954682,604
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Guidance Counseling Services (Function 31),1868643333,341,1868643333,341
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Social Work Services (Function 32),135995094,25,135995094,25
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Health Services (Function 33),578366939,106,578366939,106
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Transportation (Function 34),1788569580,326,1788569080,326
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Food Services (Function 35),408387256,75,3128985854,571
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Extracurricular (Function 36),1531088849,279,1531338849,279
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,"General Administration (Function 41,92)",1913135774,349,1913421222,349
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),5650294048,1031,5691042572,1039
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Security & Monitoring Services (Function 52),630143999,115,630829309,115
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Data Processing Services (Function 53),1100141233,201,1100153980,201
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Community Services (Function 61),146567927,27,146570427,27
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Function,Total Operating Expenditures by Function,51327509744,9368,54090886976,9872
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),410859021,75,8719588475,1591
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),1117134435,204,1190532123,217
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,1527993456,279,9910120598,1809
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,52855503200,9647,64001007574,11681
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),25443060000,4644,25446317447,4644
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),443244446,81,443244446,81
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),1776212717,324,1776218329,324
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33)",6026017073,1100,6026071073,1100
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",3254911902,594,3256004695,594
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",608012008,111,608012178,111
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,High School Allotment (PIC 31),361445776,66,361445776,66
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,PreKindergarten (PIC 32),598697435,109,598727920,109
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),1094226460,200,1094226460,200
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),11721681927,2139,14480618652,2643
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),51327509744,9368,54090886976,9872
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),410859021,75,8719588475,1591
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),1117134435,204,1190532123,217
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Total Disbursements,Operating Expenditures,51327509744,9368,54090886976,9872
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Total Disbursements,Recapture,2262149340,413,2262149340,413
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Total Disbursements,Total Other Uses,543812334,99,545571225,100
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Total Disbursements,Intergovernmental Charge,645077382,118,645092557,118
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Total Disbursements,Debt Service (Object 6500),410859021,75,8719588475,1591
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Total Disbursements,Capital Projects (Object 6600),1117134435,204,1190532123,217
+_STATE,State total,2019-20,budget filed with TEA (PEIMS),5479229,Total Disbursements,Total Disbursements,56306542256,10276,67453820696,12311
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Revenue,Local Property Tax from M&O (excluding recapture),1759491803,8952,1759491803,8952
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Revenue,State Operating Funds,86787686,442,87372686,445
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Revenue,Federal Funds,19724182,100,124648667,634
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Revenue,Other Local,13966799,71,14079299,72
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Revenue,Total Operating Revenue,1879970470,9565,1985592455,10102
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Other Revenue,Local Property Tax from I&S,0,0,309958116,1577
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Other Revenue,State Assistance for Debt Service,0,0,2300000,12
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Other Revenue,Other Receipts (excluding debt service financing),22500000,114,25147890,128
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Other Revenue,Total Other Revenue,22500000,114,337406006,1717
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Other Revenue,Subtotal: Operating and Other Revenue,1902470470,9679,2322998461,11819
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Recapture Revenue,Local Property Tax Recaptured,12083891,61,12083891,61
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Recapture Revenue,Total Recaptured Revenue,12083891,61,12083891,61
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",1914554361,9741,2335082352,11880
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,42788700,218
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,80000000,407,80000000,407
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Debt Service Financing and TRS Estimate Revenue,Subtotal: Debt Service Financing and TRS Estimate Revenue,80000000,407,122788700,625
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),1471604216,7487,1528090962,7775
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),272977022,1389,282635705,1438
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Object,Supplies & Materials (Object 63xx),67864540,345,114789126,584
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),154633092,787,162571557,827
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Object,Total Operating Expenditures by Object,1967078870,10008,2088087350,10624
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Non-Operating Expenditures by Object,Debt Services(Object 65xx),15250000,78,375708046,1912
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Non-Operating Expenditures by Object,Capital Outlay(Object 66xx),83433229,424,83844590,427
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,98683229,502,459552636,2338
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,2065762099,10510,2547639986,12962
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,"Instruction(Function 11,95)",1167201800,5938,1167201800,5938
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),10548002,54,10548002,54
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),36836834,187,36836834,187
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Instructional Leadership (Function 21),27071907,138,27071907,138
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,School Leadership (Function 23),142454057,725,142454057,725
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Guidance Counseling Services (Function 31),67863334,345,67863334,345
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Social Work Services (Function 32),17043207,87,17043207,87
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Health Services (Function 33),45342043,231,45342043,231
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Transportation (Function 34),58772698,299,58772698,299
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Food Services (Function 35),2000,0,119388385,607
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Extracurricular (Function 36),13435027,68,13435027,68
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,"General Administration (Function 41,92)",40370748,205,40371948,205
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),222029585,1130,222910482,1134
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Security & Monitoring Services (Function 52),28648081,146,28648081,146
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Data Processing Services (Function 53),86713982,441,87453980,445
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Community Services (Function 61),2745565,14,2745565,14
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Function,Total Operating Expenditures by Function,1967078870,10008,2088087350,10624
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),15250000,78,375708046,1912
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),83433229,424,83844590,427
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,98683229,502,459552636,2338
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,2065762099,10510,2547639986,12962
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),891495254,4536,891495254,4536
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),10474686,53,10474686,53
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),51854960,264,51854960,264
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33)",227667630,1158,227667630,1158
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",185138875,942,185138875,942
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",42442113,216,42442113,216
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,High School Allotment (PIC 31),2361359,12,2361359,12
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,PreKindergarten (PIC 32),40272355,205,40272355,205
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),55659337,283,55659337,283
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),5957215,30,5957215,30
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",8941589,45,8941589,45
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),10382764,53,10382764,53
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),434430733,2210,555439213,2826
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),1967078870,10008,2088087350,10624
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),15250000,78,375708046,1912
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),83433229,424,83844590,427
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Total Disbursements,Operating Expenditures,1967078870,10008,2088087350,10624
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Total Disbursements,Recapture,12083891,61,12083891,61
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Total Disbursements,Total Other Uses,37449140,191,37449140,191
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Total Disbursements,Intergovernmental Charge,78985535,402,78985535,402
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Total Disbursements,Debt Service (Object 6500),15250000,78,375708046,1912
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Total Disbursements,Capital Projects (Object 6600),83433229,424,83844590,427
+101912,Houston ISD,2020-21,budget filed with TEA (PEIMS),196550,Total Disbursements,Total Disbursements,2194280665,11164,2676158552,13616
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Revenue,Local Property Tax from M&O (excluding recapture),26056193487,4862,26056193487,4862
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Revenue,State Operating Funds,24209708283,4517,24222878477,4520
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Revenue,Federal Funds,1236985953,231,3188481825,595
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Revenue,Other Local,937109217,175,1492418371,278
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Revenue,Total Operating Revenue,52439996940,9785,54959972160,10255
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Other Revenue,Local Property Tax from I&S,0,0,8216605143,1533
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Other Revenue,State Assistance for Debt Service,0,0,328973355,61
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Other Revenue,Other Receipts (excluding debt service financing),383427841,72,477114390,89
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Other Revenue,Total Other Revenue,383427841,72,9022692888,1684
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Other Revenue,Subtotal: Operating and Other Revenue,52823424781,9857,63982665048,11939
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Recapture Revenue,Local Property Tax Recaptured,2438742172,455,2438742172,455
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Recapture Revenue,Total Recaptured Revenue,2438742172,0,2438742172,455
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",55262166953,10312,66421407220,12394
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,1733506123,323
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,2339888501,437,2352603152,439
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Debt Service Financing and TRS Estimate Revenue,Subtotal: Debt Service Financing and TRS Estimate Revenue,2339888501,437,4086109275,762
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),44170679527,8242,45245048310,8443
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),5062595688,945,5440850407,1015
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Object,Supplies & Materials (Object 63xx),3281451788,612,4456573917,832
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),1624651366,303,1672348891,312
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Object,Total Operating Expenditures by Object,54139378369,10102,56814821525,10602
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Non-Operating Expenditures by Object,Debt Services(Object 65xx),401041253,75,9156021668,1708
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Non-Operating Expenditures by Object,Capital Outlay(Object 66xx),890131988,166,942376218,176
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,1291173241,241,10098397886,1884
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,55430551610,10343,66913219411,12486
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,"Instruction(Function 11,95)",31627590087,5902,31627599272,5902
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),622407116,116,622407116,116
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),955815951,178,955822380,178
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Instructional Leadership (Function 21),878271678,164,878271678,164
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,School Leadership (Function 23),3465825625,647,3484931304,650
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Guidance Counseling Services (Function 31),1985859983,371,1985859983,371
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Social Work Services (Function 32),147589018,28,147589018,28
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Health Services (Function 33),663790204,124,663796704,124
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Transportation (Function 34),1825121901,341,1825205501,341
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Food Services (Function 35),395157482,74,3014744116,563
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Extracurricular (Function 36),1568991617,293,1569229817,293
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,"General Administration (Function 41,92)",2018545900,377,2018786744,377
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),5956821379,1112,5992109296,1118
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Security & Monitoring Services (Function 52),662144439,124,662273144,124
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Data Processing Services (Function 53),1213644044,226,1214391007,227
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Community Services (Function 61),151801945,28,151804445,28
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Function,Total Operating Expenditures by Function,54139378369,10102,56814821525,10602
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),401041253,75,9156021668,1708
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),890131988,166,942376218,176
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,1291173241,241,10098397886,1884
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,55430551610,10343,66913219411,12486
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),25724250470,4800,25726008740,4800
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),446753287,83,446753287,83
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),1904332962,355,1904334204,355
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33)",6485752541,1210,6485807641,1210
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",3421428627,638,3422134608,639
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",624182856,116,624187356,116
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,High School Allotment (PIC 31),136126539,25,136126539,25
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,PreKindergarten (PIC 32),581087410,108,581620616,109
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),838509674,156,838509674,156
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),272307735,51,272307735,51
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",271972237,51,272009205,51
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),1135188434,212,1135194294,212
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),12297485597,2295,14969827626,2793
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),54139378369,10102,56814821525,10602
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),401041253,75,9156021668,1708
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),890131988,166,942376218,176
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Total Disbursements,Operating Expenditures,54139378369,10102,56814821525,10602
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Total Disbursements,Recapture,2438742172,455,2438742172,455
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Total Disbursements,Total Other Uses,502820949,94,504653066,94
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Total Disbursements,Intergovernmental Charge,637314331,119,637329506,119
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Total Disbursements,Debt Service (Object 6500),401041253,75,9156021668,1708
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Total Disbursements,Capital Projects (Object 6600),890131988,166,942376218,176
+_STATE,State total,2020-21,budget filed with TEA (PEIMS),5359105,Total Disbursements,Total Disbursements,59009429062,11011,70493944155,13154
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Revenue,Local Property Tax from M&O (excluding recapture),1681804596,8681,1681804596,8681
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Revenue,State Operating Funds,70174069,362,70711663,365
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Revenue,Federal Funds,17230000,89,150560697,777
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Revenue,Other Local,11653620,60,15985299,83
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Revenue,Total Operating Revenue,1780862285,9193,1919062255,9906
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Other Revenue,Local Property Tax from I&S,0,0,327542527,1691
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Other Revenue,State Assistance for Debt Service,0,0,2000000,10
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Other Revenue,Misc Rev Debt Service Fund (F599),0,0,40000,0
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Other Revenue,Other Receipts (excluding debt service financing),42366685,219,45014575,232
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Other Revenue,Total Other Revenue,42366685,219,374597102,1934
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Other Revenue,Subtotal: Operating and Other Revenue,1823228970,9411,2293659357,11840
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Recapture Revenue,Local Property Tax Recaptured,213265281,1101,213265281,1101
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Recapture Revenue,Total Recaptured Revenue,213265281,1101,213265281,1101
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",2036494251,10512,2506924638,12941
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,26744350,138
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,87000000,449,87000000,449
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Debt Service Financing and TRS Estimate Revenue,Total Debt Service Financing and TRS Estimate Revenue,87000000,449,113744350,587
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),1480794992,7644,1532024246,7908
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),307541164,1587,323104725,1668
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Object,Supplies & Materials (Object 63xx),82087356,424,151479764,782
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),102959440,531,110349636,570
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Object,Total Operating Expenditures by Object,1973382952,10186,2116958371,10928
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by Object,Capital Outlay (Object 61xx-64xx),914104,5,914104,5
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by Object,Debt Services (Object 65xx),16092017,83,372068015,1921
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by Object,Capital Outlay (Object 66xx),91666957,473,92046012,475
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,108673078,561,465028131,2400
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,2082056030,10747,2581986502,13328
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,"Instruction (Function 11,95)",1187379207,6129,1187379207,6129
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),9141368,47,9141368,47
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),36580263,189,36580263,189
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Instructional Leadership (Function 21),24630971,127,24630971,127
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,School Leadership (Function 23),150437303,777,150437303,777
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Guidance Counseling Services (Function 31),67823529,350,67823529,350
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Social Work Services (Function 32),19676086,102,19676086,102
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Health Services (Function 33),31206018,161,31206018,161
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Transportation (Function 34),57004677,294,57004677,294
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Food Services (Function 35),10000,0,141395150,730
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Extracurricular (Function 36),12224833,63,12224833,63
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,"General Administration (Function 41,92)",41441207,214,41536497,214
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),227143109,1172,228454613,1179
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Security & Monitoring Services (Function 52),28112181,145,28112181,145
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Data Processing Services (Function 53),77819816,402,78603291,406
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Community Services (Function 61),2752384,14,2752384,14
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Fund Raising CHARTER SCHOOLS ONLY (Function 81),0,0,0,0
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Function,Total Operating Expenditures by Function,1973382952,10186,2116958371,10928
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (81) (61xx-64xx),914104,5,914104,5
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),16092017,83,372068015,1921
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),91666957,473,92046012,475
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,108673078,561,465028131,2400
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,2082056030,10747,2581986502,13328
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),908059316,4687,908059316,4687
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),8156806,42,8156806,42
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),55542239,287,55542239,287
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33)",216470146,1117,216470146,1117
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",176722721,912,176722721,912
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",39076475,202,39076475,202
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,High School Allotment (PIC 31),1757940,9,1757940,9
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,PreKindergarten (PIC 32),34040172,176,34040172,176
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),71748303,370,71748303,370
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),3137832,16,3137832,16
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",20123594,104,20123594,104
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),9914343,51,9914343,51
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),428633065,2213,572208484,2954
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),1973382952,10186,2116958371,10928
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx),914104,5,914104,5
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),16092017,83,372068015,1921
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),91666957,473,92046012,475
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Total Disbursements,Operating Expenditures,1973382952,10186,2116958371,10928
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Total Disbursements,Recapture,213265281,1101,213265281,1101
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Total Disbursements,Total Other Uses,28348422,146,28348422,146
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Total Disbursements,Intergovernmental Charge,85215556,440,85215556,440
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Total Disbursements,Capital Outlay (Object 61xx-64xx),914104,5,914104,5
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Total Disbursements,Debt Service (Object 6500),16092017,83,372068015,1921
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Total Disbursements,Capital Projects (Object 6600),91666957,473,92046012,475
+101912,Houston ISD,2021-22,budget filed with TEA (PEIMS),193727,Total Disbursements,Total Disbursements,2408885289,12434,2908815761,15015
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Revenue,Local Property Tax from M&O (excluding recapture),27070409267,5010,27070409267,5010
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Revenue,State Operating Funds,23690477147,4385,23709011418,4388
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Revenue,Federal Funds,1417800215,262,3852546019,713
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Revenue,Other Local,888626185,164,1288603030,239
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Revenue,Total Operating Revenue,53067312814,9822,55920569734,10350
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Other Revenue,Local Property Tax from I&S,0,0,8608068717,1593
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Other Revenue,State Assistance for Debt Service,0,0,264730725,49
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Other Revenue,Misc Rev Debt Service Fund (F599),0,0,39457151,7
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Other Revenue,Other Receipts (excluding debt service financing),405787250,75,528117957,98
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Other Revenue,Total Other Revenue,405787250,75,9440374550,1747
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Other Revenue,Subtotal: Operating and Other Revenue,53473100064,9897,65360944284,12097
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Recapture Revenue,Local Property Tax Recaptured,2827720491,523,2827720491,523
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Recapture Revenue,Total Recaptured Revenue,2827720491,0,2827720491,523
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",56300820555,10420,68188664775,12621
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,533101035,99
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,2512603313,465,2526511221,468
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Debt Service Financing and TRS Estimate Revenue,Total Debt Service Financing and TRS Estimate Revenue,2512603313,465,3059612256,566
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),45168309949,8360,46311171350,8572
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),5306733366,982,5718443453,1058
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Object,Supplies & Materials (Object 63xx),3105517542,575,4428009286,820
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),1719844524,318,1766609061,327
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Object,Total Operating Expenditures by Object,55300405381,10235,58224233150,10776
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by Object,Capital Outlay (Object 61xx-64xx),47280670,9,47280670,9
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by Object,Debt Services (Object 65xx),471647438,87,9234036478,1709
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by Object,Capital Outlay (Object 66xx),1089387634,202,1143252996,212
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,1608315742,298,10424570144,1929
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,56908721123,10533,68648803294,12706
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,"Instruction (Function 11,95)",32156515832,5952,32156535670,5952
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),617450028,114,617450028,114
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),972576023,180,972582023,180
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Instructional Leadership (Function 21),948841526,176,948841526,176
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,School Leadership (Function 23),3569625683,661,3584913226,664
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Guidance Counseling Services (Function 31),2033419047,376,2033419047,376
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Social Work Services (Function 32),151413747,28,151413747,28
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Health Services (Function 33),658720654,122,658720654,122
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Transportation (Function 34),1835580204,340,1835630204,340
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Food Services (Function 35),379231912,70,3243953357,600
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Extracurricular (Function 36),1618292232,300,1618541433,300
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,"General Administration (Function 41,92)",2113713115,391,2114080262,391
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),6106834359,1130,6148301119,1138
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Security & Monitoring Services (Function 52),690043645,128,690906540,128
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Data Processing Services (Function 53),1253079832,232,1253874272,232
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Community Services (Function 61),164070849,30,164073349,30
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Fund Raising CHARTER SCHOOLS ONLY (Function 81),30996693,6,30996693,6
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Function,Total Operating Expenditures by Function,55300405381,10235,58224233150,10776
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (81) (61xx-64xx),47280670,9,47280670,9
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),471647438,87,9234036478,1709
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),1089387634,202,1143252996,212
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,1608315742,298,10424570144,1929
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,56908721123,10533,68648803294,12706
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),25651173939,4748,25653150574,4748
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),432344166,80,432344166,80
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),2056836013,381,2056836013,381
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33)",6795509698,1258,6796834731,1258
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",3517266792,651,3517845042,651
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",618889128,115,618893628,115
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,High School Allotment (PIC 31),84484888,16,84484888,16
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,PreKindergarten (PIC 32),552266125,102,552712480,102
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),1112768993,206,1112768993,206
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),320063625,59,320063625,59
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",326303603,60,326362144,60
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),1176653976,218,1176653976,218
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),12655844435,2342,15575282890,2883
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),55300405381,10235,58224233150,10776
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx),47280670,9,47280670,9
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),471647438,87,9234036478,1709
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),1089387634,202,1143252996,212
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Total Disbursements,Operating Expenditures,55300405381,10235,58224233150,10776
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Total Disbursements,Recapture,2827720491,523,2827720491,523
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Total Disbursements,Total Other Uses,492457848,91,493488036,91
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Total Disbursements,Intergovernmental Charge,650818938,120,650834703,120
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Total Disbursements,Capital Outlay (Object 61xx-64xx),47280670,9,47280670,9
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Total Disbursements,Debt Service (Object 6500),471647438,87,9234036478,1709
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Total Disbursements,Capital Projects (Object 6600),1089387634,202,1143252996,212
+_STATE,State total,2021-22,budget filed with TEA (PEIMS),5402994,Total Disbursements,Total Disbursements,60879718400,11268,72620846524,13441
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Revenue,Local Property Tax from M&O (excluding recapture),1619995738,8558,1619995738,8558
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Revenue,State Operating Funds,103733783,548,104271377,551
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Revenue,Federal Funds,71905107,380,200916762,1061
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Revenue,Other Local,33220301,175,37145753,196
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Revenue,Total Operating Revenue,1828854929,9662,1962329630,10367
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Other Revenue,Local Property Tax from I&S,0,0,346486420,1830
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Other Revenue,State Assistance for Debt Service,0,0,3262825,17
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Other Revenue,Misc Rev Debt Service Fund (F599),0,0,2820451,15
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Other Revenue,Other Receipts (excluding debt service financing),20000000,106,20000000,106
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Other Revenue,Total Other Revenue,20000000,106,372569696,1968
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Other Revenue,Subtotal: Operating and Other Revenue,1848854929,9767,2334899326,12335
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Recapture Revenue,Local Property Tax Recaptured,247439733,1307,247439733,1307
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Recapture Revenue,Total Recaptured Revenue,247439733,1307,247439733,1307
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",2096294662,11075,2582339059,13642
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,22155075,117
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,87000000,460,87000000,460
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Debt Service Financing and TRS Estimate Revenue,Total Debt Service Financing and TRS Estimate Revenue,87000000,460,109155075,577
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),1523529514,8049,1565519300,8270
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),269357311,1423,275162789,1454
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Object,Supplies & Materials (Object 63xx),85997161,454,160332409,847
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),82127149,434,89608446,473
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Object,Total Operating Expenditures by Object,1961011135,10360,2090622944,11045
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by Object,Capital Outlay (Object 61xx-64xx),603727,3,603727,3
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by Object,Debt Services (Object 65xx),0,0,374724771,1980
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by Object,Capital Outlay (Object 66xx),27462662,145,28853076,152
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,28066389,148,404181574,2135
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,1989077524,10508,2494804518,13180
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,"Instruction (Function 11,95)",1159456653,6125,1159456653,6125
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),17910224,95,17910224,95
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),35607411,188,35607411,188
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Instructional Leadership (Function 21),26893871,142,26893871,142
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,School Leadership (Function 23),167705742,886,167705742,886
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Guidance Counseling Services (Function 31),73289176,387,73289176,387
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Social Work Services (Function 32),10726499,57,10726499,57
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Health Services (Function 33),26841138,142,26841138,142
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Transportation (Function 34),52178425,276,52178425,276
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Food Services (Function 35),0,0,127429358,673
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Extracurricular (Function 36),13950284,74,13950284,74
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,"General Administration (Function 41,92)",48572189,257,48572189,257
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),218121420,1152,219343372,1159
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Security & Monitoring Services (Function 52),30782362,163,30782362,163
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Data Processing Services (Function 53),76840416,406,77800915,411
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Community Services (Function 61),2135325,11,2135325,11
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Fund Raising CHARTER SCHOOLS ONLY (Function 81),0,0,0,0
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Function,Total Operating Expenditures by Function,1961011135,10360,2090622944,11045
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (81) (61xx-64xx),603727,3,603727,3
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),0,0,374724771,1980
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),27462662,145,28853076,152
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,28066389,148,404181574,2135
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,1989077524,10508,2494804518,13180
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),950166448,5020,950166448,5020
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),8385438,44,8385438,44
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),57764194,305,57764194,305
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33)",242972162,1284,242972162,1284
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",149626451,790,149626451,790
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",37658336,199,37658336,199
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,High School Allotment (PIC 31),0,0,0,0
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,PreKindergarten (PIC 32),0,0,0,0
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),54757493,289,54757493,289
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),5826060,31,5826060,31
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",16989636,90,16989636,90
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),10937910,58,10937910,58
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),425927007,2250,555538816,2935
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),1961011135,10360,2090622944,11045
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx),603727,3,603727,3
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),0,0,374724771,1980
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),27462662,145,28853076,152
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Total Disbursements,Operating Expenditures,1961011135,10360,2090622944,11045
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Total Disbursements,Recapture,247439733,1307,247439733,1307
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Total Disbursements,Total Other Uses,16386200,87,16386200,87
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Total Disbursements,Intergovernmental Charge,84734162,448,84734162,448
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Total Disbursements,Capital Outlay (Object 61xx-64xx),603727,3,603727,3
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Total Disbursements,Debt Service (Object 6500),0,0,374724771,1980
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Total Disbursements,Capital Projects (Object 6600),27462662,145,28853076,152
+101912,Houston ISD,2022-23,budget filed with TEA (PEIMS),189290,Total Disbursements,Total Disbursements,2337637619,12350,2843364613,15021
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Revenue,Local Property Tax from M&O (excluding recapture),28834987571,5239,28834987571,5239
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Revenue,State Operating Funds,23077605569,4193,23096470187,4197
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Revenue,Federal Funds,1707964986,310,4085317879,742
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Revenue,Other Local,1025260986,186,1611648064,293
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Revenue,Total Operating Revenue,54645819112,9929,57628423701,10471
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Other Revenue,Local Property Tax from I&S,0,0,9895025978,1798
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Other Revenue,State Assistance for Debt Service,0,0,248950494,45
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Other Revenue,Misc Rev Debt Service Fund (F599),0,0,83253079,15
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Other Revenue,Other Receipts (excluding debt service financing),391432451,71,475193726,86
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Other Revenue,Total Other Revenue,391432451,71,10702423277,1945
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Other Revenue,Subtotal: Operating and Other Revenue,55037251563,10000,68330846978,12416
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Recapture Revenue,Local Property Tax Recaptured,4065263174,739,4065263174,739
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Recapture Revenue,Total Recaptured Revenue,4065263174,0,4065263174,739
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",59102514737,10739,72396110152,13155
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,664488932,121
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,2602771383,473,2617106684,476
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Debt Service Financing and TRS Estimate Revenue,Total Debt Service Financing and TRS Estimate Revenue,2602771383,473,3281595616,596
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),46557565618,8460,47768779606,8680
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),5542731282,1007,5981092152,1087
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Object,Supplies & Materials (Object 63xx),3130785506,569,4497692173,817
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),1887586587,343,1943866377,353
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Object,Total Operating Expenditures by Object,57118668993,10379,60191430308,10937
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by Object,Capital Outlay (Object 61xx-64xx),43935573,8,44215573,8
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by Object,Debt Services (Object 65xx),508606200,92,10531707262,1914
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by Object,Capital Outlay (Object 66xx),1164642843,212,1286149820,234
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,1717184616,312,11862072655,2155
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,58835853609,10691,72053502963,13092
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,"Instruction (Function 11,95)",32854249968,5970,32854418068,5970
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),628739438,114,628739438,114
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),986548621,179,986554621,179
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Instructional Leadership (Function 21),986319552,179,986319552,179
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,School Leadership (Function 23),3664540589,666,3664540589,666
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Guidance Counseling Services (Function 31),2092752008,380,2092752008,380
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Social Work Services (Function 32),143766216,26,143766216,26
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Health Services (Function 33),661639415,120,661639415,120
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Transportation (Function 34),1994303293,362,1994303293,362
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Food Services (Function 35),425118491,77,3453677823,628
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Extracurricular (Function 36),1717792983,312,1717988483,312
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,"General Administration (Function 41,92)",2246024181,408,2246290857,408
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),6363011265,1156,6404703893,1164
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Security & Monitoring Services (Function 52),799224218,145,800111188,145
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Data Processing Services (Function 53),1308861450,238,1309845059,238
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Community Services (Function 61),220552809,40,220555309,40
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Fund Raising CHARTER SCHOOLS ONLY (Function 81),25224496,5,25224496,5
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Function,Total Operating Expenditures by Function,57118668993,10379,60191430308,10937
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (81) (61xx-64xx),43935573,8,44215573,8
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),508606200,92,10531707262,1914
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),1164642843,212,1286149820,234
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,1717184616,312,11862072655,2155
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,58835853609,10691,72053502963,13092
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),26647199924,4842,26649650789,4842
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),407979492,74,407979492,74
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),2161058999,393,2161058999,393
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33)",7242467032,1316,7242536832,1316
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",3410717329,620,3411487816,620
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",613805231,112,613809731,112
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,High School Allotment (PIC 31),0,0,0,0
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,PreKindergarten (PIC 32),0,0,0,0
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),1196821546,217,1196821546,217
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),349825976,64,349825976,64
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",350705063,64,350772186,64
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),1245174649,226,1245174649,226
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),13492913752,2452,16562312292,3009
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),57118668993,10379,60191430308,10937
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx),43935573,8,44215573,8
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),508606200,92,10531707262,1914
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),1164642843,212,1286149820,234
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Total Disbursements,Operating Expenditures,57118668993,10379,60191430308,10937
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Total Disbursements,Recapture,4065263174,739,4065263174,739
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Total Disbursements,Total Other Uses,387530782,70,388433454,71
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Total Disbursements,Intergovernmental Charge,677336425,123,677386905,123
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Total Disbursements,Capital Outlay (Object 61xx-64xx),43935573,8,44215573,8
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Total Disbursements,Debt Service (Object 6500),508606200,92,10531707262,1914
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Total Disbursements,Capital Projects (Object 6600),1164642843,212,1286149820,234
+_STATE,State total,2022-23,budget filed with TEA (PEIMS),5504215,Total Disbursements,Total Disbursements,63965983990,11623,77184586496,14025
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Revenue,Local Property Tax from M&O (excluding recapture),1567389167,8537,1567389167,8537
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Revenue,State Operating Funds,118590595,646,119128189,649
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Revenue,Federal Funds,62538142,341,188951911,1029
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Revenue,Other Local,62582553,341,70403593,383
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Revenue,Total Operating Revenue,1811100457,9864,1945872860,10598
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Other Revenue,Local Property Tax from I&S,0,0,383375475,2088
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Other Revenue,State Assistance for Debt Service,0,0,1910080,10
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Other Revenue,Misc Rev Debt Service Fund (F599),0,0,3334309,18
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Other Revenue,Other Receipts (excluding debt service financing),30000000,163,30000000,163
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Other Revenue,Total Other Revenue,30000000,163,418619864,2280
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Other Revenue,Subtotal: Operating and Other Revenue,1841100457,10028,2364492724,12878
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Recapture Revenue,Local Property Tax Recaptured,41868578,228,41868578,228
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Recapture Revenue,Total Recaptured Revenue,41868578,228,41868578,228
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",1882969035,10256,2406361302,13106
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,22074775,120
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,87000000,474,87000000,474
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Debt Service Financing and TRS Estimate Revenue,Total Debt Service Financing and TRS Estimate Revenue,87000000,474,109074775,594
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),1604431744,8739,1657005882,9025
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),257398237,1402,266134639,1450
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Object,Supplies & Materials (Object 63xx),77578986,423,151309948,824
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),54263339,296,62253632,339
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Object,Total Operating Expenditures by Object,1993672306,10859,2136704101,11638
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by Object,Capital Outlay (Object 61xx-64xx),1190113,6,1190113,6
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by Object,Debt Services (Object 65xx),5130350,28,415824989,2265
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by Object,Capital Outlay (Object 66xx),74965275,408,81718338,445
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,81285738,443,498733440,2716
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,2074958044,11301,2635437541,14354
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,"Instruction (Function 11,95)",1152988453,6280,1152988453,6280
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),17300307,94,17300307,94
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),26626728,145,26626728,145
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Instructional Leadership (Function 21),41834514,228,41834514,228
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,School Leadership (Function 23),180024874,981,180024874,981
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Guidance Counseling Services (Function 31),68043344,371,68043344,371
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Social Work Services (Function 32),8135764,44,8135764,44
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Health Services (Function 33),25809522,141,25809522,141
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Transportation (Function 34),52520494,286,52520494,286
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Food Services (Function 35),114332,1,140051950,763
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Extracurricular (Function 36),28087807,153,28087807,153
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,"General Administration (Function 41,92)",55620225,303,55625363,303
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),227447828,1239,230536609,1256
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Security & Monitoring Services (Function 52),29850634,163,29850634,163
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Data Processing Services (Function 53),67263973,366,67264231,366
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Community Services (Function 61),12003507,65,12003507,65
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Fund Raising CHARTER SCHOOLS ONLY (Function 81),0,0,0,0
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Function,Total Operating Expenditures by Function,1993672306,10859,2136704101,11638
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (81) (61xx-64xx),1190113,6,1190113,6
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),5130350,28,415824989,2265
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),74965275,408,81718338,445
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,81285738,443,498733440,2716
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,2074958044,11301,2635437541,14354
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),1030401484,5612,1030401484,5612
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),7814935,43,7814935,43
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),55195133,301,55195133,301
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33,43)",236566909,1288,236566909,1288
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",112414806,612,112414806,612
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",30887493,168,30887493,168
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),43926843,239,43926843,239
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),5497777,30,5497777,30
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",12880748,70,12880748,70
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),436624066,2378,579655861,3157
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),1993672306,10859,2136704101,11638
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx),1190113,6,1190113,6
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),5130350,28,415824989,2265
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),74965275,408,81718338,445
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Total Disbursements,Operating Expenditures,1993672306,10859,2136704101,11638
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Total Disbursements,Recapture,41868578,228,41868578,228
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Total Disbursements,Total Other Uses,16213650,88,16213650,88
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Total Disbursements,Intergovernmental Charge,93805767,511,93805767,511
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Total Disbursements,Capital Outlay (Object 61xx-64xx),1190113,6,1190113,6
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Total Disbursements,Debt Service (Object 6500),5130350,28,415824989,2265
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Total Disbursements,Capital Projects (Object 6600),74965275,408,81718338,445
+101912,Houston ISD,2023-24,budget filed with TEA (PEIMS),183603,Total Disbursements,Total Disbursements,2226846039,12129,2787325536,15181
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Revenue,Local Property Tax from M&O (excluding recapture),27919878937,5061,27919878937,5061
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Revenue,State Operating Funds,25962988928,4706,25978579310,4709
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Revenue,Federal Funds,1675563936,304,4192864086,760
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Revenue,Other Local,1711647423,310,2317798927,420
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Revenue,Total Operating Revenue,57270079224,10381,60409121260,10950
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Other Revenue,Local Property Tax from I&S,0,0,11317109969,2051
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Other Revenue,State Assistance for Debt Service,0,0,397877571,72
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Other Revenue,Misc Rev Debt Service Fund (F599),0,0,165693066,30
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Other Revenue,Other Receipts (excluding debt service financing),448113512,81,537877378,97
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Other Revenue,Total Other Revenue,448113512,81,12418557984,2251
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Other Revenue,Subtotal: Operating and Other Revenue,57718192736,10462,72827679244,13201
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Recapture Revenue,Local Property Tax Recaptured,3733011172,677,3733011172,677
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Recapture Revenue,Total Recaptured Revenue,3733011172,0,3733011172,677
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",61451203908,11139,76560690416,13878
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,1116396788,202
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,2695943308,489,2711113110,491
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Debt Service Financing and TRS Estimate Revenue,Total Debt Service Financing and TRS Estimate Revenue,2695943308,489,3827509898,694
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),48923534491,8868,50196083375,9099
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),5920023016,1073,6398055051,1160
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Object,Supplies & Materials (Object 63xx),3221295600,584,4688153103,850
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),2075144753,376,2130795006,386
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Object,Total Operating Expenditures by Object,60139997860,10901,63413086535,11495
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by Object,Capital Outlay (Object 61xx-64xx),34445558,6,34791662,6
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by Object,Debt Services (Object 65xx),601889270,109,12150647839,2202
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by Object,Capital Outlay (Object 66xx),1135214922,206,1346908239,244
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,1771549750,321,13532347740,2453
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,61911547610,11222,76945434275,13947
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,"Instruction (Function 11,95)",34283162936,6214,34283343036,6214
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),629024150,114,629024150,114
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),1018277924,185,1018280924,185
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Instructional Leadership (Function 21),1057002872,192,1057003142,192
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,School Leadership (Function 23),3852407034,698,3852407034,698
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Guidance Counseling Services (Function 31),2244841310,407,2244841310,407
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Social Work Services (Function 32),148509136,27,148509136,27
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Health Services (Function 33),686850832,125,686850832,125
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Transportation (Function 34),2127557840,386,2127559340,386
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Food Services (Function 35),461114412,84,3687476427,668
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Extracurricular (Function 36),1817740822,329,1817748472,329
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,"General Administration (Function 41,92)",2369227783,429,2369716620,430
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),6910996544,1253,6956155096,1261
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Security & Monitoring Services (Function 52),977441349,177,978293982,177
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Data Processing Services (Function 53),1342263944,243,1342296862,243
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Community Services (Function 61),193493741,35,193494941,35
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Fund Raising CHARTER SCHOOLS ONLY (Function 81),20085231,4,20085231,4
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Function,Total Operating Expenditures by Function,60139997860,10901,63413086535,11495
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (81) (61xx-64xx),34445558,6,34791662,6
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),601889270,109,12150647839,2202
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),1135214922,206,1346908239,244
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,1771549750,321,13532347740,2453
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,61911547610,11222,76945434275,13947
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),27686999158,5019,27689346160,5019
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),411064568,75,411064568,75
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),2303062188,417,2303062188,417
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33,43)",7830960773,1419,7831050573,1419
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",3459062796,627,3460064814,627
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",637338440,116,637347023,116
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),1212830072,220,1212834072,220
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),399517703,72,399517703,72
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",368925648,67,368925648,67
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),1314237778,238,1314237778,238
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),14515998736,2631,17785636008,3224
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),60139997860,10901,63413086535,11495
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx),34445558,6,34791662,6
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),601889270,109,12150647839,2202
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),1135214922,206,1346908239,244
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Total Disbursements,Operating Expenditures,60139997860,10901,63413086535,11495
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Total Disbursements,Recapture,3733011172,677,3733011172,677
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Total Disbursements,Total Other Uses,390003338,71,390968380,71
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Total Disbursements,Intergovernmental Charge,748528743,136,748543743,136
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Total Disbursements,Capital Outlay (Object 61xx-64xx),34445558,6,34791662,6
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Total Disbursements,Debt Service (Object 6500),601889270,109,12150647839,2202
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Total Disbursements,Capital Projects (Object 6600),1135214922,206,1346908239,244
+_STATE,State total,2023-24,budget filed with TEA (PEIMS),5517518,Total Disbursements,Total Disbursements,66783090863,12105,81817957570,14831
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Revenue,Local Property Tax from M&O (excluding recapture),1536186790,8726,1536186790,8726
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Revenue,State Operating Funds,121295456,689,121753695,692
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Revenue,Federal Funds,21100370,120,159603843,907
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Revenue,Other Local,106995195,608,114979290,653
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Revenue,Total Operating Revenue,1785577811,10143,1932523618,10978
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Other Revenue,Local Property Tax from I&S,0,0,363896035,2067
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Other Revenue,State Assistance for Debt Service,0,0,17168780,98
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Other Revenue,Misc Rev Debt Service Fund (F599),0,0,7500000,43
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Other Revenue,Other Receipts (excluding debt service financing),97000000,551,97000000,551
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Other Revenue,Total Other Revenue,97000000,551,485564815,2758
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Other Revenue,Subtotal: Operating and Other Revenue,1882577811,10694,2418088433,13736
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Recapture Revenue,Local Property Tax Recaptured,0,0,0,0
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Recapture Revenue,Total Recaptured Revenue,0,0,0,0
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",1882577811,10694,2418088433,13736
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,21166025,120
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,103000000,585,103000000,585
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Debt Service Financing and TRS Estimate Revenue,Total Debt Service Financing and TRS Estimate Revenue,103000000,585,124166025,705
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),1669598974,9484,1726107470,9805
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),227527572,1292,233680755,1327
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Object,Supplies & Materials (Object 63xx),72857235,414,145788882,828
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),52497070,298,62789279,357
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Object,Total Operating Expenditures by Object,2022480851,11489,2168366386,12318
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by Object,Capital Outlay (Object 61xx-64xx),28,0,28,0
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by Object,Debt Services (Object 65xx),4050350,23,378421956,2150
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by Object,Capital Outlay (Object 66xx),19942728,113,20859028,118
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,23993106,136,399281012,2268
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,2046473957,11625,2567647398,14586
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,"Instruction (Function 11,95)",1206095599,6851,1206095599,6851
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),8103305,46,8103305,46
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),19766739,112,19766739,112
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Instructional Leadership (Function 21),74254682,422,74254682,422
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,School Leadership (Function 23),215371966,1223,215371966,1223
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Guidance Counseling Services (Function 31),66163769,376,66163769,376
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Social Work Services (Function 32),6911593,39,6911593,39
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Health Services (Function 33),25762998,146,25762998,146
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Transportation (Function 34),40801151,232,40801151,232
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Food Services (Function 35),62747,0,142596481,810
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Extracurricular (Function 36),26346438,150,26346438,150
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,"General Administration (Function 41,92)",53186223,302,53529319,304
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),191508019,1088,194516724,1105
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Security & Monitoring Services (Function 52),29835166,169,29835166,169
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Data Processing Services (Function 53),50266614,286,50266614,286
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Community Services (Function 61),8043842,46,8043842,46
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Fund Raising CHARTER SCHOOLS ONLY (Function 81),0,0,0,0
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Function,Total Operating Expenditures by Function,2022480851,11489,2168366386,12318
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (81) (61xx-64xx),28,0,28,0
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),4050350,23,378421956,2150
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),19942728,113,20859028,118
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,23993106,136,399281012,2268
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,2046473957,11625,2567647398,14586
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),1042532450,5922,1042532450,5922
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),8740675,50,8740675,50
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),58087655,330,58087655,330
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33,43)",280747336,1595,280747336,1595
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",124317459,706,124317459,706
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",28478408,162,28478408,162
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),60494014,344,60494014,344
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),4000633,23,4000633,23
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",22999578,131,22999578,131
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),19097103,108,19097103,108
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),372985540,2119,518871075,2947
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),2022480851,11489,2168366386,12318
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx),28,0,28,0
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),4050350,23,378421956,2150
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),19942728,113,20859028,118
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Total Disbursements,Operating Expenditures,2022480851,11489,2168366386,12318
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Total Disbursements,Recapture,0,0,0,0
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Total Disbursements,Total Other Uses,16405274,93,16405274,93
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Total Disbursements,Intergovernmental Charge,53817047,306,53817047,306
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Total Disbursements,Capital Outlay (Object 61xx-64xx),28,0,28,0
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Total Disbursements,Debt Service (Object 6500),4050350,23,378421956,2150
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Total Disbursements,Capital Projects (Object 6600),19942728,113,20859028,118
+101912,Houston ISD,2024-25,budget filed with TEA (PEIMS),176039,Total Disbursements,Total Disbursements,2116696278,12024,2637869719,14985
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Revenue,Local Property Tax from M&O (excluding recapture),26819675688,4850,26819681188,4850
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Revenue,State Operating Funds,28249848197,5109,28268953806,5112
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Revenue,Federal Funds,1287587665,233,3960301096,716
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Revenue,Other Local,2097530167,379,2723236892,492
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Revenue,Total Operating Revenue,58454641717,10571,61772172982,11171
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Other Revenue,Local Property Tax from I&S,0,0,11559518131,2090
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Other Revenue,State Assistance for Debt Service,0,0,765661378,138
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Other Revenue,Misc Rev Debt Service Fund (F599),0,0,204437897,37
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Other Revenue,Other Receipts (excluding debt service financing),519436431,94,608042139,110
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Other Revenue,Total Other Revenue,519436431,94,13137659545,2376
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Other Revenue,Subtotal: Operating and Other Revenue,58974078148,10665,74909832527,13547
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Recapture Revenue,Local Property Tax Recaptured,2936092372,531,2936092372,531
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Recapture Revenue,Total Recaptured Revenue,2936092372,0,2936092372,531
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",61910170520,11196,77845924899,14078
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,953942623,173
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,2880524013,521,2899196273,524
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Debt Service Financing and TRS Estimate Revenue,Total Debt Service Financing and TRS Estimate Revenue,2880524013,521,3853138896,697
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),50776913731,9183,52125474258,9427
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),5970622302,1080,6466174613,1169
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Object,Supplies & Materials (Object 63xx),3192836413,577,4768511185,862
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),2215697138,401,2273666474,411
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Object,Total Operating Expenditures by Object,62156069584,11240,65633826530,11869
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by Object,Capital Outlay (Object 61xx-64xx),15450700,3,15884750,3
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by Object,Debt Services (Object 65xx),606150372,110,12838774969,2322
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by Object,Capital Outlay (Object 66xx),821720420,149,1068112969,193
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,1443321492,261,13922772688,2518
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,63599391076,11502,79556599218,14387
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,"Instruction (Function 11,95)",35435252409,6408,35435252509,6408
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),619232105,112,619232105,112
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),1069309785,193,1069317785,193
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Instructional Leadership (Function 21),1086174739,196,1086174959,196
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,School Leadership (Function 23),3995210414,723,3995213352,723
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Guidance Counseling Services (Function 31),2384134219,431,2384134219,431
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Social Work Services (Function 32),168588030,30,168588030,30
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Health Services (Function 33),719311647,130,719311647,130
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Transportation (Function 34),2178643524,394,2178650626,394
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Food Services (Function 35),482117009,87,3911160668,707
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Extracurricular (Function 36),1837084507,332,1837090007,332
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,"General Administration (Function 41,92)",2351367308,425,2353851896,426
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),7140558516,1291,7185450007,1299
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Security & Monitoring Services (Function 52),1070665913,194,1071932587,194
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Data Processing Services (Function 53),1391618027,252,1391664501,252
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Community Services (Function 61),200688522,36,200688722,36
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Fund Raising CHARTER SCHOOLS ONLY (Function 81),26112910,5,26112910,5
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Function,Total Operating Expenditures by Function,62156069584,11240,65633826530,11869
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (81) (61xx-64xx),15450700,3,15884750,3
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),606150372,110,12838774969,2322
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),821720420,149,1068112969,193
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,1443321492,261,13922772688,2518
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,63599391076,11502,79556599218,14387
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),28280408284,5114,28282450031,5115
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),380357559,69,380357559,69
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),2425210822,439,2425210822,439
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33,43)",8469268924,1532,8469342879,1532
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30,34)",3556050317,643,3556174785,643
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,"Bilingual (PICs 25,35)",678177685,123,678193739,123
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),1350606037,244,1350606837,244
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),365117926,66,365117926,66
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",401496343,73,401496343,73
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),1328281186,240,1328281186,240
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),14921094501,2698,18396594423,3327
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),62156069584,11240,65633826530,11869
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx),15450700,3,15884750,3
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),606150372,110,12838774969,2322
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),821720420,149,1068112969,193
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Total Disbursements,Operating Expenditures,62156069584,11240,65633826530,11869
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Total Disbursements,Recapture,2936092372,531,2936092372,531
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Total Disbursements,Total Other Uses,338882535,61,340555858,62
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Total Disbursements,Intergovernmental Charge,737135593,133,737140273,133
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Total Disbursements,Capital Outlay (Object 61xx-64xx),15450700,3,15884750,3
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Total Disbursements,Debt Service (Object 6500),606150372,110,12838774969,2322
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Total Disbursements,Capital Projects (Object 6600),821720420,149,1068112969,193
+_STATE,State total,2024-25,budget filed with TEA (PEIMS),5530539,Total Disbursements,Total Disbursements,67611501576,12227,83570387721,15113
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Revenue,Local Property Tax from M&O (excluding recapture),1562902866,9314,1562902866,9314
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Revenue,State Operating Funds,311500000,1856,311991957,1859
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Revenue,Federal Funds,21660000,129,158652532,946
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Revenue,Other Local,82970336,494,92936709,554
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Revenue,Total Operating Revenue,1979033202,11794,2126484064,12673
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Other Revenue,Local Property Tax from I&S,0,0,367333733,2189
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Other Revenue,State Assistance for Debt Service,0,0,15665576,93
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Other Revenue,Misc Rev Debt Service Fund (F599),0,0,6750000,40
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Other Revenue,Other Receipts (excluding debt service financing),45000000,268,45000000,268
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Other Revenue,Total Other Revenue,45000000,268,434749309,2591
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Other Revenue,Subtotal: Operating and Other Revenue,2024033202,12063,2561233373,15264
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Recapture Revenue,Local Property Tax Recaptured,0,0,0,0
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Recapture Revenue,Total Recaptured Revenue,0,0,0,0
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",2024033202,12063,2561233373,15264
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,20643677,123
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,103000000,614,103000000,614
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Debt Service Financing and TRS Estimate Revenue,Total Debt Service Financing and TRS Estimate Revenue,103000000,614,123643677,737
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),1671781266,9963,1724918145,10280
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),255026816,1520,262211567,1563
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Object,Supplies & Materials (Object 63xx),61088955,364,134491755,802
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),50916388,303,61424222,366
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Object,Total Operating Expenditures by Object,2038813425,12151,2183045689,13010
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by Object,Capital Outlay (Object 61xx-64xx),215819,1,215819,1
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by Object,Debt Services (Object 65xx),120000,1,397123334,2367
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by Object,Capital Outlay (Object 66xx),9320738,56,10507663,63
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,9656557,58,407846816,2431
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,2048469982,12208,2590892505,15441
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,"Instruction (Function 11,95)",1234359025,7356,1234359025,7356
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),6423852,38,6423852,38
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),14158079,84,14158079,84
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Instructional Leadership (Function 21),79760381,475,79760381,475
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,School Leadership (Function 23),219234891,1307,219234891,1307
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Guidance Counseling Services (Function 31),61139644,364,61139644,364
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Social Work Services (Function 32),2571463,15,2571463,15
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Health Services (Function 33),25382685,151,25382685,151
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Transportation (Function 34),38275003,228,38275003,228
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Food Services (Function 35),25441,0,133260485,794
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Extracurricular (Function 36),24524141,146,24524141,146
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,"General Administration (Function 41,92)",59456728,354,60641943,361
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),188778069,1125,198590074,1184
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Security & Monitoring Services (Function 52),32824760,196,32824760,196
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Data Processing Services (Function 53),44840073,267,44840073,267
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Community Services (Function 61),7059190,42,7059190,42
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Fund Raising CHARTER SCHOOLS ONLY (Function 81),0,0,0,0
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Function,Total Operating Expenditures by Function,2038813425,12151,2183045689,13010
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (81) (61xx-64xx),215819,1,215819,1
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),120000,1,397123334,2367
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),9320738,56,10507663,63
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,9656557,58,407846816,2431
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,2048469982,12208,2590892505,15441
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),1053639630,6279,1053639630,6279
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),8221230,49,8221230,49
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),61091191,364,61091191,364
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33,43)",315998699,1883,315998699,1883
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30)",89043794,531,89043794,531
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,Bilingual (PICs 25),25907688,154,25907688,154
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),66481107,396,66481107,396
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),4327594,26,4327594,26
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",20125601,120,20125601,120
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),17835158,106,17835158,106
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),376141733,2242,520373997,3101
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),2038813425,12151,2183045689,13010
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx),215819,1,215819,1
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),120000,1,397123334,2367
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),9320738,56,10507663,63
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Total Disbursements,Operating Expenditures,2038813425,12151,2183045689,13010
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Total Disbursements,Recapture,0,0,0,0
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Total Disbursements,Total Other Uses,19823927,118,19823927,118
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Total Disbursements,Intergovernmental Charge,73422934,438,73422934,438
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Total Disbursements,Capital Outlay (Object 61xx-64xx),215819,1,215819,1
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Total Disbursements,Debt Service (Object 6500),120000,1,397123334,2367
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Total Disbursements,Capital Projects (Object 6600),9320738,56,10507663,63
+101912,Houston ISD,2025-26,budget filed with TEA (PEIMS),167793,Total Disbursements,Total Disbursements,2141716843,12764,2684139366,15997
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Revenue,Local Property Tax from M&O (excluding recapture),26926037816,4938,26926043816,4938
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Revenue,State Operating Funds,32932486684,6039,32949187723,6042
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Revenue,Federal Funds,1102473664,202,3865377345,709
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Revenue,Other Local,2055911589,377,2711826008,497
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Revenue,Total Operating Revenue,63016909753,11556,66452434892,12186
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Other Revenue,Local Property Tax from I&S,0,0,11675966763,2141
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Other Revenue,State Assistance for Debt Service,0,0,1026800754,188
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Other Revenue,Misc Rev Debt Service Fund (F599),0,0,214857625,39
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Other Revenue,Other Receipts (excluding debt service financing),492123254,90,536097482,98
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Other Revenue,Total Other Revenue,492123254,90,13453722624,2467
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Other Revenue,Subtotal: Operating and Other Revenue,63509033007,11646,79906157516,14653
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Recapture Revenue,Local Property Tax Recaptured,2540502699,466,2540502699,466
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Recapture Revenue,Total Recaptured Revenue,2540502699,0,2540502699,466
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Recapture Revenue,"Subtotal: Operating, Other and Recaptured Revenue",66049535706,12112,82446660215,15119
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Debt Service Financing and TRS Estimate Revenue,Debt Service Financing Related Revenue,0,0,1244675055,228
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Debt Service Financing and TRS Estimate Revenue,Estimated State TRS Contributions,3087049913,566,3102275617,569
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Debt Service Financing and TRS Estimate Revenue,Total Debt Service Financing and TRS Estimate Revenue,3087049913,566,4346950672,797
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Object,Payroll Expenditures (Object 61xx),53880474959,9880,55248789864,10131
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Object,Professional & Contracted Services (Object 62xx),6386185504,1171,6913985213,1268
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Object,Supplies & Materials (Object 63xx),3215603407,590,4808201616,882
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Object,Other Operating Expenditures (Object 64xx),2267584401,416,2322866877,426
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Object,Total Operating Expenditures by Object,65749848271,12057,69293843570,12707
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by Object,Capital Outlay (Object 61xx-64xx),17314367,3,17314367,3
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by Object,Debt Services (Object 65xx),650070691,119,13829637762,2536
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by Object,Capital Outlay (Object 66xx),770561579,141,906721201,166
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by Object,Total Non-Operating Expenditures by Object,1437946637,264,14753673330,2705
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by Object,Grand Total: Operating and Non-Operating Expenditures by Object,67187794908,12321,84047516900,15412
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,"Instruction (Function 11,95)",38018762966,6972,38018763003,6972
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Instructional Resources & Media Services (Function 12),611225020,112,611225020,112
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Curriculum & Staff Development (Function 13),1079570353,198,1079578353,198
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Instructional Leadership (Function 21),1116633120,205,1116633120,205
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,School Leadership (Function 23),4121061246,756,4121061246,756
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Guidance Counseling Services (Function 31),2557260337,469,2557260337,469
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Social Work Services (Function 32),160962142,30,160962142,30
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Health Services (Function 33),750095703,138,750095703,138
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Transportation (Function 34),2259240601,414,2259256235,414
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Food Services (Function 35),509151453,93,4001181241,734
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Extracurricular (Function 36),1917935837,352,1917935837,352
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,"General Administration (Function 41,92)",2448741471,449,2450018436,449
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Facilities Maintenance & Operations (Function 51),7385474692,1354,7435026367,1363
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Security & Monitoring Services (Function 52),1183758521,217,1184739035,217
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Data Processing Services (Function 53),1414300881,259,1414433567,259
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Community Services (Function 61),196322575,36,196322575,36
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Fund Raising CHARTER SCHOOLS ONLY (Function 81),19351353,4,19351353,4
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Function,Total Operating Expenditures by Function,65749848271,12057,69293843570,12707
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (81) (61xx-64xx),17314367,3,17314367,3
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (65xx),650070691,119,13829637762,2536
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by Function,Non-Operating Expenditures by Function (1x-9x) (66xx),770561579,141,906721201,166
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by Function,Total Non-Operating Expenditures by Function,1437946637,264,14753673330,2705
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by Function,Grand Total: Operating and Non-Operating Expenditures by Function,67187794908,12321,84047516900,15412
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,Basic Educational Services (PIC 11),29632736396,5434,29635208404,5434
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,Gifted and Talented (PIC 21),387960574,71,387960574,71
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,Career and Technical (PIC 22),2610765770,479,2610765770,479
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,"Students with Disabilities (PICs 23,33,43)",9394279902,1723,9394358205,1723
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,"State Compensatory Education (PICs 24,26,28,29,30)",3511956874,644,3512059173,644
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,Bilingual (PICs 25),1049384089,192,1049398536,192
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,Early Education Allotment (PIC 36),1509245406,277,1509246206,277
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,Dyslexia or Related Disorder Services (PIC 37),344346508,63,344346508,63
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,"College, Career, and Military Readiness (CCMR) (PIC 38)",419747002,77,419747002,77
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,Athletics/Related Activities (PIC 91),1390095002,255,1390095002,255
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,Un-Allocated (PIC 99),15499330748,2842,19040658190,3492
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Operating Expenditures by Program Intent Code,Total Operating Expenditures by Program Intent Code (PIC),65749848271,12057,69293843570,12707
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx),17314367,3,17314367,3
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (65xx),650070691,119,13829637762,2536
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Non-Operating Expenditures by PIC,Non-Operating Expenditures by PIC (1x-9x) (66xx),770561579,141,906721201,166
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Total Disbursements,Operating Expenditures,65749848271,12057,69293843570,12707
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Total Disbursements,Recapture,2540502699,466,2540502699,466
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Total Disbursements,Total Other Uses,326136019,60,327676274,60
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Total Disbursements,Intergovernmental Charge,797791280,146,797796080,146
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Total Disbursements,Capital Outlay (Object 61xx-64xx),17314367,3,17314367,3
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Total Disbursements,Debt Service (Object 6500),650070691,119,13829637762,2536
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Total Disbursements,Capital Projects (Object 6600),770561579,141,906721201,166
+_STATE,State total,2025-26,budget filed with TEA (PEIMS),5454100,Total Disbursements,Total Disbursements,70852224906,12993,87713491953,16085

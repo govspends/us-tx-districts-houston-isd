@@ -125,8 +125,12 @@ From [`data/peer_comparison.csv`](https://github.com/govspends/us-tx-districts-h
 | Fort Bend ISD | 79,513 | 5,078 | 4,780 | 1,223 | 487 | 11,568 | 0 |
 | State (all LEAs) | 5,528,915 | 4,776 | 5,637 | 1,471 | 783 | 12,666 | 533 |
 
-HISD's gross operating revenue per student equals the state average exactly ($12,666) and is below Dallas
-and Austin; net of recapture it is $12,343. Austin's local revenue is mostly recaptured ($10,691/student).
+HISD's operating revenue per student equals the state average exactly ($12,666) and is below Dallas
+and Austin. That figure is already net of recapture: TEA's line is "Local Property Tax from M&O (excluding
+recapture)" (FY2025 PWR p.1). *(Corrected 2026-10-08: an earlier version subtracted recapture again to get
+$12,343.)* Austin's recapture ($10,691/student) is on top of the $10,242 of M&O tax it keeps, so it sends a
+little over half its M&O tax to the state. From unrounded dollars, HISD's M&O tax + state operating funds =
+$9,550 per student, and adding other local revenue gives $10,391 of nonfederal operating revenue.
 
 ## 4. Spending per student — peers, 2024-25 (all funds, operating, per enrolled student)
 
@@ -508,3 +512,71 @@ Each year states "...FOUND YOUR LOCAL VALUE TO BE VALID, AND LOCAL VALUE WAS CER
 - No account-level PEIMS (actget) files were downloaded for the older years either.
 - FIRST underlying ratios (days cash, admin-cost ratio) remain unavailable for all years.
 - The 2018-19 recapture and 2021-22 zero fund-balance reconciliation flags above are unresolved.
+
+---
+
+## Budgeted data as filed with TEA, 2019-20 to 2025-26 (update, 2026-10-08)
+
+Source: TEA "Budgeted Financial Data" reports, Houston ISD and State Total, [`sources/tea_peims/pwr/pwr_budget_{2020..2026}_{101912,_STATE}.pdf`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_{2020..2026}_{101912,_STATE}.pdf), parsed by [`scripts/parse_tea_budget_reports.py`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/parse_tea_budget_reports.py) into [`data/tea_peims_budget_long.csv`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/tea_peims_budget_long.csv). Fifty-eight checks pass. Revenue sources sum to total operating revenue, and spending by function sums to spending by object, for HISD and the state, General Fund and adopted-funds totals, every year. HISD's 2025-26 filing also ties to its own adopted budget (see [`notes/budget.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/budget.md) U3).
+
+**What these are.** The adopted budget of the General Fund, Food Service and Debt Service funds, as the district filed it with TEA. They are not actuals. Their "All Funds" columns cover only those three funds: they exclude the special-revenue grant funds but still include federal revenue in those funds ($158.7M for HISD in 2025-26, mostly child nutrition). Compare them only with General Fund actuals. Per-student figures use TEA's fall enrolled membership for the year, the same count as in the actual reports. TEA's report server does not serve 2018-19 (it returns an HTML error page).
+
+### B1. General Fund operating spending per student: budgeted vs actual
+
+| School year | HISD budgeted | HISD actual | HISD actual vs budget [calc] | State budgeted | State actual | State actual vs budget [calc] |
+|---|---:|---:|---:|---:|---:|---:|
+| 2019-20 | 8,618 | 7,753 | −10.0% | 9,368 | 8,993 | −4.0% |
+| 2020-21 | 10,008 | 9,037 | −9.7% | 10,102 | 9,539 | −5.6% |
+| 2021-22 | 10,186 | 8,511 | −16.4% | 10,235 | 9,655 | −5.7% |
+| 2022-23 | 10,360 | 9,254 | −10.7% | 10,379 | 10,032 | −3.3% |
+| 2023-24 | 10,859 | 10,629 | −2.1% | 10,901 | 10,755 | −1.3% |
+| 2024-25 | 11,489 | 11,825 | **+2.9%** | 11,240 | 11,227 | −0.1% |
+| 2025-26 | **12,151** | – | – | **12,057** | – | – |
+
+Actuals are TEA PEIMS General Fund "Total Operating Expenditures" per enrolled student ([`data/tea_peims_actuals_long.csv`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/tea_peims_actuals_long.csv), `STATE` = all districts and charters). The state budget total's 2025-26 membership is 5,454,100.
+
+### B2. 2025-26 General Fund, per student (budgeted)
+
+| | HISD | State total | HISD 2024-25 actual |
+|---|---:|---:|---:|
+| Local property tax (M&O) | 9,314 | 4,938 | |
+| State operating funds | 1,856 | 6,039 | |
+| Federal | 129 | 202 | |
+| Other local | 494 | 377 | |
+| **Total operating revenue** | **11,794** | **11,556** | |
+| Instruction (11,95) | 7,356 | 6,972 | 7,092 |
+| Instructional leadership (21) | 475 | 205 | 387 |
+| School leadership (23) | 1,307 | 756 | 1,324 |
+| General administration (41,92) | 354 | 449 | 292 |
+| **Total operating expenditures** | **12,151** | **12,057** | **11,825** |
+
+HISD's budgeted state share of General Fund operating revenue is 6.8% in 2024-25 (689 of 10,143) and 15.7% in 2025-26 (1,856 of 11,794) [calc]. The shift mostly reflects tax-relief aid, plus new allotments such as the Teacher Retention Allotment (see [`data/hisd_sof_trend.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_sof_trend.md)); this table alone does not isolate the causes. HISD's 2025-26 filing budgets $0 of recapture, and so did its 2019-20 filing (the FY2020 adopted budget had $0).
+
+### B3. Campus budgets 2025-26 and NES
+
+Source: TEA "2025-2026 PEIMS Budget Financial Data, Organized by Campus," HISD ([`sources/tea_peims/campus/allcamp_budget_2026_101912.pdf`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/campus/allcamp_budget_2026_101912.pdf)), parsed by [`scripts/parse_campus_budget.py`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/parse_campus_budget.py) with the same line pattern and exclusions as the actuals (membership < 100 and alternative or program sites excluded). NES status for 2025-26 is from [`data/hisd_nes_campuses.csv`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_nes_campuses.csv) (130 NES campuses; 128 pass the exclusions). Campus budgets cover the General Fund only.
+
+- 271 campuses, membership 167,786; campus-coded General Fund operating budget $1,715,040,903, which is 84.1% of the district's $2,038,813,425 General Fund operating budget.
+
+| 2025-26, General Fund operating budget per student | Campuses | Membership | Per student |
+|---|---:|---:|---:|
+| NES, all | 128 | 62,616 | **12,944** |
+| NES elementary / middle / high | 86 / 21 / 15 | 33,942 / 9,680 / 14,299 | 11,968 / 14,172 / 14,567 |
+| Non-NES, all | 133 | 104,313 | **8,409** |
+| Non-NES elementary / middle / high | 70 / 14 / 17 | 40,476 / 13,026 / 20,964 | 8,909 / 8,618 / 8,521 |
+
+The budgeted gap is **$4,535** per student (+53.9%), against $4,023 (+47.7%) in 2024-25 General Fund actuals ($12,460 vs $8,437) [calc].
+
+**Enrollment, same eligible campuses, TEA fall counts 2024-25 → 2025-26** (campus membership in the 2024-25 actual report vs the 2025-26 budget report; 2025-26 NES status). Eligible = at least 100 members in *both* years and not an alternative/program site, so the two campuses that closed after 2024-25 are listed separately. Texas Connections Academy, the online school, is shown on its own. *(Corrected 2026-10-08 after independent review: the earlier table kept Las Americas, which had 0 members in 2025-26, and counted the online school with the non-NES campuses, giving −10.9% for NES-A and −1.1% for non-NES.)*
+
+| Group | Campuses | 2024-25 | 2025-26 | Change |
+|---|---:|---:|---:|---:|
+| NES 2023 (original 28) | 28 | 12,871 | 11,982 | −6.9% |
+| NES-A 2023 (aligned) | 55 | 31,617 | 28,270 | −10.6% |
+| NES 2024 (joined 2024-25) | 45 | 24,860 | 22,364 | −10.0% |
+| **NES, all** | 128 | 69,348 | 62,616 | **−9.7%** |
+| **Non-NES brick-and-mortar** | 132 | 96,879 | 92,997 | **−4.0%** |
+| Texas Connections Academy (online) | 1 | 8,641 | 11,316 | +31.0% |
+| Closed: Las Americas (NES-A), Mount Carmel Academy (non-NES) | 2 | 305 | 0 | |
+
+Including the online school with the non-NES group gives −1.1%. Budgeted 2025-26 General Fund per student excluding the online school: NES $12,944, non-NES $8,799 (gap $4,145); 2024-25 actual on the same 260 campuses: $12,443 vs $8,613. These match the independent review's working papers (`review/data/new_budget_nes_sensitivity.csv`).

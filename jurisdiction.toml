@@ -17,10 +17,10 @@ websites = ["https://www.houstonisd.org/", "https://www.houstonisd.org/our-distr
 path = "hisd-funding"                               # docs/hisd-funding (pages) and investigations/hisd-funding (evidence)
 title = "Houston ISD: funding and spending, FY2019-FY2027"
 short_title = "Funding and spending"
-status = "Second edition, 2026-10-08 (history back to FY2019); not independently reviewed"
+status = "Second edition, 2026-10-08 (history back to FY2019; labeled budget and forecast figures through FY2027); independently reviewed 2026-10-08, corrections applied"
 headline = "After four General Fund surpluses (FY2019-FY2022), HISD ran $497 million of deficits in FY2023-FY2025 and its reserves fell below the FY2019 level; per-student state formula funding did not fall, and the state's larger share since 2023 is mostly tax-compression backfill that also ended HISD's recapture payments ($969 million over 2018-19 to 2024-25)."
 tables_from = "scripts/sof_extract.py"
-checks = ["scripts/sof_extract.py", "scripts/parse_campus_actuals.py", "scripts/analyze_campus_nes.py"]
+checks = ["scripts/sof_extract.py", "scripts/parse_campus_actuals.py", "scripts/analyze_campus_nes.py", "scripts/parse_tea_budget_reports.py", "scripts/parse_campus_budget.py", "scripts/build_gf_fy2019_2027.py"]
 [investigation.nav_titles]
 "references.md" = "References"
 "sources.md" = "Sources and files"

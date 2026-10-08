@@ -1,0 +1,27 @@
+fy,basis,label,revenue,expenditures,rev_minus_exp,other_sources_net,net_change_fb,fb_begin,fb_end,recapture,enrollment,enrollment_basis,exp_per_student_excl_recapture,source
+FY2019,audited,Audited (ACFR),2200600360,1991206129,209394231,-3079097,206315134,612678670,818993804,265231840,209772,HISD enrollment (ACFR statistical section),8228,ACFR FY2019 (HISD_ACFR_FY2019.pdf): GF p.48; FB p.46; all-funds rev p.48 (=FY25 p.129); recapture = fn 91 'Chapter 41/Purchase of WADA' p.48; debt = total debt principal 6/30/2019 incl. $1.4M contractual obligations (FY2020 ACFR p.75 opening balance); enrollment FY25 p.156 (=FY19 p.157)
+FY2019,final amended budget,Final amended budget,,2167653402,,,-86736798,,,274800000.0,,,,FY19 ACFR RSI p.106
+FY2019,adopted budget,Adopted budget,1977345003,1996983851,-19638848,-15961773,-35600621,612678670,577078049,272407268,,,,B19 p24 (adopted Jun 28 2018)
+FY2020,audited,Audited (ACFR),1981814081,1863604372,118209709,30696635,148906344,818993804,967900148,80843995,210061,HISD enrollment (ACFR statistical section),8487,ACFR FY2020: GF p.44; FB p.42; all-funds rev p.44 (=FY25 p.129); recapture fn 91 p.44; debt principal 6/30/2020 p.75; enrollment FY25 p.156
+FY2020,final amended budget,Final amended budget,,2051838084,,,-89739826,,,75400000.0,,,,FY20 ACFR RSI p.101
+FY2020,adopted budget,Adopted budget,1903085694,1923742406,-20656712,-2544977,-23201689,582138621,558936932,0,,,,S20 (adopted Jun 27 2019)
+FY2021,audited,Audited (ACFR),2139390332,2118499494,20890838,7834726,28725564,967900148,996625712,197810414,196943,HISD enrollment (ACFR statistical section),9753,ACFR FY2021: GF p.36; FB p.34; all-funds rev p.36 (=FY25 p.129); recapture fn 91 p.36; debt principal 6/30/2021 p.68; enrollment FY25 p.156 (=FY21 p.138)
+FY2021,final amended budget,Final amended budget,,2330879400,,,-206965474,,,136600000.0,,,,FY21 ACFR RSI p.92
+FY2021,adopted budget,Adopted budget,1972054361,1991093833,-19039472,-14949140,-33988612,878463630,844475018,12083891,,,,S21 (adopted Jun 11 2020)
+FY2022,audited,Audited (ACFR),2107492062,1992857365,114634697,15648159,130282856,996625712,1126908568,184470759,194607,HISD enrollment (ACFR statistical section),9293,"ACFR FY2022: GF p.36; FB p.34; all-funds rev p.36 (FY25 p.129 shows local 2210531110 / federal 699119666 / total 3155728595, $1-2 rounding); recapture fn 91 p.36; debt principal 6/30/2022 p.69; enrollment FY25 p.156"
+FY2022,final amended budget,Final amended budget,,2209721030,,,-144400998,,,178800000.0,,,,FY22 ACFR RSI p.91
+FY2022,adopted budget,Adopted budget,2081127566,2186550176,-105422610,23346295,-82076315,769293013,687216698,213265281,,,,S22 (adopted Jun 2021)
+FY2023,audited,Audited (ACFR),2154751784,2175000800,-20249016,20409368,160352,1126908568,1127068920,276396220,189934,HISD enrollment (ACFR statistical section),9996,"notes/acfr.md s2a/s2b/s3/s1a/s4/s5c (FY23 p.40, p.38; FY25 p.129; FY24 p.70 opening 7/1/2023); enrollment FY25 p.156 (FY23 ACFR p.154 shows 189290)"
+FY2023,final amended budget,Final amended budget,,2359123684,,,-164930325,,,283800000.0,,,,FY23 ACFR RSI p.95
+FY2023,adopted budget,Adopted budget,2163294662,2267677919,-104383257,3613800,-100769457,922224713,821455256,247439733,,,,S23 (adopted Jun 9 2022)
+FY2024,audited,Audited (ACFR),1982608752,2149214679,-166605927,86733707,-79872220,1127068920,1047196700,0,184109,HISD enrollment (ACFR statistical section),11674,"notes/acfr.md s2a/s2b/s3/s1a/s4/s5c (FY24 p.39, p.37; FY25 p.129; FY24 p.70); recapture $0 (FY24 original budget carried $326.5M)"
+FY2024,final amended budget,Final amended budget,,2227255442,,,-194381109,,,0,,,,FY24 ACFR RSI p.91
+FY2024,adopted budget,Adopted budget,2194824843,2377150619,-182325776,13786350,-168539426,1190551047,1022011621,326539245,,,,S24 (adopted Jun 22 2023)
+FY2025,audited,Audited (ACFR),1940386056,2250964487,-310578431,11470045,-299108386,1047196700,748088314,56900029,176727,HISD enrollment (ACFR statistical section),12415,"notes/acfr.md s2a/s2b/s3/s1a/s4/s5c (FY25 p.41, p.39; FY25 p.129; FY25 p.72 OCR); recapture $56.9M vs TEA SOF $49.1M"
+FY2025,final amended budget,Final amended budget,1906604750,2176231690,-269626940,22294726,-247332214,1047196700,799864486,44468370,,,,A25-Jun (Jun 12 2025)
+FY2025,adopted budget,Adopted budget,1888577811,2100290919,-211713108,80594726,-131118382,932687809,801569427,0,,,,S25 (adopted Jun 13 2024)
+FY2026,final amended budget,Final amended budget,2053847057,2109408270,-55561213,37515277,-18045936,748088314,730042378,0,167793,"TEA enrolled membership, fall 2025 (TEA budget report 2025-26)",12571,A26-2 (Jun 11 2026)
+FY2026,adopted budget,Adopted budget,2082033202,2121893114,-39859912,25176073,-14683839,799864486,785180647,0,167793,"TEA enrolled membership, fall 2025 (TEA budget report 2025-26)",12646,S26 (adopted Jun 12 2025)
+FY2026,HISD forecast,HISD forecast (Apr 2026),,,,,,,751966507,,,,,WS-Apr26 slide 36 (actuals to Mar 31 2026; equals the Feb 2026 amended budget)
+FY2026,HISD forecast,HISD forecast (May 2026),,,,,,,730042378,,,,,WS-May26 slide 14 'Forecasted FY 2026 Fund Balance' (= A26-2)
+FY2027,adopted budget,Adopted budget,1990447057,2015007011,-24559954,23769073,-790881,730042378,729251497,0,164812,HISD projection (WS-May26 slide 8),12226,S27 (adopted Jun 25 2026)

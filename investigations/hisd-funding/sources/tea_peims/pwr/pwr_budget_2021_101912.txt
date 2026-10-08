@@ -1,0 +1,152 @@
+                                                          2020 - 2021 Budgeted Financial Data
+                                                           Totals for HOUSTON ISD (101912)
+                                                          Total Enrolled Membership: 196,550
+
+                                                                                                                               District
+
+                                                                                                                         Per                                         Per
+                                                                                    General Fund            %          Student            All Funds       %        Student
+
+Revenues
+Operating Revenue
+Local Property Tax from M&O (excluding recapture)                                   $1,759,491,803          93.59%          $8,952   $1,759,491,803       88.61%     $8,952
+State Operating Funds                                                                  $86,787,686           4.62%           $442          $87,372,686     4.40%       $445
+Federal Funds                                                                          $19,724,182           1.05%           $100         $124,648,667     6.28%       $634
+Other Local                                                                            $13,966,799           0.74%             $71         $14,079,299     0.71%        $72
+                                                     Total Operating Revenue        $1,879,970,470        100.00%           $9,565   $1,985,592,455      100.00%    $10,102
+Other Revenue
+Local Property Tax from I&S                                                                        $0        0.00%              $0        $309,958,116    91.87%     $1,577
+State Assistance for Debt Service                                                                  $0        0.00%              $0          $2,300,000     0.68%        $12
+Other Receipts (excluding debt service financing)                                      $22,500,000        100.00%            $114          $25,147,890     7.45%       $128
+                                                         Total Other Revenue           $22,500,000        100.00%            $114         $337,406,006   100.00%     $1,717
+                                     Subtotal: Operating and Other Revenue          $1,902,470,470        100.00%           $9,679   $2,322,998,461      100.00%    $11,819
+Recapture Revenue
+Local Property Tax Recaptured                                                          $12,083,891        100.00%              $61         $12,083,891   100.00%        $61
+                                                    Total Recaptured Revenue           $12,083,891        100.00%              $61         $12,083,891   100.00%        $61
+                    Subtotal: Operating, Other and Recaptured Revenue               $1,914,554,361        100.00%           $9,741   $2,335,082,352      100.00%    $11,880
+Debt Service Financing and TRS Estimate Revenue
+Debt Service Financing Related Revenue                                                             $0        0.00%              $0         $42,788,700    34.85%       $218
+Estimated State TRS Contributions                                                      $80,000,000        100.00%            $407          $80,000,000    65.15%       $407
+          Subtotal: Debt Service Financing and TRS Estimate Revenue                    $80,000,000        100.00%            $407         $122,788,700   100.00%       $625
+              Grand Total: Operating, Other, Debt Service Financing, and
+                                                                                    $1,982,470,470        100.00%          $10,086   $2,445,787,161      100.00%    $12,444
+                              TRS Estimate Revenue excluding recapture
+
+
+
+Expenditures
+Operating Expenditures by Object (61xx-64xx only)
+Payroll Expenditures (Object 61xx)                                                  $1,471,604,216          74.81%          $7,487   $1,528,090,962       73.18%     $7,775
+Professional & Contracted Services (Object 62xx)                                      $272,977,022          13.88%          $1,389        $282,635,705    13.54%     $1,438
+Supplies & Materials (Object 63xx)                                                     $67,864,540           3.45%           $345         $114,789,126     5.50%       $584
+
+
+                                                          TEA | Office of School Finance | Forecasting & Fiscal Analysis                                                 Page 1 of 4
+                                                         2020 - 2021 Budgeted Financial Data
+                                                          Totals for HOUSTON ISD (101912)
+                                                         Total Enrolled Membership: 196,550
+
+                                                                                                                              District
+
+                                                                                                                        Per                                         Per
+                                                                                   General Fund            %          Student            All Funds       %        Student
+Other Operating Expenditures (Object 64xx)                                           $154,633,092           7.86%           $787         $162,571,557     7.79%       $827
+                                    Total Operating Expenditures by Object         $1,967,078,870        100.00%          $10,008   $2,088,087,350      100.00%    $10,624
+Non-Operating Expenditures by Object
+Debt Services(Object 65xx)                                                            $15,250,000          15.45%             $78        $375,708,046    81.76%     $1,912
+Capital Outlay(Object 66xx)                                                           $83,433,229          84.55%           $424          $83,844,590    18.24%       $427
+                                Total Non-Operating Expenditures by Object            $98,683,229        100.00%            $502         $459,552,636   100.00%     $2,338
+    Grand Total: Operating and Non-Operating Expenditures by Object                $2,065,762,099        100.00%          $10,510   $2,547,639,986      100.00%    $12,962
+
+
+
+Operating Expenditures by Function (61xx-64xx only)
+Instruction(Function 11,95)                                                        $1,167,201,800          59.34%          $5,938   $1,167,201,800       55.90%     $5,938
+Instructional Resources & Media Services (Function 12)                                $10,548,002           0.54%             $54         $10,548,002     0.51%        $54
+Curriculum & Staff Development (Function 13)                                          $36,836,834           1.87%           $187          $36,836,834     1.76%       $187
+Instructional Leadership (Function 21)                                                $27,071,907           1.38%           $138          $27,071,907     1.30%       $138
+School Leadership (Function 23)                                                      $142,454,057           7.24%           $725         $142,454,057     6.82%       $725
+Guidance Counseling Services (Function 31)                                            $67,863,334           3.45%           $345          $67,863,334     3.25%       $345
+Social Work Services (Function 32)                                                    $17,043,207           0.87%             $87         $17,043,207     0.82%        $87
+Health Services (Function 33)                                                         $45,342,043           2.31%           $231          $45,342,043     2.17%       $231
+Transportation (Function 34)                                                          $58,772,698           2.99%           $299          $58,772,698     2.81%       $299
+Food Services (Function 35)                                                                  $2,000         0.00%              $0        $119,388,385     5.72%       $607
+Extracurricular (Function 36)                                                         $13,435,027           0.68%             $68         $13,435,027     0.64%        $68
+General Administration (Function 41,92)                                               $40,370,748           2.05%           $205          $40,371,948     1.93%       $205
+Facilities Maintenance & Operations (Function 51)                                    $222,029,585          11.29%          $1,130        $222,910,482    10.68%     $1,134
+Security & Monitoring Services (Function 52)                                          $28,648,081           1.46%           $146          $28,648,081     1.37%       $146
+Data Processing Services (Function 53)                                                $86,713,982           4.41%           $441          $87,453,980     4.19%       $445
+Community Services (Function 61)                                                        $2,745,565          0.14%             $14          $2,745,565     0.13%        $14
+                                  Total Operating Expenditures by Function         $1,967,078,870        100.00%          $10,008   $2,088,087,350      100.00%    $10,624
+Non-Operating Expenditures by Function
+Non-Operating Expenditures by Function (1x-9x) (65xx)                                 $15,250,000          15.45%             $78        $375,708,046    81.76%     $1,912
+Non-Operating Expenditures by Function (1x-9x) (66xx)                                 $83,433,229          84.55%           $424          $83,844,590    18.24%       $427
+
+
+
+                                                         TEA | Office of School Finance | Forecasting & Fiscal Analysis                                                 Page 2 of 4
+                                                          2020 - 2021 Budgeted Financial Data
+                                                           Totals for HOUSTON ISD (101912)
+                                                          Total Enrolled Membership: 196,550
+
+                                                                                                                              District
+
+                                                                                                                        Per                                         Per
+                                                                                   General Fund            %          Student            All Funds       %        Student
+                            Total Non-Operating Expenditures by Function              $98,683,229        100.00%            $502         $459,552,636   100.00%     $2,338
+ Grand Total: Operating and Non-Operating Expenditures by Function                 $2,065,762,099        100.00%          $10,510   $2,547,639,986      100.00%    $12,962
+
+
+
+Operating Expenditures by Program Intent Code (PIC) (61xx-64xx only)
+Basic Educational Services (PIC 11)                                                  $891,495,254          45.32%          $4,536        $891,495,254    42.69%     $4,536
+Gifted and Talented (PIC 21)                                                          $10,474,686           0.53%             $53         $10,474,686     0.50%        $53
+Career and Technical (PIC 22)                                                         $51,854,960           2.64%           $264          $51,854,960     2.48%       $264
+Students with Disabilities (PICs 23,33)                                              $227,667,630          11.57%          $1,158        $227,667,630    10.90%     $1,158
+State Compensatory Education (PICs 24,26,28,29,30,34)                                $185,138,875           9.41%           $942         $185,138,875     8.87%       $942
+Bilingual (PICs 25,35)                                                                $42,442,113           2.16%           $216          $42,442,113     2.03%       $216
+High School Allotment (PIC 31)                                                          $2,361,359          0.12%             $12          $2,361,359     0.11%        $12
+PreKindergarten (PIC 32)                                                              $40,272,355           2.05%           $205          $40,272,355     1.93%       $205
+Early Education Allotment (PIC 36)                                                    $55,659,337           2.83%           $283          $55,659,337     2.67%       $283
+Dyslexia or Related Disorder Services (PIC 37)                                          $5,957,215          0.30%             $30          $5,957,215     0.29%        $30
+College, Career, and Military Readiness (CCMR) (PIC 38)                                 $8,941,589          0.45%             $45          $8,941,589     0.43%        $45
+Athletics/Related Activities (PIC 91)                                                 $10,382,764           0.53%             $53         $10,382,764     0.50%        $53
+Un-Allocated (PIC 99)                                                                $434,430,733          22.09%          $2,210        $555,439,213    26.60%     $2,826
+             Total Operating Expenditures by Program Intent Code (PIC)             $1,967,078,870        100.00%          $10,008   $2,088,087,350      100.00%    $10,624
+Non-Operating Expenditures by PIC
+Non-Operating Expenditures by PIC (1x-9x) (65xx)                                      $15,250,000          15.45%             $78        $375,708,046    81.76%     $1,912
+Non-Operating Expenditures by PIC (1x-9x) (66xx)                                      $83,433,229          84.55%           $424          $83,844,590    18.24%       $427
+                                        Total Non-Operating Expenditures by
+                                                                                      $98,683,229        100.00%            $502         $459,552,636   100.00%     $2,338
+                                                   Program Intent Code (PIC)
+            Grand Total: Operating and Non-Operating Expenditures by
+                                                                                   $2,065,762,099        100.00%          $10,510   $2,547,639,986      100.00%    $12,962
+                                             Program Intent Code (PIC)
+
+
+Disbursements
+Total Disbursements
+Operating Expenditures                                                             $1,967,078,870          89.65%         $10,008   $2,088,087,350       78.03%    $10,624
+Recapture                                                                             $12,083,891           0.60%             $61         $12,083,891     0.50%        $61
+
+
+                                                         TEA | Office of School Finance | Forecasting & Fiscal Analysis                                                 Page 3 of 4
+                                  2020 - 2021 Budgeted Financial Data
+                                   Totals for HOUSTON ISD (101912)
+                                  Total Enrolled Membership: 196,550
+
+                                                                                                      District
+
+                                                                                                Per                                         Per
+                                                           General Fund            %          Student            All Funds       %        Student
+Total Other Uses                                              $37,449,140           1.71%           $191          $37,449,140     1.40%       $191
+Intergovernmental Charge                                      $78,985,535           3.60%           $402          $78,985,535     2.95%       $402
+Debt Service (Object 6500)                                    $15,250,000           0.69%             $78        $375,708,046    14.04%     $1,912
+Capital Projects (Object 6600)                                $83,433,229           3.80%           $424          $83,844,590     3.13%       $427
+                                 Total Disbursements       $2,194,280,665        100.00%          $11,164   $2,676,158,552      100.00%    $13,616
+
+
+
+
+                                 TEA | Office of School Finance | Forecasting & Fiscal Analysis                                                 Page 4 of 4
+

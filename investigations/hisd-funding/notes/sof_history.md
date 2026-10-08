@@ -4,24 +4,26 @@ Houston ISD (101912). Retrieved 2026-10-07 from TEA's "School District State Aid
 
 Files:
 - `sources/sof_history/sof_<year>_<cycle>_run<id>.pdf` (+ `.txt`) — the latest run of each year's Summary of Finances as of 2026-10-07. SY2024-25 and SY2025-26 are the reports already in `sources/` (runs 46849 and 47299 are still the latest runs). SY2026-27 now uses run 47318 (updated Oct. 5, 2026), superseding run 47240 (Sept. 14) that the earlier pages used.
-- `data/sof_key_figures.csv` — line items for all nine years, built by `scripts/sof_extract.py`, which also checks that each report's totals reconcile (26 checks, all pass) and that the recapture printed in the report equals the dashboard's figure for the same run.
+- `data/sof_key_figures.csv` — line items for all nine years, built by `scripts/sof_extract.py`, which also checks that each report's totals reconcile, that Tier Two state aid equals the Tier Two entitlement less its local share, and that the recapture printed in the report equals the dashboard's figure for the same run (35 checks, all pass). It also writes the full formula entitlement per refined ADA (Tier One + full Tier Two).
 - `data/sof_run_history.csv` — every report run TEA lists for HISD for each year (390 runs): date, payment cycle, Foundation School Fund allotment, recapture. Parsed from the dashboard by `scripts/sof_runs_from_snapshot.py`.
 
 How the files were obtained: the dashboard's report links are JavaScript. The underlying report URL is `/fsp/Reports/CrystalReportViewer.aspx?rpt=40&year=<ending year>&run=<run id>&cdn=101912&charters=N&format=pdf`. It returns an empty viewer page outside a dashboard session, and inside a session it returns the PDF once the server has generated it (about 10 seconds after the first request). `scripts/sof_b64_to_pdf.sh` decodes the in-browser download.
 
 ## Nine-year series (latest run of each year)
 
-| School year (cycle) | Refined ADA | Basic Allotment | Tier One + Two entitlement per ADA | Total state aid | State aid per ADA | Recapture paid | "Other Programs" state aid |
+| School year (cycle) | Refined ADA | Basic Allotment | Tier One + full Tier Two entitlement per ADA | Total state aid | State aid per ADA | Recapture paid | "Other Programs" state aid |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| 2018-19 (Final, May 2022) | 189,287 | $5,645 adjusted* | $8,035* | $193.1M | $1,020 | **$185.1M** | $13.7M |
-| 2019-20 (Final, Feb 2026) | 176,703 | $6,160 | $9,019 | $99.2M | $561 | **$74.9M** | $11.2M |
-| 2020-21 (Final, Feb 2026) | 177,207 | $6,160 | $9,024 | $134.2M | $757 | **$198.1M** | $12.2M |
-| 2021-22 (Final, Apr 2026) | 173,777 | $6,160 | $8,926 | $133.3M | $767 | **$186.5M** | $13.9M |
-| 2022-23 (Final, Jul 2026) | 167,376 | $6,160 | $8,929 | $144.0M | $860 | **$275.6M** | $18.7M |
-| 2023-24 (Final, May 2026) | 163,594 | $6,160 | $9,232 | $280.0M | $1,712 | **$0** | $152.9M |
-| 2024-25 (Final, May 2026) | 156,871 | $6,160 | $9,225 | $172.0M | $1,097 | **$49.1M** | $27.9M |
-| 2025-26 (Near-Final, Oct 2026) | 150,014 | $6,215 | $9,964 | $313.7M | $2,091 | **$0** | $173.1M |
-| 2026-27 (Preliminary, Oct 2026) | 148,533 | $6,215 | $9,899 | $281.9M | $1,898 | **$0** | $135.8M |
+| 2018-19 (Final, May 2022) | 189,287 | $5,645 adjusted* | $8,544* | $193.1M | $1,020 | **$185.1M** | $13.7M |
+| 2019-20 (Final, Feb 2026) | 176,703 | $6,160 | $9,404 | $99.2M | $561 | **$74.9M** | $11.2M |
+| 2020-21 (Final, Feb 2026) | 177,207 | $6,160 | $9,540 | $134.2M | $757 | **$198.1M** | $12.2M |
+| 2021-22 (Final, Apr 2026) | 173,777 | $6,160 | $9,459 | $133.3M | $767 | **$186.5M** | $13.9M |
+| 2022-23 (Final, Jul 2026) | 167,376 | $6,160 | $9,531 | $144.0M | $860 | **$275.6M** | $18.7M |
+| 2023-24 (Final, May 2026) | 163,594 | $6,160 | $9,863 | $280.0M | $1,712 | **$0** | $152.9M |
+| 2024-25 (Final, May 2026) | 156,871 | $6,160 | $9,894 | $172.0M | $1,097 | **$49.1M** | $27.9M |
+| 2025-26 (Near-Final, Oct 2026) | 150,014 | $6,215 | $11,064 | $313.7M | $2,091 | **$0** | $173.1M |
+| 2026-27 (Preliminary, Oct 2026) | 148,533 | $6,215 | $10,988 | $281.9M | $1,898 | **$0** | $135.8M |
+
+Entitlement per ADA = (Total Cost of Tier One + Tier Two Level 1 and 2 entitlements, state + local) ÷ refined ADA, from each report's Tier Two Detail page. *(Corrected 2026-10-08 after independent review: earlier versions used the summary "Tier Two" line, which is only Tier Two's state aid, and showed $8,035 … $9,899.)*
 
 \*SY2018-19 predates HB3 (2019). Its report shows a cost-of-education-adjusted allotment ($5,645 on a $5,140 base) and a Tier I/II structure that is not strictly comparable with later years' Tier One/Two.
 
@@ -31,7 +33,7 @@ Source: `data/sof_key_figures.csv` (rows "Refined ADA", "Basic Allotment", "Tota
 
 ## Findings
 
-1. **Formula funding per attending student rose in two steps and was flat in between.** HB3 (2019) raised the entitlement from about $8,035 to $9,019 per ADA. It then stayed between $8,926 and $9,232 for five years (2019-20 to 2024-25) while the Basic Allotment stayed at $6,160. HB2 (2025) raised it to $9,964. Over 2019-20 to 2024-25, inflation eroded that flat amount.
+1. **Formula funding per attending student rose in two steps and was nearly flat in between.** With HB3 (2019) the entitlement rose from about $8,544 to $9,404 per ADA. It then stayed between $9,404 and $9,894 for six years (2019-20 to 2024-25) while the Basic Allotment stayed at $6,160. In 2025-26 it rose to $11,064 (Near-Final), from new HB2 allotments and from more of HISD's own tax rate counting as Tier Two enrichment (see `data/hisd_sof_trend.md`). Over 2019-20 to 2024-25, inflation eroded the nearly flat amount.
 2. **The jumps in state aid in SY2023-24 and SY2025-26 are tax-relief backfill.** "Other Programs" state aid went from $18.7M (2022-23) to $152.9M (2023-24) after the 2023 compression law (SB 2, 88th Leg., 2nd C.S.), and to $173.1M (2025-26) after the 2025 relief laws. These are the hold-harmless payments that replace local tax revenue the state cut.
 3. **The 2023 law erased a $335 million recapture bill.** TEA's first projection for SY2023-24 (June 21, 2023) showed HISD owing $335.2M in recapture, with $27.6M of Foundation School Fund aid. After the November 2023 compression, the Final shows $0 recapture and $181.5M of Foundation School Fund aid. HISD's original FY2024 budget carried $326.5M of recapture, which matches that pre-law projection.
 4. **Recapture estimates move by hundreds of millions between the first projection and the final settlement**:
@@ -75,7 +77,7 @@ Source: `data/sof_key_figures.csv` (rows "Refined ADA", "Basic Allotment", "Tota
    | $44.5M | HISD's final amended FY2025 budget (June 2025) | No run matches; runs current in June 2025 were $48.5–49.9M |
    | $49.1M | TEA Final | Final runs Apr. 16 and May 29, 2026 |
 
-   The statement "unreconciled" in the published report pages can now be narrowed: four of the five are snapshots of TEA's own moving estimate; only HISD's $44.5M budget figure matches no TEA run.
+   The statement "unreconciled" in the published report pages can be narrowed, but not closed. Three figures match TEA runs ($55.5M exactly; ~$65M to within rounding; $49.1M is the Final). The audited $56.9M is close to the runs current at year-end close but matches none exactly, and HISD's $44.5M budget figure matches no run. An exact reconciliation needs HISD's recapture payable/receivable roll-forward and TEA's settlement records, which were not obtained. *(Wording narrowed 2026-10-08 after independent review; an earlier version said four of the five were TEA snapshots.)*
 
 ## Not obtained
 

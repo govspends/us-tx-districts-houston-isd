@@ -132,7 +132,7 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [sources/acfr/pg.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/acfr/pg.py) | 0 KB | `7b86fa9fe039a3ba…` |
 
 ## Source documents: budget
-286 files, 483.0 MB.
+288 files, 496.3 MB.
 
 | File | Size | SHA-256 |
 |---|---:|---|
@@ -244,11 +244,13 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [sources/budget/FY_2025_December_Budget_Amendment_1.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/FY_2025_December_Budget_Amendment_1.txt) | 5 KB | `9f3fdb3de39a0efd…` |
 | [sources/budget/February_27_2025_Budget_Workshop_Deck.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/February_27_2025_Budget_Workshop_Deck.pdf) | 921 KB | `2f27fc44f71f15c6…` |
 | [sources/budget/February_27_2025_Budget_Workshop_Deck.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/February_27_2025_Budget_Workshop_Deck.txt) | 36 KB | `35a2379c4ed84074…` |
+| [sources/budget/HISD_board_agenda_2025-09-11.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/HISD_board_agenda_2025-09-11.pdf) | 12.5 MB | `3fc45e62708ffa40…` |
+| [sources/budget/HISD_board_agenda_2025-09-11.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/HISD_board_agenda_2025-09-11.txt) | 854 KB | `24c98a317c38b8e2…` |
 | [sources/budget/June_12_Regular_Meeting_-_Proposed_Budget_FINAL.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/June_12_Regular_Meeting_-_Proposed_Budget_FINAL.pdf) | 1.1 MB | `c1ac5808aa5814d8…` |
 | [sources/budget/June_12_Regular_Meeting_-_Proposed_Budget_FINAL.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/June_12_Regular_Meeting_-_Proposed_Budget_FINAL.txt) | 17 KB | `6c37ed5446336791…` |
 | [sources/budget/March_26_2025_Budget_Workshop_Deck_revised.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/March_26_2025_Budget_Workshop_Deck_revised.pdf) | 781 KB | `9301e4f3cb8e2775…` |
 | [sources/budget/March_26_2025_Budget_Workshop_Deck_revised.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/March_26_2025_Budget_Workshop_Deck_revised.txt) | 33 KB | `6bd884a844aeb8d8…` |
-| [sources/budget/SOURCES.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/SOURCES.md) | 26 KB | `bf43e40941f382e2…` |
+| [sources/budget/SOURCES.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/SOURCES.md) | 26 KB | `a2afda5e05556766…` |
 | [sources/budget/_emf_text.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/_emf_text.py) | 1 KB | `d0eb968becdae6f8…` |
 | [sources/budget/_ocr26/p10-010.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/_ocr26/p10-010.txt) | 2 KB | `da91bfd6688ff9b0…` |
 | [sources/budget/_ocr26/p100-100.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/_ocr26/p100-100.txt) | 3 KB | `2448510ec48ec537…` |
@@ -490,7 +492,7 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [sources/sof_history/sof_2026-27_preliminary_run47318.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/sof_history/sof_2026-27_preliminary_run47318.txt) | 310 KB | `d172e99ea84b481f…` |
 
 ## Source documents: tea peims
-202 files, 77.8 MB.
+229 files, 84.3 MB.
 
 | File | Size | SHA-256 |
 |---|---:|---|
@@ -499,7 +501,7 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [sources/tea_peims/2021-actual-pwr.xlsx](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/2021-actual-pwr.xlsx) | 1.9 MB | `4a56a0af65e98376…` |
 | [sources/tea_peims/2022-actual-pwr-0.xlsx](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/2022-actual-pwr-0.xlsx) | 1.9 MB | `cc8becc36b80a497…` |
 | [sources/tea_peims/2023-actual-pwr.xlsx](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/2023-actual-pwr.xlsx) | 1.7 MB | `0c86facf7f6d74f0…` |
-| [sources/tea_peims/SOURCES.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/SOURCES.md) | 16 KB | `1db673a0cca4b2d6…` |
+| [sources/tea_peims/SOURCES.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/SOURCES.md) | 19 KB | `095c6d3d6552ed98…` |
 | [sources/tea_peims/actual2024-info-gen-all-w-fb.xlsx](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/actual2024-info-gen-all-w-fb.xlsx) | 1.7 MB | `8e4af41aee9e7ab8…` |
 | [sources/tea_peims/actual2025-info-gen-all.xlsx](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/actual2025-info-gen-all.xlsx) | 1.7 MB | `5d33f1d66b487123…` |
 | [sources/tea_peims/campus/allcamp_actual_2019_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/campus/allcamp_actual_2019_101912.pdf) | 2.5 MB | `70bcbd85f25ef7f8…` |
@@ -516,6 +518,8 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [sources/tea_peims/campus/allcamp_actual_2024_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/campus/allcamp_actual_2024_101912.txt) | 2.0 MB | `f2ccda9a77f37732…` |
 | [sources/tea_peims/campus/allcamp_actual_2025_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/campus/allcamp_actual_2025_101912.pdf) | 2.4 MB | `f7dca35011cdbbea…` |
 | [sources/tea_peims/campus/allcamp_actual_2025_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/campus/allcamp_actual_2025_101912.txt) | 2.0 MB | `093e16b9520e301b…` |
+| [sources/tea_peims/campus/allcamp_budget_2026_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/campus/allcamp_budget_2026_101912.pdf) | 2.4 MB | `678fc53c62a5e30d…` |
+| [sources/tea_peims/campus/allcamp_budget_2026_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/campus/allcamp_budget_2026_101912.txt) | 2.0 MB | `069558f9696e7a51…` |
 | [sources/tea_peims/comptroller/pvs_2019F.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/comptroller/pvs_2019F.txt) | 14 KB | `1507969ef4f67205…` |
 | [sources/tea_peims/comptroller/pvs_2019F_1011019121D.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/comptroller/pvs_2019F_1011019121D.html) | 130 KB | `c490d75438006503…` |
 | [sources/tea_peims/comptroller/pvs_2020F.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/comptroller/pvs_2020F.txt) | 14 KB | `9a9844bebcbb4cc1…` |
@@ -589,16 +593,11 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [sources/tea_peims/first/first_main.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/first/first_main.html) | 135 KB | `6cc902a4d9d79e09…` |
 | [sources/tea_peims/first/first_page.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/first/first_page.html) | 753 KB | `b35f6182e8357d60…` |
 | [sources/tea_peims/first/news_2425_first.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/first/news_2425_first.html) | 164 KB | `3568a6fa5558ce60…` |
-| [sources/tea_peims/nes/click2houston_2024-02-09_19optin.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/nes/click2houston_2024-02-09_19optin.txt) | 13 KB | `66b2870d7aeb07ff…` |
-| [sources/tea_peims/nes/fox26_2024-02_nes_added.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/nes/fox26_2024-02_nes_added.txt) | 9 KB | `b58dc150f8acc38c…` |
 | [sources/tea_peims/nes/hisd_arcgis_schools_2025-26.json](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/nes/hisd_arcgis_schools_2025-26.json) | 285 KB | `abaacb9a094ad057…` |
 | [sources/tea_peims/nes/hisd_news_nine_join_nes_2026-27.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/nes/hisd_news_nine_join_nes_2026-27.html) | 62 KB | `79fe2bdf4e2e0906…` |
 | [sources/tea_peims/nes/hisd_news_nine_join_nes_2026-27.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/nes/hisd_news_nine_join_nes_2026-27.txt) | 13 KB | `b92c022104a8e6a3…` |
 | [sources/tea_peims/nes/hisd_press_2024-01-23_nes.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/nes/hisd_press_2024-01-23_nes.pdf) | 1.5 MB | `9c2937812295be6d…` |
 | [sources/tea_peims/nes/hisd_press_2024-01-23_nes.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/nes/hisd_press_2024-01-23_nes.txt) | 74 KB | `cf48a705ad292a6f…` |
-| [sources/tea_peims/nes/houstonlanding_2023-07-11_57aligned.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/nes/houstonlanding_2023-07-11_57aligned.txt) | 13 KB | `e041a85147b0469b…` |
-| [sources/tea_peims/nes/hpm_2024-02-09_19optin.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/nes/hpm_2024-02-09_19optin.txt) | 17 KB | `241e5b51bba068ff…` |
-| [sources/tea_peims/nes/leadernews_2023-07_aligned.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/nes/leadernews_2023-07_aligned.txt) | 6 KB | `684e6114a0c08fd2…` |
 | [sources/tea_peims/pwr/longitudinal_10yr_101912.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/longitudinal_10yr_101912.html) | 30 KB | `b1463e6be4808897…` |
 | [sources/tea_peims/pwr/longitudinal_10yr_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/longitudinal_10yr_101912.txt) | 1 KB | `00633b9c0c2d6d40…` |
 | [sources/tea_peims/pwr/pwr_actual_2019_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_actual_2019_101912.pdf) | 135 KB | `39b3c0dabc9d30ae…` |
@@ -629,6 +628,34 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [sources/tea_peims/pwr/pwr_actual_2025_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_actual_2025_101912.txt) | 24 KB | `45cfa4e05795346c…` |
 | [sources/tea_peims/pwr/pwr_actual_2025__STATE.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_actual_2025__STATE.pdf) | 133 KB | `d1abaf28a24a7ba6…` |
 | [sources/tea_peims/pwr/pwr_actual_2025__STATE.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_actual_2025__STATE.txt) | 22 KB | `6106e9eb4861f169…` |
+| [sources/tea_peims/pwr/pwr_budget_2020_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2020_101912.pdf) | 126 KB | `b59c0897f36dd333…` |
+| [sources/tea_peims/pwr/pwr_budget_2020_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2020_101912.txt) | 16 KB | `1b918265ee84bbe3…` |
+| [sources/tea_peims/pwr/pwr_budget_2020__STATE.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2020__STATE.pdf) | 125 KB | `248c5182e414dee5…` |
+| [sources/tea_peims/pwr/pwr_budget_2020__STATE.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2020__STATE.txt) | 15 KB | `5b6551d0f02f1553…` |
+| [sources/tea_peims/pwr/pwr_budget_2021_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2021_101912.pdf) | 127 KB | `bbc276a6352d82dd…` |
+| [sources/tea_peims/pwr/pwr_budget_2021_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2021_101912.txt) | 17 KB | `d8fcfeee103e5e79…` |
+| [sources/tea_peims/pwr/pwr_budget_2021__STATE.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2021__STATE.pdf) | 127 KB | `1e9492dddf35baf8…` |
+| [sources/tea_peims/pwr/pwr_budget_2021__STATE.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2021__STATE.txt) | 16 KB | `6c57d8f5f813c401…` |
+| [sources/tea_peims/pwr/pwr_budget_2022_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2022_101912.pdf) | 127 KB | `1d2d6ad0b34f4e9a…` |
+| [sources/tea_peims/pwr/pwr_budget_2022_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2022_101912.txt) | 18 KB | `76ca2cc0058faf79…` |
+| [sources/tea_peims/pwr/pwr_budget_2022__STATE.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2022__STATE.pdf) | 127 KB | `269ade0a0c64181c…` |
+| [sources/tea_peims/pwr/pwr_budget_2022__STATE.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2022__STATE.txt) | 17 KB | `ff508fd35b8d09eb…` |
+| [sources/tea_peims/pwr/pwr_budget_2023_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2023_101912.pdf) | 127 KB | `b2efc9cb6d6d50e7…` |
+| [sources/tea_peims/pwr/pwr_budget_2023_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2023_101912.txt) | 18 KB | `55029a3ed542bbd3…` |
+| [sources/tea_peims/pwr/pwr_budget_2023__STATE.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2023__STATE.pdf) | 126 KB | `0d9926ea4419c890…` |
+| [sources/tea_peims/pwr/pwr_budget_2023__STATE.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2023__STATE.txt) | 17 KB | `692456443f434ade…` |
+| [sources/tea_peims/pwr/pwr_budget_2024_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2024_101912.pdf) | 126 KB | `8db48eba3730be28…` |
+| [sources/tea_peims/pwr/pwr_budget_2024_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2024_101912.txt) | 17 KB | `09043d997f140912…` |
+| [sources/tea_peims/pwr/pwr_budget_2024__STATE.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2024__STATE.pdf) | 126 KB | `1781b55dfa8ff506…` |
+| [sources/tea_peims/pwr/pwr_budget_2024__STATE.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2024__STATE.txt) | 17 KB | `727db8afcc6986ef…` |
+| [sources/tea_peims/pwr/pwr_budget_2025_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2025_101912.pdf) | 126 KB | `d3a01468c546146f…` |
+| [sources/tea_peims/pwr/pwr_budget_2025_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2025_101912.txt) | 18 KB | `d00eb0b9a785e074…` |
+| [sources/tea_peims/pwr/pwr_budget_2025__STATE.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2025__STATE.pdf) | 126 KB | `616d7b010fa6cf2d…` |
+| [sources/tea_peims/pwr/pwr_budget_2025__STATE.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2025__STATE.txt) | 17 KB | `1e1d25aeb9ad744f…` |
+| [sources/tea_peims/pwr/pwr_budget_2026_101912.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2026_101912.pdf) | 126 KB | `b50f754d71864b65…` |
+| [sources/tea_peims/pwr/pwr_budget_2026_101912.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2026_101912.txt) | 17 KB | `6c8718b18bfb3ce4…` |
+| [sources/tea_peims/pwr/pwr_budget_2026__STATE.pdf](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2026__STATE.pdf) | 126 KB | `9d299c278de807c7…` |
+| [sources/tea_peims/pwr/pwr_budget_2026__STATE.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_budget_2026__STATE.txt) | 17 KB | `97c676a9736ae463…` |
 | [sources/tea_peims/raw/1819_FinActRep.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/1819_FinActRep.html) | 87 KB | `2a1c2c7351153604…` |
 | [sources/tea_peims/raw/1819_allcamp_ActRep.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/1819_allcamp_ActRep.html) | 87 KB | `03ec58fae79feabe…` |
 | [sources/tea_peims/raw/1920_FinActRep.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/1920_FinActRep.html) | 87 KB | `b98173113155bbd5…` |
@@ -647,6 +674,8 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [sources/tea_peims/raw/2425_allcamp_ActRep.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/2425_allcamp_ActRep.html) | 88 KB | `bbae1e6018da4e47…` |
 | [sources/tea_peims/raw/2425_new_camp_actual.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/2425_new_camp_actual.html) | 88 KB | `4552fc9bcec9e625…` |
 | [sources/tea_peims/raw/2425_stacked_bar_charts.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/2425_stacked_bar_charts.html) | 160 KB | `98ac41103d56e154…` |
+| [sources/tea_peims/raw/2526_FinBudRep.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/2526_FinBudRep.html) | 88 KB | `addb064e405cc023…` |
+| [sources/tea_peims/raw/2526_allcamp_BudRep.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/2526_allcamp_BudRep.html) | 88 KB | `d790fc2510bcf465…` |
 | [sources/tea_peims/raw/peims-financial-data-downloads.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/peims-financial-data-downloads.html) | 146 KB | `72e98223e963009b…` |
 | [sources/tea_peims/raw/peims-financial-standard-reports.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/peims-financial-standard-reports.html) | 179 KB | `c09c924773afb6f8…` |
 | [sources/tea_peims/raw/peims-single-file-financial-data-downloads.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/raw/peims-single-file-financial-data-downloads.html) | 167 KB | `795a48a3f0ac9d92…` |
@@ -698,20 +727,25 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [sources/tea_peims/tapr/tapr_srch.html](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/tapr/tapr_srch.html) | 27 KB | `df632986fbb75abe…` |
 
 ## Data files derived from the documents (CSV/JSON) and text extractions
-23 files, 4.1 MB.
+29 files, 4.5 MB.
 
 | File | Size | SHA-256 |
 |---|---:|---|
 | [data/first_ratings.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/first_ratings.csv) | 12 KB | `2af4dcf842f484e4…` |
 | [data/hisd_campus_actuals.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_campus_actuals.csv) | 1.7 MB | `a639be1a3a0d1402…` |
+| [data/hisd_campus_budget_2025_26.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_campus_budget_2025_26.csv) | 230 KB | `21e861256c42795b…` |
+| [data/hisd_campus_nes_budget_summary.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_campus_nes_budget_summary.csv) | 1 KB | `a83dfdef2761227b…` |
 | [data/hisd_campus_nes_summary.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_campus_nes_summary.csv) | 13 KB | `e06924497f55007d…` |
+| [data/hisd_gf_function_fy2019_2027.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_gf_function_fy2019_2027.csv) | 2 KB | `7b4750ee10b3d19a…` |
+| [data/hisd_gf_fy2019_2027_by_basis.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_gf_fy2019_2027_by_basis.csv) | 5 KB | `50f29bce7c7251ae…` |
+| [data/hisd_gf_revenue_source_fy2019_2027.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_gf_revenue_source_fy2019_2027.csv) | 1 KB | `eb6e4a85fc63fab9…` |
 | [data/hisd_history_gf_fy2019_2025.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_history_gf_fy2019_2025.csv) | 2 KB | `7ea8c2cd38db4d74…` |
 | [data/hisd_nes_campuses.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_nes_campuses.csv) | 30 KB | `e1f6d3bce46560bc…` |
 | [data/hisd_peims_trend.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_peims_trend.csv) | 20 KB | `d6e86a1c7b374585…` |
-| [data/hisd_sof_trend.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_sof_trend.md) | 5 KB | `5edcbc700a878850…` |
+| [data/hisd_sof_trend.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/hisd_sof_trend.md) | 7 KB | `30e0f21a1b0e492c…` |
 | [data/peer_comparison.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/peer_comparison.csv) | 17 KB | `d1807327cb1a4b57…` |
 | [data/peer_comparison_2019_2025.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/peer_comparison_2019_2025.csv) | 64 KB | `22ae1d66d764ea67…` |
-| [data/sof_key_figures.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/sof_key_figures.csv) | 5 KB | `b107d7f17b56c29b…` |
+| [data/sof_key_figures.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/sof_key_figures.csv) | 5 KB | `1aa0d6c8d64aec54…` |
 | [data/sof_run_history.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/sof_run_history.csv) | 24 KB | `d6d21be76d04b51c…` |
 | [data/sof_text/sof_2018-19_final.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/sof_text/sof_2018-19_final.txt) | 80 KB | `80e7519018a80b60…` |
 | [data/sof_text/sof_2019-20_final.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/sof_text/sof_2019-20_final.txt) | 114 KB | `18b9a5b4c83eaa04…` |
@@ -725,24 +759,26 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [data/sof_text/sof_2026-27_preliminary_run47318.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/sof_text/sof_2026-27_preliminary_run47318.txt) | 310 KB | `d172e99ea84b481f…` |
 | [data/tapr_staff_peer_comparison.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/tapr_staff_peer_comparison.csv) | 19 KB | `31a77b543c5ced67…` |
 | [data/tea_peims_actuals_long.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/tea_peims_actuals_long.csv) | 488 KB | `6957c14763056aff…` |
+| [data/tea_peims_budget_long.csv](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/data/tea_peims_budget_long.csv) | 164 KB | `041a7e11c1b184bc…` |
 
 ## Notes, extracts, logs and the session command log
-5 files, 191 KB.
+5 files, 203 KB.
 
 | File | Size | SHA-256 |
 |---|---:|---|
 | [notes/acfr.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/acfr.md) | 60 KB | `4217bff3a30b4c8e…` |
-| [notes/budget.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/budget.md) | 52 KB | `f6ac95b1ce4c3247…` |
-| [notes/federal_debt.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/federal_debt.md) | 34 KB | `e7af3148344ed27c…` |
-| [notes/sof_history.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/sof_history.md) | 8 KB | `72f859ef472856a8…` |
-| [notes/tea_peims.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/tea_peims.md) | 36 KB | `61c8d0c3b07cad70…` |
+| [notes/budget.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/budget.md) | 56 KB | `683106407cffa23b…` |
+| [notes/federal_debt.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/federal_debt.md) | 35 KB | `4d61adbcc326e8be…` |
+| [notes/sof_history.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/sof_history.md) | 9 KB | `00b80cc465e52448…` |
+| [notes/tea_peims.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/tea_peims.md) | 42 KB | `25412a86dc338cb1…` |
 
 ## Scripts
-13 files, 51 KB.
+16 files, 80 KB.
 
 | File | Size | SHA-256 |
 |---|---:|---|
 | [scripts/analyze_campus_nes.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/analyze_campus_nes.py) | 5 KB | `aef9f04da0cbf499…` |
+| [scripts/build_gf_fy2019_2027.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/build_gf_fy2019_2027.py) | 16 KB | `8be462969b46a7a9…` |
 | [scripts/build_peer_comparison.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/build_peer_comparison.py) | 12 KB | `73b67019fd2b84d2…` |
 | [scripts/build_tapr_peers.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/build_tapr_peers.py) | 6 KB | `6d94833557971145…` |
 | [scripts/fac_summary.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/fac_summary.py) | 1 KB | `8688534657d4c7ec…` |
@@ -751,18 +787,20 @@ Every file behind the report, with its size and SHA-256 checksum. Links open the
 | [scripts/html2text.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/html2text.py) | 1 KB | `38ea77fc63b53e15…` |
 | [scripts/html2text_dollars.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/html2text_dollars.py) | 1 KB | `4e7504e2d06f4bf3…` |
 | [scripts/parse_campus_actuals.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/parse_campus_actuals.py) | 6 KB | `d16fab2630acaaba…` |
+| [scripts/parse_campus_budget.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/parse_campus_budget.py) | 5 KB | `903c8cfffdb3972e…` |
+| [scripts/parse_tea_budget_reports.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/parse_tea_budget_reports.py) | 6 KB | `5abf1ab46be61e98…` |
 | [scripts/sof_b64_to_pdf.sh](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/sof_b64_to_pdf.sh) | 1 KB | `a9a7c896206c1724…` |
-| [scripts/sof_extract.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/sof_extract.py) | 10 KB | `97ec6834e9f70793…` |
+| [scripts/sof_extract.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/sof_extract.py) | 11 KB | `9dd9142dcc140ac6…` |
 | [scripts/sof_runs_from_snapshot.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/sof_runs_from_snapshot.py) | 1 KB | `d48acc1221907b7f…` |
 | [scripts/xlsx_lite.py](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/xlsx_lite.py) | 3 KB | `f2e9001f9df231f1…` |
 
 ## Top-level records
-3 files, 101 KB.
+3 files, 138 KB.
 
 | File | Size | SHA-256 |
 |---|---:|---|
-| [AUDIT_SUMMARY.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/AUDIT_SUMMARY.md) | 12 KB | `4a03d4bdc8028514…` |
-| [MANIFEST_SHA256.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/MANIFEST_SHA256.txt) | 81 KB | |
-| [REFERENCES.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/REFERENCES.md) | 8 KB | `c622e4bf58ac0884…` |
+| [AUDIT_SUMMARY.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/AUDIT_SUMMARY.md) | 21 KB | `923ed8d6fc7c8ebe…` |
+| [MANIFEST_SHA256.txt](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/MANIFEST_SHA256.txt) | 85 KB | |
+| [REFERENCES.md](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/REFERENCES.md) | 32 KB | `0779dab915552283…` |
 
-**Total: 705 files, 936.5 MB.** The complete checksum list is [`MANIFEST_SHA256.txt`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/MANIFEST_SHA256.txt).
+**Total: 743 files, 956.8 MB.** The complete checksum list is [`MANIFEST_SHA256.txt`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/MANIFEST_SHA256.txt).

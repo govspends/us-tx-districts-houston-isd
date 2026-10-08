@@ -157,3 +157,9 @@ ff55ebf6481d1a5cf61121ece780a5739379ae2c086b9bac25f6a77ac42b8aee  2023_Tax_Rate_
 - **2019-2020 and 2023-2024 Adopted Budget Books:** not on HISD's site and not found in the Internet Archive.
 - **2019-2020 Budget Workshop 7 (Jun 25 2019):** both Internet Archive captures (dataid 250750 / 250751) are truncated at exactly 1,048,576 bytes and do not open as PDFs. They were discarded.
 - **2019-2020 Recommended Budget Presentation:** no capture found.
+
+## Board policy on fund balance (added 2026-10-08, in response to the independent review)
+
+| File | Title | URL | Retrieved | Type |
+|---|---|---|---|---|
+| HISD_board_agenda_2025-09-11.pdf (+ .txt, `pdftotext -layout`) | HISD Board of Managers agenda packet, Sept. 11, 2025 (303 pp.). Packet pp.275-279 reprint board policy **CE(LOCAL), Annual Operating Budget**, adopted Nov. 12, 2021 (issued 11/19/2021, LDU 2021.13): "The District's goal shall be to maintain a yearly minimum unassigned fund balance, as of fiscal year end, of three months of operating expenditures. The formula ... is to take the adopted general fund operating expenditures less excess revenue payments and any non-cash expenditures divided by 12 ... and then multiply by three." | https://houstonisd.legistar.com/View.ashx?GUID=4DFD85AF-0074-4D68-9602-7A1F2017233F&ID=1276818&M=PA | 2026-10-08 | PRIMARY |

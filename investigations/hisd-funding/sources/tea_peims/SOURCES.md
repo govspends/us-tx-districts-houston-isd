@@ -67,6 +67,8 @@ See section appended below by the NES-list compilation (folder `nes/`). `nes/his
 
 
 ## NES campus list sources (folder `nes/`; compiled into `data/hisd_nes_campuses.csv`; all retrieved 2026-10-06)
+
+The news-article copies in this folder (Houston Landing, The Leader News, FOX 26, KPRC Click2Houston and Houston Public Media; `.html` pages and their `.txt` extractions) are kept in the private working archive only and are not republished in the public govspends repository (copyright); they are cited there by URL. HISD's own files (ArcGIS layer, press packet, news post) are public.
 | File | Title | URL | Retrieved | Status |
 |---|---|---|---|---|
 | nes/hisd_arcgis_schools_2025-26.json | HISD ArcGIS layer "HISD Schools 2025–2026" (owner demographics_HoustonISD; web map "HISD New Education System (NES) Schools", snippet "All 130 NES Schools for the 2025–2026 School Year", modified 2025-08-06). Fields NES_Flag + NES_Type (`NES 2023`=28, `NES-A 2023`=57, `NES 2024`=45) + Campus_Nbr + TEA_Campus | https://services7.arcgis.com/YNiGsHEfQPYkIqX5/arcgis/rest/services/HISD_Schools/FeatureServer/6/query?where=1%3D1&outFields=*&returnGeometry=false&f=json (map: https://www.arcgis.com/home/item.html?id=6c764719408f495983165c03d14d0bae) | 2026-10-06 | PRIMARY (HISD) |
@@ -104,3 +106,15 @@ BROKER = same SAS broker prefix as above. Text files made with `pdftotext -layou
 | comptroller/pvs_{2019,2020,2021,2022}F_1011019121D.html (+ pvs_YYYYF.txt) | ISD Summary Worksheet (Final), Houston ISD 101-912, tax years 2019-2022 | https://comptroller.texas.gov/auto-data/PT2/PVS/YYYYF/1011019121D.php | 2026-10-07 | PRIMARY |
 
 No file in this extension exceeds 95 MB (largest: campus PDFs ~2.5 MB; TAPR DPROF CSVs ≤1.9 MB).
+
+## Budgeted data as filed with TEA, and the 2025-26 campus budget (all retrieved 2026-10-08; all PRIMARY)
+These are the budgets each district reports to TEA in PEIMS: the ADOPTED budget of the General Fund, Food Service and Debt Service funds. They are not actuals, and their "All Funds" columns exclude federal grants. TEA's report server does not serve the 2018-19 budget report (it returns an HTML error page). HISD's 2025-26 filing ties to its own adopted budget (`scripts/parse_tea_budget_reports.py`).
+
+| File | Title | URL | Retrieved | Status |
+|---|---|---|---|---|
+| pwr/pwr_budget_{2020..2026}_101912.pdf (+ .txt) | 2019-20 .. 2025-26 Budgeted Financial Data, Totals for HOUSTON ISD (101912) | BROKER&_program=sfadhoc.budget_report_YYYY.sas&who_box=101912 (selector page https://rptsvr1.tea.texas.gov/school.finance/forecasting/financial_reports/2526_FinBudRep.html) | 2026-10-08 | PRIMARY (district budget as filed) |
+| pwr/pwr_budget_{2020..2026}__STATE.pdf (+ .txt) | Same, State Total | BROKER&_program=sfadhoc.budget_report_YYYY.sas&who_box=_STATE | 2026-10-08 | PRIMARY (district budgets as filed, state total) |
+| campus/allcamp_budget_2026_101912.pdf (+ .txt) | 2025-2026 PEIMS Budget Financial Data, Organized by Campus — HISD (271 campuses, 542 pp). Its "Total Membership" is TEA's fall 2025 count, not a projection | BROKER&_program=sfadhoc.allcamp_budget_report_2026.sas&who_box=101912 (selector page https://rptsvr1.tea.texas.gov/school.finance/forecasting/financial_reports/2526_allcamp_BudRep.html) | 2026-10-08 | PRIMARY (campus budgets as filed) |
+| raw/2526_FinBudRep.html, raw/2526_allcamp_BudRep.html | Report-selector pages used to discover the budget `_program` names | https://rptsvr1.tea.texas.gov/school.finance/forecasting/financial_reports/<name>.html | 2026-10-08 | PRIMARY (index) |
+
+Also available but not downloaded: the single-file budget data downloads (account-code detail), e.g. https://tea.texas.gov/data-reports/financial-reports/school-finance-reports-and-data/budget2026.zip.

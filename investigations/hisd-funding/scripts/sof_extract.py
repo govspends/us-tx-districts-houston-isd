@@ -30,7 +30,7 @@ YEARS = [
 NUM = re.compile(r"\(?\$?-?[\d,]+(?:\.\d+)?\)?")
 
 # (row name, section, label regex). section: "summary" = page 1-2 summary,
-# "other" = Other Programs Detail Report. Missing rows are recorded as blank.
+# "other" = Other Programs Detail Report, "all" = whole report (first match). Missing rows are recorded as blank.
 ROWS = [
     ("Refined ADA", "summary", r"Refined Average Daily Attendance"),
     ("WADA", "summary", r"Weighted ADA \(WADA\)"),
@@ -54,7 +54,7 @@ ROWS = [
     ("Teacher Incentive Allotment", "summary", r"Teacher Incentive Allotment 48\.112"),
     ("Teacher Retention Allotment", "summary", r"Teacher Retention Allotment 48\.158"),
     ("Support Staff Retention Allotment", "summary", r"Support Staff Retention Allotment"),
-    ("School Safety Allotment", "summary", r"School Safety Allotment 48\.1(15|60)"),
+    ("School Safety Allotment", "summary", r"School Safety Allotment (48\.1(15|60)|42\.168)"),
     ("Allotment for Basic Costs", "summary", r"Allotment for Basic Costs"),
     ("Special Ed FIIE Allotment", "summary", r"Full Individual and Initial Evaluation"),
     ("Transportation Allotment", "summary", r"99-Transportation Allotment"),
@@ -73,6 +73,12 @@ ROWS = [
     ("TOTAL FSP/ASF STATE AID", "summary", r"TOTAL FSP/ASF STATE AID"),
     ("Recapture (local revenue in excess of entitlement)", "summary",
      r"^\s*\d+\.?\s+Local Revenue in Excess of Entitlement"),
+    # Tier Two Detail Report: full entitlement (state + local) and the local share. The summary line "Tier Two"
+    # above is only Tier Two's STATE AID; formula entitlement must use the full Tier Two entitlement.
+    ("Tier Two Level 1 entitlement", "all", r"^\s*4\.\s+Level 1 Entitlement\s*@"),
+    ("Tier Two Level 1 local share", "all", r"^\s*5\.\s+Less Local Share"),
+    ("Tier Two Level 2 entitlement", "all", r"^\s*9\.\s+Level 2 Entitlement\s*@"),
+    ("Tier Two Level 2 local share", "all", r"^\s*10\.\s+Less Local Share"),
     ("OP: Supplemental TIF/TIRZ payment 48.253", "other", r"Supplemental Tax Increment Fund"),
     ("OP: Ad valorem tax refunds 48.2541", "other", r"Certain Ad Valorem Tax Refunds"),
     ("OP: Elderly/disabled homestead limitation 48.2542", "other",
@@ -96,13 +102,20 @@ def parse_num(tok):
     return -x if neg else x
 
 
+STATUTE = re.compile(r"(?<![$\d,.])\b\d{2}\.\d{3,4}\b")   # TEC citations such as 48.151, 42.168, 48.1581
+
+
 def amounts(line):
-    # Only take tokens that look like money/quantities after the label text.
+    # Only take tokens that look like money/quantities after the label text. Statute citations in labels
+    # (e.g. "99-Transportation Allotment 48.151") are removed first so they are never read as amounts.
+    line = STATUTE.sub(" ", line)
     toks = re.findall(r"\(?\$[\d,]+(?:\.\d+)?\)?|\(?\$\-?[\d,]+\)?|(?<![\w.§])[\d]{1,3}(?:,\d{3})+(?:\.\d+)?|(?<![\w.§])\d+\.\d{3,}", line)
     return [n for n in (parse_num(t) for t in toks) if n is not None]
 
 
 def section_lines(lines, section):
+    if section == "all":
+        return lines
     if section == "summary":
         return lines[:240]
     start = next((i for i, l in enumerate(lines) if "Other Programs Detail" in l), None)
@@ -135,6 +148,8 @@ def fmt(v):
 
 RUN_TABLE_RECAPTURE = "Recapture (TEA dashboard run table, same run)"
 RUN_ID = "SOF run ID"
+ENTITLEMENT = "Tier One + full Tier Two entitlement (state + local)"
+ENTITLEMENT_PER_ADA = "Tier One + full Tier Two entitlement per refined ADA"
 
 
 def run_table():
@@ -156,7 +171,12 @@ def main():
         data[year][RUN_ID] = float(run) if run else None
         r = runs.get(run)
         data[year][RUN_TABLE_RECAPTURE] = -float(r["recapture_amount"]) if r else None
-    names = [RUN_ID] + [n for n, _, _ in ROWS] + [RUN_TABLE_RECAPTURE]
+        d = data[year]
+        if None not in (d["Total Cost of Tier One"], d["Tier Two Level 1 entitlement"], d["Refined ADA"]):
+            ent = d["Total Cost of Tier One"] + d["Tier Two Level 1 entitlement"] + (d["Tier Two Level 2 entitlement"] or 0)
+            d[ENTITLEMENT] = ent
+            d[ENTITLEMENT_PER_ADA] = round(ent / d["Refined ADA"], 2)
+    names = [RUN_ID] + [n for n, _, _ in ROWS] + [RUN_TABLE_RECAPTURE, ENTITLEMENT, ENTITLEMENT_PER_ADA]
     out = ROOT / "data/sof_key_figures.csv"
     with out.open("w", newline="") as f:
         w = csv.writer(f)
@@ -180,6 +200,9 @@ def reconcile(data):
             "ASF = per-capita distribution": (
                 g("Available School Fund (199/5811)"), abs(g("ASF per-capita distribution"))),
         }
+        checks["Tier Two state aid = entitlement - local share (levels 1 and 2)"] = (
+            g("Tier Two"), g("Tier Two Level 1 entitlement") + g("Tier Two Level 1 local share")
+            + g("Tier Two Level 2 entitlement") + g("Tier Two Level 2 local share"))
         pdf_recapture = d.get("Recapture (local revenue in excess of entitlement)")
         if pdf_recapture is not None and d.get(RUN_TABLE_RECAPTURE) is not None:
             checks["recapture in report = dashboard run table"] = (pdf_recapture, d[RUN_TABLE_RECAPTURE])

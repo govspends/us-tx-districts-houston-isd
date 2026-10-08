@@ -215,7 +215,7 @@ Post-Series 2026, from OS26 Table 8 (p.30), I&S plus M&O debt service:
 
 From FY2031 to FY2038 it runs $50-106M a year, then about $33M a year through 2042 and about $9.9M a year (M&O notes only) through 2046. **Grand total: $2,019,157,153**, of which **$370,958,390 is M&O-fund debt service** on maintenance tax notes.
 
-Compare I&S collections: debt-service property taxes were $363.1M in FY2025 (ACFR25 p.127) and about $365.4M projected for SY26-27 (SOF, per caller). FY2027 debt service of $438.5M therefore requires drawing the debt service fund balance, which was $174.2M at March 31, 2026 (OS26 p.34).
+Compare I&S collections: debt-service property taxes were $363.1M in FY2025 (ACFR25 p.127). *(Corrected 2026-10-08 after independent review.)* The $438.5M FY2027 total in OS26 Table 8 (p.30) is **$418.2M of I&S-fund debt service** ($150.4M outstanding + $267.8M on the Series 2026 bonds) **plus $20.3M of M&O-fund debt service** on maintenance tax notes, so it should not be set against I&S taxes alone. The adopted FY2027 Debt Service Fund budget (S27) shows revenue $399,524,026 (local $383.0M + state $16.5M), expenditure $444,356,039, transfers in $26,068,025, refunding premium $4,767,364, and a **net use of fund balance of $13,996,624** ($187.2M → $173.2M). The OS schedule and the adopted appropriation differ in scope and timing and were not reconciled issue by issue. The debt service fund balance was $174.2M at March 31, 2026 (OS26 p.34).
 
 ### 2d. Debt issued without voter approval after the failed 2024 bond
 - **$114,390,000 Variable Rate Maintenance Tax Notes, Series 2025A** (OS25A cover; board resolution May 8, 2025; priced July 10, 2025).
@@ -359,7 +359,7 @@ HISD participates in **12 City of Houston TIRZs**. Interlocal agreements remit a
 ### 4e. School closures and property sales
 - On **Feb 26, 2026** the board unanimously voted to close **12 schools in 11 facilities** (HPM; OS26 p.10).
 - **FLAG on timing:** OS26 says "at the end of the 2025-2026 school year." HPM's Feb 12 article says the closures are "for the 2026-27 school year," and a photo caption says "at the end of the 2026-27 academic year." Most likely the schools close for 2026-27.
-- **Projected savings were not disclosed.** The HISD press office did not answer; HPM reports savings were not discussed at the meeting.
+- **Projected savings were not disclosed** at the time of the vote. *(Update 2026-10-08: HISD's May 20, 2026 budget workshop, slide 14, projects a $15M FY2027 saving from "consolidate schools"; no school-by-school figure, transition costs or realized savings have been published.)* The HISD press office did not answer; HPM reports savings were not discussed at the meeting.
 - District cost figures: about $75M to rebuild an elementary school, about $40M to renovate one. 23% of schools are below 50% capacity (HPM 2026-02-12).
 - About 30 district buildings or land parcels have been listed for sale since 2025 (Tribune); 16 properties covering 300+ acres were in bidding (Chronicle). Proceeds were not found.
 
@@ -450,7 +450,7 @@ Sources: ACFR25 pp.135, 137, 140 (from HCAD), OS26 Table 4/5, and the HISD tax p
 2. Rating-agency press releases. No rating action was found; the PFC Aaa-to-Aa1 change is unconfirmed.
 3. HISD's own **Voter Information Document** (only TPPF's transcription); Harris County canvass PDF (Ballotpedia used).
 4. Whether the **$182.5M CTE lease-revenue bonds** have been issued (not on EMMA as of 2026-10-06).
-5. **School-closure savings** (HISD has not disclosed them); proceeds from property sales.
+5. **School-closure savings** (only a $15M FY2027 projection, May 2026 workshop); proceeds from property sales.
 6. NES total all-in cost after FY2025, and the source document for the $31.7M figure (Tribune; not in WS24's text layer).
 7. Whether TY2025 **disaster pennies** were levied ($0.8783 versus $0.8489).
 8. Reconciling the FY2025 **recapture** and **TIRZ revenue** figures above.
