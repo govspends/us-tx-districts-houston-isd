@@ -2,24 +2,29 @@
 
 Inputs (TEA "PEIMS Financial Standard Reports" -> Financial Actual Reports data download, one per year):
   sources/tea_peims/{actual2025-info-gen-all, actual2024-info-gen-all-w-fb, 2023-actual-pwr,
-                     2022-actual-pwr-0, 2021-actual-pwr}.xlsx
+                     2022-actual-pwr-0, 2021-actual-pwr, 2020-actual-pwr-0, 2019-actual-pwr-1}.xlsx
 Per-student = amount / Total Enrolled Membership (the denominator TEA's PWR report uses).
 "State" = sum of every row in the dump (all ISDs + charters), which is what TEA's PWR
 "State Total (All Districts)" shows; ISD-only state totals are also emitted as STATE_ISD.
 
 Outputs:
   data/tea_peims_actuals_long.csv   one row per (entity, year, fund, line): amount, per_student
-  data/peer_comparison.csv          wide, latest year (2024-25), per student, AF and GF
-  data/hisd_peims_trend.csv         HISD 2020-21..2024-25, per student, AF and GF
+  data/peer_comparison.csv          wide, 2024-25 + 2023-24, per student, AF and GF (+ 2024-25 ratios)
+  data/peer_comparison_2019_2025.csv  same layout for every year 2018-19..2024-25, ratios for every year
+  data/hisd_peims_trend.csv         HISD 2018-19..2024-25, per student, AF and GF (blank = line not in that
+                                    year's dump)
 """
 import csv, os, sys
 sys.path.insert(0, os.path.dirname(__file__))
 from xlsx_lite import read_xlsx
+import os as _os
+ROOT = _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))   # the investigation folder
 
-SRC = "/git/Texas/HISD/sources/tea_peims"
-DATA = "/git/Texas/HISD/data"
+SRC = ROOT + "/sources/tea_peims"
+DATA = ROOT + "/data"
 FILES = {"2024-25": "actual2025-info-gen-all.xlsx", "2023-24": "actual2024-info-gen-all-w-fb.xlsx",
-         "2022-23": "2023-actual-pwr.xlsx", "2021-22": "2022-actual-pwr-0.xlsx", "2020-21": "2021-actual-pwr.xlsx"}
+         "2022-23": "2023-actual-pwr.xlsx", "2021-22": "2022-actual-pwr-0.xlsx", "2020-21": "2021-actual-pwr.xlsx",
+         "2019-20": "2020-actual-pwr-0.xlsx", "2018-19": "2019-actual-pwr-1.xlsx"}
 PEERS = {"101912": "Houston ISD", "057905": "Dallas ISD", "227901": "Austin ISD", "220905": "Fort Worth ISD",
          "015915": "Northside ISD", "101907": "Cypress-Fairbanks ISD", "101914": "Katy ISD", "079907": "Fort Bend ISD"}
 
@@ -152,36 +157,40 @@ def main():
     ents = list(PEERS) + ["STATE", "STATE_ISD"]
     names = {**PEERS, "STATE": "State (all LEAs)", "STATE_ISD": "State (ISDs only)"}
 
-    # peer comparison, latest year, per student
-    with open(f"{DATA}/peer_comparison.csv", "w", newline="") as f:
-        w = csv.writer(f)
-        w.writerow(["school_year", "fund", "line"] + [names[e] for e in ents])
-        for yr in ("2024-25", "2023-24"):
-            w.writerow([yr, "", "enrolled_membership"] + [int(idx[(e, yr, "AF", "rev_local_mo")][6]) for e in ents])
-            for fund in ("AF", "GF"):
-                for k in keys:
-                    vals = [idx.get((e, yr, fund, k)) for e in ents]
-                    if all(v is None for v in vals):
-                        continue
-                    w.writerow([yr, fund, k + "_per_student"] + ["" if v is None else round(v[7]) for v in vals])
-        # derived ratios
-        yr = "2024-25"
-        for fund in ("AF", "GF"):
-            def g(e, k):
-                v = idx.get((e, yr, fund, k)); return v[5] if v else 0
-            w.writerow([yr, fund, "instruction_share_of_oper_exp_pct"] + [round(100 * g(e, "f11_instruction") / g(e, "exp_total_oper"), 2) for e in ents])
-            w.writerow([yr, fund, "school_leadership_share_pct"] + [round(100 * g(e, "f23_school_leadership") / g(e, "exp_total_oper"), 2) for e in ents])
-            w.writerow([yr, fund, "general_admin_share_pct"] + [round(100 * g(e, "f41_general_admin") / g(e, "exp_total_oper"), 2) for e in ents])
-            w.writerow([yr, fund, "contracted_services_share_pct"] + [round(100 * g(e, "exp_contracted_62") / g(e, "exp_total_oper"), 2) for e in ents])
-            # Proxy of FIRST admin cost ratio: (F21 + F41) / (F11 + F12 + F13 + F31). PROXY ONLY: TEA's official
-            # ratio uses specific fund groups / function 41 excluding 92 (see notes); this uses PWR totals.
-            w.writerow([yr, fund, "admin_cost_ratio_PROXY_(21+41)/(11+12+13+31)"] + [
-                round((g(e, "f21_instr_leadership") + g(e, "f41_general_admin")) /
-                      (g(e, "f11_instruction") + g(e, "f12_instr_resources") + g(e, "f13_curriculum_staffdev") + g(e, "f31_guidance")), 4)
-                for e in ents])
-            w.writerow([yr, fund, "state_oper_share_of_oper_rev_pct"] + [round(100 * g(e, "rev_state_oper") / g(e, "rev_total_oper"), 2) for e in ents])
-            w.writerow([yr, fund, "local_mo_share_of_oper_rev_pct"] + [round(100 * g(e, "rev_local_mo") / g(e, "rev_total_oper"), 2) for e in ents])
-            w.writerow([yr, fund, "federal_share_of_oper_rev_pct"] + [round(100 * g(e, "rev_federal") / g(e, "rev_total_oper"), 2) for e in ents])
+    def write_peer(path, years, ratio_years):
+        with open(path, "w", newline="") as f:
+            w = csv.writer(f)
+            w.writerow(["school_year", "fund", "line"] + [names[e] for e in ents])
+            for yr in years:
+                w.writerow([yr, "", "enrolled_membership"] + [int(idx[(e, yr, "AF", "rev_local_mo")][6]) for e in ents])
+                for fund in ("AF", "GF"):
+                    for k in keys:
+                        vals = [idx.get((e, yr, fund, k)) for e in ents]
+                        if all(v is None for v in vals):
+                            continue
+                        w.writerow([yr, fund, k + "_per_student"] + ["" if v is None else round(v[7]) for v in vals])
+            # derived ratios
+            for yr in ratio_years:
+                for fund in ("AF", "GF"):
+                    def g(e, k):
+                        v = idx.get((e, yr, fund, k)); return v[5] if v else 0
+                    w.writerow([yr, fund, "instruction_share_of_oper_exp_pct"] + [round(100 * g(e, "f11_instruction") / g(e, "exp_total_oper"), 2) for e in ents])
+                    w.writerow([yr, fund, "school_leadership_share_pct"] + [round(100 * g(e, "f23_school_leadership") / g(e, "exp_total_oper"), 2) for e in ents])
+                    w.writerow([yr, fund, "general_admin_share_pct"] + [round(100 * g(e, "f41_general_admin") / g(e, "exp_total_oper"), 2) for e in ents])
+                    w.writerow([yr, fund, "contracted_services_share_pct"] + [round(100 * g(e, "exp_contracted_62") / g(e, "exp_total_oper"), 2) for e in ents])
+                    # Proxy of FIRST admin cost ratio: (F21 + F41) / (F11 + F12 + F13 + F31). PROXY ONLY: TEA's official
+                    # ratio uses specific fund groups / function 41 excluding 92 (see notes); this uses PWR totals.
+                    w.writerow([yr, fund, "admin_cost_ratio_PROXY_(21+41)/(11+12+13+31)"] + [
+                        round((g(e, "f21_instr_leadership") + g(e, "f41_general_admin")) /
+                              (g(e, "f11_instruction") + g(e, "f12_instr_resources") + g(e, "f13_curriculum_staffdev") + g(e, "f31_guidance")), 4)
+                        for e in ents])
+                    w.writerow([yr, fund, "state_oper_share_of_oper_rev_pct"] + [round(100 * g(e, "rev_state_oper") / g(e, "rev_total_oper"), 2) for e in ents])
+                    w.writerow([yr, fund, "local_mo_share_of_oper_rev_pct"] + [round(100 * g(e, "rev_local_mo") / g(e, "rev_total_oper"), 2) for e in ents])
+                    w.writerow([yr, fund, "federal_share_of_oper_rev_pct"] + [round(100 * g(e, "rev_federal") / g(e, "rev_total_oper"), 2) for e in ents])
+
+    # peer comparison: latest two years (unchanged file) + all years 2018-19..2024-25
+    write_peer(f"{DATA}/peer_comparison.csv", ("2024-25", "2023-24"), ("2024-25",))
+    write_peer(f"{DATA}/peer_comparison_2019_2025.csv", list(FILES), list(FILES))
 
     # HISD trend
     yrs = list(FILES)[::-1]
@@ -191,10 +200,11 @@ def main():
         w.writerow(["", "enrolled_membership", "count"] + [int(idx[("101912", y, "AF", "rev_local_mo")][6]) for y in yrs])
         for fund in ("AF", "GF"):
             for k in keys:
-                if not all(idx.get(("101912", y, fund, k)) for y in yrs):
+                if not any(idx.get(("101912", y, fund, k)) for y in yrs):
                     continue
-                w.writerow([fund, k, "amount"] + [idx[("101912", y, fund, k)][5] for y in yrs])
-                w.writerow([fund, k, "per_student"] + [round(idx[("101912", y, fund, k)][7]) for y in yrs])
+                h = [idx.get(("101912", y, fund, k)) for y in yrs]
+                w.writerow([fund, k, "amount"] + ["" if v is None else v[5] for v in h])
+                w.writerow([fund, k, "per_student"] + ["" if v is None else round(v[7]) for v in h])
                 w.writerow([fund, k, "state_per_student"] + [round(idx[("STATE", y, fund, k)][7]) if idx.get(("STATE", y, fund, k)) else "" for y in yrs])
     print("rows", len(long_rows))
 

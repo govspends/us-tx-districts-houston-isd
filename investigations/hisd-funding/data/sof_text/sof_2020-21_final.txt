@@ -1,0 +1,1582 @@
+                                               2020-2021 Summary of Finances
+
+
+                                                   HOUSTON ISD (101912)
+                                                       Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                            Payment Class: 3                          Run Id: 46377
+
+
+
+
+Funding Elements
+
+Students                                                                             LPE                   Final
+
+
+1.    Refined Average Daily Attendance (ADA)                                          187,105.401          177,206.586
+
+2.    Regular Program ADA (Ref ADA - Spec Ed FTEs - CT FTEs)                          176,399.570          166,235.908
+
+3.    Special Education FTEs                                                            3,647.835             3,696.406
+
+4.    Career & Technology FTEs                                                          7,057.996             7,274.272
+
+5.    Weighted ADA (WADA)                                                             263,086.835         253,554.470
+
+Property Values                                                                     LPE                    Final
+
+6.    2019 State Certified Property Value (prior tax year)                         $187,336,394,286    $182,382,667,813
+
+7.     2020 State Certified Property Value (current tax year)                      $200,159,027,054    $191,595,999,079
+      (LPE 2019 State Certified Property Value * 1.0401)
+
+
+Tax Rates and Collections                                                             LPE                 Final
+
+
+8.    2020 M&O Tax Rate (current tax year)                                                    0.9664           0.9664
+
+9.    2020 (current tax year) Tier one M&O Tax Rate                                           0.9164           0.9164
+
+
+10.   Maximum Compressed Tax Rate                                                             0.9164           0.9164
+
+11.   2020-2021 (current school year) M&O Tax Collections                            $1,708,980,504    $1,770,786,333
+      (greater of 2020 school year LPE or DPE collections * 1.0401)
+
+12.   2020 (current tax year) I&S Tax Rate                                                    0.1667           0.1667
+
+13.   2020-2021 (current school year) I&S Tax Collections                              $307,558,116      $313,142,275
+
+
+14.   2020-2021 (current school year) Total Tax Collections                          $2,016,538,620    $2,083,928,608
+
+15.   2020-2021 (current school year) Total Tax Levy                                 $2,096,398,936    $2,173,577,655
+
+Funding Components                                                                   LPE                  Final
+
+
+16.    District Basic Allotment * TR / MCR                                                    $6,160           $6,160
+
+
+17.   ASF ADA                                                                          188,728.016        188,728.016
+
+18.   Per Capita Rate                                                                       $486.922         $486.922
+
+
+
+                                                                                                            Page 1 of 36
+Program Intent Codes - Allotments                                      LPE                  Final
+
+Tier One Subchapter B and C Allotments
+
+19.   11-Regular Program Allotment 48.051                             $1,086,621,351      $1,024,013,193
+
+20.   Small and Mid-Size Allotment 48.101                                          $0                 $0
+
+21.    23-Special Education Adjusted Allotment 48.102                   $108,104,706        $109,923,028
+      (spend 55% of amount)
+
+                                                                          $2,624,249          $3,549,392
+22.   37-Dyslexia Allotment 48.103 (spend 100% of amount)
+
+23.    24-Compensatory Education Allotment 48.104                       $266,666,877        $266,679,688
+      (spend 55% of amount)
+24.   25-Bilingual Education Allotment 48.105                            $38,299,910         $38,986,859
+      (spend 55% of amount)
+25.    22-Career and Technology Allotment 48.106                         $58,694,295         $60,493,416
+      (spend 55% of amount)
+
+26.   11-Public Education Grant 48.107                                             $0               $609
+
+27.   36-Early Education Allotment 48.108 (spend 100% of amount)         $50,585,304         $50,025,828
+
+28.   38-CCMR Outcomes Bonus 48.110 (spend 55% of amount)                 $6,734,000          $6,017,000
+
+29.   Fast growth allotment 48.111                                                 $0                 $0
+
+30.   Teacher Incentive Allotment 48.112                                           $0            $31,798
+
+31.   Mentor Program Allotment 48.114                                              $0                 $0
+
+32.   School Safety Allotment 42.168                                      $1,818,664          $1,722,448
+
+Tier One Subchapter D Allotments
+
+33.   99-Transportation Allotment 48.151                                 $10,752,493          $6,896,462
+
+34.   99-New Instructional Facility Allotment 48.152                      $2,296,191         $2,233,702
+
+35.  Dropout Recovery and Residential Placement Facility Allotment           $105,728           $109,636
+    48.153
+36. Tuition Allotment for Districts not Offering all Grade Levels                  $0                 $0
+    48.154
+
+37.   College Preparation Assessment Reimbursement 48.155                    $585,393          $416,395
+
+38.   Certification Examination Reimbursement 48.156                         $451,987          $108,211
+
+39.   Advanced Placement Tests Set-Aside                                     ($23,391)          ($22,948)
+
+40.   Total Cost of Tier One                                          $1,634,317,756     $1,571,184,717
+
+41.   Local Fund Assignment                                          ($1,834,257,324)    ($1,755,785,736)
+
+42.   Per Capita Distribution from Available School Fund (ASF)         ($91,895,823)       ($91,895,823)
+
+
+
+
+                                                                                             Page 2 of 36
+Foundation School Program (FSP) State Funding                          LPE              Final
+
+43.   FSP State Share of Tier One                                                 $0              $0
+      (Total Cost of Tier One - Local Fund Assignment - ASF)
+
+44.    Tier Two                                                         $26,139,596      $27,870,883
+
+
+45.   Other Programs                                                    $12,161,006      $12,155,941
+
+46    Total FSP Operations Funding                                      $38,300,602      $40,026,824
+
+State Aid by Fund Code / Object Code - Funding Source                  LPE              Final
+
+M&O State Aid
+
+47.   199/5812 - Foundation School Fund                                 $38,300,602      $40,026,824
+
+48.   199/5811 - Available School Fund                                  $91,895,823      $91,895,823
+
+I&S State Aid
+
+49.   599/5829 - EDA                                                             $0               $0
+
+50.   599/5829 - Instructional Facilities Allotment (Bond)                       $0               $0
+
+51.   199/5829 - Instructional Facilities Allotment (Lease Purchase)             $0               $0
+
+52.    Additional State Aid for Homestead                                $2,153,229       $2,288,180
+      Exemption (ASAHE) for Facilities
+
+53.   TOTAL FSP/ASF STATE AID                                          $132,349,654     $134,210,827
+
+ Local Revenue in Excess of Entitlement
+
+54.   Local Revenue in Excess of Entitlement                           ($78,138,636)   ($198,143,910)
+
+
+
+
+                                                                                          Page 3 of 3
+
+
+
+
+                                                                                         Page 3 of 36
+                                           2020-2021 Adjusted ADA Detail Report
+
+
+                                                   HOUSTON ISD (101912)
+                                                       Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                         Payment Class: 3                                    Run Id: 46377
+
+
+  Adjusted ADA                                                                                    LPE            Final
+
+   1.   PEIMS ADA                                                                                        0.000     178,343.719
+
+   2.   Less PEIMS Pre-K ADA                                                                             0.000           0.000
+
+   3.   Plus 1/2 Day Pre-K ADA                                                                           0.000           0.000
+
+   4.   Adjusted ADA (line 1 - line 2 + line 3)                                                    187,105.401     177,206.586
+
+   5.   2019-2020 Final ADA (No Adjustment for Decline)                                            176,702.550     176,702.550
+
+
+  The Line 4 Adjusted ADA values will not reconcile based on formula (line1 - line 2 + line 3),
+  if the Adjusted ADA values have audit adjustments.
+
+
+                                                                                                                     Page 1 of 1
+
+
+
+
+                                                                                                                    Page 4 of 36
+                                                        2020-2021 Special Education FTE Detail Report
+
+
+                                                                   HOUSTON ISD (101912)
+                                                                        Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                                        Payment Class: 3                                                      Run ID: 46377
+
+
+
+
+   Instructional Arrangement                             Weight           LPE Payment FTE           LPE EYS FTE        Final Payment FTE        Final EYS FTE
+
+    1.   Homebound                                                5.0                       2.940           0.000                       3.480             0.000
+
+    2.   Hospital Class                                           3.0                       2.478           0.000                       2.852             0.000
+
+    3.   Speech Therapy                                           5.0                    214.056            0.000                    226.502              0.332
+
+    4.   Resource Room                                            3.0                  1,557.186            0.000                   1,598.274             0.173
+
+    5.   Self Contained Severe / Self                             3.0                  1,771.132            0.000                   1,767.496            16.315
+         Contained M/M Reg. Camp
+    6.   Off Home Campus                                          2.7                     65.361            0.000                     67.932              0.169
+
+    7.   Vocational Adjustment Class                              2.3                       0.000           0.000                       0.000             0.000
+
+    8.   State Schools                                            2.8                       0.000           0.000                       0.000             0.000
+
+    9.   Residential Care and Treatment                           4.0                     34.682            0.000                     29.870              0.000
+
+   10.   Total FTE*                                              N/A                   3,647.835             N/A                    3,696.406               N/A
+
+   11.   Total Weighted FTE                                      N/A                  11,253.843             N/A                   11,439.192               N/A
+
+   12.   Non-Public Contracts                                     1.7                     57.731             N/A                      61.100                N/A
+
+   13.   Mainstream ADA                                         1.15                   5,334.198             N/A                    5,405.949               N/A
+
+
+  * Non-Public Contracts and Mainstream ADA are not included in total
+
+
+
+
+                                                                                                                    Page 5 of 36
+                                           2020-2021 WADA Calculation Detail Report
+
+
+                                                       HOUSTON ISD (101912)
+                                                          Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                             Payment Class: 3                       Run Id: 46377
+
+
+
+
+  WADA Calculation Detail                                                               LPE             Final
+
+   1.   Total Cost of Tier One                                                        $1,634,317,756   $1,571,184,717
+
+   2.   99-Transportation Allotment 48.151                                              $10,752,493       $6,896,462
+
+   3.   99-New Instructional Facility Allotment 48.152                                   $2,296,191       $2,233,702
+
+   4.   Dropout Recovery and Residential Placement Facility Allotment                      $105,728         $109,636
+        48.153
+
+   5.   Tuition Allotment for Districts not Offering all Grade Levels                            $0                $0
+        48.154
+
+   6.   College Preparation Assessment Reimbursement 48.155                                $585,393         $416,395
+
+   7.   Certification Examination Reimbursement 48.156                                     $451,987         $108,211
+
+   8.   Early Childhood Intervention Set-Aside                                             $465,547         $452,277
+
+   9.   Total Adjusted Tier One (line 1 - line 2 - line 3 - line 4 - line 5 -         $1,620,591,511   $1,561,872,588
+        line 6 - line 7 + line 8)
+
+  10.   District Basic Allotment * TR / MCR                                                   $6,160            $6,160
+
+  11.   Weighted Students in Average Daily Attendance (WADA) =                          263,086.835      253,554.470
+        line 9 / line 10
+                                                                                                            Page 1 of 1
+
+
+
+
+                                                                                                           Page 6 of 36
+                                           2020-2021 M&O Collections Detail Report
+
+
+                                                     HOUSTON ISD (101912)
+                                                         Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                              Payment Class: 3                       Run Id: 46377
+
+
+
+    M&O Programs Detail                                                              LPE                  Final
+
+  1.    2020-2021 Local M&O Collections                                               $1,754,575,694     $1,815,915,383
+
+  2.    2020-2021 Local Share for IFA Lease Purchase                                             ($0)               ($0)
+
+  3.    2020-2021 Payment to Tax Increment Fund (TIF)                                  ($45,595,190)      ($45,129,050)
+
+  4.    2020-2021 Total M&O Collections (line 1 - line 2 - line 3)                     $1,708,980,504    $1,770,786,333
+
+  5.    2020 M&O Tax Rate                                                                      0.9664             0.9664
+
+  6.    Yield per Penny (total collections / M&O tax rate / 100 )                          $17,683,987      $18,323,534
+
+  7.    2020(current tax year) Tier One M&O Tax Rate (TR)                                      0.9164             0.9164
+
+
+  8.    M&O Collections @ Tier One M&O Tax Rate                                        $1,620,560,569    $1,679,168,663
+        (TR) (TR * 100 * yield per penny)
+
+  9.    M&O Rate for Level 1                                                                   0.0500             0.0500
+        (adopted rate - Tier One M&O Tax Rate,limited to 0.08)
+
+
+  10.   M&O Collections for Level 1 (level 1 rate * 100 * yield per penny)                 $88,419,935      $91,617,670
+
+
+  11.   M&O Collections for Level 2 (line 4 - line 8 - line 10)                                    $0                 $0
+
+
+                                                                                                             Page 1 of 1
+
+
+
+
+                                                                                                            Page 7 of 36
+                                                                        2020-2021 Teacher Incentive Allotment Detail Report
+
+
+                                                                         HOUSTON ISD (101912)
+                                                                            Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                                                Payment Class: 3                                                    Run Id: 46377
+
+
+
+
+  Funding Elements                                         LPE #OF TEACHERS                  LPE Allotment               Final #OF TEACHERS           Final
+
+
+  1.    Master Teacher Designation                                              0                            $0                                  0                $0
+
+  2.    Exemplary Teacher Designation                                           0                            $0                                  0                $0
+
+  3.    Recognized Teacher Designation                                          0                            $0                                  6            $31,798
+
+  4.    Fee Reimbursement                                                     N/A                            $0                                N/A                $0
+
+  5.    Teacher Incentive Allotment                                           N/A                            $0                                N/A            $31,798
+
+
+
+ *Teacher Incentive Allotment: If you have any questions related to Teacher Incentive Allotment please e-mail tia@tea.texas.gov for a more detailed
+ breakdown of the calculations.
+
+
+
+
+                                                                                                                               Page 8 of 36
+                                        2020-2021 Transportation Detail Report
+
+
+                                              HOUSTON ISD (101912)
+                                                 Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                  Payment Class: 3                           Run Id: 46377
+
+
+ Transportation Detail                                                       LPE                Final
+
+ 1.     Regular                                                                    $5,365,124      $3,794,769
+
+ 2.     Private                                                                           $0               $0
+
+ 3.     Special Education                                                          $5,353,808      $3,099,687
+
+ 4.     Career & Technology Education                                                $33,561            $2,006
+
+  5.    Total Transportation                                                     $10,752,493       $6,896,462
+
+
+
+
+                                                                                                   Page 9 of 36
+                                                                2020-2021 Tier One Detail Report
+
+
+                                                                    HOUSTON ISD (101912)
+                                                                          Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                                          Payment Class: 3                                                               Run ID: 46377
+
+
+
+
+                    District Basic Allotment: LPE - $ 6,160 DPE - $ 6,160 Adjusted for Special Education Allotment: LPE - $6,160.00    DPE - $6,160.00
+
+
+
+  Program Name                                                 Weight                 LPE ADA           LPE Allotment                 Final ADA          Final Allotment
+  1. Regular Program
+
+  Allotment                                                        1.00             176,399.570          $1,086,621,351               166,235.908          $1,024,013,193
+
+  2. Small and Mid-Sized
+
+
+  Allotment                                                         N/A             176,399.570                       $0              166,235.908                     $0
+
+  3. Special Education
+
+
+  Regular Special Education                                         N/A              11,253.843             $69,323,671                11,439.192            $70,465,425
+
+
+  Mainstream                                                       1.15               5,334.198             $37,787,459                 5,405.949            $38,295,743
+
+  Residential Care and Treatment                                   4.00                  34.682                $854,564                   29.870                $735,997
+
+
+  State Schools                                                    2.80                   0.000                       $0                    0.000                     $0
+
+  Non-Public Contracts                                             1.70                  57.731                $604,559                   61.100                $639,839
+
+  Extended Year Special Education                                  N/A                    0.000                       $0                  51.580                $238,301
+
+  (Less Early Child Intervention Set-Aside)                        N/A                      N/A               ($465,547)                     N/A               ($452,277)
+
+  Special Education Allotment                                      N/A                      N/A            $108,104,706                      N/A            $109,923,028
+
+  4. Dyslexia
+
+  Allotment                                                        0.10               4,260.144               $2,624,249                5,762.000             $3,549,392
+
+
+                                                                                                                       Page 10 of 36
+ 5. State Compensatory Education
+
+ State Compensatory Allotment                 0.2250 - 0.2750   154,243.000    $266,202,552          154,243.000      $266,202,552
+
+ Pregnancy Related                                      2.41        24.057        $357,141                  24.920       $369,952
+
+Non-Educationally Disadvantaged students               0.20         87.000        $107,184                  87.000       $107,184
+without disability living in residential
+treatment facility and whose parents do not
+reside in district
+
+ Total Compensatory Allotment                            N/A             N/A   $266,666,877                     N/A   $266,679,688
+
+ 6. Bilingual Program
+
+ Bilingual LEP Allotment                               0.10       46,694.678    $28,763,922              47,981.071    $29,556,340
+
+ Bilingual LEP Dual Language One-Way or                0.15        8,571.000     $7,919,604               8,476.204     $7,832,012
+ Two-Way Allotment
+
+ Bilingual Non LEP Dual Language                        0.05       5,248.000     $1,616,384               5,189.957     $1,598,507
+ Two-Way Allotment
+
+ Bilingual Allotment                                     N/A      60,513.678    $38,299,910              61,647.232    $38,986,859
+
+
+
+
+                                                                                         Page 11 of 36
+7. Career & Technology
+
+Regular Career & Technology (CTE)                   1.35     7,057.996   $58,694,295               7,274.272   $60,492,846
+Allotment
+
+Advanced CTE Allotment                               $50         0.000           $0                    0.000           $0
+
+P-TECH Allotment                                     $50         0.000           $0                    3.094         $155
+
+New Tech Network Allotment                           $50         0.000           $0                    8.294         $415
+
+CTE Allotment                                        N/A     7,057.996   $58,694,295               7,285.660   $60,493,416
+
+8. Public Education Grant (PEG)
+
+Allotment                                           0.10         0.000           $0                    0.988         $609
+
+9. Early Education
+
+Allotment                                           0.10    82,119.000   $50,585,304              81,210.759   $50,025,828
+
+10. CCMR Outcomes Bonus
+
+Educationally Disadvantaged Graduates             $5,000      964.000     $4,820,000                892.000     $4,460,000
+
+Not Educationally Disadvantaged Graduates         $3,000      628.000     $1,884,000                503.000     $1,509,000
+
+
+Special Education Graduates                       $2,000       15.000       $30,000                  24.000       $48,000
+
+
+CCMR Outcomes Bonus                                 N/A          1,607    $6,734,000                   1,419    $6,017,000
+
+11. Fast Growth
+
+Allotment                                           0.04   187,105.401           $0           177,206.586              $0
+
+12. School Safety
+Allotment                                          $9.72   187,105.401    $1,818,664          177,206.586       $1,722,448
+
+13. New Instructional Facility Allotment (NIFA)
+
+Allotment                                          $0.00     2,296.191    $2,296,191               2,233.702    $2,233,702
+
+14. Dropout Recovery and Residential
+
+Dropout Recovery Allotment                         $275       384.464      $105,728                 380.212      $104,558
+
+Residential Facility Allotment                     $275          0.000           $0                  18.464        $5,078
+
+
+
+                                                                                  Page 12 of 36
+Dropout Recovery and Residential Placement   N/A   384.464   $105,728              398.676   $109,636
+Facility Allotment
+
+                                                                                             Page 4 of 4
+
+
+
+
+                                                                   Page 13 of 36
+                                               2020-2021 Tier Two Detail Report
+
+
+                                                      HOUSTON ISD (101912)
+                                                       Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                         Payment Class: 3                      Run Id: 46377
+
+
+  Tier Two Detail                                                                  LPE             Final
+
+   1.   WADA (Weighted Students in Average Daily Attendance)                        263,086.835      253,554.470
+
+  Level 1
+
+   2.   M&O Collections for Level 1                                                 $88,419,935      $91,617,670
+
+
+   3.   District Tax Rate Level 1 (DTR1) ((M&O collections for level 1                   0.0442            0.0478
+        * 100)/2020 state certified district property value (DPV))
+
+   4.   Level 1 Entitlement @ $98.56 (WADA * 98.56 * DTR1 * 100)                   $114,609,886     $119,453,771
+
+   5.   Less Local Share (LR) ((2020 DPV / 100) * DTR1)                            ($88,470,290)   ($91,582,888)
+
+   6.   Guaranteed Yield Allotment (($98.56 * WADA * DTR1 * 100) -                  $26,139,596      $27,870,883
+        LR)
+
+  Level 2
+
+   7.   M&O Collections for Level 2                                                          $0               $0
+
+   8.   District Tax Rate Level 2 (DTR2) ((M&O collections for level 2                   0.0000            0.0000
+        * 100)/2020 state certified district property value (DPV))
+
+   9.   Level 2 Entitlement @ $49.28 (WADA * 49.28 * DTR2 * 100)                             $0               $0
+
+  10.   Less Local Share (LR) ((2020 DPV / 100) * DTR2))                                    ($0)             ($0)
+
+
+  11.   Guaranteed Yield Allotment (($49.28 * WADA * DTR2 * 100) -                           $0               $0
+        LR)
+
+  Total Tier Two State Aid
+
+  12.   Total Tier Two State Aid (Line 6 + Line 11)                                $26,139,596     $27,870,883
+
+                                                                                                       Page 1 of 1
+
+
+
+
+                                                                                                    Page 14 of 36
+                                         2020-2021 Other Programs Detail Report
+
+
+                                                    HOUSTON ISD (101912)
+                                                       Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                        Payment Class: 3                     Run Id: 46377
+
+
+       Other Programs Detail                                                       LPE           Final
+
+  1.   Attendance Credit Sold                                                             ($0)           ($0)
+
+
+
+  2.   Additional Aid for ESCs and Educational Districts                                   $0              $0
+       (Ins. Code 1579.251(b))
+
+  3.   Supplemental Tax Increment Fund (TIF) Payment,                              $12,414,613   $12,414,613
+       Chapter 311 Tax Increment Reinvestment Zone (TIRZ)
+
+  4.   Tax Credit for Tax Code, Chapter 313 Value Limitations                              $0              $0
+
+
+
+  5.   Subchapter F, Chapter 48 Funding Credit Against Recapture                          ($0)           ($0)
+
+
+
+  6    Windham Schools                                                                     $0              $0
+
+
+  7.   Texas School for the Blind and Visually Impaired                              ($66,648)     ($57,585)
+
+
+  8.   Texas School for the Deaf                                                    ($186,959)    ($201,087)
+
+
+  9.   Adjustment for HB1 Tax Compression for Texas School for the                        ($0)           ($0)
+       Blind and Visually Impaired
+
+ 10.   Adjustment for HB1 Tax Compression for Texas School for the                        ($0)           ($0)
+       Deaf
+
+ 11.   Charter School Facilities Funding (12.106(d))                                       $0              $0
+
+
+
+ 12.   Additional Aid for Partnering to Operate a                                          $0              $0
+       District Campus (TEC 48.252)
+
+ 13.    Formula Transition Grant (TEC 48.277)                                              $0              $0
+
+
+ 14.    Equalized Wealth Transition Grant (TEC 48.278)                                     $0              $0
+
+
+ 15.    Interest refunds under 48.271(c)                                                   $0              $0
+
+
+ 16.   Total Other Programs                                                        $12,161,006   $12,155,941
+
+                                                                                                     Page 1 of 1
+
+
+
+
+                                                                                                  Page 15 of 36
+                       2020-2021 Charter School Facilities Funding
+                                    Detail Report
+
+                               HOUSTON ISD (101912)
+                                  Last Update: FEB 12, 2026
+
+Payment Cycle: Final                    Payment Class: 3                Run Id: 46377
+
+
+                             There is no data available at this time.
+
+
+
+
+                                                                         Page 16 of 36
+                       2020-2021 Additional Aid for Partnering to
+                        Operate a District Campus (TEC 48.252)
+
+                               HOUSTON ISD (101912)
+                                 Last Update: FEB 12, 2026
+
+Payment Cycle: Final                  Payment Class: 3                                    Run Id: 46377
+
+
+
+
+                                               There is no data available at this time.
+
+
+
+
+                                                                                           Page 17 of 36
+                                          2020-2021 Formula Transition Grant TEC 48.277
+
+
+                                                   HOUSTON ISD (101912)
+                                                      Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                        Payment Class: 3                          Run Id: 46377
+
+
+
+  Formula Transition Grant TEC 48.277(a)                                             LPE               Final
+
+
+  1.    Prior Law M&O Collections                                                 $1,842,607,130    $1,909,084,524
+
+
+  2.    Prior Law FSP operations funding (adjusted for sale of WADA                $131,505,132      $136,566,376
+        and netting recapture against state aid)
+
+  3.    Prior Law ASF Allotment                                                     $91,895,823       $91,895,823
+
+
+  4.    Prior Law recapture                                                        $450,189,227      $418,211,809
+
+
+  5.    Prior Law Total M&O Revenue = line 1 + line 2 + line 3 - line 4           $1,615,818,858    $1,719,334,914
+
+
+  6.    Prior Law M&O Tax Rate                                                             1.0400          1.0400
+
+
+  7.    Prior Law Expected M&O Tax Rate (min(prior law M&O rate,                           0.9564          0.9564
+        maximum compressed rate) + min(prior law M&O rate-1,.08)
+        + min(.0583,(max(0,prior law M&O rate-1.08))* 0.64834)
+
+  8.    Current Law M&O Tax Rate                                                           0.9664          0.9664
+
+
+
+  9.    Ratio (if current law M&O tax rate < prior law expected M&O                        1.0000          1.0000
+        tax rate, then ratio = current law M&O tax rate / prior law
+        expected M&O tax rate)
+
+ 10.    Prior Law Total M&O Revenue adjusted for prior law expected               $1,615,818,858    $1,719,334,914
+        M&O tax rate (line 5 * line 9)
+
+ 11.    Prior Law Refined Average Daily Attendance (ADA)                            187,105.401       187,467.069
+
+
+
+ 12.    Prior Law Total M&O Revenue per ADA                                                $8,636          $9,171
+
+
+
+ 13.    Prior Law Statewide Average M&O Revenue per ADA                                    $9,015          $9,195
+
+
+
+ 14.    Prior Law M&O Revenue per ADA * 1.03                                               $8,895          $9,447
+
+
+
+ 15.    Prior Law Statewide Average M&O Revenue per ADA * 1.28                          $11,539           $11,770
+
+
+
+ 16.    Minimum of Line 14 or 15                                                           $8,895          $9,447
+
+
+
+
+                                                                                                       Page 18 of 36
+      TEC 48.27 (d-1)                                                      LPE               Final
+
+
+17.   Prior law recapture (excludes 9293 HH)                             $450,189,227      $418,211,809
+
+
+18.   Prior Law Total M&O Revenue (excludes 9293 HH) = line 1           $1,615,818,858    $1,719,334,914
+      + line 2 + line 3 - line 17
+
+19.   Prior Law Total M&O Revenue (excludes 9293 HH) adjusted for       $1,615,818,858    $1,719,334,914
+      prior law expected M&O tax rate (line 18 * line 9)
+
+20.   Prior Law Total M&O Revenue per ADA                                        $8,636          $9,171
+
+
+      TEC 48.277 (d-2)                                                     LPE               Final
+
+
+21.    2020-2021 Formula Transition Target Revenue per ADA                       $8,895          $9,447
+      (max of line 16 or line 20)
+
+22.   2019-2020 Formula Transition Target Revenue per ADA                        $9,101          $9,101
+      (line 16 from school year 2019-2020)
+
+23.    2019-2020 Formula Transition Target Revenue per ADA                       $9,101          $9,101
+      adjusted for Expected Tax Rate Ratio (line 22 * line 9) for
+      districts with lowered 2021 tax rate 48.277(b)(3), else line 22
+
+24.   Current Law Refined Average Daily Attendance (ADA)                  187,105.401       177,206.586
+
+
+
+25.   Formula Transition Target * ADA ((max of line 21 or line 23) *    $1,702,846,255    $1,673,988,910
+      line 24)
+
+
+      Formula Transition Grant                                             LPE               Final
+
+
+26.   HB3 Total M&O Revenue                                             $1,761,038,293    $1,704,565,070
+
+
+27.   Formula Transition Grant (If new law revenue < prior law                      $0               $0
+      revenue then grant = formula transition target revenue - new
+      law revenue)
+
+
+
+
+                                                                                             Page 19 of 36
+                                                   2020-2021 EDA Detail Report
+
+
+                                                     HOUSTON ISD (101912)
+                                                        Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                           Payment Class: 3                            Run Id: 46377
+
+
+
+ EDA State Aid Report
+
+ Data Elements                                                                          LPE               Final
+
+ 1.    2018-2019 I&S Tax Collection                                                    $274,558,339       $274,558,339
+
+ 2.    2018-2019 Local Share of EDA                                                    $135,846,783       $136,770,370
+
+ 3.    2018-2019 Local Share of IFA Awarded for Bonded Debt                                      $0                  $0
+
+ 4.    2018-2019 Excess I&S Tax Collection (line 1 - line 2 - line 3)                  $138,711,556       $137,787,969
+
+  5.   2020-2021 Actual Eligible Debt Service Payment                                  $252,441,461       $241,458,461
+
+
+  6.   2020-2021 IFA State/Local Share of IFA Awarded for Bonded                                 $0                  $0
+       Debt
+
+  7.   Estimated 2020-2021 Total Refined ADA                                            187,105.401        187,467.069
+
+  8.   2020 State Certified District Property Value (DPV) Adjusted                  $200,159,027,054   $191,595,999,079
+       Property Value
+
+  9.   2017 State Certified District Property Value (DPV) Adjusted                  $166,937,675,461   $161,242,062,845
+       Property Value
+
+ Calculations                                                                           LPE               Final
+
+ 10. 2018-2019 Rate to Determine Maximum EDA Limit                                            0.1645              0.1703
+     (line 2 + line 4) / (line 9 / 100).
+     if line 1 < line 2, then rate = (line 1 * 100) / line 9
+
+ 11. 2020-2021 Rate Needed for All Eligible Debt ((line 5 - line 6) /                         0.3455              0.3269
+     $39.40 / line 7 / 100)
+
+ 12. 2020-2021 Allowed Rate (lesser of line 10 or line 11 or $.29)                            0.1645              0.1703
+
+ 13. State/Local Share of EDA ($39.40 * line 7 * line 12 * 100)                        $120,167,670       $125,787,029
+
+
+ 14. Local Share of EDA (line 12 * (line 8 / 100))                                     $120,167,670       $125,787,029
+
+ 15. State Share of EDA (line 13 - line 14)                                                      $0                  $0
+
+ 16. EDA Entitlement (line 15, unless I&S taxes are less than EDA                                $0                  $0
+     local share)
+                                                                                                              Page 1 of 1
+
+
+
+
+                                                                                                            Page 20 of 36
+                                                                             2020-2021 EDA Eligible Debt Service Report
+
+
+                                                                                          HOUSTON ISD (101912)
+                                                                                           Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                                                          Payment Class: 3                                                                                Run ID: 46377
+
+
+
+                                                                              LPE                                                                               Final
+
+
+ Reg      Eligibility        Bond         Amount         2019-2020        2019-2020        2020-2021        2020-2021       Amount         2019-2020        2019-2020        2020-2021         2020-2021
+  #          Code                          Sold                                                                              Sold
+                                                           Debt           Eligible Debt      Debt           Eligible Debt                    Debt           Eligible Debt      Debt           Eligible Debt
+                                                          Service            Service        Service            Service                      Service            Service        Service            Service
+
+
+  3785U     1       Variable Rate Ltd     $149,955,000     $7,844,200        $7,844,200      $7,844,200        $7,844,200
+                     Tax Schhse Bds
+                         Ser 2014A-2
+                        (Remarketed
+                         06/01/2019)
+
+  60378     1       U/L Tax Schhse &       $46,910,000               $0             $0                 $0              $0    $46,910,000               $0               $0               $0              $0
+                      Ref Bds Ser 98
+
+  61482     1       Ltd Tax Schhse &                                                                                        $698,830,000               $0               $0               $0              $0
+                     Ref Bds Ser 99A
+
+  63760     1       U/L Tax Schhse &                                                                                         $42,353,755               $0               $0               $0              $0
+                    Ref Bds Ser 2000
+
+  67024     1       Ltd Tax Schhse &      $262,535,000               $0             $0                 $0              $0   $262,535,000               $0               $0               $0              $0
+                    Ref Bds Ser 2003
+                         (Remarketed
+                            8-1-2005)
+
+  68509     1        Var Rate Ltd Tax     $300,000,000               $0             $0                 $0              $0   $300,000,000               $0               $0               $0              $0
+                     Schhse Bds Ser
+                   2004 (Remarketed
+                          3/20/2012)
+
+  69534     1           Ltd Tax School    $193,300,000               $0             $0                 $0              $0   $193,300,000               $0               $0               $0              $0
+                        Building Bonds
+                           Series 2005
+
+  70033     1           Ltd Tax Ref Bds    $61,245,000               $0             $0                 $0              $0
+                               Ser 2005
+
+  70070     1           Ltd Tax Ref Bds   $198,078,577               $0             $0                 $0              $0   $198,078,577               $0               $0               $0              $0
+                             Ser 2005A
+
+  70551     1           Ltd Tax Ref Bds   $173,140,000               $0             $0                 $0              $0   $173,140,000               $0               $0               $0              $0
+                             Ser 2005B
+
+  70820     1       Ltd Tax Sch Bldg      $104,700,000               $0             $0                 $0              $0   $104,700,000               $0               $0               $0              $0
+                      Bds Ser 2005A
+
+
+                                                                                                                                           Page 21 of 36
+71306   1   U/L Tax Schhse Ref     $23,410,000           $0            $0            $0            $0     $23,410,000            $0             $0            $0            $0
+                 Bds Ser 2006A
+
+71307   1   U/L Tax Schhse Ref     $36,555,000           $0            $0            $0            $0     $36,555,000            $0             $0            $0            $0
+                 Bds Ser 2006B
+
+72627   1      Ltd Tax Ref Bds    $279,865,000     $525,000      $525,000    $10,262,500   $10,262,500   $279,865,000      $525,000       $525,000    $10,262,500   $10,262,500
+                      Ser 2007
+
+74048   1              Ltd Tax    $389,825,000           $0            $0            $0            $0    $389,825,000            $0             $0            $0            $0
+                 Schoolhouse
+            Bonds Series 2008
+
+76236   1       Ltd Tax Schhse    $148,850,000    $6,142,227    $6,142,227    $6,135,816    $6,135,816   $148,850,000     $6,142,227     $6,142,227    $6,135,816    $6,135,816
+              Bds Taxable Ser
+                2009A-2 (Build
+                 America Bds -
+             Direct Payment to
+                        Issuer)
+
+76237   1       Ltd Tax Schhse    $183,750,000   $22,331,482   $22,331,482   $22,315,140   $22,315,140   $183,750,000    $22,331,482    $22,331,482   $22,315,140   $22,315,140
+              Bds Taxable Ser
+                2009A-3 (Build
+                 America Bds -
+             Direct Payment to
+                        Issuer)
+
+80144   1     Var Rate Ltd Tax    $182,080,000    $1,965,370    $1,965,370    $2,863,880    $2,863,880   $182,080,000     $1,965,370     $1,965,370    $2,863,880    $2,863,880
+             Ref Bds Ser 2012
+                 (Remarketed
+                  06/01/2020)
+
+81367   1    Ltd Tax Schhse &     $209,640,000   $15,566,500   $15,566,500   $15,426,625   $15,426,625   $209,640,000    $15,566,500    $15,566,500   $15,426,625   $15,426,625
+            Ref Bds Ser 2013A
+
+81368   1     Var Rate Ltd Tax    $147,130,000    $2,874,635    $2,874,635    $3,138,800    $3,138,800   $147,130,000            $0             $0            $0            $0
+              Schhse Bds Ser
+                        2013B
+                 (Remarketed
+                  06/01/2021)
+
+81369   1      Ltd Tax Ref Bds     $92,905,000    $3,007,550    $3,007,550    $3,007,550    $3,007,550    $92,905,000     $3,007,550     $3,007,550    $3,007,550    $3,007,550
+                    Ser 2013C
+
+83918   1     Variable Rate Ltd   $349,740,000    $1,971,090    $1,971,090    $3,284,200    $3,284,200   $349,740,000     $1,971,090     $1,971,090    $3,284,200    $3,284,200
+               Tax Schhse Bds
+                        2014A
+                  (Remarketed
+                   06/01/2022)
+
+84363   1      Ltd Tax Ref Bds    $365,395,000   $29,876,575   $29,876,575    $7,044,700    $7,044,700   $365,395,000    $29,876,575    $29,876,575    $7,044,700    $7,044,700
+                    Ser 2014B
+
+86822   1          Limited Tax    $757,195,000   $60,503,675   $60,503,675   $60,467,800   $60,467,800   $757,195,000    $60,503,675    $60,503,675   $60,467,800   $60,467,800
+              Schoolhouse and
+              Refunding Bonds
+                 Series 2016A
+
+
+
+
+                                                                                                                        Page 22 of 36
+ 86864     1            Limited Tax      $19,975,000           $699,125           $699,125      $699,125       $699,125      $19,975,000        $699,125       $699,125       $699,125       $699,125
+                   Refunding Bonds
+                     Series 2016B -
+                        Exchanged
+
+ 88951     1            Limited Tax     $848,740,000        $79,204,925        $79,204,925   $103,588,800   $103,588,800    $848,740,000     $79,204,925    $79,204,925    $103,588,800   $103,588,800
+                   Schoolhouse and
+                   Refunding Bonds
+                       Series 2017
+
+ 90627     1         Ltd Tax Schhse      $86,960,000         $6,365,450         $6,365,450     $6,362,325     $6,362,325     $86,960,000      $6,365,450     $6,365,450      $6,362,325     $6,362,325
+                       Bds Ser 2018
+District Debt Service Totals:         $5,611,878,577       $238,877,804       $238,877,804   $252,441,461   $252,441,461   $6,141,862,332    $228,158,969   $228,158,969   $241,458,461   $241,458,461
+
+
+ * Indicates that an alternative debt service amount was used
+
+
+ Key:
+
+
+ 1=eligibility based on payment prior to 09-01-2019
+
+
+ 2=Not applicable for the current biennium
+
+
+ 3=Not eligible in current biennium unless full or partial funding of eligible debt
+
+
+
+
+                                                                                                                                            Page 23 of 36
+                       2020-2021 IFA Allotment Detail Report
+
+
+                            HOUSTON ISD (101912)
+                               Last Update: FEB 12, 2026
+
+Payment Cycle: Final               Payment Class: 3                                Run ID: 46377
+
+
+
+
+                        There is no data available at this time.
+
+
+                                                                                      Page 1 of 1
+
+
+
+
+                                                                   Page 24 of 36
+                                            2020-2021 Additional State Aid for Homestead Exemption (ASAHE) for
+                                                                  Facilities Detail Report
+                                                                      HOUSTON ISD (101912)
+                                                                         Last Update: FEB 12, 2026
+Payment Cycle: Final                                                          Payment Class: 3                                       Run ID: 46377
+
+  Data Elements                                                                                                    LPE                  Final
+   1.   2020 Property Value with $25,000 Homestead Exemption                                                     $200,159,027,054    $191,595,999,079
+
+   2.   2020 Property Value with $15,000 Homestead Exemption                                                     $202,342,713,714    $193,818,790,363
+
+   3.   Debt Service on Eligible Bonds                                                                              $199,520,498         $199,520,498
+
+
+
+ Local Revenue Loss Caused by Homestead Exemption
+
+   4.   IFA State Aid @ $25,000                                                                                               $0                     $0
+
+
+   5.   EDA State Aid @ $25,000                                                                                                $0                    $0
+
+
+   6.   Local Revenue Requirement Net of IFA and EDA (line 3 - line 4 - line 5)                                     $199,520,498         $199,520,498
+
+
+   7.   Tax Lost Due to Homestead Exemption (line 6 * (1 - (line 1/line 2))                                             $2,153,229         $2,288,180
+
+ State Aid Gain from Homestead Exemption
+
+   8.   IFA State Aid @ $15,000                                                                                                $0                    $0
+
+
+   9.   EDA State Aid @ $15,000                                                                                                $0                    $0
+
+
+  10. Gain in State Aid ((line 4 + line 5) - (line 8 + line 9))                                                                $0                    $0
+
+
+ Hold Harmless Amount
+
+  11. ASAHE (line 7 - line 10 or zero if less than zero)                                                                $2,153,229         $2,288,180
+
+
+  12. I & S Tax Collections                                                                                         $307,558,116         $313,142,275
+
+  13. Net Local Revenue Requirement (line 6 - line 11)                                                              $197,367,269         $197,232,318
+
+  14. Final ASAHE with Reduction for Reduced I&S Collections if Line 12 less than Line 13                               $2,153,229         $2,288,180
+      (line 11 * (line 12/line 13))
+
+                                                                                                        Page 25 of 36
+                                                   2020-2021 Eligible Debt Services for Bonds Eligible for ASAHE under TEC
+                                                                                  46.071
+
+                                                                           HOUSTON ISD (101912)
+                                                                              Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                                              Payment Class: 3                                                                 Run ID: 46377
+                            Bonds Outstanding as of 08/31/2015                                                    Eligible Bonds Currently Outstanding (LPE)
+
+
+
+                                                          Amount          Original 2021       Refunded                                                              2021
+Bond                                                       Sold           Debt Service        Bond                               New Bond                        Debt Service
+                                                                                              70551       70551          Ltd Tax Ref Bds Ser 2005B                              $0
+70551      Ltd Tax Ref Bds Ser 2005B                       $173,140,000          $6,397,250
+
+                                                                                              70551       88951          Limited Tax Schoolhouse and Refunding       $103,588,800
+                                                                                                                         Bonds Series 2017
+71306      U/L Tax Schhse Ref Bds Ser 2006A                 $23,410,000          $2,396,038
+                                                                                              71306       71306          U/L Tax Schhse Ref Bds Ser 2006A                       $0
+
+
+
+71307      U/L Tax Schhse Ref Bds Ser 2006B                 $36,555,000          $2,661,050   71307       71307          U/L Tax Schhse Ref Bds Ser 2006B                       $0
+
+
+
+                                                                                              72627       72627          Ltd Tax Ref Bds Ser 2007                     $10,262,500
+72627      Ltd Tax Ref Bds Ser 2007                        $279,865,000         $72,511,500
+
+                                                                                              72627       88951          Limited Tax Schoolhouse and Refunding       $103,588,800
+                                                                                                                         Bonds Series 2017
+74048      Ltd Tax Schoolhouse Bonds Series 2008           $389,825,000         $29,190,000
+                                                                                              74048       74048          Ltd Tax Schoolhouse Bonds Series 2008                  $0
+
+
+
+76236      Ltd Tax Schhse Bds Taxable Ser                  $148,850,000          $6,171,077   74048       86822          Limited Tax Schoolhouse and Refunding        $60,467,800
+           2009A-2 (Build America Bds - Direct                                                                           Bonds Series 2016A
+           Payment to Issuer)
+                                                                                              74048       86864          Limited Tax Refunding Bonds Series             $699,125
+76237      Ltd Tax Schhse Bds Taxable Ser                  $183,750,000         $22,347,408                              2016B - Exchanged
+           2009A-3 (Build America Bds - Direct
+           Payment to Issuer)                                                                 76236       76236          Ltd Tax Schhse Bds Taxable Ser                $6,135,816
+                                                                                                                         2009A-2 (Build America Bds - Direct
+80144      Var Rate Ltd Tax Ref Bds Ser 2012               $182,080,000         $12,767,200                              Payment to Issuer)
+           (Remarketed 06/01/2020)
+                                                                                              76237       76237          Ltd Tax Schhse Bds Taxable Ser               $22,315,140
+                                                                                                                         2009A-3 (Build America Bds - Direct
+                                                                                                                         Payment to Issuer)
+81367      Ltd Tax Schhse & Ref Bds Ser 2013A              $209,640,000         $15,426,625
+                                                                                              80144       80144          Var Rate Ltd Tax Ref Bds Ser 2012             $2,863,880
+                                                                                                                         (Remarketed 06/01/2020)
+
+
+81368      Var Rate Ltd Tax Schhse Bds Ser 2013B           $147,130,000          $2,942,600   81367       81367          Ltd Tax Schhse & Ref Bds Ser 2013A           $15,426,625
+           (Remarketed 06/01/2021)
+
+                                                                                              81368       81368          Var Rate Ltd Tax Schhse Bds Ser 2013B                  $0
+81369      Ltd Tax Ref Bds Ser 2013C                        $92,905,000          $3,007,550                              (Remarketed 06/01/2021)
+
+
+                                                                                                                           Page 26 of 36
+                                                                          81369   81369          Ltd Tax Ref Bds Ser 2013C             $3,007,550
+
+83918   Variable Rate Ltd Tax Schhse Bds   $349,740,000     $16,657,500
+        2014A (Remarketed 06/01/2022)                                     83918   83918          Variable Rate Ltd Tax Schhse Bds      $3,284,200
+                                                                                                 2014A (Remarketed 06/01/2022)
+
+84363   Ltd Tax Ref Bds Ser 2014B          $365,395,000      $7,044,700   84363   84363          Ltd Tax Ref Bds Ser 2014B             $7,044,700
+
+
+
+                                                                                                                                    $341,823,736
+                                                          $199,520,498
+
+                                                                                  Lesser of Original debt or New debt=>             $199,520,498
+
+
+
+
+                                                                                                   Page 27 of 36
+                         Bonds Outstanding as of 08/31/2015                                            Eligible Bonds Currently Outstanding (Final)
+
+
+                                                Amount          Original 2021       Refunded                                                             2021
+Bond                                             Sold           Debt Service        Bond                              New Bond                        Debt Service
+70551   Ltd Tax Ref Bds Ser 2005B                $173,140,000          $6,397,250   70551      70551          Ltd Tax Ref Bds Ser 2005B                              $0
+
+
+
+71306   U/L Tax Schhse Ref Bds Ser 2006A          $23,410,000          $2,396,038   70551      88951          Limited Tax Schoolhouse and Refunding       $103,588,800
+                                                                                                              Bonds Series 2017
+
+71307   U/L Tax Schhse Ref Bds Ser 2006B          $36,555,000          $2,661,050   71306      71306          U/L Tax Schhse Ref Bds Ser 2006A                       $0
+
+
+
+72627   Ltd Tax Ref Bds Ser 2007                 $279,865,000         $72,511,500   71307      71307          U/L Tax Schhse Ref Bds Ser 2006B                       $0
+
+
+
+74048   Ltd Tax Schoolhouse Bonds Series 2008    $389,825,000         $29,190,000   72627      72627          Ltd Tax Ref Bds Ser 2007                     $10,262,500
+
+
+
+76236   Ltd Tax Schhse Bds Taxable Ser           $148,850,000          $6,171,077   72627      88951          Limited Tax Schoolhouse and Refunding       $103,588,800
+        2009A-2 (Build America Bds - Direct                                                                   Bonds Series 2017
+        Payment to Issuer)
+76237   Ltd Tax Schhse Bds Taxable Ser           $183,750,000         $22,347,408   74048      74048          Ltd Tax Schoolhouse Bonds Series 2008                  $0
+        2009A-3 (Build America Bds - Direct
+        Payment to Issuer)
+                                                                                    74048      86822          Limited Tax Schoolhouse and Refunding        $60,467,800
+80144   Var Rate Ltd Tax Ref Bds Ser 2012        $182,080,000         $12,767,200
+                                                                                                              Bonds Series 2016A
+        (Remarketed 06/01/2020)
+
+                                                                                    74048      86864          Limited Tax Refunding Bonds Series             $699,125
+81367   Ltd Tax Schhse & Ref Bds Ser 2013A       $209,640,000         $15,426,625
+                                                                                                              2016B - Exchanged
+
+                                                                                    76236      76236          Ltd Tax Schhse Bds Taxable Ser                $6,135,816
+81368   Var Rate Ltd Tax Schhse Bds Ser 2013B    $147,130,000          $2,942,600
+                                                                                                              2009A-2 (Build America Bds - Direct
+        (Remarketed 06/01/2021)
+                                                                                                              Payment to Issuer)
+
+81369   Ltd Tax Ref Bds Ser 2013C                 $92,905,000          $3,007,550   76237      76237          Ltd Tax Schhse Bds Taxable Ser               $22,315,140
+                                                                                                              2009A-3 (Build America Bds - Direct
+                                                                                                              Payment to Issuer)
+83918   Variable Rate Ltd Tax Schhse Bds         $349,740,000         $16,657,500   80144      80144          Var Rate Ltd Tax Ref Bds Ser 2012             $2,863,880
+        2014A (Remarketed 06/01/2022)                                                                         (Remarketed 06/01/2020)
+
+84363   Ltd Tax Ref Bds Ser 2014B                $365,395,000          $7,044,700   81367      81367          Ltd Tax Schhse & Ref Bds Ser 2013A           $15,426,625
+
+
+
+                                                                    $199,520,498    81368      81368          Var Rate Ltd Tax Schhse Bds Ser 2013B                  $0
+                                                                                                              (Remarketed 06/01/2021)
+
+                                                                                    81369      81369          Ltd Tax Ref Bds Ser 2013C                     $3,007,550
+
+
+
+                                                                                    83918      83918          Variable Rate Ltd Tax Schhse Bds              $3,284,200
+                                                                                                              2014A (Remarketed 06/01/2022)
+
+                                                                                    84363      84363          Ltd Tax Ref Bds Ser 2014B                     $7,044,700
+
+
+
+
+                                                                                                                Page 28 of 36
+                                        $338,684,936
+
+
+Lesser of Original debt or New debt=>   $199,520,498
+
+
+
+
+                 Page 29 of 36
+                       2020-2021 IFA Allotment Detail Report Using Property Value Calculated
+                                         with $25K Homestead Exemption
+
+                                            HOUSTON ISD (101912)
+                                               Last Update: FEB 12, 2026
+
+Payment Cycle: Final                               Payment Class: 3                                 Run ID: 46377
+
+
+
+
+                                        There is no data available at this time.
+
+
+                                                                                                       Page 1 of 1
+
+
+
+
+                                                                                    Page 30 of 36
+                                         2020-2021 EDA Detail Using Property Value
+                                         Calculated with $25K Homestead Exemption
+
+                                                     HOUSTON ISD (101912)
+                                                        Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                           Payment Class: 3                            Run Id: 46377
+
+
+
+ EDA State Aid Report Using Property Value Calculated with $25,000 Homestead Exemption
+
+
+ Data Elements                                                                          LPE               Final
+
+ 1.    2018-2019 I&S Tax Collection                                                    $274,558,339       $274,558,339
+
+ 2.    2018-2019 Local Share of EDA                                                    $135,846,783       $136,770,370
+
+ 3.    2018-2019 Local Share of IFA Awarded for Bonded Debt                                      $0                  $0
+
+ 4.    2018-2019 Excess I&S Tax Collection (line 1 - line 2 - line 3)                  $138,711,556       $137,787,969
+
+  5.   2020-2021 Actual Eligible Debt Service Payment                                  $252,441,461       $241,458,461
+
+
+  6.   2020-2021 IFA State/Local Share of IFA Awarded for Bonded                                 $0                  $0
+       Debt
+
+  7.   Estimated 2020-2021 Total Refined ADA                                            187,105.401        187,467.069
+
+  8.   2020 State Certified District Property Value (DPV) Adjusted                  $200,159,027,054   $191,595,999,079
+       Property Value
+
+  9.   2017 State Certified District Property Value (DPV) Adjusted                  $166,937,675,461   $161,242,062,845
+       Property Value
+
+ Calculations                                                                           LPE               Final
+
+ 10. 2018-2019 Rate to Determine Maximum EDA Limit                                            0.1645              0.1703
+     (line 2 + line 4) / (line 9 / 100).
+     if line 1 < line 2, then rate = (line 1 * 100) / line 9
+
+ 11. 2020-2021 Rate Needed for All Eligible Debt ((line 5 - line 6) /                         0.3455              0.3269
+     $39.40 / line 7 / 100)
+
+ 12. 2020-2021 Allowed Rate (lesser of line 10 or line 11 or $.29)                            0.1645              0.1703
+
+ 13. State/Local Share of EDA ($39.40 * line 7 * line 12 * 100)                        $120,167,670       $125,787,029
+
+
+ 14. Local Share of EDA (line 12 * (line 8 / 100))                                     $120,167,670       $125,787,029
+
+ 15. State Share of EDA (line 13 - line 14)                                                      $0                  $0
+
+ 16. EDA Entitlement (line 15, unless I&S taxes are less than EDA                                $0                  $0
+     local share)
+                                                                                                              Page 1 of 1
+
+
+
+
+                                                                                                            Page 31 of 36
+                                          2020-2021 IFA Allotment Detail Report Using Property Value Calculated
+                                                            with $15K Homestead Exemption
+
+                                                                HOUSTON ISD (101912)
+                                                                   Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                                   Payment Class: 3                                                     Run ID: 46377
+
+
+                                                                                       LPE                                          Final
+
+ Data Elements to Calculate State Aid Percentage
+
+                                                                         Actual                Applied                 Actual               Applied
+
+
+
+ 2021 ADA (Min 400)                                                                0.000            400.000                      0.000           400.000
+
+ 2020 State Certified District Property Value (DPV)                                  $0                  $0                        $0                  $0
+
+ 2021 Local Revenue (LR) per 0.01 (DPV / ADA / 10,000)                          $0.0000             $0.0000                    $0.0000           $0.0000
+
+ 2021 State Share ($35 - LR per 0.01)                                          $35.0000            $35.0000                   $35.0000          $35.0000
+
+ 2021 Local Percentage (LR / $35)                                                 0.000%             0.000%                     0.000%            0.000%
+
+ 2021 State Percentage (State Share / $35)                                     100.000%            100.000%                   100.000%          100.000%
+
+  Note: "Applied" values are used to calculate the district's IFA allotment.
+
+
+
+
+                                                                                                                                                 Page 1 of 1
+
+
+
+
+                                                                                                              Page 32 of 36
+                                         2020-2021 EDA Detail Using Property Value
+                                         Calculated with $15K Homestead Exemption
+
+                                                     HOUSTON ISD (101912)
+                                                        Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                           Payment Class: 3                            Run Id: 46377
+
+
+
+
+ EDA State Aid Report Using Property Value Calculated with $15,000 Homestead Exemption
+
+
+ Data Elements                                                                          LPE               Final
+
+ 1.    2018-2019 I&S Tax Collection                                                    $274,558,339       $274,558,339
+
+ 2.    2018-2019 Local Share of EDA                                                    $135,846,783       $136,770,370
+
+ 3.    2018-2019 Local Share of IFA Awarded for Bonded Debt                                      $0                  $0
+
+ 4.    2018-2019 Excess I&S Tax Collection (line 1 - line 2 - line 3)                  $138,711,556       $137,787,969
+
+  5.   2020-2021 Actual Eligible Debt Service Payment                                  $252,441,461       $241,458,461
+
+
+  6.   2020-2021 IFA State/Local Share of IFA Awarded for Bonded                                 $0                  $0
+       Debt
+
+  7.   Estimated 2020-2021 Total Refined ADA                                            187,105.401        187,467.069
+
+  8.   2020 State Certified District Property Value (DPV) Adjusted                  $202,342,713,714   $193,818,790,363
+       Property Value
+
+  9.   2017 State Certified District Property Value (DPV) Adjusted                  $169,111,579,107   $163,432,071,146
+       Property Value
+
+ Calculations                                                                           LPE               Final
+
+ 10. 2018-2019 Rate to Determine Maximum EDA Limit                                            0.1624              0.1680
+     (line 2 + line 4) / (line 9 / 100).
+     if line 1 < line 2, then rate = (line 1 * 100) / line 9
+
+ 11. 2020-2021 Rate Needed for All Eligible Debt ((line 5 - line 6) /                         0.3855              0.3680
+     $35 / line 7 / 100)
+
+ 12. 2020-2021 Allowed Rate (lesser of line 10 or line 11 or $.29)                            0.1624              0.1680
+
+ 13. State/Local Share of EDA ($35 * line 7 * line 12 * 100)                           $106,320,170       $110,230,637
+
+
+ 14. Local Share of EDA (line 12 * (line 8 / 100))                                     $106,320,170       $110,230,637
+
+ 15. State Share of EDA (line 13 - line 14)                                                      $0                  $0
+
+ 16. EDA Entitlement (line 15, unless I&S taxes are less than EDA                                $0                  $0
+     local share)
+                                                                                                              Page 1 of 1
+
+
+
+
+                                                                                                            Page 33 of 36
+                                 2020-2021 FSP Allocations and Adjustments
+                                              Detail Report
+
+                                         HOUSTON ISD (101912)
+                                           Last Update: FEB 12, 2026
+
+Payment Cycle: Final                            Payment Class: 3                             Run Id: 46377
+
+
+FSP Allocations and Adjustments                                              LPE             Final
+
+Foundation School Fund
+
+ 1.   Current Allocation                                                     $38,300,602      $40,026,824
+
+ 2.   Adjustments to date                                                     ($4,012,644)      ($633,347)
+
+ 3.   Adjusted Allocation                                                    $34,287,958      $39,393,477
+
+ 4.   Total Paid to date                                                     $28,088,055      $39,393,477
+
+ 5.   Remaining Balance                                                       $6,199,903               $0
+
+ 6.   Total Projected Payments                                               $34,287,958      $39,393,477
+
+7.    Projected Balance                                                                $0              $0
+
+Available School Fund
+
+8.    Current Allocation                                                     $91,895,823      $91,895,823
+
+9.    Adjustments to date                                                              $0              $0
+
+10.   Adjusted Allocation                                                    $91,895,823      $91,895,823
+
+11.   Total Paid to date                                                     $73,114,156      $91,895,823
+
+12.   Remaining Balance                                                      $18,781,667               $0
+
+13.   Total Projected Payments                                               $91,895,823      $91,895,823
+
+14.   Projected Balance                                                                $0              $0
+
+
+
+
+                                                                                              Page 34 of 36
+                                                   2020-2021 Cost of Recapture Report (Local Revenue in Excess of Entitlement)
+
+
+
+
+                                                                         HOUSTON ISD (101912)
+                                                                             Last Update: FEB 12, 2026
+
+Payment Cycle: Final                                                             Payment Class: 3                                      Run ID: 46377
+
+
+
+
+ Data Elements                                                                                                      LPE               Final
+
+1.    Compressed M&O Collections                                                                                    $1,620,560,569    $1,679,168,663
+
+2.    Tier Two Level One M&O Collections                                                                              $88,419,935        $91,617,670
+
+3.    Tier Two Level Two M&O Collections                                                                                        $0                $0
+
+4.    Total M&O Collections (Compressed + Tier Two Level One + Tier Two Level Two)                                  $1,708,980,504    $1,770,786,333
+
+ Local Revenue in Excess of Entitlement (Tier One)                                                                  LPE               Final
+
+5.    Total Tier One Entitlement                                                                                    $1,634,317,756    $1,571,184,717
+
+6.    ASF Allotment                                                                                                   $91,895,823        $91,895,823
+
+7.    Total Tier One Entitlement - ASF                                                                              $1,542,421,933    $1,479,288,894
+
+8.    Local Fund Assignment (LFA)                                                                                   $1,834,257,324    $1,755,785,736
+
+9.    Excess Local Revenue (Tier One) = Line 8 - (Line 5 - Line 6)                                                   $291,835,391      $276,496,842
+
+ Excess Local Revenue after adjustment for collections TEC 48.257(b)                                                LPE               Final
+
+10.   Does district retain sufficient local collections after recapture to fund its entitlement                      ($213,696,755)     ($76,617,073)
+      (Line 1 - Line 9 - (Line 5 - Line 6))
+
+11.   Excess Local Revenue after adjustment for collections = max ((Line 9 + Line 10),0)                              $78,138,636      $199,879,769
+
+
+
+
+                                                                                                           Page 35 of 36
+Local Revenue in Excess of Entitlement (Tier Two)                              LPE             Final
+
+12.   Total Tier Two Level Two Entitlement                                               $0               $0
+
+
+13.   Local Share of Tier Two Level Two Entitlement                                      $0               $0
+
+14.   Excess Local Revenue (Tier Two) = Line 13 - Line 12                                $0               $0
+
+Total Excess Local Revenue and Final Recapture Cost                            LPE             Final
+
+15.   Total Excess Local Revenue = Line 11 + Line 14                             $78,138,636    $199,879,769
+
+16.   CAD Cost                                                                           $0      $15,378,420
+
+17.   Percentage of Total Collections Recaptured = Line 15 / Line 4                   4.60%            11.30%
+
+18.   CAD Cost Credit                                                                    $0        $1,735,859
+
+19.   Final Discounted Cost = Line 15 - Line 18                                  $78,138,636    $198,143,910
+
+                                                                                                   Page 2 of 2
+
+
+
+
+                                                                      Page 36 of 36
+

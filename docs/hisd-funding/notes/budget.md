@@ -498,3 +498,167 @@ The Texas Tribune's "$8,459 / $6,265" figures (SECONDARY, FY27) were **not found
 - **Consultant contract amounts** (Alvarez & Marsal, NES curriculum vendors, Dyad/Future 2 vendors): not in budget documents. They would need board agenda items or a contract register.
 - **Press articles on each year's adoption:** not fetched (session rate limit). The SECONDARY claims cited are from search snippets only.
 - **The 2024 and 2025 tax-rate worksheets** were downloaded but not analyzed.
+
+---
+
+## FY2019-FY2024 adopted budgets (history extension)
+
+Added 2026-10-07. Files are in [`sources/budget/`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/budget/) with an `FY20xx_` prefix (see `SOURCES.md`). The FY2019 and FY2020 documents are HISD's own files recovered from the Internet Archive, because HISD's current Finalsite page does not carry them. Cites are (abbrev, PDF page). No figure in this section is OCR'd: every new document has a text layer.
+
+| Abbrev | File |
+|---|---|
+| B19 / B21 / B22 / B23 | Adopted Budget Books: `FY2019_2018-19_…` (833 pp), `FY2021_2020-21_…` (827 pp), `FY2022_2021-22_…` (816 pp), `FY2023_2022-23_HISD_Adopted_Budget_Book.pdf` (798 pp) |
+| S20 / S21 / S22 / S23 / S24 | One-page adopted schedule, GF + Debt Service + Nutrition (`FY20xx_…_Adopted_Budget.pdf`) |
+| W19 / W20a | TEA-format web postings: `FY2019_2018-19_Web_Posting_for_Adopted_Budget.pdf`, `FY2020_2019-20_Web_Posting_for_Adopted_Budget.pdf` |
+| W20 / W21 / W22 / W23 / W24 | Budget Summary by Function (Adopted) postings |
+| P19 / P21 / P22 / P23 / P24 | Recommended-budget / public-hearing presentations |
+| WS-Jun19 / WS-Jun20 / WS-Jun23 | Budget workshops of Jun 4 2019 (FY20), Jun 4 2020 (FY21), Jun 15 2023 (FY24 public hearing) |
+| A19-Mid / A20-YE | FY2019 mid-year and FY2020 year-end budget amendments |
+| ACFR RSI | Budget-vs-actual schedules: FY19 ACFR p.106, FY20 p.101, FY21 p.92, FY22 p.91, FY23 p.95, FY24 p.91 (in [`sources/acfr/`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/acfr/)) |
+
+**No FY2020 or FY2024 budget book exists online.** HISD's current site lists books for 2020-21, 2021-22, 2022-23, 2024-25 and 2025-26 only. The old Blackboard "Budget Books" page (Wayback, Nov 2024; `_popups/wb_31978_2024.html`) also stopped at 2022-23. The Internet Archive has the 2018-19 book but no 2019-20 book. For FY2020 and FY2024, the one-page adopted schedules (S20, S24), the function postings and the ACFR RSI "original budget" column are used. They agree (§H6 item 4).
+
+### HB1. Headline numbers (as adopted)
+
+| | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 |
+|---|---|---|---|---|---|---|
+| Date adopted | Jun 28 2018 (W19) | Jun 27 2019 (W20a, W20) | Jun 11 2020 (W21; P21 p1) | "June 20, 2021" per W22 (a Sunday; P22 p1 is dated Jun 10 2021; see HB6) | Jun 9 2022 (W23; P23 p1) | Jun 22 2023 (W24), the first budget of the Board of Managers |
+| **All 3 adopted funds: revenue** | 2,407,607,477 [calc] | 2,343,793,040 | 2,389,934,461 | 2,548,910,064 | 2,649,339,059 | 2,718,217,109 |
+| **All 3 adopted funds: appropriations** | 2,478,587,728 [calc] | 2,423,526,168 | 2,472,651,253 | 2,679,457,472 | 2,768,198,481 | 2,937,239,012 |
+| All funds: revenue − appropriations | (70,980,251) | (79,733,128) | (82,716,792) | (130,547,408) | (118,859,422) | (219,021,903) |
+| **General Fund revenue** | 1,977,345,003 | 1,903,085,694 | 1,972,054,361 | 2,081,127,566 | 2,163,294,662 | 2,194,824,843 |
+| **General Fund appropriations** | 1,996,983,851 | 1,923,742,406 | 1,991,093,833 | 2,186,550,176 | 2,267,677,919 | 2,377,150,619 |
+| GF operating deficit (rev − exp) | (19,638,848) | (20,656,712) | (19,039,472) | **(105,422,610)** | **(104,383,257)** | **(182,325,776)** |
+| GF other sources, net (transfers in/out, capital leases) | (15,961,773) | (2,544,977) | (14,949,140) | +23,346,295 | +3,613,800 | +13,786,350 |
+| **GF budgeted net change in fund balance** | **(35,600,621)** | **(23,201,689)** | **(33,988,612)** | **(82,076,315)** | **(100,769,457)** | **(168,539,426)** |
+| GF est. beginning FB, as adopted | 612,678,670 | 582,138,621 | 878,463,630 | 769,293,013 | 852,224,713 (+70,000,000 "anticipated unspent") | 1,120,551,047 (+70,000,000 "anticipated unspent") |
+| GF est. ending FB, as adopted | 577,078,049 | 558,936,932 | 844,475,018 | 687,216,698 | 821,455,256 | 1,022,011,621 |
+| *Actual* ending GF FB (audited) | 818,993,804 | 967,900,148 | 996,625,712 | 1,126,908,568 | 1,127,068,920 | 1,047,196,700 |
+| Tax rate assumed in the adopted budget (per $100) | $1.2067 (M&O 1.04 + I&S 0.1667) (B19 p16) | M&O $0.97 (WS-Jun19 p10) → $1.1367 | $1.1177 (M&O 0.9510) (B21 p8) | proposed $1.1284 (P22 p11) | proposed $1.0619 (P23 p10) | proposed $0.9757 (M&O 0.8090) (P24 p6, p10) |
+| Tax rate finally adopted (in the fall) | $1.2067 | $1.1367 | $1.1331 (Oct 8 2020; B21 p8, p20) | $1.0944 (Sep 9 2021; B22 p18) | $1.0372 (Oct 13 2022; B23 p18) | $0.8683 (M&O 0.7016; [`notes/acfr.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/acfr.md) §5a) |
+| **Budgeted recapture (GF fn 91)** | **272,407,268** | **0** | **12,083,891** | **213,265,281** | **247,439,733** | **326,539,245** |
+| ADA / WADA assumed | 192,132.494 / 267,010.725 (B19 p17) | 187,105.401 ADA (WS-Jun19 p14) | 188,244.477 / 265,559.429 (B21 p18) | 177,693.300 / 250,680.543 (B22 p17) | 173,418.280 / 246,980.629 (B23 p17) | not found |
+
+Sources and method:
+
+- **GF rows:** FY2019 from B19 p24 (the 4-year projection schedule; its "2018-2019 Adopted" column), FY2020-FY2024 from S20-S24. Every GF revenue, appropriation and net-change total ties to the ACFR RSI "original budget" column (FY2023 to within $1).
+- **All-funds rows:** FY2020-FY2024 are W20-W24 totals and tie exactly to GF + Debt Service + Nutrition from S20-S24 [calc].
+- **FY2019 all-funds rows:** computed from B19 (GF p24, Debt Service p26, Nutrition p23). The TEA web posting W19 states $2,491,713,464 revenue *including* $84,105,987 of "other sources", and $2,524,949,501 of appropriations, which is $46,361,773 more than its own function lines sum to (see HB6).
+- **Who adopted:** the elected Board of Education adopted FY2019-FY2023; the TEA-appointed Board of Managers adopted FY2024 (W24 posted Jun 26 2023).
+
+### HB2. Debt Service and Nutrition (adopted, $)
+
+| | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 |
+|---|---:|---:|---:|---:|---:|---:|
+| Debt Service revenue | 288,115,215 | 300,321,090 | 312,258,116 | 329,582,527 | 352,569,696 | 388,619,864 |
+| Debt Service appropriations | 341,658,611 | 353,060,948 | 360,458,046 | 355,975,998 | 374,724,771 | 410,694,639 |
+| Nutrition revenue | 142,147,259 | 140,386,256 | 105,621,984 | 138,199,971 | 133,474,701 | 134,772,402 |
+| Nutrition appropriations | 139,945,266 | 146,722,814 | 121,099,374 | 136,931,298 | 125,795,791 | 149,393,754 |
+
+Sources: B19 p26 (DS), p23 (Nutrition); S20-S24. In each year the Debt Service gap is closed by GF/Capital transfers in (e.g., FY2019 $53.7M, FY2024 $22.1M).
+
+### HB3. General Fund revenue by source (adopted, $)
+
+| | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 |
+|---|---:|---:|---:|---:|---:|---:|
+| Property taxes | 1,728,092,547 | 1,702,171,380 | 1,771,575,694 | 1,895,069,877 | 1,868,732,327 | 1,888,763,457 |
+| Investment earnings | 9,000,000 | 15,000,000 | 5,000,000 | 2,200,000 | 23,766,681 | 39,624,859 |
+| Misc. local | 12,074,717 | 11,879,675 | 8,966,799 | 9,453,620 | 8,156,764 | 7,240,000 |
+| State | 215,146,388 | 153,313,693 | 166,787,686 | 157,174,069 | 190,733,783 | 196,658,385 |
+| Federal | 13,031,351 | 20,720,946 | 19,724,182 | 17,230,000 | 71,905,107 | 62,538,142 |
+| **Total GF revenue** | **1,977,345,003** | **1,903,085,694** | **1,972,054,361** | **2,081,127,566** | **2,163,294,662** | **2,194,824,843** |
+| GF mix local / state / federal [calc] | 88.5 / 10.9 / 0.7 % | 90.9 / 8.1 / 1.1 % | 90.5 / 8.5 / 1.0 % | 91.6 / 7.6 / 0.8 % | 87.9 / 8.8 / 3.3 % | 88.2 / 9.0 / 2.8 % |
+| *Actual* GF revenue (ACFR) | 2,200,600,360 | 1,981,814,081 | 2,139,390,332 | 2,107,492,062 | 2,154,751,784 | 1,982,608,752 |
+| Actual − adopted [calc] | +223.3M | +78.7M | +167.3M | +26.4M | −8.5M | −212.2M |
+
+Sources: B19 p24; S20-S24; actuals from [`notes/acfr.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/acfr.md) H3 / §2a.
+
+- **State aid was under-budgeted every year FY2019-FY2022.** FY2019 actual state revenue was $399.9M vs $215.1M adopted (FY19 ACFR p.106).
+- The FY2024 shortfall is the property-tax compression and exemption package passed *after* adoption. The original budget had $1,872.6M of property tax vs $1,506.8M actual (FY24 ACFR p.91).
+
+### HB4. General Fund appropriations by function (adopted, $)
+
+| Fn | Function | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 11 | Instruction | 1,000,417,027 | 1,139,172,839 | 1,151,970,226 | 1,135,700,518 | 1,149,772,623 | 1,137,458,757 |
+| 12 | Instructional resources/media | 9,691,146 | 8,905,787 | 10,117,415 | 8,877,520 | 16,758,401 | 20,575,943 |
+| 13 | Curriculum/staff development | 22,966,777 | 30,786,402 | 35,575,973 | 35,962,547 | 36,198,801 | 27,569,001 |
+| 21 | Instructional leadership | 29,448,219 | 24,033,019 | 27,238,328 | 25,134,311 | 32,520,525 | 30,977,071 |
+| 23 | School leadership | 137,909,124 | 144,526,927 | 151,622,019 | 148,669,010 | 165,393,715 | 174,941,609 |
+| 31 | Guidance/counseling/evaluation | 46,214,725 | 65,946,068 | 64,146,508 | 65,403,532 | 71,930,212 | 79,520,172 |
+| 32 | Social work | 1,816,958 | 10,379,352 | 17,783,562 | 19,275,453 | 9,974,809 | 8,382,235 |
+| 33 | Health services | 18,638,980 | 20,835,004 | 21,852,470 | 22,518,241 | 25,434,832 | 25,650,688 |
+| 34 | Student transportation | 57,081,236 | 60,867,135 | 62,374,366 | 59,893,990 | 54,462,909 | 53,505,616 |
+| 35 | Food services (GF portion) | 0 | 0 | 0 | 0 | 0 | 136,117 |
+| 36 | Extracurricular | 16,157,960 | 12,213,691 | 13,016,782 | 11,269,840 | 12,316,171 | 19,521,086 |
+| 41 | General administration | 35,679,582 | 36,269,706 | 39,549,934 | 40,251,576 | 47,841,669 | 50,002,399 |
+| 51 | Facilities maintenance & operations | 184,556,245 | 197,179,436 | 200,224,409 | 205,844,817 | 215,192,846 | 233,833,447 |
+| 52 | Security & monitoring | 22,017,162 | 23,890,855 | 28,554,805 | 28,026,356 | 30,294,544 | 30,601,520 |
+| 53 | Data processing | 47,156,793 | 50,583,977 | 56,322,728 | 62,405,029 | 64,673,294 | 61,307,083 |
+| 61 | Community services | 2,044,672 | 2,365,684 | 3,008,827 | 2,794,599 | 1,946,674 | 2,030,863 |
+| 71 | Debt service (GF) | 17,914,739 | 17,914,739 | 15,250,000 | 15,250,000 | 0 | 0 |
+| 81 | Facilities acquisition/construction | 0 | 108,561 | 37,848 | 0 | 0 | 0 |
+| 91 | **Recapture** | **272,407,268** | **0** | **12,083,891** | **213,265,281** | **247,439,733** | **326,539,245** |
+| 95 | JJAEP | 893,650 | 893,650 | 792,000 | 792,000 | 792,000 | 792,000 |
+| 97 | Payments to TIRZ | 59,031,258 | 61,526,976 | 63,066,742 | 69,106,766 | 68,625,372 | 77,304,451 |
+| 99 | Appraisal district / other intergov. | 14,940,330 | 15,342,598 | 16,505,000 | 16,108,790 | 16,108,790 | 16,501,316 |
+| | **Total GF** | **1,996,983,851** | **1,923,742,406** | **1,991,093,833** | **2,186,550,176** | **2,267,677,919** | **2,377,150,619** |
+| | GF transfers out (not in total) | 46,361,773 | 40,134,765 | 37,449,140 | 19,020,390 | 16,386,200 | 16,213,650 |
+
+Sources: B19 p24; S20-S24. Lines sum to the stated totals [calc], except FY2023, which sums to $2,267,677,920 ($1 rounding; the RSI shows ...920).
+
+- **Statutory public-notice and lobbying lines** (fn 41, memo): FY2019 notices $100,000 (W19). FY2020 $138,275 (W20). FY2021 $141,275 + lobbying $396,500 (W21). FY2022 $141,275 + $366,000 (W22). FY2023 $113,275 + $278,000 (W23). FY2024 $147,953 + $278,000 (W24).
+- **Instruction:** the FY2020 adopted instruction line jumped $138.8M (+13.9%) over FY2019 [calc] after HB3's compensation mandates. WS-Jun19 p14 computes a "Total Gain Amount for Salary Calculation" of $83.9M and a 30% salary mandate of $25.2M.
+
+### HB5. Adopted vs final budget vs actual (General Fund)
+
+| | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 |
+|---|---:|---:|---:|---:|---:|---:|
+| Adopted net change in FB | (35,600,621) | (23,201,689) | (33,988,612) | (82,076,315) | (100,769,457) | (168,539,426) |
+| Final (amended) net change | (86,736,798) | (89,739,826) | (206,965,474) | (144,400,998) | (164,930,325) | (194,381,109) |
+| **Actual net change** | **+206,315,134** | **+148,906,344** | **+28,725,564** | **+130,282,856** | **+160,352** | **(79,872,220)** |
+| Final GF expenditure budget | 2,167,653,402 | 2,051,838,084 | 2,330,879,400 | 2,209,721,030 | 2,359,123,684 | 2,227,255,442 |
+| Recapture: adopted → final → actual | 272.4M → 274.8M → 265.2M | 0 → 75.4M → 80.8M | 12.1M → 136.6M → 197.8M | 213.3M → 178.8M → 184.5M | 247.4M → 283.8M → 276.4M | 326.5M → 0 → 0 |
+
+Sources: ACFR RSI pages listed above; also [`notes/acfr.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/acfr.md) H5 and §2e.
+
+- **The adopted GF deficit grew every year from FY2021 to FY2024:** −$34.0M, −$82.1M, −$100.8M, −$168.5M. HISD nonetheless ended FY2019-FY2023 with surpluses or break-even.
+- **FY2024 was the first actual draw** (−$79.9M). Then FY2025 adopted −$131.1M and actual −$299.1M (§0 above).
+- FY2020: the year-end amendment shows an "Increase in recapture in the amount of $75,441,870" after HB3 (A20-YE p5).
+- FY2021: the FY21 ACFR says recapture came in "$61.2 million over budget … due to the ADA hold harmless adjustment" (FY21 ACFR p.30).
+- FY2021 deficit composition, per the book: "a $33.9 million budget deficit, of which $18.4 million is assigned fund balance – North Forest Public Facility Corporation projects, a $33.3 million salary and benefits package and House Bill 3 allotment budget increases of $24.3 million in Early Education Allotment" (B21 p8).
+- FY2022: "the adopted budget reflects $213 million of local property tax collections to the state under recapture, an increase of $201 million from the 2020-2021 fiscal year" (B22 p8).
+- FY2023: "$247 million … under recapture, an increase of $34 million" (B23 p8).
+
+### HB6. Inconsistencies and errors in HISD's own FY2019-FY2024 documents
+
+1. **FY2022 adoption date.** W22 says "Date Adopted by Board: June 20, 2021," which was a Sunday. The public-hearing / recommended-budget deck is dated Thursday June 10, 2021 (P22 p1). The posted date is probably wrong; the actual vote date is not confirmed by a primary source here.
+2. **FY2019 web posting does not foot.** W19's total appropriations ($2,524,949,501) exceed the sum of its function lines ($2,478,587,728 [calc]) by exactly the GF transfers-out ($46,361,773). Its revenue total includes $84,105,987 of transfers-in ("Other Sources"). The budget book's all-funds page likewise carries the GF at $2,043,345,624, including transfers (B19 p23).
+3. **FY2020 has two different adopted totals.** The Jun 27 2019 web posting (W20a) totals $2,423,664,443. The Budget Summary by Function (W20) totals $2,423,526,168. The $138,275 difference equals the public-notice memo line, which W20a added into its total.
+4. **The adopted schedules and the ACFR "original budget" column split local revenue differently, though the totals match.** For example:
+   - FY2022: property tax $1,895,069,877 / misc. $9,453,620 (S22) vs $1,901,266,733 / $3,256,764 (RSI).
+   - FY2024: property tax $1,888,763,457 / investments $39,624,859 / misc. $7,240,000 (S24) vs $1,872,590,384 / $60,537,932 / $2,500,000 (RSI).
+   - Similar small reclasses occur in FY2019, FY2021 and FY2023. In FY2020, instruction and FMO differ by ±$1,957.
+5. **FY2021 web posting mislabels a line.** The $63,066,742 TIRZ payment is printed on line 96 "Payments to Charter Schools", and line 97 "Payments to TIF" shows $0 (W21). S21 shows it correctly as fn 97.
+6. **Adopted budgets understated the starting fund balance, often badly.** Estimated beginning GF FB vs audited prior-year ending [calc]:
+   - FY2020: −$236.9M (582.1M vs 819.0M)
+   - FY2021: −$89.4M
+   - FY2022: −$227.3M
+   - FY2023: −$274.7M (−$204.7M counting the $70M "anticipated unspent")
+   - FY2024: −$6.5M
+
+   This is the opposite of FY2026, where the adopted budget *over*stated the beginning FB by about $52M (§9 item 8 above).
+7. **FY2023 transmittal letter tax-rate error.** It says the rate "was reduced from $1.1331 to $1.0372" (B23 p8). The prior-year rate was $1.0944; $1.1331 is the FY2021 rate. This is the same kind of error as the FY25/FY26 letters (§9 item 1).
+8. **FY2024 deck M&O error.** P24 p10: "M&O total tax rate for school year 2023-24 is $0.8090 down from school year 2022-23 of $.8050." The FY2023 M&O rate was $0.8705, and $0.8090 > $0.8050 would not be "down."
+9. **FY2021 ADA typo.** B21 p18 prints the ADA as "188,244,477 pupils"; it should read 188,244.477.
+10. **FY2023 book relabels a FY2022 actual.** B23 p26 shows the FY2022 actual "Insurance proceeds 21,156,000". The FY2022 ACFR records that $21,156,000 as *issuance of leases* and shows no FY2022 insurance proceeds (FY22 ACFR p.36).
+11. **Recapture planning misses.** FY2020 was adopted with $0 and FY2021 with $12.1M; actual was $80.8M and $197.8M. FY2024 was adopted with $326.5M and actual was $0, because of the post-adoption compression and exemption law. Each budget was adopted before the governing legislation or TEA's final values were known.
+
+### HB7. Not found / not retrieved (FY2019-FY2024)
+
+- **FY2020 and FY2024 adopted budget books:** not on HISD's site and not in the Internet Archive (checked the old `filedownload.ashx` captures; list in `_popups/wayback_filedownload_budget_hits.txt`).
+- **FY2020 Budget Workshop 7 (Jun 25 2019):** the only Internet Archive captures are truncated at 1 MB (unreadable PDF), so it was not saved.
+- **FY2020 recommended-budget presentation:** no capture found. HISD's current site lists recommended-budget presentations only from 2020-21.
+- **FY2024 ADA/WADA assumptions, and FY2024 object/FTE detail:** no FY2024 book. The FY2025 book (B25 p22, p39) carries FY24 final-budget object and FTE columns; see §4 and §6.
+- **Exact board vote dates other than the TEA postings:** not cross-checked against board minutes. The FY2020 budget (adopted Jun 27 2019) may have followed an earlier failed vote; an Arabic-language HISD press-release file titled "HISD_Board_of_Education_rejects_proposed_budget_for_2019_Arabic_.pdf" appears in the Internet Archive's index of `houstonisd.org/cms/lib2/TX01001591/Centricity/Domain/40261/` (SECONDARY; seen in the index only, not downloaded or read).
+- **The 2021-2023 tax-rate calculation worksheets** were downloaded but not analyzed.

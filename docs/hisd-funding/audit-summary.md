@@ -7,7 +7,7 @@
 
 The investigation began from a direct question: was it true that Houston ISD's per-student reimbursement from the state of Texas had fallen? It was prepared with an AI assistant (Claude) working from public records under a person's direction, between 2026-10-06 and 2026-10-07.
 
-1. **State formula data.** The person holding HISD's TEA account retrieved three "Summary of Finances" reports directly from TEA's own report portal (a JavaScript application with no automated data export) and supplied the PDFs. These are the only primary-source figures in this investigation that could not be independently re-fetched by the assistant; they are reproduced in full in `sources/`.
+1. **State formula data.** For the first edition, the person directing the work downloaded three "Summary of Finances" reports by hand from TEA's public report dashboard (a JavaScript application with no automated data export) and supplied the PDFs; they are reproduced in full in `sources/`. For the second edition, the remaining years were retrieved from the same dashboard with a site-restricted browser tool (see "Second edition" below).
 2. **Four parallel research tracks**, each run as a separate research pass and cross-checked against the others afterward:
    - HISD's audited financial statements (ACFR), FY2022-FY2025.
    - HISD's adopted budgets, FY2025-FY2027, and in-year amendments.
@@ -28,10 +28,32 @@ The investigation began from a direct question: was it true that Houston ISD's p
 
 These appear across the report pages with full citations; they are collected here for visibility.
 
-- **HISD's FY2025 recapture payment is reported as five different figures** in five different documents: $49.1M (TEA's Summary of Finances, Final), $56.9M (the audited ACFR and PEIMS), $44.5M (HISD's own final amended budget), approximately $65M (a bond official statement), and $55.5M (a Texas Tribune news report). The likely explanation is a mix of accrual-versus-cash timing and TEA's multi-year settle-up adjustments, but no document reconciles them.
+- **HISD's FY2025 recapture payment is reported as five different figures** in five different documents. *Second edition:* four of the five are now traced to specific TEA report runs (see below); only HISD's own $44.5M budget figure matches no TEA run.
 - **HISD's tax year 2025 M&O tax rate is reported as both $0.8783 (with "disaster pennies" added in October 2025) and $0.8489** (a May 2026 bond official statement), a roughly $68 million difference in annual levy depending on which figure is right.
 - **The ACFR's own statistical tables disagree with its own notes** on the FY2025 tax rate (one table shows 0.7116/0.8783; the notes and levy table show 0.7016/0.8683) — the table row appears to have been mistakenly populated with the following year's rate.
 - **A subsequent-event note in the FY2025 ACFR describes a $20.555 million tax-note issuance**, which conflicts with the $114.39 million par value in that issuance's own official statement; the ACFR note appears to have been copied from an earlier, smaller issuance.
+
+## Second edition (2026-10-08): history back to FY2019
+
+**What was added.** Every series was extended back to school year 2018-19 (HISD's FY2019): TEA's Summary of Finances for every school year from 2018-19 through 2026-27, plus TEA's full list of report runs for each year (390 runs); HISD's audited ACFRs for FY2019-FY2021; adopted budgets for FY2019-FY2024; TEA PEIMS actuals (district, statewide, peers and campuses), TAPR staffing, FIRST ratings and Comptroller property values from 2018-19; and federal single-audit data from FY2018. A new report section ([Section 9](https://govspends.github.io/govspends/us/tx/districts/houston-isd/hisd-funding/09-since-2019/)) presents the seven-year view.
+
+**How the TEA reports were obtained.** The Summary of Finances dashboard is a JavaScript application. It was driven with a browser automation tool configured to reach only TEA's report domain (tealprod.tea.state.tx.us), using the system browser. The report files were downloaded from inside the browser session, because the report URL returns an empty viewer page outside a dashboard session; the server also needs about ten seconds to generate each report. Each year's run list was read from the dashboard page and parsed by [`scripts/sof_runs_from_snapshot.py`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/sof_runs_from_snapshot.py).
+
+**Checks.**
+- [`scripts/sof_extract.py`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/sof_extract.py) now parses all nine years. Its reconciliation checks pass for every year (state aid equals the sum of its funds; Available School Fund equals the per-capita distribution), and for each year from 2019-20 the recapture printed in the report equals TEA's dashboard figure for the same run.
+- The research pass that extended the TEA PEIMS, TAPR, FIRST and campus data changed several scripts. A regression check against the first edition's committed data files found every previously published value unchanged; the files only gained rows, years or columns. That check was repeated independently (an initial repeat reported false differences because it keyed on too few columns; corrected, it found zero changed values). The headline 2024-25 figures still reproduce: NES $14,288 vs non-NES $9,193 per student; HISD all-funds operating spending $14,147 and revenue $12,666 per student.
+- Headline audited FY2019 figures were re-verified against the ACFR text: General Fund revenue $2,200,600,360, expenditures $1,991,206,129, recapture expense $265,231,840.
+
+**Findings that resolved first-edition open items.**
+- HISD's audited recapture expense tracks TEA's Near-Final estimate current at fiscal-year close (September 30), not TEA's final settlement, which can come years later. In six of seven years (FY2019-FY2025) the two are within $2.4M; FY2020 is the exception. This explains why the ACFR's expense line and its own statistical table disagree.
+- Of the five FY2025 recapture figures: about $65M matches TEA's preliminary runs of Sept. 2024–Feb. 2025; $55.5M matches the Near-Final runs of Sept. 19 and Oct. 17, 2025; the audited $56.9M is within $1.4M of the run current at Sept. 30, 2025; $49.1M is the final settlement. HISD's $44.5M budget figure matches no TEA run.
+- HISD's FY2024 budget carried $326.5M of recapture because it was adopted in June 2023, when TEA's first projection for 2023-24 was $335.2M; the November 2023 tax-compression law reduced it to $0.
+
+**Corrections made in the second edition.**
+1. SY2026-27 figures now use TEA's Oct. 5, 2026 run (47318), which superseded the Sept. 14 run used in the first edition: total state aid $281.9M (was $274.3M). The per-student entitlement ($9,899) and the $156.3M counterfactual recapture are unchanged.
+2. The summary page said the General Fund had run deficits "every year since the state's 2023 takeover" while showing FY2023, which ended one month after the takeover began. It now says "since FY2023" and notes that FY2024 and FY2025 are the first full years under the state-appointed board.
+3. During the write-up, a working note had FY2022's audited recapture expense as $186.5M (a figure from a different ACFR table); the expense line is $184.5M. Corrected before publication.
+4. Six scripts (`build_peer_comparison.py`, `build_tapr_peers.py`, `parse_campus_actuals.py`, `analyze_campus_nes.py`, `fetch_first.py`, `fetch_tapr_dd.py`) had the author's private working-folder path hard-coded, so they would not run from a clone of this repository. They now resolve paths relative to the script. Re-running the four offline builders produced byte-identical data files.
 
 ## How to re-verify
 
@@ -42,6 +64,10 @@ These appear across the report pages with full citations; they are collected her
 - The full per-track research notes, including every figure's exact citation, are in [`notes/acfr.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/acfr.md), [`notes/budget.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/budget.md), [`notes/tea_peims.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/tea_peims.md) and [`notes/federal_debt.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/federal_debt.md).
 
 ## What this investigation does not cover
+
+- HISD budget books for FY2020 and FY2024 (not found on HISD's site or in the Internet Archive; the one-page adopted schedules were used).
+- TEA's separate per-year "Cost of Recapture" reports, and every run's PDF other than the latest of each year (only the run list was recorded).
+- How HISD settled the $80.1M by which its FY2019 recapture expense exceeded TEA's final settlement.
 
 - FY2026 audited actuals (not yet published by HISD as of this writing) and 2025-26/2026-27 PEIMS actuals (not yet published by TEA).
 - The FY2027 adopted budget book's object-level and school-by-school detail (HISD had not yet published it; only the function-level schedule and board workshop decks were available).

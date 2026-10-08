@@ -288,3 +288,222 @@ local appraisal-roll value (2023: Comptroller estimate $240.57B, but local value
 - **TAPR financial section** — TAPR no longer includes district finance; the PWR reports above replace it.
 - **Comptroller FAST** — last published for ~2014-era data; not current, not used.
 - PEIMS 2024-25 is the latest actual year; 2025-26 actuals are not yet published (only budgets).
+
+---
+
+## 2018-19 to 2021-22 (history extension, 2026-10-07)
+
+All sources below are PRIMARY TEA/Comptroller files retrieved 2026-10-07 (catalogued in
+`sources/tea_peims/SOURCES.md`, "History extension" section). Tables are rebuilt by the same scripts, which now
+also read the older years:
+
+```
+python3 scripts/build_peer_comparison.py   # now 7 dumps 2018-19..2024-25; adds data/peer_comparison_2019_2025.csv
+python3 scripts/parse_campus_actuals.py    # now 2018-19..2024-25
+python3 scripts/analyze_campus_nes.py      # pre-NES baseline now 2018-19..2022-23, split by NES entry wave
+python3 scripts/fetch_tapr_dd.py           # NEW: downloads old-format TAPR Profile CSVs (2019..2023)
+python3 scripts/build_tapr_peers.py        # appends 2018-19..2022-23 rows (HISD, 7 peers, state)
+python3 scripts/fetch_first.py             # app years 2019 and 2018 added
+python3 scripts/fac_summary.py > sources/federal_debt/fac_sefa_summary_FY2018-2025.txt
+```
+
+**Regression check (2026-10-08).** Every row/cell that existed before this extension is unchanged
+(compared against git HEAD): `tea_peims_actuals_long.csv` (4,580 old rows, 0 changed), `hisd_peims_trend.csv`
+(0 changed cells in the 2020-21..2024-25 columns), `peer_comparison.csv` (byte-identical),
+`hisd_campus_actuals.csv` (816 old rows, 0 changed; new PIC columns appended at the end),
+`hisd_campus_nes_summary.csv` (43 old rows, 0 changed), `tapr_staff_peer_comparison.csv` (18 old rows, 0 changed),
+`first_ratings.csv` (40 old rows, 0 changed). Headline figures still reproduce: 2024-25 NES $14,288 vs non-NES
+$9,193 per student; HISD 2024-25 AF operating spending $14,147 and revenue $12,666 per student.
+
+### H1. PEIMS actuals — HISD vs. state, 2018-19 → 2021-22
+
+Source: `data/hisd_peims_trend.csv` (now 2018-19..2024-25), built from the statewide dumps
+`2019-actual-pwr-1.xlsx` and `2020-actual-pwr-0.xlsx` (plus the three already held). The 2018-19 and 2019-20
+values reproduce TEA's own PWR PDFs exactly (`pwr/pwr_actual_2019_101912.txt` lines 16, 56;
+`pwr/pwr_actual_2020_101912.txt` lines 16, 56). PWR PDFs for 2020-21 and 2021-22 were also downloaded
+(`pwr_actual_{2021,2022}_101912.txt`, `pwr_actual_{2019..2022}__STATE.txt`).
+
+| Per enrolled student (trend csv line) | 2018-19 | 2019-20 | 2020-21 | 2021-22 | 2022-23 |
+|---|---|---|---|---|---|
+| Enrolled membership (l.2) | 209,040 | 209,309 | 196,550 | 193,727 | 189,290 |
+| AF operating revenue (l.16) | 10,723 | 10,497 | 11,262 | 13,087 | 13,764 |
+| — state AF operating revenue (l.17) | 10,470 | 10,811 | 11,505 | 12,502 | 12,822 |
+| — HISD local M&O (l.4) | 7,089 | 7,807 | 8,159 | 8,313 | 8,099 |
+| — HISD state operating funds (l.7) | 1,722 | 767 | 1,171 | 836 | 767 |
+| — HISD federal (l.10) | 1,585 | 1,683 | 1,735 | 3,609 | 4,313 |
+| AF operating expenditure (l.49) | **9,380** | 9,719 | 10,524 | 11,772 | 12,998 |
+| — state (l.50) | 9,913 | 10,406 | 11,106 | 11,941 | 12,389 |
+| GF operating expenditure (l.184) | 7,758 | 7,753 | 9,037 | 8,511 | 9,254 |
+| — state (l.185) | 8,618 | 8,993 | 9,539 | 9,655 | 10,032 |
+| Instruction, AF (l.61) | 5,191 | 5,518 | 5,989 | 6,497 | 7,291 |
+| School leadership f23, AF (l.73) | 697 | 720 | 749 | 779 | 886 |
+| Instructional leadership f21, AF (l.70) | 153 | 155 | 185 | 200 | 217 |
+| Contracted services 62xx, AF (l.40) | 1,410 | 1,350 | 1,623 | 1,972 | 1,956 |
+| Recapture paid, $M (l.27) | 265.2 | 80.8 | 197.8 | 184.5 | 276.4 |
+| AF federal revenue, $M (l.9) | 331.4 | 352.2 | 341.0 | 699.1 | 816.3 |
+| GF total fund balance, $M (l.276) | 819.0 | 967.9 | 996.6 | 1,126.9 | 1,127.1 |
+
+- **Before ESSER, HISD spent less per student than the state average.** AF operating spending was $9,380 vs.
+  $9,913 statewide in 2018-19 (−5%) and $9,719 vs. $10,406 in 2019-20 (−7%); GF operating spending was 10-14%
+  below the state. HISD crossed above the state average only in 2022-23 ($12,998 vs. $12,389). Over 2018-19 →
+  2024-25 HISD AF operating spending per student rose 51% ($9,380 → $14,147) vs. 31% statewide ($9,913 → $12,951)
+  — in dollars only +27% ($1,960.7M → $2,490.5M, `tea_peims_actuals_long.csv`), because enrollment fell 16%.
+- **School leadership was already above the state rate pre-NES** ($697 vs. $589, +18% in 2018-19; trend l.73-74)
+  but the gap widened to +82% by 2024-25. Instructional leadership (f21) was *below* the state in 2018-19 ($153
+  vs. $162) and 2.1× the state by 2024-25 ($474 vs. $227). Contracted services were 51% above the state rate
+  already in 2018-19 ($1,410 vs. $933; l.40-41).
+- **GF ran surpluses pre-takeover.** GF "Excess (Deficiency) Operating Expenditures": +$209.4M in 2018-19
+  (`pwr_actual_2019_101912.txt` line 170), +$118.2M in 2019-20 (`pwr_actual_2020_101912.txt` line 175), +$20.9M
+  in 2020-21 (`pwr_actual_2021_101912.txt` line 193). The 2021-22 line shows $0 for HISD (and $0 AF;
+  `pwr_actual_2022_101912.txt` line 198) although the balance rose $130.3M (lines 195, 197) — the
+  reconciliation line is blank/zeroed in TEA's PWR, like the 2024-25 gap noted in §9. GF total fund balance grew
+  $819.0M → $1,126.9M (2018-19 → 2021-22), peaked at $1,127.1M in 2022-23.
+- **State aid share collapsed with HB 3 (2019).** HISD's state operating revenue fell from $1,722/student
+  (2018-19) to $767 (2019-20) while local M&O rose $7,089 → $7,807 and recapture fell $265.2M → $80.8M (HB 3
+  compressed tax rates and changed recapture). State AF operating revenue was 16.1% of HISD's in 2018-19
+  (`pwr_actual_2019_101912.txt` line 13) vs. 7.3% in 2019-20 (`pwr_actual_2020_101912.txt` line 13).
+- **FLAG — 2018-19 recapture:** PEIMS records $265,231,840 (`pwr_actual_2019_101912.txt` line 24) but the
+  ACFR25 statistical table (cited in `notes/federal_debt.md` §5) gives $185.1M for FY2019. 2019-20 ($80.8M vs.
+  $74.9M) and 2020-21 ($197.8M vs. $198.1M) are close. Probably a prior-year settlement booked in 2018-19;
+  unreconciled.
+- 10-year longitudinal report (`pwr/longitudinal_10yr_101912.txt`) gives AF total expenditure per student
+  $13,643 (2018-19) / $13,871 (2019-20), matching trend l.58 exactly.
+
+**Peers, 2018-19 vs. 2021-22** (`data/peer_comparison_2019_2025.csv`; AF operating, per enrolled student;
+2018-19 lines 560-591, 2021-22 lines 281-312):
+
+| District | Oper. revenue 18-19 | Oper. spend 18-19 | School lead. 18-19 | Oper. revenue 21-22 | Oper. spend 21-22 |
+|---|---|---|---|---|---|
+| Houston ISD | 10,723 | **9,380** | 697 | 13,087 | **11,772** |
+| Dallas ISD | 11,742 | 10,252 | 631 | 13,293 | 12,991 |
+| Austin ISD | 10,799 | 10,855 | 689 | 13,556 | 13,299 |
+| Fort Worth ISD | 9,520 | 10,544 | 590 | 13,286 | 13,283 |
+| Northside ISD | 9,342 | 9,367 | 501 | 11,211 | 11,042 |
+| Cypress-Fairbanks ISD | 9,265 | 8,922 | 422 | 10,249 | 10,444 |
+| Katy ISD | 10,174 | 9,607 | 521 | 11,312 | 11,222 |
+| Fort Bend ISD | 9,638 | 9,550 | 602 | 10,829 | 11,170 |
+| State (all LEAs) | 10,470 | 9,913 | 589 | 12,502 | 11,941 |
+
+In 2018-19 HISD's operating spending per student was the lowest of the four urban districts and below Katy;
+by 2024-25 it was 3rd-highest of the eight, behind Austin and Dallas (§4). HISD's admin-cost PROXY was 0.0629 in 2018-19 and 0.051-0.057
+in 2019-20..2021-22 (state 0.076-0.079; csv lines 753, 737, 721, 705) vs. 0.093 in 2024-25.
+
+### H2. Campus actuals and the longer pre-NES baseline
+
+`data/hisd_campus_actuals.csv` now covers 2018-19 (279 campuses, membership 209,023), 2019-20 (278), 2020-21
+(274), 2021-22 (272), from `campus/allcamp_actual_{2019,2020,2021,2022}_101912.txt` (TEA program name for 2019-20 is
+`allcamp_actual_report_1920.sas`). The pre-2021-22 reports have no Transportation (34) line and itemize State
+Comp Ed by PIC (24/26/28/29/30); `pic_comp_ed` is their sum for those years. Campus-coded AF operating spending
+was $1,461.4M of $1,960.7M district-wide in 2018-19 (74.5%) vs. ~80% in 2024-25.
+
+AF operating spending per student, membership-weighted, by 2024-25 NES status (`data/hisd_campus_nes_summary.csv`):
+
+| Year (csv lines) | NES cohort (129) | never-NES | Gap | Original 28 | 57 aligned* | 45 joiners |
+|---|---|---|---|---|---|---|
+| 2018-19 (2, 7, 13-15) | 7,381 | 6,561 | +820 (+12.5%) | 7,620 | 7,376 | 7,263 |
+| 2019-20 (16, 21, 27-29) | 7,616 | 6,758 | +858 (+12.7%) | 8,229 | 7,560 | 7,367 |
+| 2020-21 (30, 35, 41-43) | 8,263 | 7,311 | +952 (+13.0%) | 8,659 | 8,241 | 8,082 |
+| 2021-22 (44, 49, 55-57) | 8,834 | 7,713 | +1,121 (+14.5%) | 9,438 | 8,721 | 8,669 |
+| 2022-23 (58, 63, 69-71) | 10,125 | 8,421 | +1,704 (+20.2%) | 11,272 | 9,953 | 9,766 |
+| 2024-25 (existing) | 14,288 | 9,193 | +5,095 (+55.4%) | — | — | — |
+
+\*56 in sample (one excluded by the <100-student / program-site filter).
+
+- The campuses that became NES were already ~12-13% more expensive per student in 2018-20 (higher comp-ed /
+  Title I intensity). The gap widened gradually to +20% by 2022-23 (ESSER years), then to +55% under NES. So the
+  NES-attributable increase is roughly +$3,400-4,300/student on top of a pre-existing ~$800-1,700 differential.
+- Over 2018-19 → 2022-23 (pre-NES, 4 years) the NES cohort rose +$2,744 (+37%) and never-NES +$1,860 (+28%);
+  2022-23 → 2024-25 (2 years) +$4,163 (+41%) vs. +$772 (+9%).
+- GF only: the cohort was +$600/student above never-NES in 2018-19 ($6,827 vs. $6,227, lines 2/7) vs. +$4,023
+  in 2024-25.
+- Enrollment: the NES cohort lost 24% of membership 2018-19 → 2024-25 (91,708 → 69,459) vs. 9% for never-NES
+  (116,466 → 105,714; the never-NES set also shrinks from 141 to 134 campuses through closures). The original 28
+  lost 26% (17,322 → 12,871).
+
+### H3. TAPR staffing and students, 2018-19 → 2021-22
+
+Source: `data/tapr_staff_peer_comparison.csv` rows for 2018-19 (csv lines 56-64), 2019-20 (47-55), 2020-21
+(38-46), 2021-22 (29-37), 2022-23 (20-28), built from `tapr/tapr{2019..2023}_{D,S}PROF.csv`; HISD values
+cross-check against the district TAPR PDFs `tapr/tapr_{2019,2020,2021,2022}_101912.txt` (staff sections at lines
+1058-1139 / 1180-1259 / 1270-1342 / 1183-1255).
+
+| HISD (State) | 2018-19 | 2019-20 | 2020-21 | 2021-22 |
+|---|---|---|---|---|
+| Total staff FTE | 24,676.3 | 24,328.2 | 24,419.6 | 23,716.2 |
+| Teachers FTE | 11,464.7 | 11,283.1 | 11,254.4 | 10,619.5 |
+| Professional support | 2,926.5 | 2,978.5 | 3,334.6 | 3,437.0 |
+| Campus administration | 586.4 | 570.8 | 553.1 | 530.0 |
+| Central administration | 138.0 | 137.1 | 153.0 | 152.2 |
+| Students per teacher | 18.2 (15.1) | 18.6 (15.1) | 17.5 (14.5) | 18.2 (14.6) |
+| Avg teacher salary | $54,125 ($54,122) | $56,340 ($57,091) | $56,664 ($57,641) | $59,161 ($58,887) |
+| Avg campus-admin salary | $84,319 | $84,846 | $84,936 | $87,547 |
+| Teacher turnover | 19.1% (16.5%) | 20.3% (16.8%) | 18.8% (14.3%) | 22.4% (17.7%) |
+| Beginning teachers | 8.1% | 8.6% | 9.3% | 7.4% |
+| Teachers with no degree | 4.6% | 5.9% | 8.2% | 1.2% |
+| Econ. disadvantaged | 79.9% (60.6%) | 79.3% (60.3%) | 78.5% (60.3%) | 79.2% (60.7%) |
+| Emergent bilingual / EL | 31.8% (19.5%) | 34.0% (20.3%) | 33.4% (20.7%) | 35.1% (21.7%) |
+
+(TAPR 2019 lines 1058-1066, 1091, 1097, 1103, 1132-1135, 1139, 972-975; TAPR 2020 lines 1180-1188, 1213, 1219,
+1225, 1252-1255, 1259, 1070-1073; TAPR 2021 lines 1270-1277, 1296, 1301, 1307, 1330-1333, 1342, 1164, 1167;
+TAPR 2022 lines 1183-1190, 1209, 1214, 1220, 1243-1246, 1255, 1075, 1078.)
+
+- **Campus administration FTE was flat-to-falling pre-takeover** (586 → 530, 2018-19 → 2021-22; 2.8 per 1,000
+  students vs. state ~4.0) and then rose to 898.7 by 2024-25 (5.1 per 1,000). Professional support rose
+  steadily from 2,927 (14.0 per 1,000) to 3,849 in 2024-25 (21.9).
+- **HISD always had the highest students-per-teacher ratio of the peer group** (18.2 in 2018-19 vs. 14.4-16.3 for
+  the 7 peers; csv lines 56-63); its lowest values are the post-takeover 16.1 (2023-24) and 16.6 (2024-25).
+- **Teacher pay matched the state average pre-takeover** ($54,125 vs. $54,122 in 2018-19; below the state in
+  2019-20 and 2020-21) and was below every peer except Austin in 2018-19 (Dallas $58,012, Cy-Fair $60,258); by
+  2024-25 it was the highest ($73,604, +36% over 2018-19 vs. +18% statewide).
+- Turnover was 2.6-4.7 points above the state in each year 2018-19..2021-22 (0.6-0.9 points in 2022-23/2023-24);
+  the 2024-25 32.2% is ~10 points above any earlier year.
+- The 2018-19/2019-20 profile files have no 21-30 / 30+ year salary bands (blank in the csv). At-risk % is not
+  comparable across years (HISD 65.3% → 71.0% → 52.7% → 61.5%; definition/coding changes) — not used.
+
+### H4. FIRST, rating years 2019-20 and 2020-21
+
+`data/first_ratings.csv` (app years 2019, 2018 added), pages `first/first_District_{2019,2018}_*.html`.
+
+| Rating year (data year) | HISD | Dallas | Austin | Fort Worth | Northside | Cy-Fair | Katy | Fort Bend |
+|---|---|---|---|---|---|---|---|---|
+| 2020-21 (2019-20) | **C 79** | A 96 | A 92 | A 96 | A 96 | A 92 | A 98 | A 90 |
+| 2019-20 (2018-19) | A 100 | A 98 | A 98 | A 96 | A 96 | A 94 | A 100 | A 92 |
+
+- 2020-21 (FY2020 data): HISD scored 98 weighted points but was capped at 79 by ceiling indicator 17 —
+  the auditor reported a material weakness in internal control (`first_District_2019_101912.html` line 1334,
+  "Ceiling Failed"). With 2021-22 (FY2021 data, already in §6) that makes **two consecutive C ratings** for the
+  same reason.
+- 2019-20 (FY2019 data, old 15-indicator framework): A, 100 points, but indicator 2.B ("free of any material
+  weaknesses") was answered **No** (`first_District_2018_101912.html` line ~1264) — under that framework 2.B did
+  not cap the score. So material-weakness findings appear in three consecutive audits (FY2019-FY2021).
+  CAUTION: app-year-2018 indicator numbers differ from 2019+; the `ind*` columns for that year are not comparable.
+- Cross-check: FAC `general` records for FY2019-FY2021 flag `is_internal_control_deficiency_disclosed = Yes`
+  but material weakness = No (`sources/federal_debt/fac_general_hisd.json`); FAC's flags cover the federal-program
+  (Uniform Guidance) section, so the FIRST weakness was presumably in financial-statement controls. Not verified
+  against the FY2019-FY2021 ACFRs.
+
+### H5. Comptroller Property Value Study, 2019-2022 (final)
+
+`comptroller/pvs_{2019,2020,2021,2022}F.txt` (from the `.html` pages via `scripts/html2text.py`).
+
+| Tax year | Local roll total taxable value | Comptroller PTAD estimate | Value assigned | T2 (M&O, after state homestead) | Line |
+|---|---|---|---|---|---|
+| 2019 | $187.34B | $195.48B | local | $187.34B | 359-363, 376 |
+| 2020 | $200.16B | $200.16B | local | $200.16B | 359-363 |
+| 2021 | $203.49B | $210.46B | local | $203.49B | 361-365, 378 |
+| 2022 | $222.77B | $222.77B | local | $222.77B | 361-365, 378 |
+
+Each year states "...FOUND YOUR LOCAL VALUE TO BE VALID, AND LOCAL VALUE WAS CERTIFIED" (2019/2020 line 408,
+2021 line 408, 2022 line 417). Taxable value grew 24% 2019 → 2023 ($187.3B → $232.7B) and has been flat since
+(2024 $236.9B), consistent with §8.
+
+### H6. Could not get / caveats (history extension)
+
+- **TAPR new-style data download** (`dd_tapr_step_7.sas`) returns "This request completed with errors" for
+  2019-2022 (it still works for 2024/2025); older years were taken from the per-year "Profile" download
+  (`prgopt=<YYYY>/tapr/tapr_download.sas`, see `scripts/fetch_tapr_dd.py`), which covers the same variables.
+- The 2019 district TAPR PDF only renders with `prgopt=2019/tapr/paper_tapr.sas` plus `level=district` and
+  `district=101912`; the generic URL returns an all-"no data" shell.
+- No account-level PEIMS (actget) files were downloaded for the older years either.
+- FIRST underlying ratios (days cash, admin-cost ratio) remain unavailable for all years.
+- The 2018-19 recapture and 2021-22 zero fund-balance reconciliation flags above are unresolved.

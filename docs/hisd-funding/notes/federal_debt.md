@@ -456,3 +456,56 @@ Sources: ACFR25 pp.135, 137, 140 (from HCAD), OS26 Table 4/5, and the HISD tax p
 7. Whether TY2025 **disaster pennies** were levied ($0.8783 versus $0.8489).
 8. Reconciling the FY2025 **recapture** and **TIRZ revenue** figures above.
 9. Any TEA intervention-specific grants to HISD. None appear in the SESA ($974K total) or as SOF line items.
+
+---
+
+## 7. History extension: federal SEFA FY2018-FY2019 (added 2026-10-07)
+
+Source: FAC `federal_awards` for report IDs `2019-06-CENSUS-0000174326` and `2018-06-CENSUS-0000174326`
+(`fac_awards_<id>.json`, PRIMARY, retrieved 2026-10-07; IDs and totals from `fac_general_hisd.json`). Summary
+table regenerated with [`scripts/fac_summary.py`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/scripts/fac_summary.py) into `fac_sefa_summary_FY2018-2025.txt` (line numbers below);
+its FY2020-FY2025 columns are identical to the §1a table. Auditor both years: Weaver and Tidwell; unmodified
+opinion; FAC flags "internal control deficiency disclosed = Yes", material weakness = No, going concern = No,
+not low-risk (`fac_general_hisd.json`). FAC `findings` / `findings_text` return **no rows** for either year
+(`fac_findings_*_2019-06-CENSUS-0000174326.json`, `..._2018-...json`); these are Census-era records migrated to
+GSA (`auditee_uei = GSA_MIGRATION`), so the finding detail may simply not have been migrated — not verified
+against the audit PDFs.
+
+| Program (summary-file line) | FY2018 | FY2019 | FY2020 (for reference) |
+|---|---:|---:|---:|
+| **Total federal expenditures (SEFA)** (l.82) | **345,229,820** | **325,864,703** | 347,690,150 |
+| ESSER (84.425) (l.65) | - | - | 76,418,652 |
+| Title I-A (84.010) (l.27) | 106,444,112 | 100,035,304 | 81,772,372 |
+| IDEA-B + Preschool (84.027/84.173) (l.31, 37) | 39,230,226 | 40,777,069 | 41,344,438 |
+| Title II-A (84.367) (l.54) | 11,852,614 | 10,954,445 | 10,154,362 |
+| Title III-A (84.365) (l.52) | 10,275,388 | 8,288,747 | 5,531,694 |
+| Title IV-A (84.424) (l.63) | 1,135,112 | 4,592,643 | 4,091,218 |
+| Perkins CTE (84.048) (l.33) | 2,717,683 | 3,001,005 | 2,853,384 |
+| 21st CCLC (84.287) (l.46) | 3,923,964 | 3,217,612 | 3,080,697 |
+| Child nutrition cluster + CACFP (l.2-5, 7) | 120,965,560 | 132,154,823 | 96,734,322 |
+| Hurricane Education Recovery (84.938; Harvey) (l.68) | **29,836,468** | 150,273 | 712,829 |
+| Teacher & School Leader Incentive (84.374) (l.59) | 1,972,971 | 6,703,992 | 10,845,419 |
+| School Improvement Grants (84.377) (l.60) | 4,934,024 | 4,829,288 | 4,253,887 |
+| Race to the Top - District (84.416) (l.62) | 5,133,997 | 2,226,361 | - |
+| Magnet Schools Assistance (84.165) (l.35) | 2,487,035 | 3,812,683 | 4,286,475 |
+| FEMA Public Assistance (97.036) (l.81) | 364,348 | 15,682 | 552,158 |
+
+- **Pre-ESSER baseline: ~$326-347M a year of federal expenditure** (FY2018-FY2020), of which Title I was $82-106M
+  and child nutrition $97-132M. ESSER more than doubled the total at the FY2023 peak ($836.6M); FY2025 ($389.6M) is
+  back to ~1.1-1.2× the pre-COVID level.
+- **Title I fell before COVID**: $106.4M (FY2018) → $100.0M (FY2019) → $81.8M (FY2020), then rose to $167.2M by
+  FY2024 (§1a). FY2018 included $29.8M of Hurricane Harvey education recovery (84.938) — the largest one-off
+  pre-COVID federal item. A negative 84.938 adjustment of −$10.7M appears in FY2023 (l.68).
+- Several competitive grants ran out between FY2018 and FY2022: Race to the Top-District (last FY2019), School
+  Improvement Grants (last FY2022, $88K), TSL incentive grants (peak $10.8M FY2020, last FY2022).
+- **Major programs** (FAC `is_major`): FY2018 — child nutrition, Hurricane Education Recovery, Race to the Top-
+  District, School Improvement Grants, 21st CCLC; FY2019 — Title I, IDEA-B/Preschool, Title II-A, Title III,
+  Title IV-A, Perkins, Magnet Schools, TSL/Teacher Incentive Fund.
+- PEIMS cross-check: AF federal revenue 2018-19 was $331.4M ([`sources/tea_peims/pwr/pwr_actual_2019_101912.txt`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/sources/tea_peims/pwr/pwr_actual_2019_101912.txt)
+  line 14) vs. SEFA FY2019 expenditures $325.9M (different bases: PEIMS revenue incl. commodities/SHARS coding).
+- **FLAG vs. TEA FIRST:** HISD's FIRST pages report a material weakness in internal controls for FY2019 (indicator
+  2.B "No") and FY2020-FY2021 (indicator 17 "Ceiling Failed", C ratings) — see [`notes/tea_peims.md`](https://github.com/govspends/us-tx-districts-houston-isd/blob/main/investigations/hisd-funding/notes/tea_peims.md) §6 and H4 —
+  while FAC's federal-program flags show "deficiency" but not "material weakness". The weakness was presumably in
+  financial-statement controls; the FY2019-FY2021 ACFRs were not checked here.
+- FY2017 and FY2016 audits (Deloitte & Touche) exist in `fac_general_hisd.json` (totals $299.3M and $294.0M) but
+  their award detail was not downloaded.

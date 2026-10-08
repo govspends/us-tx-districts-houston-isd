@@ -80,3 +80,27 @@ See section appended below by the NES-list compilation (folder `nes/`). `nes/his
 
 Not retrievable: blogs.houstonisd.org (DNS fails; June 2023 NES principal/school announcements), KHOU (Akamai 403), Good Reason Houston NES overview PDF (served HTML). Campus IDs = `101912` + zero-padded HISD Campus_Nbr, each verified against TEA names in `campus/allcamp_actual_2025_101912.txt`.
 Data caveat found: `data/hisd_campus_actuals.csv` mislabels 20 campus names (e.g. 101912310 "Horn El" is Houston MSTC; 101912478 "Anderson El" is Arabic Immersion; 101912081 "Sharpstown H S" is Sharpstown International) — IDs are right, names are wrong.
+
+## History extension to SY2018-19 (all retrieved 2026-10-07; all PRIMARY)
+BROKER = same SAS broker prefix as above. Text files made with `pdftotext -layout` (PDFs) or `scripts/html2text.py` (HTML).
+
+| File | Title | URL | Retrieved | Status |
+|---|---|---|---|---|
+| 2020-actual-pwr-0.xlsx | 2019-20 Actual PWR data dump (Enroll, GF, AF, Equity tabs; all LEAs) | https://tea.texas.gov/data-reports/financial-reports/school-finance-reports-and-data/2020-actual-pwr-0.xlsx | 2026-10-07 | PRIMARY |
+| 2019-actual-pwr-1.xlsx | 2018-19 Actual PWR data dump | https://tea.texas.gov/data-reports/financial-reports/school-finance-reports-and-data/2019-actual-pwr-1.xlsx | 2026-10-07 | PRIMARY |
+| pwr/pwr_actual_{2019,2020,2021,2022}_101912.pdf (+ .txt) | 2018-19 .. 2021-22 Actual Financial Data, Totals for HOUSTON ISD | BROKER&_program=sfadhoc.actual_report_{2019,2020,2021,2022}.sas&who_box=101912 | 2026-10-07 | PRIMARY |
+| pwr/pwr_actual_{2019,2020,2021,2022}__STATE.pdf (+ .txt) | Same, State Total (All Districts) | BROKER&_program=sfadhoc.actual_report_YYYY.sas&who_box=_STATE | 2026-10-07 | PRIMARY |
+| campus/allcamp_actual_2019_101912.pdf (+ .txt) | 2018-2019 PEIMS Actual Financial Data, Organized by Campus — HISD (279 campuses) | BROKER&_program=sfadhoc.allcamp_actual_report_2019.sas&who_box=101912 | 2026-10-07 | PRIMARY |
+| campus/allcamp_actual_2020_101912.pdf (+ .txt) | 2019-2020 ... by Campus — HISD (278) — note program name `_1920` | BROKER&_program=sfadhoc.allcamp_actual_report_1920.sas&who_box=101912 | 2026-10-07 | PRIMARY |
+| campus/allcamp_actual_2021_101912.pdf (+ .txt) | 2020-2021 ... by Campus — HISD (274) | BROKER&_program=sfadhoc.allcamp_actual_report_2021.sas&who_box=101912 | 2026-10-07 | PRIMARY |
+| campus/allcamp_actual_2022_101912.pdf (+ .txt) | 2021-2022 ... by Campus — HISD (272) | BROKER&_program=sfadhoc.allcamp_actual_report_2022.sas&who_box=101912 | 2026-10-07 | PRIMARY |
+| raw/{1819,1920,2021}_FinActRep.html, raw/{1819,1920,2021,2122,2223}_allcamp_ActRep.html | Report-selector pages used to discover `_program` names | https://rptsvr1.tea.texas.gov/school.finance/forecasting/financial_reports/<name>.html | 2026-10-07 | PRIMARY (index) |
+| tapr/tapr_{2020,2021,2022}_101912.pdf (+ .txt) | 2019-20 / 2020-21 / 2021-22 TAPR, HOUSTON ISD, district level | https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&ccyy=YYYY&lev=D&id=101912&prgopt=reports/tapr/paper_tapr.sas | 2026-10-07 | PRIMARY |
+| tapr/tapr_2019_101912.pdf (+ .txt) | 2018-19 TAPR, HOUSTON ISD (the generic URL above returns an all-"no data" shell for 2019) | https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_program=perfrept.perfmast.sas&_debug=0&prgopt=2019/tapr/paper_tapr.sas&year4=2019&year2=19&district=101912&level=district | 2026-10-07 | PRIMARY |
+| tapr/tapr{2019,2020,2021,2022,2023}_DPROF.csv | TAPR "Profile" data download, all districts (staff + student, row 1 = DP* codes) | POST https://rptsvr1.tea.texas.gov/cgi/sas/broker with _service=marykay, _program=perfrept.perfmast.sas, prgopt=YYYY/tapr/tapr_download.sas, year4=YYYY, year2=YY, topic=acct, sumlev=D, setpick=PROF (form at https://rptsvr1.tea.texas.gov/perfreport/tapr/YYYY/download/DownloadData.html; `scripts/fetch_tapr_dd.py`) | 2026-10-07 | PRIMARY |
+| tapr/tapr{2019,2020,2021,2022,2023}_SPROF.csv | Same, state level (sumlev=S; SP* codes) | same, sumlev=S | 2026-10-07 | PRIMARY |
+| tapr/hist_work/tapr_{2019,2022}_DownloadData.html | Old-format TAPR download form pages (source of the POST fields) | https://rptsvr1.tea.texas.gov/perfreport/tapr/YYYY/download/DownloadData.html | 2026-10-07 | PRIMARY (index) |
+| first/first_District_{2019,2018}_{CDN}.html | FIRST District Status Detail, HISD + 7 peers, app years 2019 (rating 2020-21, FY2020 data) and 2018 (rating 2019-20, FY2019 data; old 15-indicator framework) | https://tealprod.tea.state.tx.us/First/forms/District.aspx?year=YYYY&district=CDN (session cookie from Main.aspx; scripts/fetch_first.py) | 2026-10-07 | PRIMARY |
+| comptroller/pvs_{2019,2020,2021,2022}F_1011019121D.html (+ pvs_YYYYF.txt) | ISD Summary Worksheet (Final), Houston ISD 101-912, tax years 2019-2022 | https://comptroller.texas.gov/auto-data/PT2/PVS/YYYYF/1011019121D.php | 2026-10-07 | PRIMARY |
+
+No file in this extension exceeds 95 MB (largest: campus PDFs ~2.5 MB; TAPR DPROF CSVs ≤1.9 MB).

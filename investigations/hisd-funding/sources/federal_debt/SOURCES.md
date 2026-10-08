@@ -41,6 +41,8 @@ Text extractions (`*.txt`, `*.paged.txt`) were made with `pdftotext` (`-layout`,
 
 ## Press, advocacy, aggregators
 
+The saved web pages (`.html`) in this section are kept in the private working archive only and are not republished in the public govspends repository (copyright); they are cited there by URL. The OSOD fact-sheet PDF and the TPPF chart image are included in the public repository.
+
 | File | Title | URL | Type |
 |---|---|---|---|
 | ballotpedia_hisd_2024_propA.html | Ballotpedia, HISD Proposition A (Nov 2024), certified results and ballot text | https://ballotpedia.org/Houston_Independent_School_District,_Texas,_Proposition_A,_Schoolhouse_Bond_Measure_(November_2024) | SECONDARY (reproduces certified canvass) |
@@ -64,3 +66,12 @@ Text extractions (`*.txt`, `*.paged.txt`) were made with `pdftotext` (`-layout`,
 - ED Title I LEA allocation tables (ed.gov budget tables) returned 403.
 - KHOU bond-cost article returned 403. HISD's 2019 blog post on the 2012 bond did not download.
 - HISD's Voter Information Document (Aug 2024) itself was not located. Its figures come only from the TPPF chart.
+
+## History extension (retrieved 2026-10-07)
+
+| File | Title | URL | Type |
+|---|---|---|---|
+| fac_awards_2019-06-CENSUS-0000174326.json | FAC federal_awards (SEFA line items), HISD FY ended 6/30/2019 (80 lines, $325,864,703) | https://api.fac.gov/federal_awards?report_id=eq.2019-06-CENSUS-0000174326 | PRIMARY |
+| fac_awards_2018-06-CENSUS-0000174326.json | FAC federal_awards, HISD FY ended 6/30/2018 (79 lines, $345,229,820) | https://api.fac.gov/federal_awards?report_id=eq.2018-06-CENSUS-0000174326 | PRIMARY |
+| fac_findings_{2019,2018}-06-CENSUS-0000174326.json, fac_findings_text_{2019,2018}-06-CENSUS-0000174326.json | FAC findings / findings_text for FY2019 and FY2018 (both empty: `[]`) | https://api.fac.gov/findings?report_id=eq.<id>, https://api.fac.gov/findings_text?report_id=eq.<id> | PRIMARY |
+| fac_sefa_summary_FY2018-2025.txt | Derived SEFA table by Assistance Listing FY2018-FY2025 (`scripts/fac_summary.py`; FY2020-25 columns identical to fac_sefa_summary_FY2020-2025.txt) | (derived) | PRIMARY-derived |

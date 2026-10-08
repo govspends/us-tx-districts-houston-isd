@@ -14,16 +14,16 @@ HISD's local property-tax base is wealthy enough that its local share has, in mo
 
 ## The three-year trend, from TEA's own Summary of Finances reports
 
-| | School year 2024-25 (Final) | School year 2025-26 (Near-Final) | School year 2026-27 (Preliminary) |
+| | School year 2024-25 (Final) | School year 2025-26 (Near-Final) | School year 2026-27 (Preliminary, Oct. 2026) |
 |---|---:|---:|---:|
 | Basic Allotment | $6,160 | $6,215 | $6,215 |
 | Refined average daily attendance (attending students) | 156,871 | 150,014 | 148,533 |
 | **Formula entitlement (state + local) per attending student** | **$9,225** | **$9,964** | **$9,899** |
-| Total state aid | $172.0M | $313.7M | $274.3M |
+| Total state aid | $172.0M | $313.7M | $281.9M |
 | — of which tax-relief backfill (see below) | $2.8M | $145.4M | $127.6M |
 | Recapture paid to the state | $49.1M | $0 | $0 |
 
-<p class="caption">Source: TEA Summary of Finances reports for Houston ISD, school years 2024-25 through 2026-27.</p>
+<p class="caption">Source: TEA Summary of Finances reports for Houston ISD, school years 2024-25 through 2026-27 (latest run of each year as of Oct. 7, 2026; the 2026-27 figures are from the Oct. 5, 2026 run, which superseded the Sept. 14 run used in the first edition). The same figures for every school year back to 2018-19 are in <a href="../09-since-2019/">Section 9</a>.</p>
 
 **The Basic Allotment — the core per-student rate — did not fall.** It rose from $6,160 to $6,215, under a 2025 state law (House Bill 2, 89th Legislature). Combined state-and-local formula funding per attending student rose modestly across the same period: $9,225 → $9,964 → $9,899.
 

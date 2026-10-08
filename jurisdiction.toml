@@ -15,10 +15,10 @@ websites = ["https://www.houstonisd.org/", "https://www.houstonisd.org/our-distr
 
 [[investigation]]
 path = "hisd-funding"                               # docs/hisd-funding (pages) and investigations/hisd-funding (evidence)
-title = "Houston ISD: funding and spending, FY2023-FY2027"
+title = "Houston ISD: funding and spending, FY2019-FY2027"
 short_title = "Funding and spending"
-status = "First edition, 2026-10-07; not independently reviewed"
-headline = "General Fund deficits grew to $310.6 million in FY2025 and reserves fell $379 million in two years, even as combined state-and-local per-student funding rose modestly; the state's larger share is mostly 2023 tax-compression legislation eliminating HISD's recapture payment, not new money."
+status = "Second edition, 2026-10-08 (history back to FY2019); not independently reviewed"
+headline = "After four General Fund surpluses (FY2019-FY2022), HISD ran $497 million of deficits in FY2023-FY2025 and its reserves fell below the FY2019 level; per-student state formula funding did not fall, and the state's larger share since 2023 is mostly tax-compression backfill that also ended HISD's recapture payments ($969 million over 2018-19 to 2024-25)."
 tables_from = "scripts/sof_extract.py"
 checks = ["scripts/sof_extract.py", "scripts/parse_campus_actuals.py", "scripts/analyze_campus_nes.py"]
 [investigation.nav_titles]
@@ -29,3 +29,4 @@ checks = ["scripts/sof_extract.py", "scripts/parse_campus_actuals.py", "scripts/
 "notes/budget.md" = "Adopted budgets"
 "notes/tea_peims.md" = "TEA data: spending, staffing, peers"
 "notes/federal_debt.md" = "Federal funds, debt and policy flows"
+"notes/sof_history.md" = "TEA Summary of Finances, 2018-19 to 2026-27"

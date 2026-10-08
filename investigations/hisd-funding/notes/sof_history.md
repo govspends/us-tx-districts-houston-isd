@@ -1,0 +1,83 @@
+# TEA Summary of Finances, SY2018-19 through SY2026-27
+
+Houston ISD (101912). Retrieved 2026-10-07 from TEA's "School District State Aid Reports" dashboard (https://tealprod.tea.state.tx.us/Tea.FspReports.Web/dashboard?rpt=SummaryOfFinance&cat=SummaryOfFinance) with a browser restricted to that site. PRIMARY throughout.
+
+Files:
+- `sources/sof_history/sof_<year>_<cycle>_run<id>.pdf` (+ `.txt`) — the latest run of each year's Summary of Finances as of 2026-10-07. SY2024-25 and SY2025-26 are the reports already in `sources/` (runs 46849 and 47299 are still the latest runs). SY2026-27 now uses run 47318 (updated Oct. 5, 2026), superseding run 47240 (Sept. 14) that the earlier pages used.
+- `data/sof_key_figures.csv` — line items for all nine years, built by `scripts/sof_extract.py`, which also checks that each report's totals reconcile (26 checks, all pass) and that the recapture printed in the report equals the dashboard's figure for the same run.
+- `data/sof_run_history.csv` — every report run TEA lists for HISD for each year (390 runs): date, payment cycle, Foundation School Fund allotment, recapture. Parsed from the dashboard by `scripts/sof_runs_from_snapshot.py`.
+
+How the files were obtained: the dashboard's report links are JavaScript. The underlying report URL is `/fsp/Reports/CrystalReportViewer.aspx?rpt=40&year=<ending year>&run=<run id>&cdn=101912&charters=N&format=pdf`. It returns an empty viewer page outside a dashboard session, and inside a session it returns the PDF once the server has generated it (about 10 seconds after the first request). `scripts/sof_b64_to_pdf.sh` decodes the in-browser download.
+
+## Nine-year series (latest run of each year)
+
+| School year (cycle) | Refined ADA | Basic Allotment | Tier One + Two entitlement per ADA | Total state aid | State aid per ADA | Recapture paid | "Other Programs" state aid |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| 2018-19 (Final, May 2022) | 189,287 | $5,645 adjusted* | $8,035* | $193.1M | $1,020 | **$185.1M** | $13.7M |
+| 2019-20 (Final, Feb 2026) | 176,703 | $6,160 | $9,019 | $99.2M | $561 | **$74.9M** | $11.2M |
+| 2020-21 (Final, Feb 2026) | 177,207 | $6,160 | $9,024 | $134.2M | $757 | **$198.1M** | $12.2M |
+| 2021-22 (Final, Apr 2026) | 173,777 | $6,160 | $8,926 | $133.3M | $767 | **$186.5M** | $13.9M |
+| 2022-23 (Final, Jul 2026) | 167,376 | $6,160 | $8,929 | $144.0M | $860 | **$275.6M** | $18.7M |
+| 2023-24 (Final, May 2026) | 163,594 | $6,160 | $9,232 | $280.0M | $1,712 | **$0** | $152.9M |
+| 2024-25 (Final, May 2026) | 156,871 | $6,160 | $9,225 | $172.0M | $1,097 | **$49.1M** | $27.9M |
+| 2025-26 (Near-Final, Oct 2026) | 150,014 | $6,215 | $9,964 | $313.7M | $2,091 | **$0** | $173.1M |
+| 2026-27 (Preliminary, Oct 2026) | 148,533 | $6,215 | $9,899 | $281.9M | $1,898 | **$0** | $135.8M |
+
+\*SY2018-19 predates HB3 (2019). Its report shows a cost-of-education-adjusted allotment ($5,645 on a $5,140 base) and a Tier I/II structure that is not strictly comparable with later years' Tier One/Two.
+
+Source: `data/sof_key_figures.csv` (rows "Refined ADA", "Basic Allotment", "Total Cost of Tier One", "Tier Two", "TOTAL FSP/ASF STATE AID", "Recapture (TEA dashboard run table, same run)", "Other Programs"); per-ADA figures are computed from those rows.
+
+**Recapture total, SY2018-19 through SY2024-25: $969.3 million** (sum of the seven latest-run figures).
+
+## Findings
+
+1. **Formula funding per attending student rose in two steps and was flat in between.** HB3 (2019) raised the entitlement from about $8,035 to $9,019 per ADA. It then stayed between $8,926 and $9,232 for five years (2019-20 to 2024-25) while the Basic Allotment stayed at $6,160. HB2 (2025) raised it to $9,964. Over 2019-20 to 2024-25, inflation eroded that flat amount.
+2. **The jumps in state aid in SY2023-24 and SY2025-26 are tax-relief backfill.** "Other Programs" state aid went from $18.7M (2022-23) to $152.9M (2023-24) after the 2023 compression law (SB 2, 88th Leg., 2nd C.S.), and to $173.1M (2025-26) after the 2025 relief laws. These are the hold-harmless payments that replace local tax revenue the state cut.
+3. **The 2023 law erased a $335 million recapture bill.** TEA's first projection for SY2023-24 (June 21, 2023) showed HISD owing $335.2M in recapture, with $27.6M of Foundation School Fund aid. After the November 2023 compression, the Final shows $0 recapture and $181.5M of Foundation School Fund aid. HISD's original FY2024 budget carried $326.5M of recapture, which matches that pre-law projection.
+4. **Recapture estimates move by hundreds of millions between the first projection and the final settlement**:
+
+   | School year | First estimate | Highest estimate | Final (latest run) | TEA runs |
+   |---|---:|---:|---:|---:|
+   | 2018-19 | $288.1M (Apr 2018) | $299.2M | $185.1M (May 2022) | 28 |
+   | 2019-20 | $322.0M (May 2019) | $445.5M | $74.9M (Feb 2026) | 41 |
+   | 2020-21 | $84.6M (May 2020) | $294.3M | $198.1M (Feb 2026) | 66 |
+   | 2021-22 | $99.3M (Jun 2021) | $302.7M | $186.5M (Apr 2026) | 50 |
+   | 2022-23 | $369.6M (Jun 2022) | $369.6M | $275.6M (Jul 2026) | 61 |
+   | 2023-24 | $335.2M (Jun 2023) | $335.2M | $0 (May 2026) | 49 |
+   | 2024-25 | $158.1M (Jul 2024) | $158.1M | $49.1M (May 2026) | 41 |
+   | 2025-26 | $125.5M (Jul 2025) | $125.5M | $0 (Oct 2026, Near-Final) | 45 |
+   | 2026-27 | $82.5M (Jun 2026) | $82.5M | $0 (Oct 2026, Preliminary) | 9 |
+
+   Source: `data/sof_run_history.csv`.
+
+   - **The final settlement takes years.** "Final" reports are re-issued for up to six years: 2019-20 and 2020-21 were last re-run in February 2026.
+   - **This explains why recapture figures disagree across documents.** Each document (HISD's budget, its audited report, a bond disclosure, a news story) reflects whichever run existed when it was written.
+   - **HISD's audited recapture expense tracks TEA's Near-Final estimate current at fiscal year-end close (September 30), not the final settlement.** In six of seven years the two are within $2.4M:
+
+     | Fiscal year | Audited expense (ACFR) | TEA run current Sept. 30 after year-end | Latest TEA run (final settlement) | Booked minus final |
+     |---|---:|---|---:|---:|
+     | FY2019 | $265.2M | $264.5M (run 25928, Near-Final) | $185.1M | +$80.1M |
+     | FY2020 | $80.8M | $94.3M (run 29229, Near-Final), the exception | $74.9M | +$5.9M |
+     | FY2021 | $197.8M | $197.8M (run 33549, Near-Final) | $198.1M | −$0.3M |
+     | FY2022 | $184.5M | $184.1M (run 38211, Near-Final) | $186.5M | −$2.0M |
+     | FY2023 | $276.4M | $274.0M (run 41637, Near-Final) | $275.6M | +$0.8M |
+     | FY2024 | $0 | $0 | $0 | $0 |
+     | FY2025 | $56.9M | $55.5M (run 45935, Near-Final) | $49.1M | +$7.8M |
+
+     Audited expense: `data/hisd_history_gf_fy2019_2025.csv` (ACFR expense lines). TEA runs: `data/sof_run_history.csv`. The ACFR's statistical "Local Excess Revenue" table (FY25 p.141) uses later, settled figures, which is why it disagrees with the expense line in the same report. FY2019 stands out: HISD booked $80.1M more recapture than TEA's final settlement two and a half years later. How the difference was settled (refund, credit against later years) is not shown in the documents retrieved.
+5. **Every one of the five conflicting FY2025 (SY2024-25) recapture figures traces to a specific TEA run or near one:**
+
+   | Figure | Where it appears | Matching TEA run(s) |
+   |---|---|---|
+   | ~$65M | May 2026 bond official statement | Preliminary runs Sept. 2024–Feb. 2025: $64.1–64.9M |
+   | $55.5M | Texas Tribune (Jul. 2026) | Near-Final runs Sept. 19 and Oct. 17, 2025: exactly $55.5M |
+   | $56.9M | Audited ACFR expense | Near-Final runs Sept. 10–12, 2025: $53.2–55.6M (no exact match; likely accrual adjustments) |
+   | $44.5M | HISD's final amended FY2025 budget (June 2025) | No run matches; runs current in June 2025 were $48.5–49.9M |
+   | $49.1M | TEA Final | Final runs Apr. 16 and May 29, 2026 |
+
+   The statement "unreconciled" in the published report pages can now be narrowed: four of the five are snapshots of TEA's own moving estimate; only HISD's $44.5M budget figure matches no TEA run.
+
+## Not obtained
+
+- TEA's separate "Cost of Recapture" report per year (it would give the 2018-19 recapture computation line by line; that year's Summary of Finances shows only the dashboard total).
+- Run-by-run PDFs other than the latest run of each year (only the run table was recorded).

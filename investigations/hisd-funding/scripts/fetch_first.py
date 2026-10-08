@@ -4,16 +4,21 @@ and parse rating/score/indicator scores into data/first_ratings.csv.
 FIRST app 'year' param = first calendar year of the RATING year; rating year Y-(Y+1) is based on
 school-year (Y-1)-Y data. e.g. year=2024 -> "2025-2026 rating based on SY 2024-2025".
 Usage: python3 fetch_first.py   (re-downloads pages into sources/tea_peims/first/)
+CAUTION: app year 2018 (rating 2019-2020) uses the older 15-indicator framework (2.A/2.B sub-items, which
+this parser does not capture; indicator numbers 6-15 mean different things than in 2019+), so the
+ind01..ind15 columns for app_year_param=2018 are NOT comparable with later years. Use the saved HTML.
 """
 import csv, html, http.cookiejar, os, re, sys, urllib.request
+import os as _os
+ROOT = _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))   # the investigation folder
 
 BASE = "https://tealprod.tea.state.tx.us/First/forms/"
-OUT = "/git/Texas/HISD/sources/tea_peims/first"
-DATA = "/git/Texas/HISD/data/first_ratings.csv"
+OUT = ROOT + "/sources/tea_peims/first"
+DATA = ROOT + "/data/first_ratings.csv"
 DISTRICTS = {"101912": "Houston ISD", "057905": "Dallas ISD", "227901": "Austin ISD",
              "220905": "Fort Worth ISD", "015915": "Northside ISD", "101907": "Cypress-Fairbanks ISD",
              "101914": "Katy ISD", "079907": "Fort Bend ISD"}
-YEARS = [2024, 2023, 2022, 2021, 2020]
+YEARS = [2024, 2023, 2022, 2021, 2020, 2019, 2018]   # 2019/2018 added 2026-10-07 (rating years 2020-21, 2019-20)
 
 cj = http.cookiejar.CookieJar()
 op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))

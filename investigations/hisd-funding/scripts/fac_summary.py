@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Summarize HISD Federal Audit Clearinghouse (FAC) SEFA data by ALN, FY2021-2025.
+"""Summarize HISD Federal Audit Clearinghouse (FAC) SEFA data by ALN, one column per audit year found (FY2018-FY2025 as of 2026-10-07).
 Input: sources/federal_debt/fac_awards_<report_id>.json (api.fac.gov federal_awards)."""
 import json, glob, collections, os
 base = os.path.join(os.path.dirname(__file__), '..', 'sources', 'federal_debt')

@@ -4,7 +4,7 @@ Public-records investigation of Houston ISD (HISD), Texas, part of [govspends](h
 
 | Investigation | Status |
 |---|---|
-| [Funding and spending, FY2023-FY2027](https://govspends.github.io/govspends/us/tx/districts/houston-isd/hisd-funding/) | First edition (2026-10-07), not independently reviewed |
+| [Funding and spending, FY2019-FY2027](https://govspends.github.io/govspends/us/tx/districts/houston-isd/hisd-funding/) | Second edition (2026-10-08, history back to FY2019), not independently reviewed |
 
 ## What is here
 
@@ -29,4 +29,4 @@ Pull requests here change the Houston ISD pages and evidence; see [CONTRIBUTING.
 
 ## Provenance and license
 
-This investigation was prepared on 2026-10-06 to 2026-10-07 with an AI assistant (Claude) working from public records under a person's direction. It has not yet had an independent review; see [AUDIT_SUMMARY.md](investigations/hisd-funding/AUDIT_SUMMARY.md) for the method, corrections made during the work, and known unreconciled figures. Text, data and images: [CC BY 4.0](LICENSE-CONTENT.md). Code: [MIT](LICENSE). Not affiliated with Houston ISD or the Texas Education Agency.
+This investigation was prepared on 2026-10-06 to 2026-10-07, and extended back to FY2019 on 2026-10-08 (second edition), with an AI assistant (Claude) working from public records under a person's direction. It has not yet had an independent review; see [AUDIT_SUMMARY.md](investigations/hisd-funding/AUDIT_SUMMARY.md) for the method, corrections made during the work, and known unreconciled figures. Text, data and images: [CC BY 4.0](LICENSE-CONTENT.md). Code: [MIT](LICENSE). Not affiliated with Houston ISD or the Texas Education Agency.

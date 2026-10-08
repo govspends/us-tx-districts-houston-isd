@@ -540,3 +540,248 @@ The findings:
 - **Function 13 (curriculum development):** reported as $0 since FY2017 (FY25 p.126). The ACFR does not say where NES curriculum-writing costs are booked. They are probably in instruction or instructional staff development, but this is unverified.
 - **TEA's statewide comparison of the FY2024 and FY2025 student/teacher ratio:** "N/A" in the ACFR.
 - **FY2025 Region and state teacher-salary comparisons:** "N/A" in the ACFR.
+
+---
+
+## FY2019-FY2021 (history extension, 2026-10-07)
+
+New sources (see `../sources/acfr/SOURCES.md`): `HISD_ACFR_FY2019.pdf` (201 pp), `HISD_ACFR_FY2020.pdf` (208 pp), `HISD_ACFR_FY2021.pdf` (180 pp), plus the already-held `HISD_ACFR_FY2022.pdf` for the FY2022 column and FY2021 comparatives. Citation key as above: `FY19 p.48` = PDF page 48 of `HISD_ACFR_FY2019.pdf` (= Nth form-feed page of the `.txt`). All three have a full text layer except a few image-only pages (FY2020's auditor's report pp.23-25, which I read visually from a rendered page, marked "(visual)"; FY2021's finding page p.170). No figure in this section is OCR'd. Same auditor all three years: **Weaver and Tidwell, L.L.P.** Consolidated series: `../data/hisd_history_gf_fy2019_2025.csv`.
+
+### H0. Key takeaways
+
+1. **FY2019-FY2022 were four straight General Fund surpluses (revenue − expenditure): +$209.4M, +$118.2M, +$20.9M, +$114.6M** (FY19 p.48, FY20 p.44, FY21 p.36, FY22 p.36). Every one of those years was *adopted* as a deficit (original budget net change −$35.6M, −$23.2M, −$34.0M, −$82.1M; RSI FY19 p.106, FY20 p.101, FY21 p.92, FY22 p.91).
+2. **GF fund balance grew $514.2M [calc] from $612.7M (6/30/2018) to $1,126.9M (6/30/2022)**, then was flat through FY2023 and fell to $748.1M by 6/30/2025 (§3 above). The FY2025 level is back between the 6/30/2019 ($819.0M) and 6/30/2018 ($612.7M) levels.
+3. **Unassigned GF balance:** $512.3M (FY19) → $655.1M (FY20) → $556.3M (FY21) → $664.2M (FY22) = 3.09 / 4.22 / 3.15 / 4.00 months of that year's GF expenditures [calc]. The FY2025 figure (2.48 months) is the lowest of FY2019-FY2025.
+4. **Recapture expense swung with HB3 (86th Legislature, 2019):** $265.2M (FY19) → $80.8M (FY20) → $197.8M (FY21) → $184.5M (FY22). The FY2020 and FY2021 adopted budgets carried $0 and $12.1M; actual came in $80.8M and $197.8M (RSI FY20 p.101, FY21 p.92).
+5. **Debt principal fell steadily:** $3,289.0M (7/1/2018) → $3,084.3M → $2,855.7M → $2,616.9M → $2,387.7M (6/30/2022) (FY20 p.75, FY21 p.68, FY22 p.69). Every debt issuance in FY2019-FY2022 was refunding/remarketing debt, not new money (see H7).
+6. **Audit opinions were unmodified every year, but FY2019-FY2021 each had a financial-reporting MATERIAL WEAKNESS**, which the FY2023-FY2025 audits did not: FY2019 board governance (TEA investigation) and improper cutoff; FY2020 capital leases and goods receipts (plus two significant deficiencies); FY2021 in-kind revenue/expenditures. HISD was not a "low-risk auditee" in any of the three years.
+
+### H1. Governmental funds: totals by fund ($)
+
+Sources: SRECFB FY19 p.48, FY20 p.44, FY21 p.36, FY22 p.36. In FY2019-FY2022 there was a fifth (nonmajor) fund, the Capital Renovation Fund – PFC.
+
+| Fund | Item | FY2019 | FY2020 | FY2021 | FY2022 |
+|---|---|---:|---:|---:|---:|
+| General | Revenues | 2,200,600,360 | 1,981,814,081 | 2,139,390,332 | 2,107,492,062 |
+| General | Expenditures | 1,991,206,129 | 1,863,604,372 | 2,118,499,494 | 1,992,857,365 |
+| General | **Rev − Exp** | **209,394,231** | **118,209,709** | **20,890,838** | **114,634,697** |
+| General | Other financing sources (net) | (3,079,097) | 30,696,635 | 7,834,726 | 15,648,159 |
+| General | Net change in fund balance | 206,315,134 | 148,906,344 | 28,725,564 | 130,282,856 |
+| Special Revenue | Revenues | 383,024,258 | 381,676,122 | 358,803,707 | 694,171,619 |
+| Special Revenue | Expenditures | 356,315,031 | 417,471,213 | 348,816,742 | 670,399,489 |
+| Debt Service | Revenues | 283,308,996 | 299,501,637 | 316,279,642 | 322,260,136 |
+| Debt Service | Expenditures | 515,637,853 | 513,609,020 | 404,855,587 | 460,688,301 |
+| Capital Renovation | Revenues | 53,346,518 | 36,911,775 | 31,748,932 | 31,804,643 |
+| Capital Renovation | Expenditures | 338,763,269 | 277,285,162 | 74,722,576 | 55,163,371 |
+| Cap. Renovation – PFC (nonmajor) | Rev / Exp | 426,090 / 271,879 | 68,193 / 968,193 | 4,160 / 0 | 136 / 0 |
+| **All governmental** | **Revenues** | **2,920,706,222** | **2,699,971,808** | **2,846,226,773** | **3,155,728,596** |
+| **All governmental** | **Expenditures** | **3,202,194,161** | **3,072,937,960** | **2,946,894,399** | **3,179,108,526** |
+| All governmental | Net change in fund balance | (68,516,777) | (131,979,309) | (7,163,774) | 128,865,481 |
+| All governmental | Ending fund balance | 1,559,458,068 | 1,427,478,759 | 1,433,379,807 | 1,562,245,288 |
+
+- FY2021 beginning Special Revenue (and total) fund balance was restated **+$13,064,822** for GASB 84 (FY21 p.36).
+- Debt Service "payments to escrow agents – current refunding" were $162.1M (FY19), $168.8M (FY20), $49.05M (FY21), $110.5M (FY22). The FY2025 statistical table calls these "remarketing of variable interest debt, not a true debt refunding" (FY25 p.130 note 1).
+- The FY2019-FY2020 Capital Renovation spending ($338.8M, $277.3M) is the tail of the 2012 bond program; capital-fund restricted balances fell from $453.4M (FY19) to $205.6M (FY21) (FY25 p.128).
+
+### H2. Revenues by source, all governmental funds ($)
+
+Sources: own SRECFBs (pages as H1) and the FY25 ten-year table (FY25 p.129). FY2019-FY2021 tie exactly. FY2022 differs by $1-2 from FY25 p.129 (see H10).
+
+| Source | FY2019 | FY2020 | FY2021 | FY2022 |
+|---|---:|---:|---:|---:|
+| Property taxes | 2,024,206,276 | 2,010,279,432 | 2,115,531,365 | 2,114,671,149 |
+| Investment earnings | 41,075,497 | 24,338,742 | 2,781,757 | 4,423,438 |
+| Misc. local | 83,112,013 | 64,380,498 | 67,633,938 | 91,436,525 |
+| **Total local** | **2,148,393,786** | **2,098,998,672** | **2,185,947,060** | **2,210,531,112** |
+| State: per capita (ASF) | 94,244,907 | 60,517,457 | 91,895,823 | 95,775,051 |
+| State: Foundation School Program | 227,892,870 | 71,137,762 | 111,670,653 | 50,889,775 |
+| State: TRS on-behalf (non-cash) | 76,909,310 | 85,470,235 | 86,923,365 | 81,873,575 |
+| State: other | 40,381,995 | 31,203,794 | 28,765,063 | 17,539,418 |
+| **Total state** | **439,429,082** | **248,329,248** | **319,254,904** | **246,077,819** |
+| **Federal** | **332,883,354** | **352,643,888** | **341,024,809** | **699,119,665** |
+| **Total** | **2,920,706,222** | **2,699,971,808** | **2,846,226,773** | **3,155,728,596** |
+| Share local / state / federal **[calc]** | 73.6 / 15.0 / 11.4 % | 77.7 / 9.2 / 13.1 % | 76.8 / 11.2 / 12.0 % | 70.0 / 7.8 / 22.2 % |
+| Total revenue per enrolled student **[calc]** | $13,923 | $12,853 | $14,452 | $16,216 |
+
+State-source breakdown is from FY25 p.129 (the SRECFBs give only a state total). FY2019's $227.9M FSP is unusually high; the FY2019 MD&A attributes the GF increase "primarily [to] the increase in State sourced funding" (FY19 p.36). Federal revenue roughly doubled in FY2022 as ESSER ramped up (FY22 p.36).
+
+### H3. General Fund revenue by source ($)
+
+| | FY2019 | FY2020 | FY2021 | FY2022 |
+|---|---:|---:|---:|---:|
+| Property taxes | 1,747,189,582 | 1,715,002,326 | 1,801,428,452 | 1,794,873,129 |
+| Investment earnings | 19,083,204 | 14,027,724 | 2,342,077 | 3,341,346 |
+| Misc. local | 15,082,252 | 9,972,928 | 12,241,775 | 19,373,978 |
+| State | 399,872,504 | 218,933,263 | 295,665,220 | 228,667,029 |
+| Federal | 19,372,818 | 23,877,840 | 27,712,808 | 61,236,580 |
+| **Total** | **2,200,600,360** | **1,981,814,081** | **2,139,390,332** | **2,107,492,062** |
+| Property tax share of GF revenue **[calc]** | 79.4% | 86.5% | 84.2% | 85.2% |
+
+Sources: FY19 p.48, FY20 p.44, FY21 p.36, FY22 p.36. M&O tax rate: $1.0400 (FY19) → $0.9700 (FY20, HB3 compression) → $0.9664 (FY21) → $0.9277 (FY22) (§5a above).
+
+### H4. General Fund expenditures by function ($)
+
+| Function | FY2019 | FY2020 | FY2021 | FY2022 |
+|---|---:|---:|---:|---:|
+| Instruction | 970,793,048 | 996,399,361 | 1,081,410,519 | 980,058,268 |
+| Instr. resources & media | 9,822,477 | 7,798,643 | 9,071,254 | 6,732,685 |
+| Instr. staff development | 29,267,000 | 29,215,532 | 33,204,034 | 31,637,515 |
+| Instructional leadership | 20,820,355 | 20,983,417 | 23,904,023 | 24,155,192 |
+| School leadership | 142,326,291 | 149,489,190 | 146,408,036 | 146,733,334 |
+| Guidance & counseling | 50,299,761 | 60,053,228 | 63,467,347 | 59,348,406 |
+| Social work | 8,429,482 | 12,142,590 | 16,938,834 | 17,955,510 |
+| Health | 19,312,797 | 21,317,891 | 48,100,766 | 31,234,756 |
+| Transportation | 59,243,844 | 53,629,143 | 46,389,028 | 51,909,647 |
+| Food services | 0 | 234,114 | 2,741,097 | 50,603 |
+| Extracurricular | 15,549,148 | 16,107,773 | 14,536,297 | 16,464,559 |
+| General administration | 41,097,974 | 32,135,554 | 32,663,797 | 37,490,457 |
+| Plant maintenance & ops | 195,853,168 | 192,496,074 | 211,943,777 | 218,863,332 |
+| Security | 22,606,971 | 24,179,218 | 27,507,090 | 30,024,646 |
+| Data processing | 54,951,868 | 62,025,501 | 65,812,348 | 58,213,621 |
+| Community services | 2,135,207 | 3,828,274 | 2,631,134 | 1,948,276 |
+| JJAEP | 792,000 | 792,000 | 792,000 | 724,500 |
+| TIRZ payments | 58,465,450 | 61,321,789 | 61,491,720 | 65,956,709 |
+| Tax appraisal & collection | 14,990,752 | 14,980,471 | 15,517,042 | 15,553,451 |
+| **Recapture** ("Chapter 41/Purchase of WADA"; FY22 "Contracted instructional services between public schools") | **265,231,840** | **80,843,995** | **197,810,414** | **184,470,759** |
+| Debt service (principal + interest, capital leases) | 8,946,862 | 14,995,323 | 14,818,736 | 10,250,591 |
+| Capital outlay | 269,834 | 8,635,291 | 1,340,201 | 3,080,548 |
+| **Total GF expenditures** | **1,991,206,129** | **1,863,604,372** | **2,118,499,494** | **1,992,857,365** |
+| GF exp. excluding recapture & TIRZ **[calc]** | 1,667,508,839 | 1,721,438,588 | 1,859,197,360 | 1,742,429,897 |
+| ...per enrolled student **[calc]** | $7,949 | $8,195 | $9,440 | $8,954 |
+
+Sources as H3. The FY2021 health line ($48.1M, vs $21.3M in FY20) and FY2020-21 data processing reflect COVID-19 spending; the FY2021 MD&A says the GF budget variance was "primarily driven by Chapter 41/WADA payments and COVID-19 pandemic related expenditures" (FY21 p.30). For comparison, the same per-student measure is $9,615 (FY23), $11,263 (FY24), $12,098 (FY25) (§2d above). So GF operating spending per student rose about 52% from FY2019 to FY2025 [calc], most of it after FY2022.
+
+### H5. GF budget vs actual (RSI, $)
+
+Sources: FY19 p.106, FY20 p.101, FY21 p.92, FY22 p.91. FY2023-FY2025 are in §2e above.
+
+| | FY2019 | FY2020 | FY2021 | FY2022 |
+|---|---:|---:|---:|---:|
+| Original budget: revenues | 1,977,345,003 | 1,903,085,694 | 1,972,054,361 | 2,081,127,566 |
+| Original budget: expenditures | 1,996,983,851 | 1,923,742,406 | 1,991,093,833 | 2,186,550,176 |
+| Original budget: net change in FB | (35,600,621) | (23,201,689) | (33,988,612) | (82,076,315) |
+| Final budget: expenditures | 2,167,653,402 | 2,051,838,084 | 2,330,879,400 | 2,209,721,030 |
+| Final budget: net change in FB | (86,736,798) | (89,739,826) | (206,965,474) | (144,400,998) |
+| **Actual net change in FB** | **+206,315,134** | **+148,906,344** | **+28,725,564** | **+130,282,856** |
+| Actual exp. vs final budget | $176.4M under | $188.2M under | $212.4M under | $216.9M under |
+| Actual vs ORIGINAL net change **[calc]** | +$241.9M better | +$172.1M better | +$62.7M better | +$212.4M better |
+| Recapture: original / final / actual | 272.4M / 274.8M / 265.2M | 0 / 75.4M / 80.8M | 12.1M / 136.6M / 197.8M | 213.3M / 178.8M / 184.5M |
+
+Across FY2019-FY2024 the actual GF result beat the *original* (adopted) budget every year, by +$62.7M to +$241.9M [calc; FY23 +$100.9M, FY24 +$88.7M from §2e]. **FY2025 is the first year in the series that came in worse than adopted** (−$168.0M [calc]). HISD's own narratives:
+- FY19: "Chapter 41/WADA payments were $10 million less than budgeted" (FY19 p.38).
+- FY20: the year-end amendment added "$75.4 [million] in recapture payments" and transferred out to offset; GF fund balance rose "$149 million … primarily due to decreased spending during the last quarter … when campuses were closed as a result of the COVID-19 pandemic" (FY20 p.36, p.34).
+- FY21: "$61.2 million over budget in recapture due to the ADA hold harmless adjustment" (FY21 p.30).
+
+### H6. General Fund fund balance components ($)
+
+Sources: balance sheets FY19 p.46, FY20 p.42, FY21 p.34, FY22 p.34; 6/30/2018 from FY25 p.128.
+
+| Component | 6/30/2018 | 6/30/2019 | 6/30/2020 | 6/30/2021 | 6/30/2022 |
+|---|---:|---:|---:|---:|---:|
+| Nonspendable | 11,394,093 | 11,893,235 | 14,510,708 | 20,562,375 | 16,488,097 |
+| Restricted | 0 | 0 | 0 | 0 | 0 |
+| Committed | 46,364,840 | 46,364,840 | 46,364,840 | 94,146,930 | 97,481,219 |
+| Assigned | 165,504,729 | 248,407,583 | 251,970,374 | 325,593,638 | 348,770,724 |
+| Unassigned | 389,415,008 | **512,328,146** | **655,054,226** | **556,322,769** | 664,168,528 |
+| **Total GF fund balance** | **612,678,670** | **818,993,804** | **967,900,148** | **996,625,712** | **1,126,908,568** |
+| Year-over-year change | – | +206,315,134 | +148,906,344 | +28,725,564 | +130,282,856 |
+
+Coverage **[calc]** (as in §3 above; FY2022 repeated for continuity):
+
+| | FY2019 | FY2020 | FY2021 | FY2022 |
+|---|---:|---:|---:|---:|
+| Total GF FB, months of GF exp. | 4.94 | 6.23 | 5.65 | 6.79 |
+| Unassigned, months | 3.09 | 4.22 | 3.15 | 4.00 |
+| Unassigned as % of GF exp. | 25.7% (ACFR: "26 percent") | 35.1% ("35 percent") | 26.3% ("26 percent") | 33.3% |
+
+ACFR percentages: FY19 p.36, FY20 p.34, FY21 p.28. The FY2022 6/30 components tie to §3 above. Other governmental fund balances for these years are in FY25 p.128 (e.g., Debt Service restricted $104.6M / $112.9M / $116.3M).
+
+### H7. Long-term liabilities, governmental activities ($)
+
+Sources: FY2019 roll-forward FY19 p.81 (the text layer there overlays two pages; values were confirmed by arithmetic: opening + increases − decreases = closing for each line). FY20 p.75; FY21 p.68; FY22 p.69. The statement-of-net-position cross-check is FY19 p.43.
+
+| | 7/1/2018 | 6/30/2019 | 6/30/2020 | 6/30/2021 | 6/30/2022 |
+|---|---:|---:|---:|---:|---:|
+| Bonds payable (GO + PFC lease revenue) | 3,081,467,263 | 2,888,242,747 | 2,676,821,528 | 2,453,905,072 | 2,230,990,000 |
+| Contractual obligations | 2,800,000 | 1,400,000 | 0 | – | – |
+| Notes payable (maintenance tax notes) | 204,750,000 | 194,660,000 | 178,925,000 | 162,970,000 | 156,710,000 |
+| **Debt principal subtotal** | **3,289,017,263** | **3,084,302,747** | **2,855,746,528** | **2,616,875,072** | **2,387,700,000** |
+| Premium/discount | n/a | 208,960,718 | 184,647,567 | 145,211,365 | 105,530,671 |
+| Accretion on capital appreciation bonds | n/a | 7,401,422 | 5,191,168 | 2,726,174 | 0 |
+| Capital leases / leases | n/a | 13,598,328 | 52,603,995 | 36,340,506 | 40,734,466 (restated GASB 87 opening 40,366,399) |
+| Compensated absences | n/a | 42,283,238 | 50,216,762 | 59,372,181 | 65,649,153 |
+| Claims payable | n/a | 21,328,797 | 17,298,186 | 24,688,375 | 17,124,418 |
+| **Net pension liability (TRS)** | 464,672,473 | **674,195,407** | **594,268,532** | **556,359,739** | **261,676,905** |
+| **Net OPEB liability (TRS-Care)** | 652,967,581 | **792,318,535** | **716,497,750** | **540,884,130** | **531,819,720** |
+| **Total governmental LT liabilities** | n/a | **4,844,529,192** | **4,476,470,488** | **3,982,457,542** | **3,410,235,333** |
+| Debt principal per enrolled student **[calc]** | – | $14,703 | $13,595 | $13,287 | $12,269 |
+
+- Debt issued: FY2019 "issued variable rate refunding debt with a par value of $159,945,000" on June 21, 2019 (FY19 p.37; p.48); FY2020 $148.9M and FY2021 $45.7M of refunding bonds (FY20 p.44, FY21 p.36); FY2022 issued $109.65M of refunding debt (FY22 p.36), but the FY22 roll-forward shows no bond "increases" (FY22 p.69). This is consistent with HISD's description of these as remarketings of variable-rate debt.
+- **Net OPEB liability peaked at $792.3M (6/30/2019)**, more than double the $355.8M of 7/1/2023 (§4 above). Net pension liability bottomed at $261.7M (6/30/2022) before rising to $709.9M (6/30/2023). These swings come from TRS plan-level measurements, not district decisions.
+- The FY25 statistical table (§5f) gives FY2019 gross bonded debt as $3,082,881,941, a different definition from the $3,084,302,747 principal subtotal here.
+
+### H8. Government-wide (accrual) summary ($)
+
+| | FY2019 | FY2020 | FY2021 |
+|---|---:|---:|---:|
+| Total expenses, governmental activities | 2,734,967,901 | 2,699,643,246 | 2,786,605,330 |
+| Recapture expense line ("WADA-Chapter 41") | 265,231,840 | 80,843,995 | 197,810,414 |
+| Change in net position, total | +272,430,896 | +173,814,549 | +226,266,530 |
+| Total net position, end of year | 1,397,490,749 | 1,571,305,298 | 1,810,636,650 |
+| Unrestricted net position (total) | (342,967,419) | (329,518,878) | (258,017,731) |
+
+Sources: FY19 pp.43, 45; FY20 pp.40-41; FY21 pp.32-33. Unrestricted net position improved by about $85M from FY2019 to FY2021 [calc], then turned positive (+$93.5M) by FY2023 before falling to −$484.5M in FY2025 (§1b above).
+
+### H9. Auditor's opinions and findings
+
+| | FY2019 | FY2020 | FY2021 |
+|---|---|---|---|
+| Opinion on financial statements | Unmodified | Unmodified | Unmodified |
+| Report date | Nov 19, 2019 (FY19 p.187) | Nov 13, 2020 (FY20 p.25, visual: page is image-only) | Nov 11, 2021 (FY21 p.164) |
+| **Material weakness, financial reporting** | **Yes: 2019-001, 2019-002** | **Yes: 2020-001, 2020-002** | **Yes: 2021-001** |
+| Significant deficiency, financial reporting | None reported | Yes: 2020-003, 2020-004 | No |
+| Major-program compliance opinion | Unmodified | Unmodified | Unmodified |
+| Compliance findings / questioned costs | None | None | None |
+| Low-risk auditee? | No | No | No |
+| Major federal programs | Title I, SpEd cluster, CTE, Magnet Schools, Title III, Title II, TSL/TIF, Title IV | Child Nutrition, CACFP, ESSER (84.425D) | Child Nutrition, CACFP, Coronavirus Relief Fund, Title I, SpEd, 21st CCLC, ESSER |
+| Source | FY19 pp.189-192 | FY20 pp.192-200 | FY21 pp.164, 168-171 |
+
+The findings:
+- **2019-001 (material weakness: board governance):** TEA's investigation (final report Oct 30, 2019) found the Board of Trustees violated the Open Meetings Act, acted individually beyond its authority, and broke contract-procurement rules. TEA cited a "systemic breakdown of the HISD Board of Trustees' ability to govern" (FY19 p.191). FY2020 status: TEA's Nov 6, 2019 letter announced intent to appoint a board of managers; "A court ruling temporarily halted TEA's plans … The issue is still in litigation" (FY20 p.200). No status line appears in FY2021 (the board of managers was ultimately appointed June 1, 2023; §3 above).
+- **2019-002 (material weakness: improper cutoff):** two capital-project invoices, about $7.17M, were not accrued (FY19 p.192). Marked Completed in FY2020 (FY20 p.200).
+- **2020-001 (material weakness: capital leases):** unrecorded capital leases of about $19.8M of assets / $18.3M payable in the Internal Service Funds, and about $35.1M in the General Fund (FY20 p.194). Complete per FY21 p.171 status table.
+- **2020-002 (material weakness: goods receipts):** goods marked received but not received; FY2020 expenditures understated about $1.7M (FY20 p.195).
+- **2020-003 (significant deficiency):** checks held by departments, one for about six months before deposit (FY20 p.196).
+- **2020-004 (significant deficiency):** receivables from other governments not evaluated for collectability (FY20 p.197).
+- **2021-001 (material weakness: in-kind revenue and expenditures):** the condition text page (FY21 p.170) has no text layer. Only the title and corrective action plan are readable: "Staff will review grant agreements and continue to provide training to ensure that in-kind revenue and expenditures are properly and timely recorded" (FY21 p.171).
+
+Compare FY2023-FY2025 (§7 above): no material weaknesses in any of those years. This is relevant context for claims about financial-control quality before and after the takeover.
+
+### H10. Data quality and inconsistencies (FY2019-FY2022 vs existing FY2022+ figures)
+
+1. **Recapture: the FY25 "Local Excess Revenue" table (FY25 p.141) does not match the audited expense line in any year checked.** Expense (fn 91; FY19 p.48, FY20 p.44, FY21 p.36, FY22 p.36; also FY25 p.130) vs FY25 p.141:
+   - FY2017: $93.1M vs $91.5M
+   - FY2018: $204.4M vs $168.3M
+   - **FY2019: $265.2M vs $185.1M (−$80.1M)**
+   - FY2020: $80.8M vs $74.9M
+   - FY2021: $197.8M vs $198.1M
+   - FY2022: $184.5M vs $186.5M
+
+   The p.141 table is on a different (probably TEA entitlement-year) basis, and its footnotes are unreadable (§11 above). **Use the expense line, which is what the CSV uses.** This extends §10 item 13 above.
+2. **FY2020 cost per pupil was misstated in the FY2020 ACFR:** $11,009 (FY20 p.160) vs $11,580 in the FY2021 and FY2025 ACFRs (FY21 p.138, FY25 p.156). 2,432,515,360 ÷ 210,061 = $11,580 [calc], so the FY2020 printing is wrong. The FY2020 operating-expenditure figure itself also includes the $168.8M escrow payment (§10 item 4 above).
+3. **FY2022 all-governmental-funds revenue differs by $1-2 between the FY2022 ACFR and the FY2025 ten-year table:** misc. local 91,436,525 vs 91,436,524; federal 699,119,665 vs 699,119,666; total 3,155,728,596 vs 3,155,728,595 (FY22 p.36 vs FY25 p.129). This is rounding; the CSV uses the FY2022 ACFR.
+4. **Notes payable in the FY2019 reconciliation is the long-term portion only:** $178,925,000 (FY19 p.47) vs $194,660,000 total in Note 8 (FY19 p.81). The difference is the $15,735,000 current portion. This is the same presentation as the FY2025 gap in §10 item 9 above, so that item is a recurring format, not a one-off error.
+5. **FY2019 Note 8 (p.81) text layer is corrupted:** two pages' text is overlaid. Figures used here were verified by roll-forward arithmetic and against the FY2020 opening balances (FY20 p.75).
+6. **Debt Service FY2022 refunding:** $109.65M "issuance of refunding debt" (FY22 p.36) does not appear as a bond increase in the FY2022 roll-forward (FY22 p.69). This is consistent with the remarketing explanation (H7), but the ACFR does not reconcile it explicitly.
+7. **Image-only pages:** the FY2020 auditor's report (pp.23-25) and the FY2021 finding 2021-001 text (p.170) have no text layer.
+8. **No inconsistency was found with the FY2022+ figures already in this file:**
+   - The 6/30/2022 GF components (§3) tie to FY22 p.34.
+   - FY2021 ending GF fund balance $996,625,712 + FY2022 change $130,282,856 = $1,126,908,568 ✓.
+   - FY2019-FY2021 all-funds revenue ties exactly to FY25 p.129.
+   - Enrollment (FY25 p.156) ties to FY19 p.157, FY20 p.160 and FY21 p.138.
+
+### H11. Not found / not done
+
+- FY2019-FY2021 SEFA / ESSER totals by year were not extracted (not requested). The CARES ESSER (84.425D) first appears as a major program in FY2020.
+- The FY2019-FY2021 detail of the GF "assigned" balance (by purpose) was not extracted; only totals are given.
+- The FY2021 finding 2021-001 condition text needs OCR or a visual read of FY21 p.170.

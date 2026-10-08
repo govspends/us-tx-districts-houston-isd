@@ -1,0 +1,199 @@
+                                                             2021 - 2022 Actual Financial Data
+                                                                  State Total (All Districts)
+                                                           Total Enrolled Membership: 5,402,912
+
+                                                                                                                          Per                                       Per
+                                                                                    General Fund             %          Student         All Funds        %        Student
+
+Revenues
+Operating Revenue
+Local Property Tax from M&O (excluding recapture)                                  $26,795,122,749           49.52%          $4,959   $26,795,122,749    39.67%     $4,959
+State Operating Funds                                                              $23,938,737,085           44.24%          $4,431   $24,396,897,632    36.12%     $4,516
+Federal Funds                                                                        $2,145,802,400           3.97%           $397    $14,103,811,039    20.88%     $2,610
+Other Local                                                                          $1,226,563,588           2.27%           $227     $2,250,851,644     3.33%       $417
+                                                     Total Operating Revenue       $54,106,225,822         100.00%          $10,014   $67,546,683,064   100.00%    $12,502
+Other Revenue
+Local Property Tax from I&S                                                                         $0        0.00%              $0    $8,860,960,306    86.81%     $1,640
+State Assistance for Debt Service                                                                   $0        0.00%              $0     $319,288,915      3.13%        $59
+Misc Rev Debt Service Fund (F599)                                                                   $0        0.00%              $0       $75,078,438     0.74%        $14
+Other Receipts (excluding debt service financing)                                      $776,509,372        100.00%            $144      $952,245,471      9.33%       $176
+                                                         Total Other Revenue           $776,509,372        100.00%            $144    $10,207,573,130   100.00%     $1,889
+                                     Subtotal: Operating and Other Revenue         $54,882,735,194         100.00%          $10,158   $77,754,256,194   100.00%    $14,391
+Recapture Revenue
+Local Property Tax Recaptured                                                        $3,002,039,317        100.00%            $556     $3,002,039,317   100.00%       $556
+                                                    Total Recaptured Revenue         $3,002,039,317        100.00%            $556     $3,002,039,317   100.00%       $556
+                    Subtotal: Operating, Other and Recaptured Revenue              $57,884,774,511         100.00%          $10,714   $80,756,295,511   100.00%    $14,947
+Debt Service Financing and TRS Estimate Revenue
+Debt Service Financing Related Revenue                                                              $0        0.00%              $0    $4,864,835,809    65.96%       $900
+Estimated State TRS Contributions                                                    $2,487,079,853        100.00%            $460     $2,510,251,870    34.04%       $465
+          Subtotal: Debt Service Financing and TRS Estimate Revenue                  $2,487,079,853        100.00%            $460     $7,375,087,679   100.00%     $1,365
+              Grand Total: Operating, Other, Debt Service Financing, and
+                                                                                   $57,369,815,047         100.00%          $10,618   $85,129,343,873   100.00%    $15,756
+                              TRS Estimate Revenue excluding recapture
+
+
+
+Expenditures
+Operating Expenditures by Object (61xx-64xx only)
+Payroll Expenditures (Object 61xx)                                                 $42,917,029,177           82.27%          $7,943   $50,301,683,879    77.97%     $9,310
+Professional & Contracted Services (Object 62xx)                                     $4,999,335,316           9.58%           $925     $6,402,537,996     9.92%     $1,185
+Supplies & Materials (Object 63xx)                                                   $2,784,584,961           5.34%           $515     $5,961,153,130     9.24%     $1,103
+
+
+                                                           TEA | Office of School Finance | Forecasting & Fiscal Analysis                                              Page 1 of 5
+                                                            2021 - 2022 Actual Financial Data
+                                                                 State Total (All Districts)
+                                                          Total Enrolled Membership: 5,402,912
+
+                                                                                                                         Per                                      Per
+                                                                                   General Fund             %          Student        All Funds        %        Student
+Other Operating Expenditures (Object 64xx)                                          $1,462,697,451           2.80%          $271     $1,852,436,057     2.87%       $343
+                                    Total Operating Expenditures by Object        $52,163,646,905         100.00%          $9,655   $64,517,811,062   100.00%    $11,941
+Non-Operating Expenditures by Object
+Capital Outlay (Object 61xx-64xx)                                                      $34,776,254           1.98%             $6       $46,451,211     0.23%         $9
+Debt Services (Object 65xx)                                                           $526,028,528          29.99%           $97     $9,844,903,533    48.41%     $1,822
+Capital Outlay (Object 66xx)                                                        $1,193,054,600          68.02%          $221    $10,445,000,110    51.36%     $1,933
+                                Total Non-Operating Expenditures by Object          $1,753,859,382        100.00%           $325    $20,336,354,854   100.00%     $3,764
+    Grand Total: Operating and Non-Operating Expenditures by Object               $53,917,506,287         100.00%          $9,979   $84,854,165,916   100.00%    $15,705
+
+
+
+Operating Expenditures by Function (61xx-64xx only)
+Instruction (Function 11,95)                                                      $30,064,237,426           57.63%         $5,564   $36,035,016,731    55.85%     $6,670
+Instructional Resources & Media Services (Function 12)                                $566,029,981           1.09%          $105      $646,159,944      1.00%       $120
+Curriculum & Staff Development (Function 13)                                          $876,274,514           1.68%          $162     $1,570,292,996     2.43%       $291
+Instructional Leadership (Function 21)                                                $871,261,421           1.67%          $161     $1,113,087,133     1.73%       $206
+School Leadership (Function 23)                                                     $3,507,415,875           6.72%          $649     $3,715,762,954     5.76%       $688
+Guidance Counseling Services (Function 31)                                          $1,867,907,141           3.58%          $346     $2,527,496,320     3.92%       $468
+Social Work Services (Function 32)                                                    $132,493,926           0.25%           $25      $230,790,970      0.36%        $43
+Health Services (Function 33)                                                         $594,014,677           1.14%          $110      $753,509,900      1.17%       $139
+Transportation (Function 34)                                                        $1,830,271,866           3.51%          $339     $1,904,677,571     2.95%       $353
+Food Services (Function 35)                                                           $368,880,672           0.71%           $68     $3,228,715,442     5.00%       $598
+Extracurricular (Function 36)                                                       $1,613,383,726           3.09%          $299     $1,918,276,966     2.97%       $355
+General Administration (Function 41,92)                                             $2,002,006,420           3.84%          $371     $2,123,586,250     3.29%       $393
+Facilities Maintenance & Operations (Function 51)                                   $5,853,317,477          11.22%         $1,083    $6,359,467,682     9.86%     $1,177
+Security & Monitoring Services (Function 52)                                          $648,153,913           1.24%          $120      $710,274,203      1.10%       $131
+Data Processing Services (Function 53)                                              $1,187,327,554           2.28%          $220     $1,330,336,046     2.06%       $246
+Community Services (Function 61)                                                      $162,076,600           0.31%           $30      $326,634,310      0.51%        $60
+Fund Raising CHARTER SCHOOLS ONLY (Function 81)                                        $18,593,716           0.04%             $3       $23,725,644     0.04%         $4
+                                  Total Operating Expenditures by Function        $52,163,646,905         100.00%          $9,655   $64,517,811,062   100.00%    $11,941
+Non-Operating Expenditures by Function
+Non-Operating Expenditures by Function (81) (61xx-64xx)                                $34,776,254           1.98%             $6       $46,451,211     0.23%         $9
+Non-Operating Expenditures by Function (1x-9x) (65xx)                                 $526,028,528          29.99%           $97     $9,844,903,533    48.41%     $1,822
+
+
+                                                          TEA | Office of School Finance | Forecasting & Fiscal Analysis                                             Page 2 of 5
+                                                            2021 - 2022 Actual Financial Data
+                                                                 State Total (All Districts)
+                                                          Total Enrolled Membership: 5,402,912
+
+                                                                                                                         Per                                      Per
+                                                                                   General Fund             %          Student        All Funds        %        Student
+Non-Operating Expenditures by Function (1x-9x) (66xx)                               $1,193,054,600          68.02%          $221    $10,445,000,110    51.36%     $1,933
+                            Total Non-Operating Expenditures by Function            $1,753,859,382        100.00%           $325    $20,336,354,854   100.00%     $3,764
+ Grand Total: Operating and Non-Operating Expenditures by Function                $53,917,506,287         100.00%          $9,979   $84,854,165,916   100.00%    $15,705
+
+
+
+Operating Expenditures by Program Intent Code (PIC) (61xx-64xx only)
+Basic Educational Services (PIC 11)                                               $23,642,617,762           45.32%         $4,376   $26,146,309,896    40.53%     $4,839
+Gifted and Talented (PIC 21)                                                          $386,951,611           0.74%           $72      $395,634,789      0.61%        $73
+Career and Technical (PIC 22)                                                       $2,028,349,077           3.89%          $375     $2,129,549,811     3.30%       $394
+Students with Disabilities (PICs 23,33,43)                                          $6,576,693,406          12.61%         $1,217    $7,957,924,392    12.33%     $1,473
+State Compensatory Education (PICs 24,26,28,29,30,34)                               $3,336,823,954           6.40%          $618     $6,383,291,216     9.89%     $1,181
+Bilingual (PICs 25,35)                                                                $582,889,008           1.12%          $108      $731,950,646      1.13%       $135
+High School Allotment (PIC 31)                                                         $10,905,874           0.02%             $2       $10,905,874     0.02%         $2
+PreKindergarten (PIC 32)                                                              $460,825,125           0.88%           $85      $522,860,562      0.81%        $97
+Early Education Allotment (PIC 36)                                                  $1,194,199,600           2.29%          $221     $1,241,323,456     1.92%       $230
+Dyslexia or Related Disorder Services (PIC 37)                                        $328,876,430           0.63%           $61      $348,794,218      0.54%        $65
+College, Career, and Military Readiness (CCMR) (PIC 38)                               $321,088,597           0.62%           $59      $340,365,348      0.53%        $63
+Athletics/Related Activities (PIC 91)                                               $1,203,613,768           2.31%          $223     $1,264,746,717     1.96%       $234
+Un-Allocated (PIC 99)                                                             $12,089,812,693           23.18%         $2,238   $17,044,154,137    26.42%     $3,155
+             Total Operating Expenditures by Program Intent Code (PIC)            $52,163,646,905         100.00%          $9,655   $64,517,811,062   100.00%    $11,941
+Non-Operating Expenditures by PIC
+Non-Operating Expenditures by PIC (81) Capital Outlay (61xx-64xx)                      $34,776,254           1.98%             $6       $46,451,211     0.23%         $9
+Non-Operating Expenditures by PIC (1x-9x) (65xx)                                      $526,028,528          29.99%           $97     $9,844,903,533    48.41%     $1,822
+Non-Operating Expenditures by PIC (1x-9x) (66xx)                                    $1,193,054,600          68.02%          $221    $10,445,000,110    51.36%     $1,933
+                                        Total Non-Operating Expenditures by
+                                                                                    $1,753,859,382        100.00%           $325    $20,336,354,854   100.00%     $3,764
+                                                   Program Intent Code (PIC)
+            Grand Total: Operating and Non-Operating Expenditures by
+                                                                                  $53,917,506,287         100.00%          $9,979   $84,854,165,916   100.00%    $15,705
+                                             Program Intent Code (PIC)
+
+
+Disbursements
+Total Disbursements
+Operating Expenditures                                                            $52,163,646,905           88.90%         $9,655   $64,517,811,062    71.92%    $11,941
+
+
+
+                                                          TEA | Office of School Finance | Forecasting & Fiscal Analysis                                             Page 3 of 5
+                                                          2021 - 2022 Actual Financial Data
+                                                               State Total (All Districts)
+                                                        Total Enrolled Membership: 5,402,912
+
+                                                                                                                        Per                                       Per
+                                                                                  General Fund             %          Student         All Funds        %        Student
+Recapture                                                                          $3,002,039,317           5.12%           $556     $3,002,039,317     3.35%       $556
+Total Other Uses                                                                   $1,124,277,109           1.92%           $208     $1,174,039,601     1.31%       $217
+Intergovernmental Charge                                                             $631,712,866           1.08%           $117      $681,506,755      0.76%       $126
+Capital Outlay (Object 61xx-64xx)                                                     $34,776,254           0.06%              $6       $46,451,211     0.05%         $9
+Debt Service (Object 65xx)                                                           $526,028,528           0.90%             $97    $9,844,903,533    10.97%     $1,822
+Capital Projects (Object 66xx)                                                     $1,193,054,600           2.03%           $221    $10,445,000,110    11.64%     $1,933
+                                                       Total Disbursements       $58,675,535,579         100.00%          $10,860   $89,711,751,589   100.00%    $16,604
+
+
+Tax Rates
+2021 - 2022 (current tax year) Tax Rates
+Maintenance & Operations Tax Rate                                                                                                            0.9543
+Interest & Sinking Tax Rate                                                                                                                  0.2270
+                                                              Total Tax Rate                                                                 1.1813
+Tax Detail
+Maximum Compressed Tax Rate (MCR)                                                                                                            0.8616
+Tier I Tax Rate                                                                                                                              0.8615
+Tier II Tax Rate (Enrichment Pennies)                                                                                                        0.0928
+
+
+Fund Balance**
+Fund Balance
+Nonspendable Fund Balance                                                            $326,559,288                             $65     $390,605,886                   $78
+Restricted Fund Balance                                                              $349,882,972                             $70   $24,753,623,814               $4,926
+Committed Fund Balance                                                             $2,903,414,920                           $578     $4,450,372,365                 $886
+Assigned Fund Balance                                                              $3,517,812,488                           $700     $4,020,410,559                 $800
+Unassigned Fund Balance                                                          $17,105,115,249                           $3,404   $17,168,163,104               $3,417
+                                                       Total Fund Balance**      $24,202,784,917                           $4,817   $50,783,175,728              $10,106
+Fund Balance Reconciliation
+2020-2021 Total Fund Balance (Previous Year)                                     $22,639,090,063                           $4,534   $44,431,047,365               $8,899
+2021-2022 Excess (Deficiency) Operating Expenditures                                    $8,802,003                             $2      $-15,349,643                   $-3
+2021-2022 Excess (Deficiency) Non-Operating Expenditures                               $-1,908,348                             $0       $59,917,483                  $12
+2021-2022 Uncommon Items                                                           $1,556,801,199                           $288     $6,307,560,523               $1,258
+
+
+                                                         TEA | Office of School Finance | Forecasting & Fiscal Analysis                                              Page 4 of 5
+                                                         2021 - 2022 Actual Financial Data
+                                                              State Total (All Districts)
+                                                       Total Enrolled Membership: 5,402,912
+
+                                                                                                                       Per                                Per
+                                                                                 General Fund             %          Student        All Funds       %   Student
+                                             2021-2022 Total Fund Balance       $24,202,784,917                          $4,817   $50,783,175,728        $10,106
+
+
+Net Assets**
+Net Assets
+Unrestricted Net Assets                                                                          $0                          $0     $732,412,978          $1,937
+Temporary Restricted Net Assets                                                                  $0                          $0    $1,487,278,391         $3,934
+                                                 Total Net Asset Balance**                       $0                          $0    $2,219,917,200         $5,872
+Net Assets Reconciliation
+2020-2021 Total Net Assets (Previous Year)                                                       $0                          $0    $1,965,884,325         $5,375
+2021-2022 Excess (Deficiency) Operating Expenditures                                             $0                          $0     $229,889,190            $608
+2021-2022 Excess (Deficiency) Non-Operating Expenditures                                         $0                          $0       $-5,944,731            $-16
+2021-2022 Uncommon Items                                                                         $0                          $0       $30,088,416             $6
+                                                2021-2022 Total Net Assets                       $0                          $0    $2,219,917,200         $5,872
+
+
+
+
+                                                        TEA | Office of School Finance | Forecasting & Fiscal Analysis                                       Page 5 of 5
+
